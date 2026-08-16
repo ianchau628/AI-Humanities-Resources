@@ -10,7 +10,7 @@ window.HKU_COURSES_DATA = {
         "author": "Bohr, A., & Memarzadeh, K",
         "year": "2020",
         "type": "Paper",
-        "source": "",
+        "source": "Artificial Intelligence in Healthcare",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9006",
@@ -18,7 +18,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 1,
         "raw": "Bohr, A., & Memarzadeh, K. (2020). Artificial Intelligence in Healthcare.",
-        "summary": "Curated paper in 'AI and the Bio-Revolution' by Bohr, A., & Memarzadeh, K (2020). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 2,
@@ -26,7 +26,7 @@ window.HKU_COURSES_DATA = {
         "author": "Ravarani, C., & Latysheva, N",
         "year": "2025",
         "type": "Paper",
-        "source": "",
+        "source": "Deep Learning for Biology: Harness AI to Solve Real-World Biology Problems",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9006",
@@ -34,7 +34,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 2,
         "raw": "Ravarani, C., & Latysheva, N. (2025). Deep Learning for Biology: Harness AI to Solve Real-World Biology Problems.",
-        "summary": "Curated paper in 'AI and the Bio-Revolution' by Ravarani, C., & Latysheva, N (2025). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 3,
@@ -42,7 +42,7 @@ window.HKU_COURSES_DATA = {
         "author": "Topol, E",
         "year": "2019",
         "type": "Paper",
-        "source": "",
+        "source": "Deep Medicine: How Artificial Intelligence Can Make HeaIthcare Human Again",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9006",
@@ -50,7 +50,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 3,
         "raw": "Topol, E. (2019). Deep Medicine: How Artificial Intelligence Can Make HeaIthcare Human Again.",
-        "summary": "Curated paper in 'AI and the Bio-Revolution' by Topol, E (2019). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 4,
@@ -66,7 +66,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 4,
         "raw": "Ngiam, K. Y., et al. (2019). Big data and machine learning algorithms for health-care delivery. The Lancet Oncology, 20(5), e262-e273.",
-        "summary": "Curated paper in 'AI and the Bio-Revolution' by Ngiam, K. Y., et al (2019). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 5,
@@ -82,7 +82,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 5,
         "raw": "Schwendicke, P., Samek, W., Krois, J. (2020, July). Artificial Intelligence in Dentistry: Chances and Challenges. J Dent Res, 99(7), 769-774. From https://doi.org/10.1177/0022034520915714",
-        "summary": "Curated paper in 'AI and the Bio-Revolution' by Schwendicke, P., Samek, W., Krois, J (2020, July). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 6,
@@ -90,7 +90,7 @@ window.HKU_COURSES_DATA = {
         "author": "YouTube Originals",
         "year": "2019",
         "type": "Video",
-        "source": "From https://www. youtube. com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc",
+        "source": ". From https://www. youtube. com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc",
         "url": "https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc",
         "subtopic": "",
         "course_code": "CCAI9006",
@@ -98,7 +98,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 6,
         "raw": "YouTube Originals. (2019). The Age of AI. From https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc",
-        "summary": "Curated video in 'AI and the Bio-Revolution' by YouTube Originals (2019). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       }
     ]
   },
@@ -113,7 +113,7 @@ window.HKU_COURSES_DATA = {
         "author": "Anthropic",
         "year": "2026",
         "type": "Report",
-        "source": "",
+        "source": ". From https://www. anthropic. com/research/anthropic-economic-index-january-2026-report",
         "url": "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
         "subtopic": "",
         "course_code": "CCAI9010",
@@ -121,7 +121,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 1,
         "raw": "Anthropic. (2026). Anthropic Economic Index report: Economic primitives. From https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
-        "summary": "Curated report in 'AI, Communication, and Society' by Anthropic (2026). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 8,
@@ -129,7 +129,7 @@ window.HKU_COURSES_DATA = {
         "author": "Anthropic",
         "year": "2026",
         "type": "Report",
-        "source": "",
+        "source": ". From https://www. anthropic. com/research/labor-market-impacts",
         "url": "https://www.anthropic.com/research/labor-market-impacts",
         "subtopic": "",
         "course_code": "CCAI9010",
@@ -137,7 +137,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 2,
         "raw": "Anthropic. (2026). Labor market impacts of AI: A new measure and early evidence. From https://www.anthropic.com/research/labor-market-impacts",
-        "summary": "Curated report in 'AI, Communication, and Society' by Anthropic (2026). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 9,
@@ -145,7 +145,7 @@ window.HKU_COURSES_DATA = {
         "author": "European Parliament",
         "year": "2023",
         "type": "Article",
-        "source": "",
+        "source": ". From https://www. europarl. europa. eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence",
         "url": "https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence",
         "subtopic": "",
         "course_code": "CCAI9010",
@@ -153,7 +153,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 3,
         "raw": "European Parliament. (2023). EU AI Act: first regulation on artificial intelligence. From https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence",
-        "summary": "Curated article in 'AI, Communication, and Society' by European Parliament (2023). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 10,
@@ -169,7 +169,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 4,
         "raw": "Hancock, J. T., Naaman, M., & Levy, K. (2020). AI-mediated communication: Definition, research agenda, and ethical considerations. Journal of Computer-Mediated Communication, 25(1), 89-100.",
-        "summary": "Curated paper in 'AI, Communication, and Society' by Hancock, J. T., Naaman, M., & Levy, K (2020). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 11,
@@ -193,7 +193,7 @@ window.HKU_COURSES_DATA = {
         "author": "OpenAI",
         "year": "2025",
         "type": "Report",
-        "source": "",
+        "source": ". From https://openai. com/index/how-people-are-using-chatgpt/",
         "url": "https://openai.com/index/how-people-are-using-chatgpt/",
         "subtopic": "",
         "course_code": "CCAI9010",
@@ -201,7 +201,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 6,
         "raw": "OpenAI. (2025). How people are using ChatGPT. From https://openai.com/index/how-people-are-using-chatgpt/",
-        "summary": "Curated report in 'AI, Communication, and Society' by OpenAI (2025). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 13,
@@ -209,7 +209,7 @@ window.HKU_COURSES_DATA = {
         "author": "Stanford Human-Centered Artificial Intelligence (HAI)",
         "year": "2025",
         "type": "Book",
-        "source": "",
+        "source": ". From https://hai-production. s3. amazonaws. com/files/hai_ai_index_report_2025. pdf [Chaps. 3 & 5",
         "url": "https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf",
         "subtopic": "",
         "course_code": "CCAI9010",
@@ -217,7 +217,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 7,
         "raw": "Stanford Human-Centered Artificial Intelligence (HAI). (2025). HAI AI Index Report 2025. From https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf [Chaps. 3 & 5]",
-        "summary": "Curated book in 'AI, Communication, and Society' by Stanford Human-Centered Artificial Intelligence (HAI) (2025). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 14,
@@ -233,7 +233,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 8,
         "raw": "The New York Times Trust Team. (2024). How The New York Times Uses A.I. for Journalism. The New York Times. From https://www.nytimes.com/2024/10/07/reader-center/how-new-york-times-uses-ai-journalism.html",
-        "summary": "Curated article in 'AI, Communication, and Society' by The New York Times Trust Team (2024). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       }
     ]
   },
@@ -256,7 +256,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 1,
         "raw": "Barnes, A. J., Zhang, Y., Valenzuela, A. (2024, July). AI and Culture: Culturally dependent responses to AI systems. Current Opinion in Psychology, 1, 101838.",
-        "summary": "Curated paper in 'Shaping Population Medicine with AI' by Barnes, A. J., Zhang, Y., Valenzuela, A (2024, July). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 16,
@@ -272,7 +272,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 2,
         "raw": "Berdahl, C. T, Baker, L, Mann, S., Osoba, O., & Girosi, F. (2023, February). Strategies to improve the impact of artificial intelligence on health equity: Scoping review. JMIR AI, 7(2), e42936.",
-        "summary": "Curated paper in 'Shaping Population Medicine with AI' by Berdahl, C. T, Baker, L, Mann, S., Osoba, O., & Girosi, F (2023, February). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 17,
@@ -288,7 +288,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 3,
         "raw": "Malviya, R., et al. (Eds.). (2022). Artificial Intelligence for Health 4.0: Challenges and Applications (1st ed.). Gistrup, Denmark: River Publishers.",
-        "summary": "Curated paper in 'Shaping Population Medicine with AI' by Malviya, R., et al. (Eds.) (2022). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 18,
@@ -312,7 +312,7 @@ window.HKU_COURSES_DATA = {
         "author": "Sakly, H., et. al. (Eds.)",
         "year": "2022",
         "type": "Paper",
-        "source": "",
+        "source": "Cham, Switzerland: Springer",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9008",
@@ -320,7 +320,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 5,
         "raw": "Sakly, H., et. al. (Eds.). (2022). Trends of Artificial Intelligence and Big Data for E-Health. Cham, Switzerland: Springer.",
-        "summary": "Curated paper in 'Shaping Population Medicine with AI' by Sakly, H., et. al. (Eds.) (2022). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 20,
@@ -328,7 +328,7 @@ window.HKU_COURSES_DATA = {
         "author": "World Health Organization",
         "year": "2021",
         "type": "Paper",
-        "source": ")",
+        "source": "",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9008",
@@ -336,7 +336,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 6,
         "raw": "World Health Organization. (2021). Ethics and Governance of Artificial Intelligence for Health: WHO Guidance (1st ed.).",
-        "summary": "Curated paper in 'Shaping Population Medicine with AI' by World Health Organization (2021). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 21,
@@ -344,7 +344,7 @@ window.HKU_COURSES_DATA = {
         "author": "World Health Organization",
         "year": "2022",
         "type": "Paper",
-        "source": ")",
+        "source": "",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9008",
@@ -352,7 +352,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 7,
         "raw": "World Health Organization. (2022). Ageism in Artificial Intelligence for Health: WHO Policy Brief (1st ed.)",
-        "summary": "Curated paper in 'Shaping Population Medicine with AI' by World Health Organization (2022). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       }
     ]
   },
@@ -375,7 +375,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 1,
         "raw": "Agell, N., &. Prat-i-Pubill, Q. (2024, February 17). Artificial intelligence: Technological revolution or existential threat? From https://dobetter.esade.edu/en/artificial-intelligence-technological-revolution-existential-threat-AI",
-        "summary": "Curated paper in 'Brain, Buddhism, and AI' by Agell, N., &. Prat-i-Pubill, Q (2024). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 23,
@@ -391,7 +391,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 2,
         "raw": "Carnegie Council for Ethics in International Affairs. (2021, November 10). Why are we failing at the ethics of AI? From https://www.carnegiecouncil.org/media/article/why-are-we-failing-at-the-ethics-of-ai",
-        "summary": "Curated paper in 'Brain, Buddhism, and AI' by Carnegie Council for Ethics in International Affairs (2021). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 24,
@@ -399,7 +399,7 @@ window.HKU_COURSES_DATA = {
         "author": "Evans, A",
         "year": "N/A",
         "type": "Article",
-        "source": "From https://www. org/monitor/2024/07/artificial-intelligence-impact",
+        "source": ". From https://www. org/monitor/2024/07/artificial-intelligence-impact",
         "url": "https://www.apa.org/monitor/2024/07/artificial-intelligence-impact",
         "subtopic": "",
         "course_code": "CCAI9001",
@@ -407,7 +407,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 3,
         "raw": "Evans, A. C., Jr. (n.d.). AI’s profound impact on the world. From https://www.apa.org/monitor/2024/07/artificial-intelligence-impact",
-        "summary": "Curated article in 'Brain, Buddhism, and AI' by Evans, A (N/A). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 25,
@@ -423,7 +423,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 4,
         "raw": "Knell, S., & Rüther, M. (2024). Artificial intelligence, superefficiency and the end of work: a humanistic perspective on meaning in life. Ai and Ethics (Online), 4(2), 363–373. From https://doi.org/10.1007/s43681-023-00273-w",
-        "summary": "Curated paper in 'Brain, Buddhism, and AI' by Knell, S., & Rüther, M (2024). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 26,
@@ -439,7 +439,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 5,
         "raw": "Roy, A., Minai, A. A., Thivierge, J.-P., Achler, T., & Weng, J. (2024). Editorial: What AI and Neuroscience Can Learn from Each Other—Open Problems in Models and Theories. Cognitive Computation, 16(5), 2331–2333. From https://doi.org/10.1007/s12559-024-10324-x",
-        "summary": "Curated paper in 'Brain, Buddhism, and AI' by Roy, A., Minai, A. A., Thivierge, J.-P., Achler, T., & Weng, J (2024). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 27,
@@ -455,7 +455,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 6,
         "raw": "Williams, G. Y., & Lim, S. (2024). Psychology of AI: How AI impacts the way people feel, think, and behave. Current Opinion in Psychology, 58, 101835-. From https://doi.org/10.1016/j.copsyc.2024.101835",
-        "summary": "Curated paper in 'Brain, Buddhism, and AI' by Williams, G. Y., & Lim, S. (2024). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 28,
@@ -486,7 +486,7 @@ window.HKU_COURSES_DATA = {
         "author": "Hansson, S.O",
         "year": "2023",
         "type": "Article",
-        "source": "",
+        "source": "Stanford Encyclopedia of Philosophy. From https://plato. stanford. edu/entries/risk/#Ethi",
         "url": "https://plato.stanford.edu/entries/risk/#Ethi",
         "subtopic": "Philosophy of Risk",
         "course_code": "CCAI9003",
@@ -494,7 +494,7 @@ window.HKU_COURSES_DATA = {
         "category": "Safety & Risk",
         "syllabus_order": 1,
         "raw": "Hansson, S.O. (2023). Risk. Stanford Encyclopedia of Philosophy. From https://plato.stanford.edu/entries/risk/#Ethi",
-        "summary": "Curated article in 'AI Safety: Catastrophe, Alignment, and Governance' by Hansson, S.O (2023). Examines key insights regarding Philosophy of Risk."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Philosophy of Risk."
       },
       {
         "id": 30,
@@ -510,7 +510,7 @@ window.HKU_COURSES_DATA = {
         "category": "Safety & Risk",
         "syllabus_order": 2,
         "raw": "Russell, S. (2022). Human-compatible artificial intelligence. In S. Muggleton & N. Chater (Eds.), Human-Like Machine Intelligence 1 (pp. 3-22). Oxford University Press.",
-        "summary": "Curated paper in 'AI Safety: Catastrophe, Alignment, and Governance' by Russell, S (2022). Examines key insights regarding Alignment."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Alignment."
       },
       {
         "id": 31,
@@ -518,7 +518,7 @@ window.HKU_COURSES_DATA = {
         "author": "Anthropic",
         "year": "2024",
         "type": "Report",
-        "source": "",
+        "source": "Alignment faking in large language models",
         "url": "",
         "subtopic": "Existing Capabilities",
         "course_code": "CCAI9003",
@@ -534,7 +534,7 @@ window.HKU_COURSES_DATA = {
         "author": "Anthropic",
         "year": "2025",
         "type": "Report",
-        "source": "",
+        "source": "Agentic Misalignment: How LLMs could be insider threats",
         "url": "",
         "subtopic": "Existing Capabilities",
         "course_code": "CCAI9003",
@@ -550,7 +550,7 @@ window.HKU_COURSES_DATA = {
         "author": "Apollo Research/OpenAI",
         "year": "2024",
         "type": "Report",
-        "source": "",
+        "source": "Frontier models are capable of in-context scheming",
         "url": "",
         "subtopic": "Existing Capabilities",
         "course_code": "CCAI9003",
@@ -574,7 +574,7 @@ window.HKU_COURSES_DATA = {
         "category": "Safety & Risk",
         "syllabus_order": 6,
         "raw": "Bykvist, K. (2017). Moral uncertainty. Philosophy Compass, 12(3), e12408.",
-        "summary": "Curated paper in 'AI Safety: Catastrophe, Alignment, and Governance' by Bykvist, K (2017). Examines key insights regarding Beneficial AI and Machine Ethics."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Beneficial AI and Machine Ethics."
       },
       {
         "id": 35,
@@ -590,7 +590,7 @@ window.HKU_COURSES_DATA = {
         "category": "Safety & Risk",
         "syllabus_order": 7,
         "raw": "Conitzer, V., Freedman, R., Heitzig, J., Holliday, W. H., Jacobs, B. M., Lambert, N., … & Zwicker, W. S. (2024). Social choice should guide ai alignment in dealing with diverse human feedback. arXiv preprint arXiv:2404.10271.",
-        "summary": "Curated paper in 'AI Safety: Catastrophe, Alignment, and Governance' by Conitzer, V., Freedman, R., Heitzig, J., Holliday, W. H., Jacobs, B. M., Lambert, N., … & Zwicker, W. S (2024). Examines key insights regarding Beneficial AI and Machine Ethics."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Beneficial AI and Machine Ethics."
       },
       {
         "id": 36,
@@ -598,7 +598,7 @@ window.HKU_COURSES_DATA = {
         "author": "Propublica",
         "year": "2016",
         "type": "Paper",
-        "source": "",
+        "source": "Machine bias",
         "url": "",
         "subtopic": "Beneficial AI and Machine Ethics",
         "course_code": "CCAI9003",
@@ -606,7 +606,7 @@ window.HKU_COURSES_DATA = {
         "category": "Safety & Risk",
         "syllabus_order": 8,
         "raw": "Propublica. (2016). Machine bias.",
-        "summary": "Curated paper in 'AI Safety: Catastrophe, Alignment, and Governance' by Propublica (2016). Examines key insights regarding Beneficial AI and Machine Ethics."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Beneficial AI and Machine Ethics."
       },
       {
         "id": 37,
@@ -622,7 +622,7 @@ window.HKU_COURSES_DATA = {
         "category": "Safety & Risk",
         "syllabus_order": 9,
         "raw": "Bales, A., D’Alessandro, W., & Kirk‐Giannini, C. D. (2024). Artificial intelligence: Arguments for catastrophic risk. Philosophy Compass, 19(2), e12964.",
-        "summary": "Curated paper in 'AI Safety: Catastrophe, Alignment, and Governance' by Bales, A., D’Alessandro, W., & Kirk‐Giannini, C. D (2024). Examines key insights regarding Catastrophic Risk."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Catastrophic Risk."
       },
       {
         "id": 38,
@@ -638,7 +638,7 @@ window.HKU_COURSES_DATA = {
         "category": "Safety & Risk",
         "syllabus_order": 10,
         "raw": "Cappelen, H., Goldstein, S., & Hawthorne, J. (2026). AI survival stories: A taxonomic analysis of AI existential risk. Philosophy of AI, 1, 1-19.",
-        "summary": "Curated paper in 'AI Safety: Catastrophe, Alignment, and Governance' by Cappelen, H., Goldstein, S., & Hawthorne, J (2026). Examines key insights regarding Catastrophic Risk."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Catastrophic Risk."
       },
       {
         "id": 39,
@@ -654,7 +654,7 @@ window.HKU_COURSES_DATA = {
         "category": "Safety & Risk",
         "syllabus_order": 11,
         "raw": "Kak, A., & West, S. M. (2023). (2023). Landscape: Confronting Tech Power: Executive Summary. AI Now Institute. From https://ainowinstitute.org/publications/2023-landscape-executive-summary",
-        "summary": "Curated paper in 'AI Safety: Catastrophe, Alignment, and Governance' by Kak, A., & West, S. M (2023). Examines key insights regarding Governance."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Governance."
       }
     ]
   },
@@ -669,7 +669,7 @@ window.HKU_COURSES_DATA = {
         "author": "Bostrom, N",
         "year": "2014",
         "type": "Book",
-        "source": "",
+        "source": "Oxford: Oxford University Press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI5001",
@@ -677,7 +677,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 1,
         "raw": "Bostrom, N. (2014). Superintelligence: Paths, dangers, strategies. Oxford: Oxford University Press.",
-        "summary": "A foundational analysis on the paths, dangerous scenarios, and strategic challenges humanity faces if artificial general intelligence surpasses human cognitive capacities."
+        "summary": "A foundational analysis of the paths, dangerous scenarios, and strategic challenges humanity faces if artificial general intelligence surpasses human cognitive capacities."
       },
       {
         "id": 41,
@@ -693,7 +693,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 2,
         "raw": "Kaplan, J. (2016). Artificial intelligence: What everyone needs to know. New York, NY: Oxford University Press.",
-        "summary": "Curated paper in 'Artificial Intelligence: Utopia or Dystopia? (Online)' by Kaplan, J (2016). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       }
     ]
   },
@@ -716,7 +716,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 1,
         "raw": "Abbott, C. (2007). Cyberpunk Cities: Science Fiction Meets Urban Theory. Journal of Planning Education and Research, 27(2), 122- 131. From https://doi.org/10.1177/0739456X07305795",
-        "summary": "Curated paper in 'Today’s Future City: Technology and the Recoding of Urban Life' by Abbott, C (2007). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 43,
@@ -732,7 +732,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 2,
         "raw": "Adler, P., & Flor ida, R. (2020). Geography as strategy: The changing geography of corporate headquarters in post-industrial capitalism. Regional Studies, 54(5), 610- 620. From https://doi.org/10.1080/00343404.2019.1634803",
-        "summary": "Curated paper in 'Today’s Future City: Technology and the Recoding of Urban Life' by Adler, P., & Florida, R (2020). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 44,
@@ -748,7 +748,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 3,
         "raw": "Batty, M., Axh ausen, K. W., Giannotti, F., Pozdnoukhov, A., Bazzani, A., Wachowicz, M., Ouzounis, G., & Portugali, Y. (2012). Smart cities of the future. The European Physical Journal Special Topics, 214(1), 481- 518. https://doi.org/10.1140/epjst/e2012-01703-3",
-        "summary": "Curated paper in 'Today’s Future City: Technology and the Recoding of Urban Life' by Batty, M., Axh ausen, K. W., Giannotti, F., Pozdnoukhov, A., Bazzani, A., Wachowicz, M., Ouzounis, G., & Portugali, Y (2012). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 45,
@@ -764,7 +764,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 4,
         "raw": "Morrill, R., Gaile, G.L., & Thrall, G.I. (1988). Spatial Diffusion. Reprint. Edited by Grant Ian Thrall. WVU Research Repository, 2020.",
-        "summary": "Curated paper in 'Today’s Future City: Technology and the Recoding of Urban Life' by Morrill, R., Gaile, G.L., & Thrall, G.I (1988). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 46,
@@ -780,7 +780,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 5,
         "raw": "Ranzini, G., Rosenbaum, J. E., & Tybur, J. M. (2022). Assor tative (online) dating: Insights into partner choice from an experimental dating app. Computers in Human Behavior, 127, 107039. From https://doi.org/10.1016/j.chb.2021.107039",
-        "summary": "Curated paper in 'Today’s Future City: Technology and the Recoding of Urban Life' by Ranzini, G., Rosenbaum, J. E., & Tybur, J. M (2022). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 47,
@@ -788,7 +788,7 @@ window.HKU_COURSES_DATA = {
         "author": "Planetizen",
         "year": "N/A",
         "type": "Article",
-        "source": "From https://www. planetizen. com/news/2024/07/130328-12-technologies-will-shape-future-urban-planning",
+        "source": ". From https://www. planetizen. com/news/2024/07/130328-12-technologies-will-shape-future-urban-planning",
         "url": "https://www.planetizen.com/news/2024/07/130328-12-technologies-will-shape-future-urban-planning",
         "subtopic": "Other source materials",
         "course_code": "CCAI9009",
@@ -796,7 +796,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 6,
         "raw": "12 Technologies that will shape future urban planning. From https://www.planetizen.com/news/2024/07/130328-12-technologies-will-shape-future-urban-planning",
-        "summary": "Curated article in 'Today’s Future City: Technology and the Recoding of Urban Life' by Planetizen (N/A). Examines key insights regarding Other source materials."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Other source materials."
       },
       {
         "id": 48,
@@ -804,7 +804,7 @@ window.HKU_COURSES_DATA = {
         "author": "Krishnan, R.",
         "year": "N/A",
         "type": "Paper",
-        "source": "From https://x. com/krishl1anrohitistatus/1770012082190389602/photo/I",
+        "source": ". From https://x. com/krishl1anrohitistatus/1770012082190389602/photo/I",
         "url": "https://x.com/krishl1anrohitistatus/1770012082190389602/photo/I",
         "subtopic": "Other source materials",
         "course_code": "CCAI9009",
@@ -812,7 +812,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 7,
         "raw": "AI in Science Fiction Graph. From https://x.com/krishl1anrohitistatus/1770012082190389602/photo/I",
-        "summary": "Curated paper in 'Today’s Future City: Technology and the Recoding of Urban Life' by Krishnan, R. (N/A). Examines key insights regarding Other source materials."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Other source materials."
       },
       {
         "id": 49,
@@ -820,7 +820,7 @@ window.HKU_COURSES_DATA = {
         "author": "SSRN Social Science Research Network",
         "year": "N/A",
         "type": "Article",
-        "source": "From https://papers. ssm. com/sol3/papers. cfm?abstract_id=4026659",
+        "source": ". From https://papers. ssm. com/sol3/papers. cfm?abstract_id=4026659",
         "url": "https://papers.ssm.com/sol3/papers.cfm?abstract_id=4026659",
         "subtopic": "Other source materials",
         "course_code": "CCAI9009",
@@ -828,7 +828,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 8,
         "raw": "Cities and Technological Waves. From https://papers.ssm.com/sol3/papers.cfm?abstract_id=4026659",
-        "summary": "Curated article in 'Today’s Future City: Technology and the Recoding of Urban Life' by SSRN Social Science Research Network (N/A). Examines key insights regarding Other source materials."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Other source materials."
       },
       {
         "id": 50,
@@ -836,7 +836,7 @@ window.HKU_COURSES_DATA = {
         "author": "Wired Magazine",
         "year": "N/A",
         "type": "Article",
-        "source": "From https://www. wired. com/story/local-govemments-generative-ai/",
+        "source": ". From https://www. wired. com/story/local-govemments-generative-ai/",
         "url": "https://www.wired.com/story/local-govemments-generative-ai/",
         "subtopic": "Other source materials",
         "course_code": "CCAI9009",
@@ -844,7 +844,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 9,
         "raw": "Local Governments and Generative AI. From https://www.wired.com/story/local-govemments-generative-ai/",
-        "summary": "Curated article in 'Today’s Future City: Technology and the Recoding of Urban Life' by Wired Magazine (N/A). Examines key insights regarding Other source materials."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Other source materials."
       }
     ]
   },
@@ -875,7 +875,7 @@ window.HKU_COURSES_DATA = {
         "author": "Strogatz, S",
         "year": "2018",
         "type": "Article",
-        "source": "New York Times. From https://www.nytimes.com/2018/12/26/science/chess-artificial-intelligence.html]",
+        "source": "New York Times. From https://www.nytimes.com/2018/12/26/science/chess-artificial-intelligence.html",
         "url": "https://www.nytimes.com/2018/12/26/science/chess-artificial-intelligence.html",
         "subtopic": "Introduction to AI and Philosophical Inquiry",
         "course_code": "CCAI9002",
@@ -883,7 +883,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 2,
         "raw": "Strogatz, S. (2018). One Giant Step for a Chess-Playing Machine. New York Times. From https://www.nytimes.com/2018/12/26/science/chess-artificial-intelligence.html]",
-        "summary": "Curated article in 'Thinking Machines: Philosophical and Ethical Explorations' by Strogatz, S (2018). Examines key insights regarding Introduction to AI and Philosophical Inquiry."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Introduction to AI and Philosophical Inquiry."
       },
       {
         "id": 53,
@@ -891,7 +891,7 @@ window.HKU_COURSES_DATA = {
         "author": "Amodei, D",
         "year": "2024, October",
         "type": "Article",
-        "source": "",
+        "source": ". From https://www. darioamodei. com/essay/machines-of-loving-grace",
         "url": "https://www.darioamodei.com/essay/machines-of-loving-grace",
         "subtopic": "Can AI Systems Save Humanity?",
         "course_code": "CCAI9002",
@@ -907,7 +907,7 @@ window.HKU_COURSES_DATA = {
         "author": "Bostrom, N",
         "year": "2014",
         "type": "Book",
-        "source": "",
+        "source": "Oxford: Oxford University Press. [Chap. 8 “Is the Default Outcome Doom?”",
         "url": "",
         "subtopic": "Can AI Systems Destroy Humanity?",
         "course_code": "CCAI9002",
@@ -915,7 +915,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 4,
         "raw": "Bostrom, N. (2014). Superintelligence: Paths, Dangers, Strategies. Oxford: Oxford University Press. [Chap. 8 “Is the Default Outcome Doom?”]",
-        "summary": "A foundational analysis on the paths, dangerous scenarios, and strategic challenges humanity faces if artificial general intelligence surpasses human cognitive capacities."
+        "summary": "A foundational analysis of the paths, dangerous scenarios, and strategic challenges humanity faces if artificial general intelligence surpasses human cognitive capacities."
       },
       {
         "id": 55,
@@ -923,7 +923,7 @@ window.HKU_COURSES_DATA = {
         "author": "Chalmers, D. J",
         "year": "2023",
         "type": "Paper",
-        "source": "From https://arXiv:2303. 07103",
+        "source": ". From https://arXiv:2303. 07103",
         "url": "about:blank",
         "subtopic": "Is AI Consciousness Possible?",
         "course_code": "CCAI9002",
@@ -931,7 +931,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 5,
         "raw": "Chalmers, D. J. (2023). Could a large language model be conscious? ArXiv Preprint. From https://arXiv:2303.07103",
-        "summary": "Curated paper in 'Thinking Machines: Philosophical and Ethical Explorations' by Chalmers, D. J (2023). Examines key insights regarding Is AI Consciousness Possible?."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Is AI Consciousness Possible?."
       },
       {
         "id": 56,
@@ -939,7 +939,7 @@ window.HKU_COURSES_DATA = {
         "author": "Cappelen, H",
         "year": "N/A",
         "type": "Book",
-        "source": "From https://philpapers. org/rec/CAPGWH [Chap",
+        "source": ". From https://philpapers. org/rec/CAPGWH [Chap",
         "url": "https://philpapers.org/rec/CAPGWH",
         "subtopic": "Can AI Think and Reason?",
         "course_code": "CCAI9002",
@@ -947,7 +947,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 6,
         "raw": "Cappelen, H., & Dever, J. (ms). Going Whole Hog: A Philosophical Defense of AI Cognition. From https://philpapers.org/rec/CAPGWH [Chap. 2]",
-        "summary": "Curated book in 'Thinking Machines: Philosophical and Ethical Explorations' by Cappelen, H (N/A). Examines key insights regarding Can AI Think and Reason?."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Can AI Think and Reason?."
       },
       {
         "id": 57,
@@ -963,7 +963,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 7,
         "raw": "Mitchell, M. (2025). Artificial intelligence learns to reason. Science, 387, eadw5211. From 10.1126/science.adw5211",
-        "summary": "Curated paper in 'Thinking Machines: Philosophical and Ethical Explorations' by Mitchell, M (2025). Examines key insights regarding Can AI Think and Reason?."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Can AI Think and Reason?."
       },
       {
         "id": 58,
@@ -979,7 +979,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 8,
         "raw": "Vaidya, A. J. (2024). Can machines have emotions? AI and Society, 40(4), 2029-2044.",
-        "summary": "Curated paper in 'Thinking Machines: Philosophical and Ethical Explorations' by Vaidya, A. J (2024). Examines key insights regarding Can AI Experience Emotions?."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Can AI Experience Emotions?."
       },
       {
         "id": 59,
@@ -987,7 +987,7 @@ window.HKU_COURSES_DATA = {
         "author": "Chalmers, D",
         "year": "2022",
         "type": "Book",
-        "source": "",
+        "source": "[Chap. 5",
         "url": "",
         "subtopic": "Do We Live in an AI Generated Simulation?",
         "course_code": "CCAI9002",
@@ -995,7 +995,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 9,
         "raw": "Chalmers, D. (2022). Reality +: Virtual Worlds and the Problems of Philosophy. [Chap. 5]",
-        "summary": "Curated book in 'Thinking Machines: Philosophical and Ethical Explorations' by Chalmers, D (2022). Examines key insights regarding Do We Live in an AI Generated Simulation?."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Do We Live in an AI Generated Simulation?."
       },
       {
         "id": 60,
@@ -1011,7 +1011,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 10,
         "raw": "Manzini, A., et al. (2024). The Code That Binds Us: Navigating the Appropriateness of Human-AI Assistant Relationships. Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 7(1). From https://doi.org/10.1609/aies.v7i1.31694",
-        "summary": "Curated paper in 'Thinking Machines: Philosophical and Ethical Explorations' by Manzini, A., et al (2024). Examines key insights regarding Can AI-Enhanced Robots Be Friends or Romantic Partners?."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Can AI-Enhanced Robots Be Friends or Romantic Partners?."
       },
       {
         "id": 61,
@@ -1019,7 +1019,7 @@ window.HKU_COURSES_DATA = {
         "author": "Königs, P",
         "year": "2022",
         "type": "Paper",
-        "source": "From https://doi. org/10. 1007/s10676-022-09643-0",
+        "source": ". From https://doi. org/10. 1007/s10676-022-09643-0",
         "url": "https://doi.org/10.1007/s10676-022-09643-0",
         "subtopic": "Can AIs Be Held Morally Accountable?",
         "course_code": "CCAI9002",
@@ -1075,7 +1075,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 14,
         "raw": "Lechterman, T. M. (2024). The Perfect Politician. In D. Edmonds, AI Morality. Oxford: Oxford University Press USA.",
-        "summary": "Curated paper in 'Thinking Machines: Philosophical and Ethical Explorations' by Lechterman, T. M (2024). Examines key insights regarding Should AIs Participate in Political Decision-Making?."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Should AIs Participate in Political Decision-Making?."
       },
       {
         "id": 65,
@@ -1083,7 +1083,7 @@ window.HKU_COURSES_DATA = {
         "author": "Nick Bostrom",
         "year": "N/A",
         "type": "Video",
-        "source": "From https://www. youtube. com/watch?v=wdieWk4C1SY",
+        "source": ". From https://www. youtube. com/watch?v=wdieWk4C1SY",
         "url": "https://www.youtube.com/watch?v=wdieWk4C1SY",
         "subtopic": "Societal Impacts of AI: The Future of Human Work",
         "course_code": "CCAI9002",
@@ -1091,7 +1091,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 15,
         "raw": "Deep Utopia: Life and Meaning in a Solved World by Nick Bostrom – AI Podcast Book Summary. From https://www.youtube.com/watch?v=wdieWk4C1SY",
-        "summary": "Curated video in 'Thinking Machines: Philosophical and Ethical Explorations' by Nick Bostrom (N/A). Examines key insights regarding Societal Impacts of AI: The Future of Human Work."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Societal Impacts of AI: The Future of Human Work."
       }
     ]
   },
@@ -1106,7 +1106,7 @@ window.HKU_COURSES_DATA = {
         "author": "Danaher, J",
         "year": "2019",
         "type": "Book",
-        "source": "",
+        "source": "Cambridge, MA: Harvard University Press. [Chap. 1",
         "url": "",
         "subtopic": "Week 1 — Introduction",
         "course_code": "CCAI9004",
@@ -1122,7 +1122,7 @@ window.HKU_COURSES_DATA = {
         "author": "Danaher, J",
         "year": "2019",
         "type": "Book",
-        "source": "",
+        "source": "Cambridge, MA: Harvard University Press. [Chaps. 2–3",
         "url": "",
         "subtopic": "Week 2 — AI and the Economy: How and What",
         "course_code": "CCAI9004",
@@ -1138,7 +1138,7 @@ window.HKU_COURSES_DATA = {
         "author": "Danaher, J",
         "year": "2019",
         "type": "Book",
-        "source": "",
+        "source": "Cambridge, MA: Harvard University Press. [Chap. 4",
         "url": "",
         "subtopic": "Week 3 — Responses to Economic Disruption, Part 1",
         "course_code": "CCAI9004",
@@ -1162,7 +1162,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 4,
         "raw": "Brixel, P. (2024). The Difficulty of Making Good Work Available to All. Journal of Applied Philosophy, 41(2).",
-        "summary": "Curated paper in 'AI, Achievement and Flourishing' by Brixel, P (2024). Examines key insights regarding Week 4 — Responses to Economic Disruption, Part 2: The Problem of Good Work."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 4 — Responses to Economic Disruption, Part 2: The Problem of Good Work."
       },
       {
         "id": 70,
@@ -1170,7 +1170,7 @@ window.HKU_COURSES_DATA = {
         "author": "Cholbi, M",
         "year": "2018",
         "type": "Paper",
-        "source": "",
+        "source": "The Duty to Work,” Ethical Theory and Moral Practice, 21(5), 1119–1133",
         "url": "",
         "subtopic": "Week 5 — Responses to Economic Disruption, Part 3: The Duty and Desire to Work",
         "course_code": "CCAI9004",
@@ -1178,7 +1178,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 5,
         "raw": "Cholbi, M. (2018). The Duty to Work,” Ethical Theory and Moral Practice, 21(5), 1119–1133.",
-        "summary": "Curated paper in 'AI, Achievement and Flourishing' by Cholbi, M (2018). Examines key insights regarding Week 5 — Responses to Economic Disruption, Part 3: The Duty and Desire to Work."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 5 — Responses to Economic Disruption, Part 3: The Duty and Desire to Work."
       },
       {
         "id": 71,
@@ -1194,7 +1194,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 6,
         "raw": "Cholbi, M. (2018). The Desire for Work as an Adaptive Preference. Autonomy, 4, 1–17.",
-        "summary": "Curated paper in 'AI, Achievement and Flourishing' by Cholbi, M (2018). Examines key insights regarding Week 5 — Responses to Economic Disruption, Part 3: The Duty and Desire to Work."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 5 — Responses to Economic Disruption, Part 3: The Duty and Desire to Work."
       },
       {
         "id": 72,
@@ -1210,7 +1210,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 7,
         "raw": "Brainard, L. (2026). What is Creativity? The Philosophical Quarterly, 76(1), 51–73.",
-        "summary": "Curated paper in 'AI, Achievement and Flourishing' by Brainard, L (2026). Examines key insights regarding Week 7 — AI and Human Capacities, Part 1: Creativity."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 7 — AI and Human Capacities, Part 1: Creativity."
       },
       {
         "id": 73,
@@ -1226,7 +1226,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 8,
         "raw": "Brainard, L. (Forthcoming). Artificial Intelligence and the Threat of Creative Obsolescence. Ergo: An Open Access Journal of Philosophy.",
-        "summary": "Curated paper in 'AI, Achievement and Flourishing' by Brainard, L. (2026). Examines key insights regarding Week 7 — AI and Human Capacities, Part 1: Creativity."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 7 — AI and Human Capacities, Part 1: Creativity."
       },
       {
         "id": 74,
@@ -1242,7 +1242,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 9,
         "raw": "Sharadin, N. (Forthcoming). Extreme Cognitive Assistance and Open Futures. Journal of Ethics and Social Philosophy.",
-        "summary": "Curated paper in 'AI, Achievement and Flourishing' by Sharadin, N. (2025). Examines key insights regarding Week 8 — AI and Human Capacities, Part 2: Cognitive Enfeeblement."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 8 — AI and Human Capacities, Part 2: Cognitive Enfeeblement."
       },
       {
         "id": 75,
@@ -1258,7 +1258,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 10,
         "raw": "Campbell, S. M., Liu, P., & Nyholm, S. (2025). Can Chatbots Preserve Our Relationships with the Dead? Journal of the American Philosophical Association.",
-        "summary": "Curated paper in 'AI, Achievement and Flourishing' by Campbell, S. M., Liu, P., & Nyholm, S (2025). Examines key insights regarding Week 9 — AI and Human Capacities, Part 3: Sociality."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 9 — AI and Human Capacities, Part 3: Sociality."
       },
       {
         "id": 76,
@@ -1266,7 +1266,7 @@ window.HKU_COURSES_DATA = {
         "author": "Bales, A",
         "year": "2024",
         "type": "Paper",
-        "source": ", & Kirk-Giannini, C. D. (2024). Artificial Intelligence: Arguments for Catastrophic Risk. Philosophy Compass, 19(2)",
+        "source": ", & Kirk-Giannini, C. D. (2024). Artificial Intelligence: Arguments for Catastrophic Risk. Philosophy Compass, 19(2",
         "url": "",
         "subtopic": "Week 10 — AI Safety: Could AI End Human Flourishing Altogether?",
         "course_code": "CCAI9004",
@@ -1274,7 +1274,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 11,
         "raw": "Bales, A. (2024). D’Alessandro, W., & Kirk-Giannini, C. D. (2024). Artificial Intelligence: Arguments for Catastrophic Risk. Philosophy Compass, 19(2).",
-        "summary": "Curated paper in 'AI, Achievement and Flourishing' by Bales, A (2024). Examines key insights regarding Week 10 — AI Safety: Could AI End Human Flourishing Altogether?."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 10 — AI Safety: Could AI End Human Flourishing Altogether?."
       },
       {
         "id": 77,
@@ -1282,7 +1282,7 @@ window.HKU_COURSES_DATA = {
         "author": "Ord, T.",
         "year": "2020",
         "type": "Book",
-        "source": "New York: Hachette Books. [Chap. 2]",
+        "source": "New York: Hachette Books. [Chap. 2",
         "url": "",
         "subtopic": "Week 10 — AI Safety: Could AI End Human Flourishing Altogether?",
         "course_code": "CCAI9004",
@@ -1313,7 +1313,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 1,
         "raw": "Alowais, S. A., Alghamdi, S. S., Alsuhebany, N., et al. (2023). Revolutionizing healthcare: the role of artificial intelligence in clinical practice. BMC Med Educ, 23, 689. From https://doi.org/10.1186/s12909-023-04698-z",
-        "summary": "Curated paper in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by Alowais, S. A., Alghamdi, S. S., Alsuhebany, N., et al (2023). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 79,
@@ -1321,7 +1321,7 @@ window.HKU_COURSES_DATA = {
         "author": "DW Documentary",
         "year": "2021",
         "type": "Paper",
-        "source": "From https://www. youtube. com/watch?v=y-5VLHcTDSQ [Video]",
+        "source": ". From https://www. youtube. com/watch?v=y-5VLHcTDSQ [Video",
         "url": "https://www.youtube.com/watch?v=y-5VLHcTDSQ",
         "subtopic": "",
         "course_code": "CCAI9007",
@@ -1329,7 +1329,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 2,
         "raw": "DW Documentary. (2021, May 28). More life – Decoding the secret of aging I DW Documentary. From https://www.youtube.com/watch?v=y-5VLHcTDSQ [Video]",
-        "summary": "Curated paper in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by DW Documentary (2021). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 80,
@@ -1345,7 +1345,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 3,
         "raw": "Federico, C. A, & Trotsyuk, A. A. (2024). Biomedical Data Science, Artificial Intelligence, and Ethics: Navigating Challenges in the Face of Explosive Growth. Annual review of biomedical data science, 7(1), 1-14. From https://doi.org/10.1146/annurev-biodatasci-102623-104553",
-        "summary": "Curated paper in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by Biomedical Data Science, Artificial Intelligence, and Ethics: Navigating Challenges in the Face of Explosive Growth (2024). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 81,
@@ -1361,7 +1361,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 4,
         "raw": "Gómez-Márquez, J. (2021). What is life?. Molecular biology reports, 48(8), 6223–6230. From https://doi.org/10.1007/s11033-021-06594-5",
-        "summary": "Curated report in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by Gómez-Márquez, J (2021). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 82,
@@ -1377,7 +1377,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 5,
         "raw": "Hayflick, L. (1998). How and why we age. Experimental gerontology, 33(7-8), 639–653. From https://doi.org/10.1016/s0531-5565(98)00023-0",
-        "summary": "Curated paper in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by Hayflick, L (1998). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 83,
@@ -1385,7 +1385,7 @@ window.HKU_COURSES_DATA = {
         "author": "IBM",
         "year": "N/A",
         "type": "Article",
-        "source": "(n. d.). What is Artificial Intelligence? From https://www. ibm. com/topics/artificial-intelligence",
+        "source": "(n. d.). What is Artificial Intelligence?. From https://www. ibm. com/topics/artificial-intelligence",
         "url": "https://www.ibm.com/topics/artificial-intelligence",
         "subtopic": "",
         "course_code": "CCAI9007",
@@ -1393,7 +1393,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 6,
         "raw": "IBM. (n.d.). What is Artificial Intelligence? From https://www.ibm.com/topics/artificial-intelligence",
-        "summary": "Curated article in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by IBM (N/A). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 84,
@@ -1409,7 +1409,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 7,
         "raw": "Marino, N., Putignano, G., Cappilli, S., Chersoni, E., Santuccione, A., Calabrese, G., Bischof, E., Vanhaelen, Q., Zhavoronkov, A., Scarano, B., Mazzotta, A. D., & Santus, E. (2023). Towards AI-driven longevity research: An overview. Frontiers in aging, 4, 1057204. From https://doi.org/10.3389/fragi.2023.1057204",
-        "summary": "Curated paper in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by Marino, N (2023). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 85,
@@ -1425,7 +1425,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 8,
         "raw": "Miyazawa, T. (2023). Healthy Longevity and the Nutrition with AI Computing Technologies. Annals of nutrition and metabolism, 79, 29.",
-        "summary": "Curated paper in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by Miyazawa, T (2023). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 86,
@@ -1433,7 +1433,7 @@ window.HKU_COURSES_DATA = {
         "author": "Moskalev, A., Stambler, I., & Zhavoronkov, A. (Eds.)",
         "year": "2023",
         "type": "Paper",
-        "source": "",
+        "source": "Cham: Springer",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9007",
@@ -1441,7 +1441,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 9,
         "raw": "Moskalev, A., Stambler, I., & Zhavoronkov, A. (Eds.). (2023). Artificial Intelligence for Healthy Longevity. Cham: Springer.",
-        "summary": "Curated paper in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by Moskalev, A., Stambler, I., & Zhavoronkov, A. (Eds.) (2023). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       },
       {
         "id": 87,
@@ -1457,7 +1457,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 10,
         "raw": "Song, C. F., Tay, P. K. C., Gwee, X., et. al. (2023). Happy people live longer because they are healthy people. BMC Geriatr, 23, 440. From https://doi.org/10.1186/s12877-023-04030-w",
-        "summary": "Curated paper in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by Song, C. F., Tay, P. K. C., Gwee, X., et. al (2023). Explores fundamental themes in ethics & morality."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
       }
     ]
   },
@@ -1480,7 +1480,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 1,
         "raw": "Darwin, C. (1872). The expression of the emotions in man and animals. London: John Murray. [Chap. 1 “General principle of expression”; Chap. 2 “General principle of expression – continued”; Chap. 3 “General principle of expression – concluded”]",
-        "summary": "Curated book in 'Emotions and AI: Bridging Technology and Human Experience' by Darwin, C (1872). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 89,
@@ -1488,7 +1488,7 @@ window.HKU_COURSES_DATA = {
         "author": "Fox, A. S., Lapate, R. C., Shackman, A. l., & Davidson, R. l (Eds.)",
         "year": "2018",
         "type": "Paper",
-        "source": "). New York, NY: Oxford University Press. [5. 4 “Brain structure and principles of the organization of emotion in the brain”; 5. 6 “How are emotions organization in the brain?”]",
+        "source": "). New York, NY: Oxford University Press. [5. 4 “Brain structure and principles of the organization of emotion in the brain”; 5. 6 “How are emotions organization in the brain?”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9013",
@@ -1496,7 +1496,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 2,
         "raw": "Fox, A. S., Lapate, R. C., Shackman, A. l., & Davidson, R. l (Eds.). (2018). The Nature of Emotion: Fundamental Questions (2nd ed.). New York, NY: Oxford University Press. [5.4 “Brain structure and principles of the organization of emotion in the brain”; 5.6 “How are emotions organization in the brain?”]",
-        "summary": "Curated paper in 'Emotions and AI: Bridging Technology and Human Experience' by Fox, A. S., Lapate, R. C., Shackman, A. l., & Davidson, R. l (Eds.) (2018). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 90,
@@ -1512,7 +1512,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 3,
         "raw": "Jiang, F., Jiang, Y., Zhi, H., Dong, Y., Li, H., Ma, S., … & Wang, Y. (2017). Artificial intelligence in healthcare: past, present and future. Stroke and vascular neurology, 2(4).",
-        "summary": "Curated paper in 'Emotions and AI: Bridging Technology and Human Experience' by Jiang, F., Jiang, Y., Zhi, H., Dong, Y., Li, H., Ma, S., … & Wang, Y (2017). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 91,
@@ -1528,7 +1528,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 4,
         "raw": "Koegel, L. K., Ponder, E., Bruzzese, T., Wang, M., Semnani, S. J., Chi, N., … & Lam, M. S. (2025). Using artificial intelligence to improve empathetic statements in autistic adolescents and adults: A randomized clinical trial. Journal of Autism and Developmental Disorders, 1-17.",
-        "summary": "Curated paper in 'Emotions and AI: Bridging Technology and Human Experience' by Koegel, L. K., Ponder, E., Bruzzese, T., Wang, M., Semnani, S. J., Chi, N., … & Lam, M. S (2025). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 92,
@@ -1544,7 +1544,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 5,
         "raw": "Lee, E. E., et. al. (2021). Artificial Intelligence for Mental Health Care: Clinical Applications, Barriers, Facilitators, and Artificial Wisdom. Biological psychiatry: cognitive neuroscience and neuroimaging, 6(9), 856–864.",
-        "summary": "Curated paper in 'Emotions and AI: Bridging Technology and Human Experience' by Lee, E. E., et. al (2021). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 93,
@@ -1552,7 +1552,7 @@ window.HKU_COURSES_DATA = {
         "author": "Moore, J., Grabb, D., Agnew, W., Klyman, K., Chancellor, S., Ong, D. C., & Haber, N",
         "year": "2025",
         "type": "Paper",
-        "source": "In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (pp. 599-627)",
+        "source": "In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (pp. 599-627",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9013",
@@ -1560,7 +1560,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 6,
         "raw": "Moore, J., Grabb, D., Agnew, W., Klyman, K., Chancellor, S., Ong, D. C., & Haber, N. (2025, June). Expressing stigma and inappropriate responses prevents LLMs from safely replacing mental health providers. In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (pp. 599-627).",
-        "summary": "Curated paper in 'Emotions and AI: Bridging Technology and Human Experience' by Moore, J., Grabb, D., Agnew, W., Klyman, K., Chancellor, S., Ong, D. C., & Haber, N (2025). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       }
     ]
   },
@@ -1575,7 +1575,7 @@ window.HKU_COURSES_DATA = {
         "author": "Arnheim, R",
         "year": "1969",
         "type": "Book",
-        "source": "",
+        "source": "Berkeley, CA: University of California Press. From https://julac-hku. primo. exlibrisgroup. com/permalink/852JULAC_HKU/1f1rhea/alma991044742899903414 [Chap. 4 (pp. 72-79) “Two and Two Together”",
         "url": "https://julac-hku.primo.exlibrisgroup.com/permalink/852JULAC_HKU/1f1rhea/alma991044742899903414",
         "subtopic": "",
         "course_code": "CCAI9018",
@@ -1583,7 +1583,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 1,
         "raw": "Arnheim, R. (1969). Visual Thinking. Berkeley, CA: University of California Press. From https://julac-hku.primo.exlibrisgroup.com/permalink/852JULAC_HKU/1f1rhea/alma991044742899903414 [Chap. 4 (pp.72-79) “Two and Two Together”]",
-        "summary": "Curated book in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Arnheim, R (1969). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 95,
@@ -1591,7 +1591,7 @@ window.HKU_COURSES_DATA = {
         "author": "Barfield, O",
         "year": "1987",
         "type": "Paper",
-        "source": "). Wesleyan University Press. [Chap. 3 (pp. 60-76) “Metaphor”]",
+        "source": "). Wesleyan University Press. [Chap. 3 (pp. 60-76) “Metaphor”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9018",
@@ -1599,7 +1599,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 2,
         "raw": "Barfield, O. (1987). Poetic diction a study in meaning (2nd ed.). Wesleyan University Press. [Chap. 3 (pp. 60-76) “Metaphor”]",
-        "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Barfield, O (1987). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 96,
@@ -1607,7 +1607,7 @@ window.HKU_COURSES_DATA = {
         "author": "Benjamin, W",
         "year": "1935",
         "type": "Paper",
-        "source": "",
+        "source": "[Available online from Marxists. org",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9018",
@@ -1615,7 +1615,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 3,
         "raw": "Benjamin, W. (1935). The Work of Art in the Age of Mechanical Reproduction. [Available online from Marxists.org]",
-        "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Benjamin, W (1935). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 97,
@@ -1623,7 +1623,7 @@ window.HKU_COURSES_DATA = {
         "author": "Berger, J",
         "year": "1972",
         "type": "Book",
-        "source": "",
+        "source": "London: Penguin Books. [Chap. 1",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9018",
@@ -1631,7 +1631,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 4,
         "raw": "Berger, J. (1972). Ways of Seeing. London: Penguin Books. [Chap. 1]",
-        "summary": "Curated book in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Berger, J (1972). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 98,
@@ -1639,7 +1639,7 @@ window.HKU_COURSES_DATA = {
         "author": "Han, B. C",
         "year": "2022",
         "type": "Paper",
-        "source": "",
+        "source": "Berlin: Polity. [pp. 12-24",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9018",
@@ -1647,7 +1647,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 5,
         "raw": "Han, B. C. (2022). Infocracy. Berlin: Polity. [pp.12-24]",
-        "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Han, B. C (2022). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 99,
@@ -1655,7 +1655,7 @@ window.HKU_COURSES_DATA = {
         "author": "Johnson, J",
         "year": "2024",
         "type": "Book",
-        "source": "Originalism in Theology and Law. [Chap. 2 (pp.37-49; 56-57)]",
+        "source": "Originalism in Theology and Law. [Chap. 2 (pp.37-49; 56-57",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9018",
@@ -1663,7 +1663,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 6,
         "raw": "Johnson, J. (2024). Original Intentionalism: A Comparison of Textual and Visual Hermeneutics. Originalism in Theology and Law. [Chap. 2 (pp.37-49; 56-57)]",
-        "summary": "Curated book in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Johnson, J (2024). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 100,
@@ -1671,7 +1671,7 @@ window.HKU_COURSES_DATA = {
         "author": "Kövecses, Z., & Benczes, R",
         "year": "2010",
         "type": "Paper",
-        "source": "). Oxford University Press. [Ch. 2 (pp. 18-23); Chap. 6 (pp. 79-86)]",
+        "source": "). Oxford University Press. [Ch. 2 (pp. 18-23); Chap. 6 (pp. 79-86",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9018",
@@ -1679,7 +1679,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 7,
         "raw": "Kövecses, Z., & Benczes, R. (2010). Metaphor: a practical introduction (2nd ed.). Oxford University Press. [Ch. 2 (pp. 18-23); Chap. 6 (pp. 79-86)]",
-        "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Kövecses, Z., & Benczes, R (2010). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 101,
@@ -1687,7 +1687,7 @@ window.HKU_COURSES_DATA = {
         "author": "Lidwell, W., Holden, K., Butler, J., & Elam, K",
         "year": "2010",
         "type": "Paper",
-        "source": "). Rockport Publishers. [Only for reference, not full reading]",
+        "source": "). Rockport Publishers. [Only for reference, not full reading",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9018",
@@ -1695,7 +1695,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 8,
         "raw": "Lidwell, W., Holden, K., Butler, J., & Elam, K. (2010). Universal principles of design: 125 ways to enhance usability, influence perception, increase appeal, make better design decisions, and teach through design (2nd ed.). Rockport Publishers. [Only for reference, not full reading]",
-        "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Lidwell, W., Holden, K., Butler, J., & Elam, K (2010). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 102,
@@ -1711,7 +1711,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 9,
         "raw": "Literat, I., & S. Berg. (2019). Buy memes low, sell memes high: vernacular criticism and collective negotiations of value on Reddit’s MemeEconomy. Information, Communication & Society, 22(2), 232-249.",
-        "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Literat, I., & S. Berg (2019). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 103,
@@ -1719,7 +1719,7 @@ window.HKU_COURSES_DATA = {
         "author": "Morreall, J",
         "year": "2024",
         "type": "Article",
-        "source": "The Stanford Encyclopedia of Philosophy. Edward N. Zalta & Uri Nodelman (eds.). From https://plato.stanford.edu/entries/humor/ [Only for reference, not full reading]",
+        "source": "The Stanford Encyclopedia of Philosophy. Edward N. Zalta & Uri Nodelman (eds.). From https://plato.stanford.edu/entries/humor/ [Only for reference, not full reading",
         "url": "https://plato.stanford.edu/entries/humor/",
         "subtopic": "",
         "course_code": "CCAI9018",
@@ -1727,7 +1727,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 10,
         "raw": "Morreall, J. (2024). Philosophy of Humor. The Stanford Encyclopedia of Philosophy. Edward N. Zalta & Uri Nodelman (eds.). From https://plato.stanford.edu/entries/humor/ [Only for reference, not full reading]",
-        "summary": "Curated article in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Morreall, J (2024). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 104,
@@ -1735,7 +1735,7 @@ window.HKU_COURSES_DATA = {
         "author": "Pusca, A",
         "year": "2009",
         "type": "Paper",
-        "source": "International Political Sociology, 3(2), 238-254. [Introduction and Conclusion]",
+        "source": "International Political Sociology, 3(2), 238-254. [Introduction and Conclusion",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9018",
@@ -1743,7 +1743,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 11,
         "raw": "Pusca, A. (2009). Walter Benjamin, a Methodological Contribution. International Political Sociology, 3(2), 238-254. [Introduction and Conclusion]",
-        "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Pusca, A (2009). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 105,
@@ -1759,7 +1759,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 12,
         "raw": "Shifman, L. (2013). Memes in a digital world: Reconciling with a conceptual troublemaker. Journal of Computer-Mediated Communication, 18(3), 362-377",
-        "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Shifman, L (2013). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 106,
@@ -1767,7 +1767,7 @@ window.HKU_COURSES_DATA = {
         "author": "Shifman, L",
         "year": "2014",
         "type": "Book",
-        "source": "",
+        "source": "Cambridge, MA: MIT Press. From http://find. lib. hku. hk/record=alma991018243539703414 [Chap. 2 (pp. 9-15); Chap. 4 (pp. 37-41",
         "url": "http://find.lib.hku.hk/record=alma991018243539703414",
         "subtopic": "",
         "course_code": "CCAI9018",
@@ -1775,7 +1775,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 13,
         "raw": "Shifman, L. (2014). Memes in Digital Culture. Cambridge, MA: MIT Press. From http://find.lib.hku.hk/record=alma991018243539703414 [Chap. 2 (pp. 9-15); Chap..4 (pp. 37-41)]",
-        "summary": "Curated book in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Shifman, L (2014). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 107,
@@ -1791,7 +1791,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 14,
         "raw": "Sommerer, T. (2025). Revisiting Baudrillard’s (dis)trust in Artificial Intelligence: Baudrillard and the Dead Internet Theory. Revisiting Baudrillard’s (dis)trust in Artificial Intelligence. Philosophy & technology, 38(2). From https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_journals_3192429151&context=PC&vid=852JULAC_HKU:HKU&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Sommerer, T (2025). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 108,
@@ -1807,7 +1807,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 15,
         "raw": "Walter, Y. (2025). Artificial Influencers and the dead internet theory. AI & Society, 40, 239-240. From https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_journals_3168157767&context=PC&vid=852JULAC_HKU:HKU&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Walter, Y (2025). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 109,
@@ -1823,7 +1823,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 16,
         "raw": "Yankoski, M., Scheirer, W., & Weninger, T. (2021). Meme warfare: AI countermeasures to disinformation should focus on popular, not perfect, fakes. Bulletin of the Atomic Scientists, 77(3), 119-123. From https://doi.org/10.1080/00963402.2021.1912093",
-        "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Yankoski, M., Scheirer, W., & Weninger, T (2021). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 110,
@@ -1839,7 +1839,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 17,
         "raw": "Zhai, Y., Yan, J., Zhang, H., & Lu, W. (2020). Tracing the evolution of AI: conceptualization of artificial intelligence in mass media discourse. Information Discovery and Delivery, 48(3), 137-149. From https://doi.org/10.1108/IDD-01-2020-0007",
-        "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Zhai, Y., Yan, J., Zhang, H., & Lu, W (2020). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       }
     ]
   },
@@ -1862,7 +1862,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 1,
         "raw": "Barros, M. T., Kagan, B. J., Hartung, T., & Smirnova, L. (2025). Editorial: Intersection between the biological and digital: synthetic biological intelligence and organoid intelligence. Frontiers in Cellular Neuroscience, 18, 1542629. From https://doi.org/10.3389/fncel.2024.1542629",
-        "summary": "Curated paper in 'Human 2.0: Built from Nature, Reshaped by AI' by Barros, M. T., Kagan, B. J., Hartung, T., & Smirnova, L (2025). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 112,
@@ -1870,7 +1870,7 @@ window.HKU_COURSES_DATA = {
         "author": "European Commission, Directorate-General for Research and Innovation",
         "year": "2024",
         "type": "Article",
-        "source": "",
+        "source": ". From https://research-and-innovation. ec. europa. eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines. pdf",
         "url": "https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf",
         "subtopic": "",
         "course_code": "CCAI9021",
@@ -1878,7 +1878,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 2,
         "raw": "European Commission, Directorate-General for Research and Innovation. (2024). Living guidelines on the responsible use of generative AI in research. From https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf",
-        "summary": "Curated article in 'Human 2.0: Built from Nature, Reshaped by AI' by European Commission, Directorate-General for Research and Innovation (2024). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 113,
@@ -1894,7 +1894,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 3,
         "raw": "Madanchian, M., & Taherdoost, H. (2025). The impact of artificial intelligence on research efficiency. Results in Engineering, 26, 104743. From https://doi.org/10.1016/j.rineng.2025.104743",
-        "summary": "Curated paper in 'Human 2.0: Built from Nature, Reshaped by AI' by Madanchian, M., & Taherdoost, H (2025). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 114,
@@ -1902,7 +1902,7 @@ window.HKU_COURSES_DATA = {
         "author": "Office of the Privacy Commissioner for Personal Data, Hong Kong",
         "year": "2021",
         "type": "Article",
-        "source": "",
+        "source": ". From https://www. pcpd. org. hk/english/resources_centre/publications/files/guidance_ethical_e. pdf",
         "url": "https://www.pcpd.org.hk/english/resources_centre/publications/files/guidance_ethical_e.pdf",
         "subtopic": "",
         "course_code": "CCAI9021",
@@ -1910,7 +1910,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 4,
         "raw": "Office of the Privacy Commissioner for Personal Data, Hong Kong. (2021). Guidance on the ethical development and use of artificial intelligence. From https://www.pcpd.org.hk/english/resources_centre/publications/files/guidance_ethical_e.pdf",
-        "summary": "Curated article in 'Human 2.0: Built from Nature, Reshaped by AI' by Office of the Privacy Commissioner for Personal Data, Hong Kong (2021). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 115,
@@ -1918,7 +1918,7 @@ window.HKU_COURSES_DATA = {
         "author": "Royal Society",
         "year": "2023",
         "type": "Report",
-        "source": "",
+        "source": ". From https://royalsociety. org/-/media/policy/projects/science-in-the-age-of-ai/science-in-the-age-of-ai-report. pdf",
         "url": "https://royalsociety.org/-/media/policy/projects/science-in-the-age-of-ai/science-in-the-age-of-ai-report.pdf",
         "subtopic": "",
         "course_code": "CCAI9021",
@@ -1926,7 +1926,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 5,
         "raw": "Royal Society. (2023). Science in the age of AI: how artificial intelligence is changing the nature and method of scientific research. From https://royalsociety.org/-/media/policy/projects/science-in-the-age-of-ai/science-in-the-age-of-ai-report.pdf",
-        "summary": "Curated report in 'Human 2.0: Built from Nature, Reshaped by AI' by Royal Society (2023). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 116,
@@ -1934,7 +1934,7 @@ window.HKU_COURSES_DATA = {
         "author": "Siegel, D. J",
         "year": "2012",
         "type": "Paper",
-        "source": "). New York: Guilford Press. [Chap. 7 “Self-regulation”; Chap. 8 “Interpersonal connection”]",
+        "source": "). New York: Guilford Press. [Chap. 7 “Self-regulation”; Chap. 8 “Interpersonal connection”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9021",
@@ -1942,7 +1942,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 6,
         "raw": "Siegel, D. J. (2012). The developing mind: how relationships and the brain interact to shape who we are (2nd ed.). New York: Guilford Press. [Chap. 7 “Self-regulation”; Chap. 8 “Interpersonal connection”]",
-        "summary": "Curated paper in 'Human 2.0: Built from Nature, Reshaped by AI' by Siegel, D. J (2012). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 117,
@@ -1950,7 +1950,7 @@ window.HKU_COURSES_DATA = {
         "author": "Weigel, A., Caldas, C., Meyer, A., & Morris, S. A",
         "year": "2022",
         "type": "Paper",
-        "source": "",
+        "source": "Cell, 185(15), 2621–2622. From https://doi. org/10. 1016/j. cell. 2022. 06. 024",
         "url": "https://doi.org/10.1016/j.cell.2022.06.024",
         "subtopic": "",
         "course_code": "CCAI9021",
@@ -1958,7 +1958,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 7,
         "raw": "Weigel, A., Caldas, C., Meyer, A., & Morris, S. A. (2022). The impact of AI on research. Cell, 185(15), 2621–2622. From https://doi.org/10.1016/j.cell.2022.06.024",
-        "summary": "Curated paper in 'Human 2.0: Built from Nature, Reshaped by AI' by Weigel, A., Caldas, C., Meyer, A., & Morris, S. A (2022). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 118,
@@ -1966,7 +1966,7 @@ window.HKU_COURSES_DATA = {
         "author": "60 Minutes",
         "year": "2023",
         "type": "Paper",
-        "source": "From https://www. youtube. com/watch?v=qrvK_KuIeJk",
+        "source": ". From https://www. youtube. com/watch?v=qrvK_KuIeJk",
         "url": "https://www.youtube.com/watch?v=qrvK_KuIeJk",
         "subtopic": "",
         "course_code": "CCAI9021",
@@ -1974,7 +1974,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 8,
         "raw": "60 Minutes. (2023). “Godfather of AI” Geoffrey Hinton: The 60 Minutes Interview. From https://www.youtube.com/watch?v=qrvK_KuIeJk",
-        "summary": "Curated paper in 'Human 2.0: Built from Nature, Reshaped by AI' by 60 Minutes (2023). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 119,
@@ -1982,7 +1982,7 @@ window.HKU_COURSES_DATA = {
         "author": "Four Minute Books",
         "year": "2022",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=HitVj45O5hI",
         "url": "https://www.youtube.com/watch?v=HitVj45O5hI",
         "subtopic": "",
         "course_code": "CCAI9021",
@@ -1990,7 +1990,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 9,
         "raw": "Four Minute Books. (2022). Sapiens Summary (Animated) — The Definitive History of Humankind & How Humans Became the #1 Species. From https://www.youtube.com/watch?v=HitVj45O5hI",
-        "summary": "Curated video in 'Human 2.0: Built from Nature, Reshaped by AI' by Four Minute Books (2022). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 120,
@@ -1998,7 +1998,7 @@ window.HKU_COURSES_DATA = {
         "author": "Paul G. Allen School",
         "year": "2024",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=gzOwpEupP5w&t=1414s",
         "url": "https://www.youtube.com/watch?v=gzOwpEupP5w&t=1414s",
         "subtopic": "",
         "course_code": "CCAI9021",
@@ -2006,7 +2006,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 10,
         "raw": "Paul G. Allen School. (2024). What we see and what we value: AI with a human perspective—Fei-Fei Li (Stanford University). From https://www.youtube.com/watch?v=gzOwpEupP5w&t=1414s",
-        "summary": "Curated video in 'Human 2.0: Built from Nature, Reshaped by AI' by Paul G. Allen School (2024). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 121,
@@ -2014,7 +2014,7 @@ window.HKU_COURSES_DATA = {
         "author": "With Spatial Intelligence, AI Will Understand the Real World | Fei-Fei Li | TED",
         "year": "2024",
         "type": "Video",
-        "source": "From https://www. youtube. com/watch?v=y8NtMZ7VGmU",
+        "source": ". From https://www. youtube. com/watch?v=y8NtMZ7VGmU",
         "url": "https://www.youtube.com/watch?v=y8NtMZ7VGmU",
         "subtopic": "",
         "course_code": "CCAI9021",
@@ -2022,7 +2022,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 11,
         "raw": "TED. (2024). With Spatial Intelligence, AI Will Understand the Real World | Fei-Fei Li | TED. From https://www.youtube.com/watch?v=y8NtMZ7VGmU",
-        "summary": "Curated video in 'Human 2.0: Built from Nature, Reshaped by AI' by With Spatial Intelligence, AI Will Understand the Real World | Fei-Fei Li | TED (2024). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 122,
@@ -2030,7 +2030,7 @@ window.HKU_COURSES_DATA = {
         "author": "Vector Institute",
         "year": "2024",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=Es6yuMlyfPw",
         "url": "https://www.youtube.com/watch?v=Es6yuMlyfPw",
         "subtopic": "",
         "course_code": "CCAI9021",
@@ -2038,7 +2038,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 12,
         "raw": "Vector Institute. (2024). Geoff Hinton – Will Digital Intelligence Replace Biological Intelligence? | Vector’s Remarkable 2024. From https://www.youtube.com/watch?v=Es6yuMlyfPw",
-        "summary": "Curated video in 'Human 2.0: Built from Nature, Reshaped by AI' by Vector Institute (2024). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 123,
@@ -2054,7 +2054,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 13,
         "raw": "World Science Festival. (2024). Will AI Spark the Next Scientific Revolution? From https://www.youtube.com/watch?v=7wznuB0sKlw&t=202s",
-        "summary": "Curated paper in 'Human 2.0: Built from Nature, Reshaped by AI' by World Science Festival (2024). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       }
     ]
   },
@@ -2077,7 +2077,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 1,
         "raw": "Acemoglu, D., & Johnson, S. (2024). Learning from Ricardo and Thompson: Machinery and labor in the early industrial revolution and in the age of artificial intelligence. Annual Review of Economics, 16(1), 597-621.",
-        "summary": "Curated paper in 'The Political Economy of AI and Big Data (COIL)' by Acemoglu, D., & Johnson, S (2024). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 125,
@@ -2093,7 +2093,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 2,
         "raw": "Agrawal, A., Gans, J., & Goldfarb, A. (2019). Artificial intelligence: The ambiguous labor market impact of automating prediction. Journal of Economic Perspectives, 33(2), 31–50. From https://doi.org/10.1257/jep.33.2.31",
-        "summary": "Curated paper in 'The Political Economy of AI and Big Data (COIL)' by Agrawal, A., Gans, J., & Goldfarb, A (2019). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 126,
@@ -2101,7 +2101,7 @@ window.HKU_COURSES_DATA = {
         "author": "Agrawal, A., Gans, J., & Goldfarb, A",
         "year": "2022",
         "type": "Book",
-        "source": "",
+        "source": "Harvard Business Press. [Part One",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9019",
@@ -2109,7 +2109,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 3,
         "raw": "Agrawal, A., Gans, J., & Goldfarb, A. (2022). Power and prediction: The disruptive economics of artificial intelligence. Harvard Business Press. [Part One]",
-        "summary": "Curated book in 'The Political Economy of AI and Big Data (COIL)' by Agrawal, A., Gans, J., & Goldfarb, A (2022). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 127,
@@ -2141,7 +2141,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 5,
         "raw": "Brynjolfsson, E., Li, D., & Raymond, L. (2025). Generative AI at work. Quarterly Journal of Economics, 140(2), 889–942.",
-        "summary": "Curated paper in 'The Political Economy of AI and Big Data (COIL)' by Brynjolfsson, E., Li, D., & Raymond, L (2025). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 129,
@@ -2149,7 +2149,7 @@ window.HKU_COURSES_DATA = {
         "author": "Carriere-Swallow, M. Y., & Haksar, M. V",
         "year": "2019",
         "type": "Paper",
-        "source": "",
+        "source": "International Monetary Fund",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9019",
@@ -2157,7 +2157,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 6,
         "raw": "Carriere-Swallow, M. Y., & Haksar, M. V. (2019). The economics and implications of data: an integrated perspective. International Monetary Fund.",
-        "summary": "Curated paper in 'The Political Economy of AI and Big Data (COIL)' by Carriere-Swallow, M. Y., & Haksar, M. V (2019). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 130,
@@ -2181,7 +2181,7 @@ window.HKU_COURSES_DATA = {
         "author": "Mayer-Schönberger, V",
         "year": "2025, December",
         "type": "Article",
-        "source": "",
+        "source": "Finance & Development. International Monetary Fund. From https://www. imf. org/en/publications/fandd/issues/2025/12/point-of-view-why-data-should-be-shared-viktor-mayer-schonberger",
         "url": "https://www.imf.org/en/publications/fandd/issues/2025/12/point-of-view-why-data-should-be-shared-viktor-mayer-schonberger",
         "subtopic": "",
         "course_code": "CCAI9019",
@@ -2189,7 +2189,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 8,
         "raw": "Mayer-Schönberger, V. (2025, December). Why data should be shared. Finance & Development. International Monetary Fund. From https://www.imf.org/en/publications/fandd/issues/2025/12/point-of-view-why-data-should-be-shared-viktor-mayer-schonberger",
-        "summary": "Curated article in 'The Political Economy of AI and Big Data (COIL)' by Mayer-Schönberger, V (2025, December). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 132,
@@ -2205,7 +2205,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 9,
         "raw": "Millbrook, A. (2023). A short history of tractors in English. The Economist. From https://www.economist.com/christmas-specials/2023/12/20/a-short-history-of-tractors-in-english",
-        "summary": "Curated article in 'The Political Economy of AI and Big Data (COIL)' by Millbrook, A (2023). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 133,
@@ -2213,7 +2213,7 @@ window.HKU_COURSES_DATA = {
         "author": "MIT News Office",
         "year": "2024",
         "type": "Paper",
-        "source": "From https://news. mit. edu/2024/what-do-we-know-about-economics-ai-1206",
+        "source": ". From https://news. mit. edu/2024/what-do-we-know-about-economics-ai-1206",
         "url": "https://news.mit.edu/2024/what-do-we-know-about-economics-ai-1206",
         "subtopic": "",
         "course_code": "CCAI9019",
@@ -2252,7 +2252,7 @@ window.HKU_COURSES_DATA = {
         "author": "TEDx Talks",
         "year": "2021",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=uvqDTbusdUU",
         "url": "https://www.youtube.com/watch?v=uvqDTbusdUU",
         "subtopic": "Introduction to AI in Personal Health",
         "course_code": "CCAI9020",
@@ -2260,7 +2260,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 1,
         "raw": "TEDx Talks. (2021). Artificial intelligence in healthcare: opportunities and challenges | Navid Toosi Saidy | TEDxQUT. From https://www.youtube.com/watch?v=uvqDTbusdUU",
-        "summary": "Curated video in 'AI, Health and Me' by TEDx Talks (2021). Examines key insights regarding Introduction to AI in Personal Health."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Introduction to AI in Personal Health."
       },
       {
         "id": 136,
@@ -2268,7 +2268,7 @@ window.HKU_COURSES_DATA = {
         "author": "Click On Detroit | Local 4 | WDIV",
         "year": "2023",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=YfGdgYmadX0",
         "url": "https://www.youtube.com/watch?v=YfGdgYmadX0",
         "subtopic": "AI in Reproductive Health",
         "course_code": "CCAI9020",
@@ -2276,7 +2276,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 2,
         "raw": "Click On Detroit | Local 4 | WDIV. (2023). How AI is changing the parenting game. From https://www.youtube.com/watch?v=YfGdgYmadX0",
-        "summary": "Curated video in 'AI, Health and Me' by Click On Detroit | Local 4 | WDIV (2023). Examines key insights regarding AI in Reproductive Health."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding AI in Reproductive Health."
       },
       {
         "id": 137,
@@ -2292,7 +2292,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 3,
         "raw": "Tamir, S. (2022). Artificial intelligence in human reproduction: charting the ethical debate over AI in IVF. AI and Ethics, 3, 947–961. From https://doi.org/10.1007/s43681-022-00216-x",
-        "summary": "Curated paper in 'AI, Health and Me' by Tamir, S (2022). Examines key insights regarding AI in Reproductive Health."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding AI in Reproductive Health."
       },
       {
         "id": 138,
@@ -2300,7 +2300,7 @@ window.HKU_COURSES_DATA = {
         "author": "TEDx Talks",
         "year": "2024",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=ZSoXaM5p3Yw",
         "url": "https://www.youtube.com/watch?v=ZSoXaM5p3Yw",
         "subtopic": "AI in Elderly Care",
         "course_code": "CCAI9020",
@@ -2308,7 +2308,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 4,
         "raw": "TEDx Talks. (2024). Artificial Intelligence That Helps Seniors Stay in their Homes | Mai Lee Chang | TEDxOshkosh. From https://www.youtube.com/watch?v=ZSoXaM5p3Yw",
-        "summary": "Curated video in 'AI, Health and Me' by TEDx Talks (2024). Examines key insights regarding AI in Elderly Care."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding AI in Elderly Care."
       },
       {
         "id": 139,
@@ -2324,7 +2324,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 5,
         "raw": "Beam, A. L., Drazen, J. M., Kohane, I. S., Leong, T. -Y., Manrai, A.K., & Rubin, E. J. (2023). Artificial Intelligence in Medicine. New England Journal of Medicine, 388(13), 1220–1221. From https://doi.org/10.1056/nejme2206291",
-        "summary": "Curated paper in 'AI, Health and Me' by Beam, A. L., Drazen, J. M., Kohane, I. S., Leong, T. -Y., Manrai, A.K., & Rubin, E. J (2023). Examines key insights regarding Reading Week."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Reading Week."
       },
       {
         "id": 140,
@@ -2332,7 +2332,7 @@ window.HKU_COURSES_DATA = {
         "author": "CTV Your Morning",
         "year": "2023",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=pYh5Wc6dROU",
         "url": "https://www.youtube.com/watch?v=pYh5Wc6dROU",
         "subtopic": "Reading Week",
         "course_code": "CCAI9020",
@@ -2340,7 +2340,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 6,
         "raw": "CTV Your Morning (2023). Healthcare tips for young adults | Your Morning. From https://www.youtube.com/watch?v=pYh5Wc6dROU",
-        "summary": "Curated video in 'AI, Health and Me' by CTV Your Morning (2023). Examines key insights regarding Reading Week."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Reading Week."
       },
       {
         "id": 141,
@@ -2348,7 +2348,7 @@ window.HKU_COURSES_DATA = {
         "author": "Ramesh, R",
         "year": "2017",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=2ePf9rue1Ao",
         "url": "https://www.youtube.com/watch?v=2ePf9rue1Ao",
         "subtopic": "Reading Week",
         "course_code": "CCAI9020",
@@ -2356,7 +2356,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 7,
         "raw": "Ramesh, R. (2017). What is Artificial Intelligence? In 5 minutes. From https://www.youtube.com/watch?v=2ePf9rue1Ao",
-        "summary": "Curated video in 'AI, Health and Me' by Ramesh, R (2017). Examines key insights regarding Reading Week."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Reading Week."
       },
       {
         "id": 142,
@@ -2372,7 +2372,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 8,
         "raw": "Topol, E. J. (2019). High-performance medicine: the Convergence of Human and Artificial Intelligence. Nature Medicine, 25(1), 44–56. From https://doi.org/10.1038/s41591-018-0300-7",
-        "summary": "Curated paper in 'AI, Health and Me' by Topol, E. J (2019). Examines key insights regarding Reading Week."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Reading Week."
       },
       {
         "id": 143,
@@ -2388,7 +2388,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 9,
         "raw": "Larson, D. B., Magnus, D. C., Lungren, M. P., Shah, N. H., & Langlotz, C. P. (2020). Ethics of Using and Sharing Clinical Imaging Data for Artificial Intelligence: A Proposed Framework. Radiology, 295(3), 675–682. From https://doi.org/10.1148/radiol.2020192536",
-        "summary": "Curated paper in 'AI, Health and Me' by Larson, D. B., Magnus, D. C., Lungren, M. P., Shah, N. H., & Langlotz, C. P (2020). Examines key insights regarding Building Trust in Healthcare AI."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Building Trust in Healthcare AI."
       },
       {
         "id": 144,
@@ -2396,7 +2396,7 @@ window.HKU_COURSES_DATA = {
         "author": "PracticalBioethics",
         "year": "2023",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=9gyx8U7wCqQ",
         "url": "https://www.youtube.com/watch?v=9gyx8U7wCqQ",
         "subtopic": "Building Trust in Healthcare AI",
         "course_code": "CCAI9020",
@@ -2404,7 +2404,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 10,
         "raw": "PracticalBioethics. (2023). The Challenge of Ethics and AI in Healthcare. From https://www.youtube.com/watch?v=9gyx8U7wCqQ",
-        "summary": "Curated video in 'AI, Health and Me' by PracticalBioethics (2023). Examines key insights regarding Building Trust in Healthcare AI."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Building Trust in Healthcare AI."
       },
       {
         "id": 145,
@@ -2420,7 +2420,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 11,
         "raw": "Petersson, L., Larsson, I., Nygren, J. M., Nilsen, P., Neher, M., Reed, J. E., Tyskbo, D., & Svedberg, P. (2022). Challenges to implementing artificial intelligence in healthcare: a qualitative interview study with healthcare leaders in Sweden. BMC Health Services Research, 22(1). From https://doi.org/10.1186/s12913-022-08215-8",
-        "summary": "Curated video in 'AI, Health and Me' by Petersson, L., Larsson, I., Nygren, J. M., Nilsen, P., Neher, M., Reed, J. E., Tyskbo, D., & Svedberg, P (2022). Examines key insights regarding Launching AI Health Solutions."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Launching AI Health Solutions."
       },
       {
         "id": 146,
@@ -2428,7 +2428,7 @@ window.HKU_COURSES_DATA = {
         "author": "The Strategy Group",
         "year": "2017",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=vQytKCT563I",
         "url": "https://www.youtube.com/watch?v=vQytKCT563I",
         "subtopic": "Launching AI Health Solutions",
         "course_code": "CCAI9020",
@@ -2436,7 +2436,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 12,
         "raw": "The Strategy Group. (2017). Design Thinking in 90 Seconds. From https://www.youtube.com/watch?v=vQytKCT563I",
-        "summary": "Curated video in 'AI, Health and Me' by The Strategy Group (2017). Examines key insights regarding Launching AI Health Solutions."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Launching AI Health Solutions."
       },
       {
         "id": 147,
@@ -2444,7 +2444,7 @@ window.HKU_COURSES_DATA = {
         "author": "Tomisin Ajiboye",
         "year": "2015",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=GZvoksu_CI4",
         "url": "https://www.youtube.com/watch?v=GZvoksu_CI4",
         "subtopic": "Launching AI Health Solutions",
         "course_code": "CCAI9020",
@@ -2452,7 +2452,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 13,
         "raw": "Tomisin Ajiboye. (2015). Refining your Ideas. From https://www.youtube.com/watch?v=GZvoksu_CI4",
-        "summary": "Curated video in 'AI, Health and Me' by Tomisin Ajiboye (2015). Examines key insights regarding Launching AI Health Solutions."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Launching AI Health Solutions."
       }
     ]
   },
@@ -2467,7 +2467,7 @@ window.HKU_COURSES_DATA = {
         "author": "Acemoglu, D., & Johnson, S",
         "year": "2023",
         "type": "Book",
-        "source": "",
+        "source": "Boston: PublicAffairs. [Chap. 1 “Control over Technology”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9022",
@@ -2475,7 +2475,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 1,
         "raw": "Acemoglu, D., & Johnson, S. (2023). Power and Progress. Boston: PublicAffairs. [Chap. 1 “Control over Technology”]",
-        "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Acemoglu, D., & Johnson, S (2023). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 149,
@@ -2483,7 +2483,7 @@ window.HKU_COURSES_DATA = {
         "author": "Bradford, A",
         "year": "2023",
         "type": "Book",
-        "source": "",
+        "source": "Oxford: Oxford University Press. [Part 1 “Introduction”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9022",
@@ -2491,7 +2491,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 2,
         "raw": "Bradford, A. (2023). Digital Empires: The Global Battle to Regulate Technology. Oxford: Oxford University Press. [Part 1 “Introduction”]",
-        "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Bradford, A (2023). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 150,
@@ -2499,7 +2499,7 @@ window.HKU_COURSES_DATA = {
         "author": "Brynjolfsson, E., & McAfee, A",
         "year": "2014",
         "type": "Book",
-        "source": "",
+        "source": "New York: W. W. Norton & Company. [Chap. 11 “Implications”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9022",
@@ -2507,7 +2507,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 3,
         "raw": "Brynjolfsson, E., & McAfee, A. (2014). The Second Machine Age. New York: W. W. Norton & Company. [Chap. 11 “Implications”]",
-        "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Brynjolfsson, E., & McAfee, A (2014). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 151,
@@ -2515,7 +2515,7 @@ window.HKU_COURSES_DATA = {
         "author": "Crawford, K",
         "year": "2021",
         "type": "Book",
-        "source": "",
+        "source": "New Haven: Yale University Press. [Chap. 1 “Earth”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9022",
@@ -2539,7 +2539,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 5,
         "raw": "De Vries, A. (2023). The growing energy footprint of artificial intelligence. Cell Joule, 7(10), 2238-2244.",
-        "summary": "Curated paper in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by De Vries, A (2023). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 153,
@@ -2547,7 +2547,7 @@ window.HKU_COURSES_DATA = {
         "author": "Dodhia, R",
         "year": "2024",
         "type": "Book",
-        "source": "",
+        "source": "New Jersey: John Wiley & Sons Inc. [Chap. 6 “Putting Safeguards Around AI”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9022",
@@ -2555,7 +2555,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 6,
         "raw": "Dodhia, R. (2024). AI For Social Good: Using Artificial Intelligence to Save the World. New Jersey: John Wiley & Sons Inc. [Chap. 6 “Putting Safeguards Around AI”]",
-        "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Dodhia, R (2024). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 154,
@@ -2563,7 +2563,7 @@ window.HKU_COURSES_DATA = {
         "author": "Eubanks, V",
         "year": "2017",
         "type": "Book",
-        "source": "New York: St. Martin’s Press. [Chap. 5 “The Digital Poorhouse”]",
+        "source": "New York: St. Martin’s Press. [Chap. 5 “The Digital Poorhouse”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9022",
@@ -2571,7 +2571,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 7,
         "raw": "Eubanks, V. (2017). Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor. New York: St. Martin’s Press. [Chap. 5 “The Digital Poorhouse”]",
-        "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Eubanks, V (2017). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 155,
@@ -2579,7 +2579,7 @@ window.HKU_COURSES_DATA = {
         "author": "Fruchterman, J",
         "year": "2025",
         "type": "Book",
-        "source": "",
+        "source": "Massachusetts: The MIT Press. [Chap. 2 “The Top Bad Ideas in Tech for Good”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9022",
@@ -2587,7 +2587,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 8,
         "raw": "Fruchterman, J. (2025). Technology for Good: How Nonprofit Leaders are Using Software and Data to Solve Our Most Pressing Social Problems. Massachusetts: The MIT Press. [Chap. 2 “The Top Bad Ideas in Tech for Good”]",
-        "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Fruchterman, J (2025). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 156,
@@ -2595,7 +2595,7 @@ window.HKU_COURSES_DATA = {
         "author": "Kissinger, H. A., Mundie, C., & Schmidt, E",
         "year": "2024",
         "type": "Paper",
-        "source": "[Chap. 4 “Politics”]",
+        "source": "[Chap. 4 “Politics”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9022",
@@ -2603,7 +2603,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 9,
         "raw": "Kissinger, H. A., Mundie, C., & Schmidt, E. (2024). Genesis – Artificial Intelligence, Hope and the Human Spirit New York: Little, Brown and Company. [Chap. 4 “Politics”]",
-        "summary": "Curated paper in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Kissinger, H. A., Mundie, C., & Schmidt, E (2024). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 157,
@@ -2611,7 +2611,7 @@ window.HKU_COURSES_DATA = {
         "author": "Lee, K. F",
         "year": "2018",
         "type": "Book",
-        "source": "",
+        "source": "Boston: Houghton Mifflin Harcourt. [Chap. 3 “China’s Alternate Internet Universe”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9022",
@@ -2619,7 +2619,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 10,
         "raw": "Lee, K. F. (2018). AI Superpowers: China, Silicon Valley, and the New World Order. Boston: Houghton Mifflin Harcourt. [Chap. 3 “China’s Alternate Internet Universe”]",
-        "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Lee, K. F (2018). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 158,
@@ -2635,7 +2635,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 11,
         "raw": "Li, P., Yang, J., Islam, M.A. & Ren, S. (2025). Making AI Less ‘Thirsty’. Communications of the ACM, 68(7), 54-61.",
-        "summary": "Curated paper in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Li, P., Yang, J., Islam, M.A. & Ren, S (2025). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 159,
@@ -2643,7 +2643,7 @@ window.HKU_COURSES_DATA = {
         "author": "Mitchell, M",
         "year": "2019",
         "type": "Book",
-        "source": "",
+        "source": "New York: Farrar, Straus and Giroux. [Chap. 14 “On Understanding”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9022",
@@ -2651,7 +2651,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 12,
         "raw": "Mitchell, M. (2019). Artificial Intelligence: A Guide for Thinking Humans. New York: Farrar, Straus and Giroux. [Chap. 14 “On Understanding”]",
-        "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Mitchell, M (2019). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 160,
@@ -2659,7 +2659,7 @@ window.HKU_COURSES_DATA = {
         "author": "Mollick, E",
         "year": "2024",
         "type": "Book",
-        "source": "",
+        "source": "New York: Portfolio/Penguin. [Chap. 6: “AI as a Coworker” / Chap. 8 “AI as a Coach”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9022",
@@ -2667,7 +2667,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 13,
         "raw": "Mollick, E. (2024). Co-Intelligence: Living and Working with AI. New York: Portfolio/Penguin. [Chap. 6: “AI as a Coworker” / Chap. 8 “AI as a Coach”]",
-        "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Mollick, E (2024). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 161,
@@ -2675,7 +2675,7 @@ window.HKU_COURSES_DATA = {
         "author": "Nissenbaum, H",
         "year": "2009",
         "type": "Book",
-        "source": "",
+        "source": "Stanford: Stanford Law Books. [Chap. 4 “Locating the Value in Privacy”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9022",
@@ -2683,7 +2683,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 14,
         "raw": "Nissenbaum, H. (2009). Privacy in Context: Technology, Policy, and the Integrity of Social Life. Stanford: Stanford Law Books. [Chap. 4 “Locating the Value in Privacy”]",
-        "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Nissenbaum, H (2009). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 162,
@@ -2691,7 +2691,7 @@ window.HKU_COURSES_DATA = {
         "author": "Schneier, B., & Sanders, N. E",
         "year": "2025",
         "type": "Book",
-        "source": "",
+        "source": "Massachusetts: The MIT Press. [Chap. “Principles for AI that Helps Democracy”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9022",
@@ -2699,7 +2699,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 15,
         "raw": "Schneier, B., & Sanders, N. E. (2025). Rewiring Democracy: How AI Will Transform Our Politics, Government and Citizenship. Massachusetts: The MIT Press. [Chap. “Principles for AI that Helps Democracy”]",
-        "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Schneier, B., & Sanders, N. E (2025). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 163,
@@ -2707,7 +2707,7 @@ window.HKU_COURSES_DATA = {
         "author": "Suleyman, M., & Bhaskar, M",
         "year": "2023",
         "type": "Book",
-        "source": "",
+        "source": "New York: Crown. [Chap. 14 “Ten Steps Toward Containment”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9022",
@@ -2715,7 +2715,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 16,
         "raw": "Suleyman, M., & Bhaskar, M. (2023). The Coming Wave: Technology, Power, and the Twenty-first Century’s Greatest Dilemma. New York: Crown. [Chap. 14 “Ten Steps Toward Containment”]",
-        "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Suleyman, M., & Bhaskar, M (2023). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 164,
@@ -2723,7 +2723,7 @@ window.HKU_COURSES_DATA = {
         "author": "Susskind, D",
         "year": "2020",
         "type": "Book",
-        "source": "",
+        "source": "New York: Henry Holt and Co. [Chap. 5 “The Task Encroachment” / Chap. 9 “Education and Its Limits”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9022",
@@ -2731,7 +2731,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 17,
         "raw": "Susskind, D. (2020). A World Without Work. New York: Henry Holt and Co. [Chap. 5 “The Task Encroachment” / Chap. 9 “Education and Its Limits”]",
-        "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Susskind, D (2020). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       }
     ]
   },
@@ -2746,7 +2746,7 @@ window.HKU_COURSES_DATA = {
         "author": "3Blue1Brown",
         "year": "2024",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=LPZh9BOjkQs",
         "url": "https://www.youtube.com/watch?v=LPZh9BOjkQs",
         "subtopic": "",
         "course_code": "CCAI9024",
@@ -2754,7 +2754,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 1,
         "raw": "3Blue1Brown. (2024). Large Language Models explained briefly. From https://www.youtube.com/watch?v=LPZh9BOjkQs",
-        "summary": "Curated video in 'Generative AI and the Future of Creativity' by 3Blue1Brown (2024). Explores fundamental themes in creativity & aesthetics."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
       },
       {
         "id": 166,
@@ -2762,7 +2762,7 @@ window.HKU_COURSES_DATA = {
         "author": "De Cremer, D., Bianzino, N. M., & Falk, B",
         "year": "2023",
         "type": "Article",
-        "source": "",
+        "source": "Harvard Business Review. From https://hbr. org/2023/04/how-generative-ai-could-disrupt-creative-work",
         "url": "https://hbr.org/2023/04/how-generative-ai-could-disrupt-creative-work",
         "subtopic": "",
         "course_code": "CCAI9024",
@@ -2770,7 +2770,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 2,
         "raw": "De Cremer, D., Bianzino, N. M., & Falk, B. (2023). How Generative AI Could Disrupt Creative Work. Harvard Business Review. From https://hbr.org/2023/04/how-generative-ai-could-disrupt-creative-work",
-        "summary": "Curated article in 'Generative AI and the Future of Creativity' by De Cremer, D., Bianzino, N. M., & Falk, B (2023). Explores fundamental themes in creativity & aesthetics."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
       },
       {
         "id": 167,
@@ -2778,7 +2778,7 @@ window.HKU_COURSES_DATA = {
         "author": "Eapen, T. T., Finkenstadt, D. J., Folk, J., & Venkataswamy, L",
         "year": "2023",
         "type": "Article",
-        "source": "",
+        "source": "Harvard Business Review. From https://hbr. org/2023/07/how-generative-ai-can-augment-human-creativity",
         "url": "https://hbr.org/2023/07/how-generative-ai-can-augment-human-creativity",
         "subtopic": "",
         "course_code": "CCAI9024",
@@ -2786,7 +2786,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 3,
         "raw": "Eapen, T. T., Finkenstadt, D. J., Folk, J., & Venkataswamy, L. (2023). How Generative AI Can Augment Human Creativity. Harvard Business Review. From https://hbr.org/2023/07/how-generative-ai-can-augment-human-creativity.",
-        "summary": "Curated article in 'Generative AI and the Future of Creativity' by Eapen, T. T., Finkenstadt, D. J., Folk, J., & Venkataswamy, L (2023). Explores fundamental themes in creativity & aesthetics."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
       },
       {
         "id": 168,
@@ -2794,7 +2794,7 @@ window.HKU_COURSES_DATA = {
         "author": "Paul, E. S., & Stokes, D",
         "year": "2023",
         "type": "Article",
-        "source": "",
+        "source": "Stanford. edu. From https://plato. stanford. edu/entries/creativity",
         "url": "https://plato.stanford.edu/entries/creativity",
         "subtopic": "",
         "course_code": "CCAI9024",
@@ -2802,7 +2802,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 4,
         "raw": "Paul, E. S., & Stokes, D. (2023). Creativity. Stanford.edu. From https://plato.stanford.edu/entries/creativity",
-        "summary": "Curated article in 'Generative AI and the Future of Creativity' by Paul, E. S., & Stokes, D (2023). Explores fundamental themes in creativity & aesthetics."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
       },
       {
         "id": 169,
@@ -2810,7 +2810,7 @@ window.HKU_COURSES_DATA = {
         "author": "Sanderson, G",
         "year": "2019",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
         "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
         "subtopic": "",
         "course_code": "CCAI9024",
@@ -2818,7 +2818,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 5,
         "raw": "Sanderson, G. (2019). Neural networks. From https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
-        "summary": "Curated video in 'Generative AI and the Future of Creativity' by Sanderson, G (2019). Explores fundamental themes in creativity & aesthetics."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
       },
       {
         "id": 170,
@@ -2826,7 +2826,7 @@ window.HKU_COURSES_DATA = {
         "author": "Schwanke, A",
         "year": "2024",
         "type": "Paper",
-        "source": "From https://medium. com/@axel. schwanke/generative-ai-never-truly-creative-68a0189d98e8",
+        "source": ". From https://medium. com/@axel. schwanke/generative-ai-never-truly-creative-68a0189d98e8",
         "url": "https://medium.com/@axel.schwanke/generative-ai-never-truly-creative-68a0189d98e8",
         "subtopic": "",
         "course_code": "CCAI9024",
@@ -2834,7 +2834,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 6,
         "raw": "Schwanke, A. (2024). Generative AI — Never Truly Creative? Medium. From https://medium.com/@axel.schwanke/generative-ai-never-truly-creative-68a0189d98e8.",
-        "summary": "Curated paper in 'Generative AI and the Future of Creativity' by Schwanke, A (2024). Explores fundamental themes in creativity & aesthetics."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
       },
       {
         "id": 171,
@@ -2842,7 +2842,7 @@ window.HKU_COURSES_DATA = {
         "author": "Vox",
         "year": "2023",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=K0ldxCh3cnI&list=PLJ8cMiYb3G5ek1Ux66aJ_qWf6CfBaAkGG&index=8",
         "url": "https://www.youtube.com/watch?v=K0ldxCh3cnI&list=PLJ8cMiYb3G5ek1Ux66aJ_qWf6CfBaAkGG&index=8",
         "subtopic": "",
         "course_code": "CCAI9024",
@@ -2850,7 +2850,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 7,
         "raw": "Vox (2023). An AI artist explains his workflow. From https://www.youtube.com/watch?v=K0ldxCh3cnI&list=PLJ8cMiYb3G5ek1Ux66aJ_qWf6CfBaAkGG&index=8",
-        "summary": "Curated video in 'Generative AI and the Future of Creativity' by Vox (2023). Explores fundamental themes in creativity & aesthetics."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
       },
       {
         "id": 172,
@@ -2858,7 +2858,7 @@ window.HKU_COURSES_DATA = {
         "author": "Vox",
         "year": "2022",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=SVcsDDABEkM",
         "url": "https://www.youtube.com/watch?v=SVcsDDABEkM",
         "subtopic": "",
         "course_code": "CCAI9024",
@@ -2866,7 +2866,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 8,
         "raw": "Vox. (2022). AI art, explained. From https://www.youtube.com/watch?v=SVcsDDABEkM.",
-        "summary": "Curated video in 'Generative AI and the Future of Creativity' by Vox (2022). Explores fundamental themes in creativity & aesthetics."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
       }
     ]
   },
@@ -2881,7 +2881,7 @@ window.HKU_COURSES_DATA = {
         "author": "Christie, N",
         "year": "2004",
         "type": "Book",
-        "source": "Routledge. [Chap. 1 “Crime Does Not Exist”]",
+        "source": "Routledge. [Chap. 1 “Crime Does Not Exist”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9023",
@@ -2889,7 +2889,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 1,
         "raw": "Christie, N. (2004). A Suitable Amount of Crime. Routledge. [Chap. 1 “Crime Does Not Exist”]",
-        "summary": "Curated book in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Christie, N (2004). Explores fundamental themes in law & regulation."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in law & regulation."
       },
       {
         "id": 174,
@@ -2905,7 +2905,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 2,
         "raw": "Horwitz, A. V. (2008). Normality. Contexts, 7(1), 70-71.",
-        "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Horwitz, A. V (2008). Explores fundamental themes in law & regulation."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in law & regulation."
       },
       {
         "id": 175,
@@ -2921,7 +2921,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 3,
         "raw": "MacFarquhar, L. (2018). The mind-expanding ideas of Andy Clark. The New Yorker, 26. From https://www.newyorker.com/magazine/2018/04/02/the-mind-expanding-ideas-of-andy-clark",
-        "summary": "Curated article in 'Real Harm in an Unreal World: Crime, Regulation and AI' by MacFarquhar, L (2018). Examines key insights regarding The changing landscape of crime and harm."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding The changing landscape of crime and harm."
       },
       {
         "id": 176,
@@ -2929,7 +2929,7 @@ window.HKU_COURSES_DATA = {
         "author": "Goode, E., & Ben-Yehuda, N",
         "year": "2010",
         "type": "Book",
-        "source": "",
+        "source": "John Wiley & Sons. [Chap. 1 “Enter The Moral Panic”",
         "url": "",
         "subtopic": "Moral Panics in the Face of New Technology – Sometimes we get it wrong",
         "course_code": "CCAI9023",
@@ -2937,7 +2937,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 4,
         "raw": "Goode, E., & Ben-Yehuda, N. (2010). Moral Panics: The Social Construction of Deviance. John Wiley & Sons. [Chap. 1 “Enter The Moral Panic”]",
-        "summary": "Curated book in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Goode, E., & Ben-Yehuda, N (2010). Examines key insights regarding Moral Panics in the Face of New Technology – Sometimes we get it wrong."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Moral Panics in the Face of New Technology – Sometimes we get it wrong."
       },
       {
         "id": 177,
@@ -2953,7 +2953,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 5,
         "raw": "Ladegaard, I. (2025). Open Secrecy: How police crackdowns and creative problem-solving brought illegal markets out of the shadows. Social Forces, 99(2), 532-559.",
-        "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Ladegaard, I (2025). Examines key insights regarding Digitally Organized Crime – Information technology and crime networks."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Digitally Organized Crime – Information technology and crime networks."
       },
       {
         "id": 178,
@@ -2969,7 +2969,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 6,
         "raw": "Roose, K. (2019). What Does PewDiePie Really Believe? The New York Times Magazine.",
-        "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Roose, K (2019). Examines key insights regarding Extremism – How IT empowers extremist groups."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Extremism – How IT empowers extremist groups."
       },
       {
         "id": 179,
@@ -2985,7 +2985,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 7,
         "raw": "Wojcieszak, M. (2010). Don’t talk to me. New Media & Society, 12(4), 637-655.",
-        "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Wojcieszak, M (2010). Examines key insights regarding Extremism – How IT empowers extremist groups."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Extremism – How IT empowers extremist groups."
       },
       {
         "id": 180,
@@ -3001,7 +3001,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 8,
         "raw": "Fourcade, M., & Healy, K. (2017). Seeing like a market. Socio-Economic Review, 15(1), 9-29.",
-        "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Fourcade, M., & Healy, K (2017). Examines key insights regarding State Surveillance in the East and West – Balancing liberty and control."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding State Surveillance in the East and West – Balancing liberty and control."
       },
       {
         "id": 181,
@@ -3009,7 +3009,7 @@ window.HKU_COURSES_DATA = {
         "author": "Schneier, B",
         "year": "2015",
         "type": "Book",
-        "source": "",
+        "source": "WW Norton & Company. [Chap. 5 “Surveillance Capitalism – The rise of private surveillance”",
         "url": "",
         "subtopic": "State Surveillance in the East and West – Balancing liberty and control",
         "course_code": "CCAI9023",
@@ -3017,7 +3017,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 9,
         "raw": "Schneier, B. (2015). Data and Goliath. WW Norton & Company. [Chap. 5 “Surveillance Capitalism – The rise of private surveillance”]",
-        "summary": "Curated book in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Schneier, B (2015). Examines key insights regarding State Surveillance in the East and West – Balancing liberty and control."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding State Surveillance in the East and West – Balancing liberty and control."
       },
       {
         "id": 182,
@@ -3025,7 +3025,7 @@ window.HKU_COURSES_DATA = {
         "author": "Zuboff, S",
         "year": "2018",
         "type": "Paper",
-        "source": "",
+        "source": "[Excerpt",
         "url": "",
         "subtopic": "Organizational Deviance – Harm from powerful actors",
         "course_code": "CCAI9023",
@@ -3033,7 +3033,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 10,
         "raw": "Zuboff, S. (2018). Surveillance Capitalism. [Excerpt]",
-        "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Zuboff, S (2018). Examines key insights regarding Organizational Deviance – Harm from powerful actors."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Organizational Deviance – Harm from powerful actors."
       },
       {
         "id": 183,
@@ -3049,7 +3049,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 11,
         "raw": "Burrell, J. and Fourcade, M. (2021). The society of algorithms. Annual review of sociology, 47(1), 213-237.",
-        "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Burrell, J. and Fourcade, M (2021). Examines key insights regarding Living with Platform Power – Accountability and resistance."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Living with Platform Power – Accountability and resistance."
       },
       {
         "id": 184,
@@ -3065,7 +3065,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 12,
         "raw": "Van Dijk, J. A. (2006). Digital divide research. Poetics, 34(4-5), 221-235.",
-        "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Van Dijk, J. A (2006). Examines key insights regarding Inequality – Who benefits from AI?."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Inequality – Who benefits from AI?."
       },
       {
         "id": 185,
@@ -3081,7 +3081,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 13,
         "raw": "Talbot, M. (2016, November 27). The attorney fighting revenge porn. The New Yorker. From https://www.newyorker.com/magazine/2016/12/05/the-attorney-fighting-revenge-porn",
-        "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Talbot, M (2016). Examines key insights regarding Digital Victimology – Gendered violence in the digital age."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Digital Victimology – Gendered violence in the digital age."
       },
       {
         "id": 186,
@@ -3097,7 +3097,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 14,
         "raw": "Garland, D. (1991). Sociological perspectives on punishment. Crime and Justice, 14, 115-165.",
-        "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Garland, D (1991). Examines key insights regarding Digital vs. Analog Lawbreakers – Should digital crimes be treated differently."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Digital vs. Analog Lawbreakers – Should digital crimes be treated differently."
       }
     ]
   },
@@ -3112,7 +3112,7 @@ window.HKU_COURSES_DATA = {
         "author": "Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S",
         "year": "2021",
         "type": "Paper",
-        "source": "From https://doi. org/10. 1145/3442188. 3445922 [pp. 610–623]",
+        "source": ". From https://doi. org/10. 1145/3442188. 3445922 [pp. 610–623",
         "url": "https://doi.org/10.1145/3442188.3445922",
         "subtopic": "",
         "course_code": "CCAI9012",
@@ -3120,7 +3120,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 1,
         "raw": "Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dangers of stochastic parrots: Can language models be too big? Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency. From https://doi.org/10.1145/3442188.3445922 [pp. 610–623]",
-        "summary": "Curated paper in 'GenAI Solutions to Global Challenges: Using AI Creatively and Responsibly' by Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S (2021). Explores fundamental themes in creativity & aesthetics."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
       },
       {
         "id": 188,
@@ -3136,7 +3136,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 2,
         "raw": "Chiang, T. (2023, February 9). ChatGPT is a blurry JPEG of the web. The New Yorker.",
-        "summary": "Curated paper in 'GenAI Solutions to Global Challenges: Using AI Creatively and Responsibly' by Chiang, T (2023). Explores fundamental themes in creativity & aesthetics."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
       },
       {
         "id": 189,
@@ -3144,7 +3144,7 @@ window.HKU_COURSES_DATA = {
         "author": "Kaplan, J., McCandlish, S., Henighan, T., Brown, T.B., Chess, B., Child, R., Gray, S., Radford, A., Wu, J., & Amodei, D",
         "year": "2020",
         "type": "Paper",
-        "source": "",
+        "source": "arXiv:2001. 08361. From https://doi. org/10. 48550/arXiv. 2001. 08361",
         "url": "https://doi.org/10.48550/arXiv.2001.08361",
         "subtopic": "",
         "course_code": "CCAI9012",
@@ -3152,7 +3152,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 3,
         "raw": "Kaplan, J., McCandlish, S., Henighan, T., Brown, T.B., Chess, B., Child, R., Gray, S., Radford, A., Wu, J., & Amodei, D. (2020). Scaling laws for neural language models. arXiv:2001.08361. From https://doi.org/10.48550/arXiv.2001.08361",
-        "summary": "Curated paper in 'GenAI Solutions to Global Challenges: Using AI Creatively and Responsibly' by Kaplan, J., McCandlish, S., Henighan, T., Brown, T.B., Chess, B., Child, R., Gray, S., Radford, A., Wu, J., & Amodei, D (2020). Explores fundamental themes in creativity & aesthetics."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
       },
       {
         "id": 190,
@@ -3160,7 +3160,7 @@ window.HKU_COURSES_DATA = {
         "author": "Kosmyna, N., Hauptmann, E., Yuan, Y.T., Situ, J., Liao, X.-H., Beresnitzky, A.V., Braunstein, I., & Maes, P",
         "year": "2025",
         "type": "Article",
-        "source": "",
+        "source": "arXiv:2506. 08872. From https://doi. org/10. 48550/arXiv. 2506. 08872",
         "url": "https://doi.org/10.48550/arXiv.2506.08872",
         "subtopic": "",
         "course_code": "CCAI9012",
@@ -3168,7 +3168,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 4,
         "raw": "Kosmyna, N., Hauptmann, E., Yuan, Y.T., Situ, J., Liao, X.-H., Beresnitzky, A.V., Braunstein, I., & Maes, P. (2025). Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for essay writing tasks. arXiv:2506.08872. From https://doi.org/10.48550/arXiv.2506.08872",
-        "summary": "Curated article in 'GenAI Solutions to Global Challenges: Using AI Creatively and Responsibly' by Kosmyna, N., Hauptmann, E., Yuan, Y.T., Situ, J., Liao, X.-H., Beresnitzky, A.V., Braunstein, I., & Maes, P (2025). Explores fundamental themes in creativity & aesthetics."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
       },
       {
         "id": 191,
@@ -3184,7 +3184,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 5,
         "raw": "LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521, 436–444. From https://doi.org/10.1038/nature14539",
-        "summary": "Curated paper in 'GenAI Solutions to Global Challenges: Using AI Creatively and Responsibly' by LeCun, Y., Bengio, Y., & Hinton, G (2015). Explores fundamental themes in creativity & aesthetics."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
       },
       {
         "id": 192,
@@ -3192,7 +3192,7 @@ window.HKU_COURSES_DATA = {
         "author": "Murrell, A",
         "year": "2023",
         "type": "Paper",
-        "source": "",
+        "source": "The age of average",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9012",
@@ -3200,7 +3200,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 6,
         "raw": "Murrell, A. (2023). The age of average.",
-        "summary": "Curated paper in 'GenAI Solutions to Global Challenges: Using AI Creatively and Responsibly' by Murrell, A (2023). Explores fundamental themes in creativity & aesthetics."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
       },
       {
         "id": 193,
@@ -3216,7 +3216,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 7,
         "raw": "Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R., & Gal, Y. (2024). AI models collapse when trained on recursively generated data. Nature, 631(8022), 755–759. From https://doi.org/10.1038/s41586-024-07566-y",
-        "summary": "Curated paper in 'GenAI Solutions to Global Challenges: Using AI Creatively and Responsibly' by Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R., & Gal, Y (2024). Explores fundamental themes in creativity & aesthetics."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
       },
       {
         "id": 194,
@@ -3232,7 +3232,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 8,
         "raw": "The Economist. (2024). A short history of AI. The Economist.",
-        "summary": "Curated paper in 'GenAI Solutions to Global Challenges: Using AI Creatively and Responsibly' by The Economist (2024). Explores fundamental themes in creativity & aesthetics."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
       }
     ]
   },
@@ -3247,7 +3247,7 @@ window.HKU_COURSES_DATA = {
         "author": "Batty, M",
         "year": "2013",
         "type": "Book",
-        "source": "",
+        "source": "MIT press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9016",
@@ -3255,7 +3255,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 1,
         "raw": "Batty, M. (2013). The new science of cities. MIT press.",
-        "summary": "Curated book in 'AI for Cities' by Batty, M (2013). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 196,
@@ -3263,7 +3263,7 @@ window.HKU_COURSES_DATA = {
         "author": "Batty, M",
         "year": "2018",
         "type": "Book",
-        "source": "",
+        "source": "MIT press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9016",
@@ -3271,7 +3271,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 2,
         "raw": "Batty, M. (2018). Inventing future cities. MIT press.",
-        "summary": "Curated book in 'AI for Cities' by Batty, M (2018). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 197,
@@ -3279,7 +3279,7 @@ window.HKU_COURSES_DATA = {
         "author": "Kitchin, R",
         "year": "2014",
         "type": "Paper",
-        "source": "",
+        "source": "Sage",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9016",
@@ -3287,7 +3287,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 3,
         "raw": "Kitchin, R. (2014). The data revolution: Big data, open data, data infrastructures and their consequences. Sage.",
-        "summary": "Curated paper in 'AI for Cities' by Kitchin, R (2014). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 198,
@@ -3295,7 +3295,7 @@ window.HKU_COURSES_DATA = {
         "author": "Ratti, C., & Claudel, M",
         "year": "2016",
         "type": "Book",
-        "source": "",
+        "source": "Yale University Press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9016",
@@ -3303,7 +3303,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 4,
         "raw": "Ratti, C., & Claudel, M. (2016). The city of tomorrow: Sensors, networks, hackers, and the future of urban life. Yale University Press.",
-        "summary": "Curated book in 'AI for Cities' by Ratti, C., & Claudel, M (2016). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 199,
@@ -3311,7 +3311,7 @@ window.HKU_COURSES_DATA = {
         "author": "Townsend, A. M",
         "year": "2013",
         "type": "Paper",
-        "source": "",
+        "source": "WW Norton & Company",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9016",
@@ -3319,7 +3319,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 5,
         "raw": "Townsend, A. M. (2013). Smart cities: Big data, civic hackers, and the quest for a new utopia. WW Norton & Company.",
-        "summary": "Curated paper in 'AI for Cities' by Townsend, A. M (2013). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       }
     ]
   },
@@ -3342,7 +3342,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 1,
         "raw": "Notes provided by the lecturer",
-        "summary": "Curated paper in 'The Age of Big Data' by HKU Department of Computer Science (N/A). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 201,
@@ -3358,7 +3358,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 2,
         "raw": "Selected articles from newspapers, books, academic journal and conference papers, magazines and websites for each lecture",
-        "summary": "Curated book in 'The Age of Big Data' by TED Conferences (N/A). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       }
     ]
   },
@@ -3381,7 +3381,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 1,
         "raw": "Cao, Y., Gao, J., Lian, D., Rong, Z., Shi, J., Wang, Q., … & Zhou, T. (2018). Orderliness predicts academic performance: behavioural analysis on campus lifestyle. Journal of The Royal Society Interface, 15(146), 20180210.",
-        "summary": "Curated paper in 'Big Data and AI Solutions to Social Problems' by Cao, Y., Gao, J., Lian, D., Rong, Z., Shi, J., Wang, Q., … & Zhou, T (2018). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 203,
@@ -3397,7 +3397,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 2,
         "raw": "Gao, J., & Wang, D. (2024). Quantifying the use and potential benefits of artificial intelligence in scientific research. Nature Human Behaviour, 8(12), 2281-2292.",
-        "summary": "Curated paper in 'Big Data and AI Solutions to Social Problems' by Gao, J., & Wang, D (2024). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 204,
@@ -3405,7 +3405,7 @@ window.HKU_COURSES_DATA = {
         "author": "Gao, J., Zhang, Y. C., & Zhou, T",
         "year": "2019",
         "type": "Report",
-        "source": "Physics Reports, 817, 1-104. [Contents and Section 1 “Introduction”]",
+        "source": "Physics Reports, 817, 1-104. [Contents and Section 1 “Introduction”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9031",
@@ -3413,7 +3413,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 3,
         "raw": "Gao, J., Zhang, Y. C., & Zhou, T. (2019). Computational socioeconomics. Physics Reports, 817, 1-104. [Contents and Section 1 “Introduction”]",
-        "summary": "Curated report in 'Big Data and AI Solutions to Social Problems' by Gao, J., Zhang, Y. C., & Zhou, T (2019). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 205,
@@ -3429,7 +3429,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 4,
         "raw": "Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabási, A. L., Brewer, D., & Van Alstyne, M. (2009). Computational social science. Science, 323(5915), 721-723.",
-        "summary": "Curated paper in 'Big Data and AI Solutions to Social Problems' by Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabási, A. L., Brewer, D., & Van Alstyne, M (2009). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 206,
@@ -3445,7 +3445,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 5,
         "raw": "Wang, Y., Jones, B. F., & Wang, D. (2019). Early-career setback and future career impact. Nature Communications, 10(1), 4331.",
-        "summary": "Curated paper in 'Big Data and AI Solutions to Social Problems' by Wang, Y., Jones, B. F., & Wang, D (2019). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 207,
@@ -3461,7 +3461,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 6,
         "raw": "Yin, Y., Gao, J., Jones, B. F., & Wang, D. (2021). Coevolution of policy and science during the pandemic. Science, 371(6525), 128-130.",
-        "summary": "Curated paper in 'Big Data and AI Solutions to Social Problems' by Yin, Y., Gao, J., Jones, B. F., & Wang, D (2021). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 208,
@@ -3469,7 +3469,7 @@ window.HKU_COURSES_DATA = {
         "author": "Bitcoin TVPBS",
         "year": "2016",
         "type": "Paper",
-        "source": "From https://www. youtube. com/watch?v=bIY3LUZ7i8Y",
+        "source": ". From https://www. youtube. com/watch?v=bIY3LUZ7i8Y",
         "url": "https://www.youtube.com/watch?v=bIY3LUZ7i8Y",
         "subtopic": "",
         "course_code": "CCAI9031",
@@ -3477,7 +3477,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 7,
         "raw": "Bitcoin TVPBS. (2016). “Big Data Revolution” – PBS Documentary. From https://www.youtube.com/watch?v=bIY3LUZ7i8Y.",
-        "summary": "Curated paper in 'Big Data and AI Solutions to Social Problems' by Bitcoin TVPBS (2016). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 209,
@@ -3485,7 +3485,7 @@ window.HKU_COURSES_DATA = {
         "author": "Lee, K. -F",
         "year": "2018",
         "type": "Article",
-        "source": "",
+        "source": ". From https://www. ted. com/talks/kai_fu_lee_how_ai_can_save_our_humanity [TED Talk",
         "url": "https://www.ted.com/talks/kai_fu_lee_how_ai_can_save_our_humanity",
         "subtopic": "",
         "course_code": "CCAI9031",
@@ -3493,7 +3493,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 8,
         "raw": "Lee, K. -F. (2018). How AI can save our humanity. From https://www.ted.com/talks/kai_fu_lee_how_ai_can_save_our_humanity [TED Talk]",
-        "summary": "Curated article in 'Big Data and AI Solutions to Social Problems' by Lee, K. -F (2018). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 210,
@@ -3501,7 +3501,7 @@ window.HKU_COURSES_DATA = {
         "author": "Suleyman, M",
         "year": "2024",
         "type": "Paper",
-        "source": "ted. com/talks/mustafa_suleyman_what_is_an_ai_anyway [TED Talk]",
+        "source": "ted. com/talks/mustafa_suleyman_what_is_an_ai_anyway [TED Talk",
         "url": "https://www.ted.com/talks/mustafa_suleyman_what_is_an_ai_anyway",
         "subtopic": "",
         "course_code": "CCAI9031",
@@ -3509,7 +3509,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 9,
         "raw": "Suleyman, M. (2024). What is an AI anyway? From https://www.ted.com/talks/mustafa_suleyman_what_is_an_ai_anyway [TED Talk]",
-        "summary": "Curated paper in 'Big Data and AI Solutions to Social Problems' by Suleyman, M (2024). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       }
     ]
   },
@@ -3532,7 +3532,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 1,
         "raw": "Jerald, J. (2015). The VR Book: Human-centred Design for Virtual Reality (Illustrated ed.). Morgan & Claypool Publishers.",
-        "summary": "Curated paper in 'Virtual Worlds, Real Bodies' by Jerald, J (2015). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 212,
@@ -3540,7 +3540,7 @@ window.HKU_COURSES_DATA = {
         "author": "LaValle, S. M",
         "year": "2023",
         "type": "Book",
-        "source": "",
+        "source": "Cambridge University Press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9032",
@@ -3548,7 +3548,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 2,
         "raw": "LaValle, S. M. (2023). Virtual Reality. Cambridge University Press.",
-        "summary": "Curated book in 'Virtual Worlds, Real Bodies' by LaValle, S. M (2023). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 213,
@@ -3564,7 +3564,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 3,
         "raw": "Russell, S., & Norvig, P. (2021). Artificial intelligence: a modern approach (4th US ed.). Pearson.",
-        "summary": "Curated paper in 'Virtual Worlds, Real Bodies' by Russell, S., & Norvig, P (2021). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 214,
@@ -3580,7 +3580,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 4,
         "raw": "Slater, M., & Sanchez-Vives, M. V. (2016). Enhancing our lives with immersive virtual reality. Frontiers in Robotics and AI, 3, 74.",
-        "summary": "Curated paper in 'Virtual Worlds, Real Bodies' by Slater, M., & Sanchez-Vives, M. V (2016). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 215,
@@ -3604,7 +3604,7 @@ window.HKU_COURSES_DATA = {
         "author": "The Verge",
         "year": "N/A",
         "type": "Article",
-        "source": "The rise and fall and rise of virtual reality. From https://www. theverge. com/a/virtual-reality [Compilations of articles on the development of VR]",
+        "source": "The rise and fall and rise of virtual reality. From https://www. theverge. com/a/virtual-reality [Compilations of articles on the development of VR",
         "url": "https://www.theverge.com/a/virtual-reality",
         "subtopic": "",
         "course_code": "CCAI9032",
@@ -3612,7 +3612,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 6,
         "raw": "The Verge. The rise and fall and rise of virtual reality. From https://www.theverge.com/a/virtual-reality [Compilations of articles on the development of VR]",
-        "summary": "Curated article in 'Virtual Worlds, Real Bodies' by The Verge (N/A). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       }
     ]
   },
@@ -3627,7 +3627,7 @@ window.HKU_COURSES_DATA = {
         "author": "Asimov, I",
         "year": "1950",
         "type": "Paper",
-        "source": "",
+        "source": "New York: Gnome Press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9030",
@@ -3635,7 +3635,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 1,
         "raw": "Asimov, I. (1950). I, Robot. New York: Gnome Press.",
-        "summary": "Curated paper in 'Robot: Flesh, Machines, Intelligence' by Asimov, I (1950). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 218,
@@ -3651,7 +3651,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 2,
         "raw": "Bostrom, N., & Yudkowsky, E. (2011). The ethics of artificial intelligence. In K. Frankish & W. M. Ramsey (Eds.), The Cambridge handbook of artificial intelligence. Cambridge University Press.",
-        "summary": "Curated paper in 'Robot: Flesh, Machines, Intelligence' by Bostrom, N., & Yudkowsky, E (2011). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 219,
@@ -3659,7 +3659,7 @@ window.HKU_COURSES_DATA = {
         "author": "Gutkind, L",
         "year": "2009",
         "type": "Paper",
-        "source": "",
+        "source": "New York: W. W. Norton & Company",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9030",
@@ -3667,7 +3667,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 3,
         "raw": "Gutkind, L. (2009). Almost human: Making robots think. New York: W.W. Norton & Company.",
-        "summary": "Curated paper in 'Robot: Flesh, Machines, Intelligence' by Gutkind, L (2009). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 220,
@@ -3675,7 +3675,7 @@ window.HKU_COURSES_DATA = {
         "author": "Wallach, W., & Allen, C",
         "year": "2010",
         "type": "Book",
-        "source": "",
+        "source": "Oxford: Oxford University Press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9030",
@@ -3683,7 +3683,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 4,
         "raw": "Wallach, W., & Allen, C. (2010). Moral machines: Teaching robots right from wrong. Oxford: Oxford University Press.",
-        "summary": "Curated book in 'Robot: Flesh, Machines, Intelligence' by Wallach, W., & Allen, C (2010). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       }
     ]
   },
@@ -3706,7 +3706,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 1,
         "raw": "Association of Health Care Journalists. (n.d.) Statement of principles of the association of health care journalists. From https://healthjournalism.org/about/principles-and-policies/statement-of-principles-of-the-association-of-health-care-journalists",
-        "summary": "Curated paper in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by Association of Health Care Journalists (AHCJ) (N/A). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 222,
@@ -3722,7 +3722,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 2,
         "raw": "Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J. (2021). The science of visual data communication: What works. Psychological Science in the Public Interest, 22(3), 110-161. From https://doi.org/10.1177/15291006211051956",
-        "summary": "Curated paper in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J (2021). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 223,
@@ -3730,7 +3730,7 @@ window.HKU_COURSES_DATA = {
         "author": "Nan, X., Wang, Y., & Thier, K",
         "year": "2021",
         "type": "Paper",
-        "source": "",
+        "source": "London: Routledge. [pp. 3332 “Health misinformation. ”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9034",
@@ -3738,7 +3738,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 3,
         "raw": "Nan, X., Wang, Y., & Thier, K. (2021). The Routledge handbook of health communication. London: Routledge. [pp. 3332 “Health misinformation.”]",
-        "summary": "Curated paper in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by Nan, X., Wang, Y., & Thier, K (2021). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 224,
@@ -3754,7 +3754,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 4,
         "raw": "National Cancer Institute. (2004). Making health communication programs work (The Pink Book). Bethesda, MD: U.S. Department of Health and Human Services, National Institutes of Health. From https://www.cancer.gov/publications/health-communication/pink-book.pdf",
-        "summary": "Curated paper in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by National Cancer Institute (2004). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 225,
@@ -3762,7 +3762,7 @@ window.HKU_COURSES_DATA = {
         "author": "Plechatá, A., Makransky, G., & Böhm, R",
         "year": "2022",
         "type": "Paper",
-        "source": "From https://doi. org/10. 1038/s41746-022-00682-x",
+        "source": ". From https://doi. org/10. 1038/s41746-022-00682-x",
         "url": "https://doi.org/10.1038/s41746-022-00682-x",
         "subtopic": "",
         "course_code": "CCAI9034",
@@ -3770,7 +3770,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 5,
         "raw": "Plechatá, A., Makransky, G., & Böhm, R. (2022). Can extended reality in the metaverse revolutionise health communication?, NPJ Digital Medicine, 5, 132. From https://doi.org/10.1038/s41746-022-00682-x",
-        "summary": "Curated paper in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by Plechatá, A., Makransky, G., & Böhm, R (2022). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 226,
@@ -3786,7 +3786,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 6,
         "raw": "Public Health Collaborative. (n.d.). Strategies for developing culturally driven public health communications. From https://publichealthcollaborative.org/communication-tools/strategies-for-developing-culturally-driven-public-healthcommunications/",
-        "summary": "Curated article in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by Public Health Collaborative (N/A). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 227,
@@ -3802,7 +3802,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 7,
         "raw": "U.S. General Services Administration. (n.d.). Plain language guidelines. From https://digital.gov/guides/plain-language",
-        "summary": "Curated article in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by U.S. General Services Administration (N/A). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 228,
@@ -3818,7 +3818,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 8,
         "raw": "Weingott, S., & Parkinson, J. (2024). The application of artificial intelligence in health communication development: A scoping review. Health Marketing Quarterly, 42(1), 67-109. From https://doi.org/10.1080/07359683.2024.2422206",
-        "summary": "Curated paper in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by Weingott, S., & Parkinson, J (2024). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 229,
@@ -3826,7 +3826,7 @@ window.HKU_COURSES_DATA = {
         "author": "World Health Organization",
         "year": "2021",
         "type": "Report",
-        "source": "",
+        "source": ". From https://www. who. int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use",
         "url": "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use",
         "subtopic": "",
         "course_code": "CCAI9034",
@@ -3834,7 +3834,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 9,
         "raw": "World Health Organization. (2021). WHO issues first global report on Artificial Intelligence (AI) in health and six guiding principles for its design and use. From https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use",
-        "summary": "Curated report in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by World Health Organization (2021). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       }
     ]
   },
@@ -3849,7 +3849,7 @@ window.HKU_COURSES_DATA = {
         "author": "Benaich, N., & Chalmers, A",
         "year": "2024",
         "type": "Report",
-        "source": "",
+        "source": ". From https://www. stateof. ai/",
         "url": "https://www.stateof.ai/",
         "subtopic": "",
         "course_code": "CCAI9025",
@@ -3857,7 +3857,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 1,
         "raw": "Benaich, N., & Chalmers, A. (2024). State of AI report 2024. From https://www.stateof.ai/",
-        "summary": "Curated report in 'AI-driven Robotics for Humankind' by Benaich, N., & Chalmers, A (2024). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 231,
@@ -3865,7 +3865,7 @@ window.HKU_COURSES_DATA = {
         "author": "Bennett, M. S",
         "year": "2023",
         "type": "Book",
-        "source": "",
+        "source": "Mariner Books. [Chap. 22 “ChatGPT and the window into the mind”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9025",
@@ -3873,7 +3873,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 2,
         "raw": "Bennett, M. S. (2023). A brief history of intelligence: evolution, AI, and the five breakthroughs that made our brains. Mariner Books. [Chap. 22 “ChatGPT and the window into the mind”]",
-        "summary": "Curated book in 'AI-driven Robotics for Humankind' by Bennett, M. S (2023). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 232,
@@ -3881,7 +3881,7 @@ window.HKU_COURSES_DATA = {
         "author": "Prince, S. J",
         "year": "2023",
         "type": "Book",
-        "source": "MIT Press. [Chap. 20 “Why does deep learning work?”; Chap. 21 “Deep learning and ethics”]",
+        "source": "MIT Press. [Chap. 20 “Why does deep learning work?”; Chap. 21 “Deep learning and ethics”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9025",
@@ -3889,7 +3889,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 3,
         "raw": "Prince, S. J. (2023). Understanding deep learning. MIT Press. [Chap. 20 “Why does deep learning work?”; Chap. 21 “Deep learning and ethics”]",
-        "summary": "Curated book in 'AI-driven Robotics for Humankind' by Prince, S. J (2023). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 233,
@@ -3897,7 +3897,7 @@ window.HKU_COURSES_DATA = {
         "author": "Siciliano, B., et al",
         "year": "2009",
         "type": "Book",
-        "source": "Springer. [Chap. 1 “Introduction”]",
+        "source": "Springer. [Chap. 1 “Introduction”",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9025",
@@ -3905,7 +3905,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 4,
         "raw": "Siciliano, B., et al. (2009). Robotics, modelling, planning and control. Springer. [Chap. 1 “Introduction”]",
-        "summary": "Curated book in 'AI-driven Robotics for Humankind' by Siciliano, B., et al (2009). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 234,
@@ -3921,7 +3921,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 5,
         "raw": "Stone, P., et al. (2022). Artificial intelligence and life in 2030. Stanford University. From https://ai100.stanford.edu/sites/g/files/sbiybj18871/files/media/file/ai100report10032016fnl_singles.pdf",
-        "summary": "Curated report in 'AI-driven Robotics for Humankind' by Stone, P., et al (2022). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 235,
@@ -3929,7 +3929,7 @@ window.HKU_COURSES_DATA = {
         "author": "Dyna Robotics, Inc",
         "year": "2025",
         "type": "Article",
-        "source": "",
+        "source": ". From https://www. dyna. co/research",
         "url": "https://www.dyna.co/research",
         "subtopic": "",
         "course_code": "CCAI9025",
@@ -3937,7 +3937,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 6,
         "raw": "Dyna Robotics, Inc. (2025). Dynamism v1 (DYNA-1) Model: A Breakthrough in Performance and Production-Ready Embodied AI. From https://www.dyna.co/research",
-        "summary": "Curated article in 'AI-driven Robotics for Humankind' by Dyna Robotics, Inc (2025). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 236,
@@ -3945,7 +3945,7 @@ window.HKU_COURSES_DATA = {
         "author": "OpenAI",
         "year": "2023",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=outcGtbnMuQ",
         "url": "https://www.youtube.com/watch?v=outcGtbnMuQ",
         "subtopic": "",
         "course_code": "CCAI9025",
@@ -3953,7 +3953,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 7,
         "raw": "OpenAI. (2023). GPT-4 developer livestream. From https://www.youtube.com/watch?v=outcGtbnMuQ",
-        "summary": "Curated video in 'AI-driven Robotics for Humankind' by OpenAI (2023). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 237,
@@ -3961,7 +3961,7 @@ window.HKU_COURSES_DATA = {
         "author": "OpenAI",
         "year": "2023",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=U9mJuUkhUzk",
         "url": "https://www.youtube.com/watch?v=U9mJuUkhUzk",
         "subtopic": "",
         "course_code": "CCAI9025",
@@ -3969,7 +3969,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 8,
         "raw": "OpenAI. (2023). OpenAI devday: opening keynote. From https://www.youtube.com/watch?v=U9mJuUkhUzk",
-        "summary": "Curated video in 'AI-driven Robotics for Humankind' by OpenAI (2023). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 238,
@@ -3977,7 +3977,7 @@ window.HKU_COURSES_DATA = {
         "author": "CVPR 2025 WAD Workshop",
         "year": "N/A",
         "type": "Article",
-        "source": "From https://cvpr2025. wad. vision/ and https://opendrivelab. com/cvpr2025/workshop/",
+        "source": ". From https://cvpr2025. wad. vision/ and https://opendrivelab. com/cvpr2025/workshop/",
         "url": "https://cvpr2025.wad.vision/",
         "subtopic": "",
         "course_code": "CCAI9025",
@@ -3985,7 +3985,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 9,
         "raw": "Recent advances on Autonomous Driving and Embodied AI. From https://cvpr2025.wad.vision/ and https://opendrivelab.com/cvpr2025/workshop/",
-        "summary": "Curated article in 'AI-driven Robotics for Humankind' by CVPR 2025 WAD Workshop (N/A). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 239,
@@ -3993,7 +3993,7 @@ window.HKU_COURSES_DATA = {
         "author": "Teala",
         "year": "2024",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/live/6v6dbxPlsXs",
         "url": "https://www.youtube.com/live/6v6dbxPlsXs",
         "subtopic": "",
         "course_code": "CCAI9025",
@@ -4001,7 +4001,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 10,
         "raw": "Teala (2024). We, robot | Tesla Cybercab unveil. From https://www.youtube.com/live/6v6dbxPlsXs",
-        "summary": "Curated video in 'AI-driven Robotics for Humankind' by Teala (2024). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 240,
@@ -4009,7 +4009,7 @@ window.HKU_COURSES_DATA = {
         "author": "Tesla",
         "year": "2022",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=ODSJsviD_SU",
         "url": "https://www.youtube.com/watch?v=ODSJsviD_SU",
         "subtopic": "",
         "course_code": "CCAI9025",
@@ -4017,7 +4017,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 11,
         "raw": "Tesla (2022). Tesla AI day 2022. From https://www.youtube.com/watch?v=ODSJsviD_SU",
-        "summary": "Curated video in 'AI-driven Robotics for Humankind' by Tesla (2022). Explores fundamental themes in sociology & media."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
       },
       {
         "id": 241,
@@ -4025,7 +4025,7 @@ window.HKU_COURSES_DATA = {
         "author": "Arts & Science – University of Toronto",
         "year": "2023",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=QWWgr2rN45o",
         "url": "https://www.youtube.com/watch?v=QWWgr2rN45o",
         "subtopic": "Required Listening",
         "course_code": "CCAI9025",
@@ -4033,7 +4033,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 12,
         "raw": "Arts & Science – University of Toronto. (2023). Geoffrey Hinton in conversation with Fei-Fei Li – responsible AI development. From https://www.youtube.com/watch?v=QWWgr2rN45o",
-        "summary": "Curated video in 'AI-driven Robotics for Humankind' by Arts & Science – University of Toronto (2023). Examines key insights regarding Required Listening."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Required Listening."
       },
       {
         "id": 242,
@@ -4041,7 +4041,7 @@ window.HKU_COURSES_DATA = {
         "author": "MIT Embodied Intelligence",
         "year": "2024",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/playlist?list=PLCBtJRMPXXZ4dmgC-Q_X3DGTFNKjXdXFU",
         "url": "https://www.youtube.com/playlist?list=PLCBtJRMPXXZ4dmgC-Q_X3DGTFNKjXdXFU",
         "subtopic": "Required Listening",
         "course_code": "CCAI9025",
@@ -4049,7 +4049,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 13,
         "raw": "MIT Embodied Intelligence. (2024). MIT embodied intelligence seminars. From https://www.youtube.com/playlist?list=PLCBtJRMPXXZ4dmgC-Q_X3DGTFNKjXdXFU",
-        "summary": "Curated video in 'AI-driven Robotics for Humankind' by MIT Embodied Intelligence (2024). Examines key insights regarding Required Listening."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Required Listening."
       },
       {
         "id": 243,
@@ -4057,7 +4057,7 @@ window.HKU_COURSES_DATA = {
         "author": "Sunak, R",
         "year": "2024",
         "type": "Video",
-        "source": "",
+        "source": ". From https://www. youtube. com/watch?v=R2meHtrO1n8",
         "url": "https://www.youtube.com/watch?v=R2meHtrO1n8",
         "subtopic": "Required Listening",
         "course_code": "CCAI9025",
@@ -4065,7 +4065,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 14,
         "raw": "Sunak, R (2024). Rishi Sunak & Elon, Mu: talk AI, tech & the future. From https://www.youtube.com/watch?v=R2meHtrO1n8",
-        "summary": "Curated video in 'AI-driven Robotics for Humankind' by Sunak, R (2024). Examines key insights regarding Required Listening."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Required Listening."
       }
     ]
   },
@@ -4080,7 +4080,7 @@ window.HKU_COURSES_DATA = {
         "author": "Bess, M",
         "year": "2015",
         "type": "Book",
-        "source": "",
+        "source": "Beacon Press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9027",
@@ -4088,7 +4088,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 1,
         "raw": "Bess, M. (2015). Our Grandchildren Redesigned: Life in the Bioengineered Society of the Near Future. Beacon Press.",
-        "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Bess, M (2015). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 245,
@@ -4096,7 +4096,7 @@ window.HKU_COURSES_DATA = {
         "author": "Making Big Data, In Theory",
         "year": "2013",
         "type": "Paper",
-        "source": "First Monday, 18(10)",
+        "source": "First Monday, 18(10",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9027",
@@ -4104,7 +4104,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 2,
         "raw": "Boellstorff, T. (2013). Making Big Data, In Theory. First Monday, 18(10).",
-        "summary": "Curated paper in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Making Big Data, In Theory (2013). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 246,
@@ -4120,7 +4120,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 3,
         "raw": "Burgess, J. (2023). Everyday data cultures: beyond Big Critique and the technological sublime. AI and Society, 38(3), 1243-1244.",
-        "summary": "Curated paper in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Burgess, J (2023). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 247,
@@ -4128,7 +4128,7 @@ window.HKU_COURSES_DATA = {
         "author": "Campbell-Verduyn, M",
         "year": "2018",
         "type": "Paper",
-        "source": "",
+        "source": "Routledge",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9027",
@@ -4136,7 +4136,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 4,
         "raw": "Campbell-Verduyn, M. (2018). Bitcoin and Beyond: Cryptocurrencies, Blockchains and Global Governance. Routledge.",
-        "summary": "Curated paper in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Campbell-Verduyn, M (2018). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 248,
@@ -4152,7 +4152,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 5,
         "raw": "Carah, N., Angus, D., & Burgess, J. (2023). Tuning machines: an approach to exploring how Instagram’s machine vision operates on and through digital media’s participatory visual cultures. Cultural Studies, 37(1), 20-45.",
-        "summary": "Curated paper in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Carah, N., Angus, D., & Burgess, J (2023). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 249,
@@ -4160,7 +4160,7 @@ window.HKU_COURSES_DATA = {
         "author": "Ensmenger, N",
         "year": "2010",
         "type": "Book",
-        "source": "",
+        "source": "MIT Press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9027",
@@ -4168,7 +4168,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 6,
         "raw": "Ensmenger, N. (2010). The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise. MIT Press.",
-        "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Ensmenger, N (2010). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 250,
@@ -4176,7 +4176,7 @@ window.HKU_COURSES_DATA = {
         "author": "Eriksen, T. H",
         "year": "2016",
         "type": "Book",
-        "source": "",
+        "source": "Pluto Press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9027",
@@ -4184,7 +4184,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 7,
         "raw": "Eriksen, T. H. (2016). Overheating: An Anthropology of Accelerated Change. Pluto Press.",
-        "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Eriksen, T. H (2016). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 251,
@@ -4192,7 +4192,7 @@ window.HKU_COURSES_DATA = {
         "author": "Forsythe, D., & Hess, D. J",
         "year": "2001",
         "type": "Book",
-        "source": "",
+        "source": "Stanford University Press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9027",
@@ -4200,7 +4200,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 8,
         "raw": "Forsythe, D., & Hess, D. J. (2001). Studying those who study us: an anthropologist in the world of artificial intelligence. Stanford University Press.",
-        "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Forsythe, D., & Hess, D. J (2001). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 252,
@@ -4208,7 +4208,7 @@ window.HKU_COURSES_DATA = {
         "author": "Gershon, I",
         "year": "2017",
         "type": "Book",
-        "source": "",
+        "source": "University of Chicago Press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9027",
@@ -4216,7 +4216,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 9,
         "raw": "Gershon, I. (2017). Down and Out in the New Economy: How People Find (or Don’t Find) Work Today. University of Chicago Press.",
-        "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Gershon, I (2017). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 253,
@@ -4224,7 +4224,7 @@ window.HKU_COURSES_DATA = {
         "author": "Helmreich, S",
         "year": "2008",
         "type": "Book",
-        "source": "",
+        "source": "University of California Press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9027",
@@ -4232,7 +4232,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 10,
         "raw": "Helmreich, S. (2008). Silicon Second Nature: Culturing Artificial Life in a Digital World. University of California Press.",
-        "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Helmreich, S (2008). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 254,
@@ -4240,7 +4240,7 @@ window.HKU_COURSES_DATA = {
         "author": "Horst, H., & Miller, D",
         "year": "2012",
         "type": "Book",
-        "source": "",
+        "source": "Berg Publishers",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9027",
@@ -4248,7 +4248,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 11,
         "raw": "Horst, H., & Miller, D. (2012). Digital Anthropology. Berg Publishers.",
-        "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Horst, H., & Miller, D (2012). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 255,
@@ -4256,7 +4256,7 @@ window.HKU_COURSES_DATA = {
         "author": "Irani, L",
         "year": "2019",
         "type": "Book",
-        "source": "",
+        "source": "Princeton University Press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9027",
@@ -4264,7 +4264,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 12,
         "raw": "Irani, L. (2019). Chasing Innovation: Making Entrepreneurial Citizens in Modern India. Princeton University Press.",
-        "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Irani, L (2019). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 256,
@@ -4272,7 +4272,7 @@ window.HKU_COURSES_DATA = {
         "author": "Kelty, C. M",
         "year": "2008",
         "type": "Book",
-        "source": "",
+        "source": "Duke University Press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9027",
@@ -4280,7 +4280,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 13,
         "raw": "Kelty, C. M. (2008). Two Bits: The Cultural Significance of Free Software. Duke University Press.",
-        "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Kelty, C. M (2008). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 257,
@@ -4288,7 +4288,7 @@ window.HKU_COURSES_DATA = {
         "author": "Malaby, T. M",
         "year": "2009",
         "type": "Book",
-        "source": "",
+        "source": "Cornell University Press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9027",
@@ -4296,7 +4296,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 14,
         "raw": "Malaby, T. M. (2009). Making Virtual Worlds: Linden Lab and Second Life. Cornell University Press.",
-        "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Malaby, T. M (2009). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 258,
@@ -4304,7 +4304,7 @@ window.HKU_COURSES_DATA = {
         "author": "O’Dwyer, R",
         "year": "2023",
         "type": "Paper",
-        "source": "",
+        "source": "Verso",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9027",
@@ -4312,7 +4312,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 15,
         "raw": "O’Dwyer, R. (2023). Tokens: The Future of Money in the Age of the Platform. Verso.",
-        "summary": "Curated paper in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by O’Dwyer, R (2023). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 259,
@@ -4320,7 +4320,7 @@ window.HKU_COURSES_DATA = {
         "author": "Pasquale, F",
         "year": "2015",
         "type": "Book",
-        "source": "",
+        "source": "Harvard University Press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9027",
@@ -4328,7 +4328,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 16,
         "raw": "Pasquale, F. (2015). The Black Box Society: The Secret Algorithms That Control Money and Information. Harvard University Press.",
-        "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Pasquale, F (2015). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       },
       {
         "id": 260,
@@ -4336,7 +4336,7 @@ window.HKU_COURSES_DATA = {
         "author": "Zuboff, S",
         "year": "2019",
         "type": "Paper",
-        "source": "",
+        "source": "Public Affairs",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9027",
@@ -4344,7 +4344,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 17,
         "raw": "Zuboff, S. (2019). The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. Public Affairs.",
-        "summary": "Curated paper in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Zuboff, S (2019). Explores fundamental themes in politics & power."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
       }
     ]
   },
@@ -4367,7 +4367,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 1,
         "raw": "Buchan, J. (2010, May 8). War games: The story of aid and war in modern times by Linda Polman. The Guardian. From https://www.theguardian.com/books/2010/may/08/war-games-linda-polman-review",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Buchan, J (2010). Examines key insights regarding Week 2: War and humanitarian action: a very brief overview."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 2: War and humanitarian action: a very brief overview."
       },
       {
         "id": 262,
@@ -4375,7 +4375,7 @@ window.HKU_COURSES_DATA = {
         "author": "International Committee of the Red Cross (ICRC)",
         "year": "N/A",
         "type": "Article",
-        "source": "From https://www. icrc. org/en [Website]",
+        "source": ". From https://www. icrc. org/en [Website",
         "url": "https://www.icrc.org/en",
         "subtopic": "Week 2: War and humanitarian action: a very brief overview",
         "course_code": "CCAI9033",
@@ -4383,7 +4383,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 2,
         "raw": "International Committee of the Red Cross. From https://www.icrc.org/en [Website]",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by International Committee of the Red Cross (ICRC) (N/A). Examines key insights regarding Week 2: War and humanitarian action: a very brief overview."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 2: War and humanitarian action: a very brief overview."
       },
       {
         "id": 263,
@@ -4399,7 +4399,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 3,
         "raw": "Kissinger, H. A., Schmidt, E., & Mundie, C. (2024, November 18). War and Peace in the Age of Artificial Intelligence. What It Will Mean for the World When Machines Shape Strategy and Statecraft. Foreign Affairs.",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Kissinger, H. A., Schmidt, E., & Mundie, C (2024). Examines key insights regarding Week 2: War and humanitarian action: a very brief overview."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 2: War and humanitarian action: a very brief overview."
       },
       {
         "id": 264,
@@ -4407,7 +4407,7 @@ window.HKU_COURSES_DATA = {
         "author": "Médecins Sans Frontières (MSF)",
         "year": "N/A",
         "type": "Article",
-        "source": "From https://msf-seasia. org/ [Website]",
+        "source": ". From https://msf-seasia. org/ [Website",
         "url": "https://msf-seasia.org/",
         "subtopic": "Week 2: War and humanitarian action: a very brief overview",
         "course_code": "CCAI9033",
@@ -4415,7 +4415,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 4,
         "raw": "MSF Hong Kong. From https://msf-seasia.org/ [Website]",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Médecins Sans Frontières (MSF) (N/A). Examines key insights regarding Week 2: War and humanitarian action: a very brief overview."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 2: War and humanitarian action: a very brief overview."
       },
       {
         "id": 265,
@@ -4431,7 +4431,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 5,
         "raw": "Rysaback-Smith, H. (2015). History and principles of humanitarian action. Turkish Journal of Emergency Medicine, 15(Suppl 1), 5–7.",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Rysaback-Smith, H (2015). Examines key insights regarding Week 2: War and humanitarian action: a very brief overview."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 2: War and humanitarian action: a very brief overview."
       },
       {
         "id": 266,
@@ -4447,7 +4447,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 6,
         "raw": "The Humanitarian Policy Group at ODI. (2010, May). Aid and war: A response to Linda Polman’s critique of humanitarianism. ODI Opinions. Overseas Development Institute. From https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/5914.pdf",
-        "summary": "Curated report in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by The Humanitarian Policy Group at ODI (2010, May). Examines key insights regarding Week 2: War and humanitarian action: a very brief overview."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 2: War and humanitarian action: a very brief overview."
       },
       {
         "id": 267,
@@ -4455,7 +4455,7 @@ window.HKU_COURSES_DATA = {
         "author": "United Nations",
         "year": "N/A",
         "type": "Article",
-        "source": "From https://www. unicef. org/ [Website]",
+        "source": ". From https://www. unicef. org/ [Website",
         "url": "https://www.unicef.org/",
         "subtopic": "Week 2: War and humanitarian action: a very brief overview",
         "course_code": "CCAI9033",
@@ -4463,7 +4463,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 7,
         "raw": "UNICEF. From https://www.unicef.org/ [Website]",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by United Nations (N/A). Examines key insights regarding Week 2: War and humanitarian action: a very brief overview."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 2: War and humanitarian action: a very brief overview."
       },
       {
         "id": 268,
@@ -4479,7 +4479,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 8,
         "raw": "IMPACT Initiatives. (2024). Using big data and AI to support the Ukraine refugee response – A collaboration between IMPACT Initiatives and Data for Good at Meta. IMPACT Initiatives. From http://reliefweb.int/report/ukraine/using-big-data-and-ai-support-ukraine-refugee-response-collaboration-between-impact-initiatives-and-data-good-meta",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by IMPACT Initiatives (2024). Examines key insights regarding Week 3: People and data in humanitarian action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 3: People and data in humanitarian action."
       },
       {
         "id": 269,
@@ -4495,7 +4495,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 9,
         "raw": "Madianou, M. (2015, July-Dec). Digital Inequality and Second-Order Disasters: Social Media in the Typhoon Haiyan Recovery. Social Media + Society, 1-11.",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Madianou, M (2015). Examines key insights regarding Week 3: People and data in humanitarian action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 3: People and data in humanitarian action."
       },
       {
         "id": 270,
@@ -4511,7 +4511,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 10,
         "raw": "Pizzi, M., Romanoff, M., & Engelhardt, T. (2020). AI for humanitarian action: Human rights and ethics. International Review of the Red Cross, 102(913), 145–180.",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Pizzi, M., Romanoff, M., & Engelhardt, T (2020). Examines key insights regarding Week 3: People and data in humanitarian action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 3: People and data in humanitarian action."
       },
       {
         "id": 271,
@@ -4519,7 +4519,7 @@ window.HKU_COURSES_DATA = {
         "author": "Humanitarian OpenStreetMap Team (HOT)",
         "year": "N/A",
         "type": "Article",
-        "source": "Humanitarian OpenStreetMap Team (HOT). From https://www. hotosm. org/ [Website]",
+        "source": "Humanitarian OpenStreetMap Team (HOT). From https://www. hotosm. org/ [Website",
         "url": "https://www.hotosm.org/",
         "subtopic": "Week 4: Digital mapping in humanitarian action",
         "course_code": "CCAI9033",
@@ -4527,7 +4527,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 11,
         "raw": "Humanitarian OpenStreetMap Team. Humanitarian OpenStreetMap Team (HOT). From https://www.hotosm.org/ [Website]",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Humanitarian OpenStreetMap Team (HOT) (N/A). Examines key insights regarding Week 4: Digital mapping in humanitarian action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 4: Digital mapping in humanitarian action."
       },
       {
         "id": 272,
@@ -4543,7 +4543,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 12,
         "raw": "Leson, H. (2017, January 28). How digital humanitarians are closing the gaps in worldwide disaster response. Huffpost. From https://www.huffpost.com/entry/how-digital-humanitarians_b_9101950?guccounter=1",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Leson, H (2017). Examines key insights regarding Week 4: Digital mapping in humanitarian action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 4: Digital mapping in humanitarian action."
       },
       {
         "id": 273,
@@ -4551,7 +4551,7 @@ window.HKU_COURSES_DATA = {
         "author": "Micro Mappers",
         "year": "N/A",
         "type": "Book",
-        "source": "From https://micromappers. wordpress. com/ [Website]",
+        "source": ". From https://micromappers. wordpress. com/ [Website",
         "url": "https://micromappers.wordpress.com/",
         "subtopic": "Week 4: Digital mapping in humanitarian action",
         "course_code": "CCAI9033",
@@ -4559,7 +4559,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 13,
         "raw": "Micro Mappers. From https://micromappers.wordpress.com/ [Website]",
-        "summary": "Curated book in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Micro Mappers (N/A). Examines key insights regarding Week 4: Digital mapping in humanitarian action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 4: Digital mapping in humanitarian action."
       },
       {
         "id": 274,
@@ -4567,7 +4567,7 @@ window.HKU_COURSES_DATA = {
         "author": "US Federal News Service",
         "year": "2017",
         "type": "Article",
-        "source": "",
+        "source": ". From https://search. proquest. com/docview/1874677174?accountid=14548",
         "url": "https://search.proquest.com/docview/1874677174?accountid=14548",
         "subtopic": "Week 4: Digital mapping in humanitarian action",
         "course_code": "CCAI9033",
@@ -4575,7 +4575,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 14,
         "raw": "US Federal News Service. (2017). Central Washington University Geography students take part in global humanitarian digital mapping network. From https://search.proquest.com/docview/1874677174?accountid=14548",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by US Federal News Service (2017). Examines key insights regarding Week 4: Digital mapping in humanitarian action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 4: Digital mapping in humanitarian action."
       },
       {
         "id": 275,
@@ -4591,7 +4591,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 15,
         "raw": "Weinandy, T. J. (2016). Volunteer and technical communities in humanitarian response. Lessons in digital humanitarianism from Typhoon Haiyan. UN Chronicle, 1, 29-30.",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Weinandy, T. J (2016). Examines key insights regarding Week 4: Digital mapping in humanitarian action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 4: Digital mapping in humanitarian action."
       },
       {
         "id": 276,
@@ -4607,7 +4607,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 16,
         "raw": "Bromley, L., Jauer, K., & Matias, Y. (2024, September 16). AI from Google Research and UN boosts humanitarian disaster response: Wider coverage, faster damage assessments. Disha. From https://disha.unglobalpulse.org/ai-from-google-research-and-un-boosts-humanitarian-disaster-response-wider-coverage-faster-damage-assessments/",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Bromley, L., Jauer, K., & Matias, Y. (2024). Examines key insights regarding Week 5: Machine learning and AI in Humanitarian Action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 5: Machine learning and AI in Humanitarian Action."
       },
       {
         "id": 277,
@@ -4615,7 +4615,7 @@ window.HKU_COURSES_DATA = {
         "author": "DataKind",
         "year": "N/A",
         "type": "Article",
-        "source": "From https://www. datakind. org/ [Website]",
+        "source": ". From https://www. datakind. org/ [Website",
         "url": "https://www.datakind.org/",
         "subtopic": "Week 5: Machine learning and AI in Humanitarian Action",
         "course_code": "CCAI9033",
@@ -4623,7 +4623,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 17,
         "raw": "DataKind. From https://www.datakind.org/ [Website]",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by DataKind (N/A). Examines key insights regarding Week 5: Machine learning and AI in Humanitarian Action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 5: Machine learning and AI in Humanitarian Action."
       },
       {
         "id": 278,
@@ -4631,7 +4631,7 @@ window.HKU_COURSES_DATA = {
         "author": "Imran, M., Mitra, P., & Castillo, C",
         "year": "2016",
         "type": "Paper",
-        "source": "Proceedings of the 10th International Conference on Language Resources and Evaluation, LREC 2016. Portoroz, Slovenia. [pp. 1638-1643]",
+        "source": "Proceedings of the 10th International Conference on Language Resources and Evaluation, LREC 2016. Portoroz, Slovenia. [pp. 1638-1643",
         "url": "",
         "subtopic": "Week 5: Machine learning and AI in Humanitarian Action",
         "course_code": "CCAI9033",
@@ -4639,7 +4639,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 18,
         "raw": "Imran, M., Mitra, P., & Castillo, C. (2016). Twitter as a lifeline: Human-annotated Twitter Corpora for NLP of crisis-related messages. Proceedings of the 10th International Conference on Language Resources and Evaluation, LREC 2016. Portoroz, Slovenia. [pp. 1638-1643]",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Imran, M., Mitra, P., & Castillo, C (2016). Examines key insights regarding Week 5: Machine learning and AI in Humanitarian Action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 5: Machine learning and AI in Humanitarian Action."
       },
       {
         "id": 279,
@@ -4647,7 +4647,7 @@ window.HKU_COURSES_DATA = {
         "author": "Kumar, S., Barbier, G., Abbasi, M. A., & Liu, H",
         "year": "2011",
         "type": "Article",
-        "source": "Proceedings of the Fifth International Conference on Weblogs and Social Media. Barcelona, Spain. [pp. 661-662]",
+        "source": "Proceedings of the Fifth International Conference on Weblogs and Social Media. Barcelona, Spain. [pp. 661-662",
         "url": "",
         "subtopic": "Week 5: Machine learning and AI in Humanitarian Action",
         "course_code": "CCAI9033",
@@ -4655,7 +4655,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 19,
         "raw": "Kumar, S., Barbier, G., Abbasi, M. A., & Liu, H. (2011, July 17-21). TweetTracker: An analysis tool for humanitarian and disaster relief. Proceedings of the Fifth International Conference on Weblogs and Social Media. Barcelona, Spain. [pp. 661-662]",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Kumar, S., Barbier, G., Abbasi, M. A., & Liu, H (2011). Examines key insights regarding Week 5: Machine learning and AI in Humanitarian Action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 5: Machine learning and AI in Humanitarian Action."
       },
       {
         "id": 280,
@@ -4663,7 +4663,7 @@ window.HKU_COURSES_DATA = {
         "author": "Meier, P",
         "year": "2015",
         "type": "Paper",
-        "source": "). Routledge. [Chap. 5 “Artificial intelligence for disaster response”, Chap. 6 “Artificial intelligence in the sky”]",
+        "source": "). Routledge. [Chap. 5 “Artificial intelligence for disaster response”, Chap. 6 “Artificial intelligence in the sky”",
         "url": "",
         "subtopic": "Week 5: Machine learning and AI in Humanitarian Action",
         "course_code": "CCAI9033",
@@ -4671,7 +4671,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 20,
         "raw": "Meier, P. (2015). Digital humanitarians: How big data is changing the face of humanitarian response (1st ed.). Routledge. [Chap. 5 “Artificial intelligence for disaster response”, Chap. 6 “Artificial intelligence in the sky”]",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Meier, P (2015). Examines key insights regarding Week 5: Machine learning and AI in Humanitarian Action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 5: Machine learning and AI in Humanitarian Action."
       },
       {
         "id": 281,
@@ -4679,7 +4679,7 @@ window.HKU_COURSES_DATA = {
         "author": "UN Global Pulse",
         "year": "N/A",
         "type": "Article",
-        "source": "From https://www. unglobalpulse. org/ [Website]",
+        "source": ". From https://www. unglobalpulse. org/ [Website",
         "url": "https://www.unglobalpulse.org/",
         "subtopic": "Week 5: Machine learning and AI in Humanitarian Action",
         "course_code": "CCAI9033",
@@ -4687,7 +4687,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 21,
         "raw": "UN Global Pulse. From https://www.unglobalpulse.org/ [Website]",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by UN Global Pulse (N/A). Examines key insights regarding Week 5: Machine learning and AI in Humanitarian Action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 5: Machine learning and AI in Humanitarian Action."
       },
       {
         "id": 282,
@@ -4703,7 +4703,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 22,
         "raw": "Kazansky, B., Johnson, O., Paes, B., Kilbey, H., & The Engine Room. (2023). Chatbots in humanitarian contexts: Learning from practitioner experiences. The International Federation of Red Cross and Red Crescent Societies (IFRC). From https://communityengagementhub.org/wp-content/uploads/sites/2/2023/06/20230623_CEA_Chatbots.pdf",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Kazansky, B., Johnson, O., Paes, B., Kilbey, H., & The Engine Room (2023). Examines key insights regarding Week 6: Developing chatbots for vulnerable populations."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 6: Developing chatbots for vulnerable populations."
       },
       {
         "id": 283,
@@ -4711,7 +4711,7 @@ window.HKU_COURSES_DATA = {
         "author": "UN Women",
         "year": "2025",
         "type": "Report",
-        "source": "",
+        "source": ". From https://reliefweb. int/report/world/advancing-gender-equality-through-partnerships-gender-responsive-artificial-intelligence",
         "url": "https://reliefweb.int/report/world/advancing-gender-equality-through-partnerships-gender-responsive-artificial-intelligence",
         "subtopic": "Week 6: Developing chatbots for vulnerable populations",
         "course_code": "CCAI9033",
@@ -4719,7 +4719,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 23,
         "raw": "UN Women. (2025). Advancing Gender Equality through Partnerships for Gender-Responsive Artificial Intelligence. From https://reliefweb.int/report/world/advancing-gender-equality-through-partnerships-gender-responsive-artificial-intelligence",
-        "summary": "Curated report in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by UN Women (2025). Examines key insights regarding Week 6: Developing chatbots for vulnerable populations."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 6: Developing chatbots for vulnerable populations."
       },
       {
         "id": 284,
@@ -4735,7 +4735,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 24,
         "raw": "UNHCR. (2025). Chatbots in humanitarian settings: revolutionary, a fad or something in-between? From https://www.unhcr.org/innovation/chatbots-in-humanitarian-settings-revolutionary-a-fad-or-something-inbetween/",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by UNHCR (2025). Examines key insights regarding Week 6: Developing chatbots for vulnerable populations."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 6: Developing chatbots for vulnerable populations."
       },
       {
         "id": 285,
@@ -4743,7 +4743,7 @@ window.HKU_COURSES_DATA = {
         "author": "Eisele, I. & Steinwehr, U.",
         "year": "2023",
         "type": "Article",
-        "source": "Deutsche Welle (DW)",
+        "source": "Deutsche Welle (DW",
         "url": "https://www.dw.com/en/fact-check-ai-fakes-in-israels-war-against-hamas/a-67367744",
         "subtopic": "Week 7: AI-generated disinformation",
         "course_code": "CCAI9033",
@@ -4751,7 +4751,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 25,
         "raw": "Eisele, I., & Steinwehr, U. (2023, November 10). Fact check: AI fakes in Israel’s war against Hamas. DW. From https://www.dw.com/en/fact-check-ai-fakes-in-israels-war-against-hamas/a-67367744",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Eisele, I. & Steinwehr, U. (2023). Examines key insights regarding Week 7: AI-generated disinformation."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 7: AI-generated disinformation."
       },
       {
         "id": 286,
@@ -4767,7 +4767,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 26,
         "raw": "Klepper, D. (2023, November 29). Fake babies, real horror: Deepfakes from the Gaza war increase fears about AI’s power to mislead. Associated Press. From https://apnews.com/article/artificial-intelligence-hamas-israel-misinformation-ai-gaza-a1bb303b637ffbbb9cbc3aa1e000db47",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Fake Babies, Real Horror: Deepfakes from the Gaza War Increase Fear (2023). Examines key insights regarding Week 7: AI-generated disinformation."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 7: AI-generated disinformation."
       },
       {
         "id": 287,
@@ -4783,7 +4783,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 27,
         "raw": "Lahlou, Y., El Fikhi, S., & Faizi, R. (2019). Automatic detection of fake news on online platforms: A survey. Proceedings of the 1st International Conference on Smart Systems and Data Science (ICSSD). From https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9002823",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Lahlou, Y., El Fikhi, S., & Faizi, R (2019). Examines key insights regarding Week 7: AI-generated disinformation."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 7: AI-generated disinformation."
       },
       {
         "id": 288,
@@ -4791,7 +4791,7 @@ window.HKU_COURSES_DATA = {
         "author": "OpenAI",
         "year": "2024",
         "type": "Report",
-        "source": "",
+        "source": ". From https://openai. com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/",
         "url": "https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/",
         "subtopic": "Week 7: AI-generated disinformation",
         "course_code": "CCAI9033",
@@ -4799,7 +4799,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 28,
         "raw": "OpenAI. (2024). Disrupting deceptive uses of AI by covert influence operations. From https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/",
-        "summary": "Curated report in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by OpenAI (2024). Examines key insights regarding Week 7: AI-generated disinformation."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 7: AI-generated disinformation."
       },
       {
         "id": 289,
@@ -4815,7 +4815,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 29,
         "raw": "Osadchuk, R. (2024, July 9). AI tools usage for disinformation in the war in Ukraine. Digital Forensic Research Lab (DFRLab). From https://dfrlab.org/2024/07/09/ai-tools-usage-for-disinformation-in-the-war-in-ukraine",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Osadchuk, R (2024). Examines key insights regarding Week 7: AI-generated disinformation."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 7: AI-generated disinformation."
       },
       {
         "id": 290,
@@ -4831,7 +4831,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 30,
         "raw": "Urbani, S. (2019). First Draft’s Essential Guide to Verifying Online Information. FirstDraft. From https://firstdraftnews.org/wp-content/uploads/2019/10/Verifying_Online_Information_Digital_AW.pdf",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Urbani, S (2019). Examines key insights regarding Week 7: AI-generated disinformation."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 7: AI-generated disinformation."
       },
       {
         "id": 291,
@@ -4847,7 +4847,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 31,
         "raw": "Dangwal, A. (2024, August 14). Ukraine Unleashes British Robot Dogs On Russian Soldiers; German Anti-Thermal Camouflage Boosts Their Stealth – Bild. The EurAsian Times. From https://www.eurasiantimes.com/ukraine-unleashes-british-robot-dogs/",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Dangwal, A (2024). Examines key insights regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
       },
       {
         "id": 292,
@@ -4863,7 +4863,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 32,
         "raw": "Hambling, D. (2024, August 16). What We Know About Ukraine’s Army Of Robot Dogs. Forbes. From https://www.forbes.com/sites/davidhambling/2024/08/16/what-we-know-about-ukraines-army-of-robot-dogs/",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Hambling, D (2024). Examines key insights regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
       },
       {
         "id": 293,
@@ -4879,7 +4879,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 33,
         "raw": "Marr, B. (2024, September 17). How AI Is Used In War Today. Forbes. From https://www.forbes.com/sites/bernardmarr/2024/09/17/how-ai-is-used-in-war-today/",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Marr, B (2024). Examines key insights regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
       },
       {
         "id": 294,
@@ -4895,7 +4895,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 34,
         "raw": "Morgan, F. E., Boudreaux, B., Lohn, A. J., Ashby, M., Currident, C., Klima, K., & Grossman, D. (2020). Military Applications of Artificial Intelligence. Ethical Concerns in an Uncertain World. Santa Monica. CA: RAND Corporation.",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Morgan, F. E., Boudreaux, B., Lohn, A. J., Ashby, M., Currident, C., Klima, K., & Grossman, D (2020). Examines key insights regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
       },
       {
         "id": 295,
@@ -4911,7 +4911,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 35,
         "raw": "Serhan, Y. (2024, December 18). How Israel Uses AI in Gaza—And What It Might Mean for the Future of Warfare. Time. From https://time.com/7202584/gaza-ukraine-ai-warfare/",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Serhan, Y (2024). Examines key insights regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
       },
       {
         "id": 296,
@@ -4927,7 +4927,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 36,
         "raw": "Sonenshine, T. (2023, May 19). Military drones are swarming the skies of Ukraine and other conflict hot spots – and anything goes when it comes to international law. The Conversation. From https://theconversation.com/military-drones-are-swarming-the-skies-of-ukraine-and-other-conflict-hot-spots-and-anything-goes-when-it-comes-to-international-law-205898",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Sonenshine, T (2023). Examines key insights regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
       },
       {
         "id": 297,
@@ -4935,7 +4935,7 @@ window.HKU_COURSES_DATA = {
         "author": "NATO CCDCOE",
         "year": "N/A",
         "type": "Article",
-        "source": "From https://cyberlaw. ccdcoe. org/wiki/Main_Page [Website]",
+        "source": ". From https://cyberlaw. ccdcoe. org/wiki/Main_Page [Website",
         "url": "https://cyberlaw.ccdcoe.org/wiki/Main_Page",
         "subtopic": "Week 9: Cyberwarfare: The Invisible Front",
         "course_code": "CCAI9033",
@@ -4943,7 +4943,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 37,
         "raw": "Cyber Law Toolkit. From https://cyberlaw.ccdcoe.org/wiki/Main_Page [Website]",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by NATO CCDCOE (N/A). Examines key insights regarding Week 9: Cyberwarfare: The Invisible Front."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 9: Cyberwarfare: The Invisible Front."
       },
       {
         "id": 298,
@@ -4959,7 +4959,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 38,
         "raw": "Lakshmanan, R. (2025, October 9). From Phishing to Malware: AI Becomes Russia’s New Cyber Weapon in War on Ukraine. The Hacker News. From https://thehackernews.com/2025/10/from-phishing-to-malware-ai-becomes.html",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Lakshmanan, R (2025). Examines key insights regarding Week 9: Cyberwarfare: The Invisible Front."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 9: Cyberwarfare: The Invisible Front."
       },
       {
         "id": 299,
@@ -4967,7 +4967,7 @@ window.HKU_COURSES_DATA = {
         "author": "Lederer, E. M.",
         "year": "2020",
         "type": "Article",
-        "source": "Associated Press (AP News)",
+        "source": "Associated Press (AP News",
         "url": "https://ottawa.citynews.ca/2020/08/26/red-cross-chief-cyber-attacks-increasing-on-hospitals/",
         "subtopic": "Week 9: Cyberwarfare: The Invisible Front",
         "course_code": "CCAI9033",
@@ -4975,7 +4975,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 39,
         "raw": "Lederer, E. M. (2020, August 8). Red Cross chief: cyber attacks increasing on hospitals. Ottawa City News. https://ottawa.citynews.ca/2020/08/26/red-cross-chief-cyber-attacks-increasing-on-hospitals/",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Lederer, E. M. (2020). Examines key insights regarding Week 9: Cyberwarfare: The Invisible Front."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 9: Cyberwarfare: The Invisible Front."
       },
       {
         "id": 300,
@@ -4991,7 +4991,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 40,
         "raw": "Mueller, G. B., Jensen, B., Valeriano, B., Maness, R. C., & Macias, J. M. (2023, July 13). Cyber Operations during the Russo-Ukrainian War. From Strange Patterns to Alternative Futures. Center for Strategic & International Studies. From https://www.csis.org/analysis/cyber-operations-during-russo-ukrainian-war",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Mueller, G. B., Jensen, B., Valeriano, B., et al. (2023). Examines key insights regarding Week 9: Cyberwarfare: The Invisible Front."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 9: Cyberwarfare: The Invisible Front."
       },
       {
         "id": 301,
@@ -5007,7 +5007,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 41,
         "raw": "Abraham, Y. (2024). ‘Lavender’: The AI machine directing Israel’s bombing spree in Gaza. +972 Magazine. From https://www.972mag.com/lavender-ai-israeli-army-gaza/",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Abraham, Y (2024). Examines key insights regarding Week 10: Machine learning and AI in War."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 10: Machine learning and AI in War."
       },
       {
         "id": 302,
@@ -5015,7 +5015,7 @@ window.HKU_COURSES_DATA = {
         "author": "Human Rights Watch",
         "year": "2023",
         "type": "Article",
-        "source": "From https://www. hrw. org/news/2024/09/10/questions-and-answers-israeli-militarys-use-digital-tools-gaza",
+        "source": ". From https://www. hrw. org/news/2024/09/10/questions-and-answers-israeli-militarys-use-digital-tools-gaza",
         "url": "https://www.hrw.org/news/2024/09/10/questions-and-answers-israeli-militarys-use-digital-tools-gaza",
         "subtopic": "Week 10: Machine learning and AI in War",
         "course_code": "CCAI9033",
@@ -5023,7 +5023,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 42,
         "raw": "Human Rights Watch. (2023). Questions and Answers: Israeli Military’s Use of Digital Tools in Gaza. From https://www.hrw.org/news/2024/09/10/questions-and-answers-israeli-militarys-use-digital-tools-gaza",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Human Rights Watch (2023). Examines key insights regarding Week 10: Machine learning and AI in War."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 10: Machine learning and AI in War."
       },
       {
         "id": 303,
@@ -5039,7 +5039,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 43,
         "raw": "International Committee of the Red Cross. (2004). What is International Humanitarian Law? From https://www.icrc.org/en/document/what-international-humanitarian-law",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by International Committee of the Red Cross (2004). Examines key insights regarding Week 10: Machine learning and AI in War."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 10: Machine learning and AI in War."
       },
       {
         "id": 304,
@@ -5047,7 +5047,7 @@ window.HKU_COURSES_DATA = {
         "author": "Office of the High Commissioner for Human Rights",
         "year": "2025",
         "type": "Article",
-        "source": "",
+        "source": "Geneva: United Nations. From https://www. ohchr. org/sites/default/files/documents/issues/digitalage/artificial-intelligence-military-domain-briefer-1-en. pdf",
         "url": "https://www.ohchr.org/sites/default/files/documents/issues/digitalage/artificial-intelligence-military-domain-briefer-1-en.pdf",
         "subtopic": "Week 10: Machine learning and AI in War",
         "course_code": "CCAI9033",
@@ -5055,7 +5055,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 44,
         "raw": "Office of the High Commissioner for Human Rights. (2025). Human rights and artificial intelligence in the military domain. Geneva: United Nations. From https://www.ohchr.org/sites/default/files/documents/issues/digitalage/artificial-intelligence-military-domain-briefer-1-en.pdf",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Office of the High Commissioner for Human Rights (2025). Examines key insights regarding Week 10: Machine learning and AI in War."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 10: Machine learning and AI in War."
       },
       {
         "id": 305,
@@ -5071,7 +5071,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 45,
         "raw": "Serhan, Y. (2024, December 18). How Israel Uses AI in Gaza — And What It Might Mean for the Future of Warfare. Time. https://time.com/7202584/gaza-ukraine-ai-warfare/",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Serhan, Y (2024). Examines key insights regarding Week 10: Machine learning and AI in War."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 10: Machine learning and AI in War."
       },
       {
         "id": 306,
@@ -5079,7 +5079,7 @@ window.HKU_COURSES_DATA = {
         "author": "Amnesty International",
         "year": "2025",
         "type": "Article",
-        "source": "",
+        "source": "https://www. amnesty. org/en/documents/ior40/0484/2025/en/",
         "url": "https://www.amnesty.org/en/documents/ior40/0484/2025/en/",
         "subtopic": "Week 11: Digital Surveillance and Digital Authoritarianism",
         "course_code": "CCAI9033",
@@ -5087,7 +5087,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 46,
         "raw": "Amnesty International. (2025). Impact of digital and AI-assisted surveillance on assembly and association rights, including chilling effects. https://www.amnesty.org/en/documents/ior40/0484/2025/en/",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Amnesty International (2025). Examines key insights regarding Week 11: Digital Surveillance and Digital Authoritarianism."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 11: Digital Surveillance and Digital Authoritarianism."
       },
       {
         "id": 307,
@@ -5103,7 +5103,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 47,
         "raw": "Sahin, K. (2020, December 18). The West, China, and AI surveillance. Atlantic Council. From https://www.atlanticcouncil.org/blogs/geotech-cues/the-west-china-and-ai-surveillance/",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by The West, China, and AI surveillance (2020). Examines key insights regarding Week 11: Digital Surveillance and Digital Authoritarianism."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 11: Digital Surveillance and Digital Authoritarianism."
       },
       {
         "id": 308,
@@ -5119,7 +5119,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 48,
         "raw": "Weber, V. (2025, February 11). Data-Centric Authoritarianism: How China’s Development of Frontier Technologies Could Globalize Repression. National Endowment for Democracy. From https://www.ned.org/data-centric-authoritarianism-how-chinas-development-of-frontier-technologies-could-globalize-repression-2/",
-        "summary": "Curated report in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Weber, V. (2025). Examines key insights regarding Week 11: Digital Surveillance and Digital Authoritarianism."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 11: Digital Surveillance and Digital Authoritarianism."
       },
       {
         "id": 309,
@@ -5135,7 +5135,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 49,
         "raw": "Langrand, M. (2024, May 24). Between peril and promise: using AI to predict human displacement. Geneva Solutions. From https://genevasolutions.news/science-tech/between-peril-and-promise-using-ai-to-predict-and-avert-human-displacement",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Langrand, M (2024). Examines key insights regarding Week 12: Predictive models in war and humanitarian action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 12: Predictive models in war and humanitarian action."
       },
       {
         "id": 310,
@@ -5143,7 +5143,7 @@ window.HKU_COURSES_DATA = {
         "author": "Marwala, T",
         "year": "2026",
         "type": "Paper",
-        "source": "From https://unu. edu/article/can-deep-learning-predict-war-and-should-it",
+        "source": ". From https://unu. edu/article/can-deep-learning-predict-war-and-should-it",
         "url": "https://unu.edu/article/can-deep-learning-predict-war-and-should-it",
         "subtopic": "Week 12: Predictive models in war and humanitarian action",
         "course_code": "CCAI9033",
@@ -5151,7 +5151,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 50,
         "raw": "Marwala, T. (2026, April 20). Can Deep Learning Predict War, and Should It? United Nation University. From https://unu.edu/article/can-deep-learning-predict-war-and-should-it",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Marwala, T (2026). Examines key insights regarding Week 12: Predictive models in war and humanitarian action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 12: Predictive models in war and humanitarian action."
       },
       {
         "id": 311,
@@ -5159,7 +5159,7 @@ window.HKU_COURSES_DATA = {
         "author": "Migration Policy Centre",
         "year": "N/A",
         "type": "Article",
-        "source": "From https://migrationpolicycentre. eu/ [Website]",
+        "source": ". From https://migrationpolicycentre. eu/ [Website",
         "url": "https://migrationpolicycentre.eu/",
         "subtopic": "Week 12: Predictive models in war and humanitarian action",
         "course_code": "CCAI9033",
@@ -5167,7 +5167,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 51,
         "raw": "Migration Policy Centre. From https://migrationpolicycentre.eu/ [Website]",
-        "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Migration Policy Centre (N/A). Examines key insights regarding Week 12: Predictive models in war and humanitarian action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 12: Predictive models in war and humanitarian action."
       },
       {
         "id": 312,
@@ -5183,7 +5183,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 52,
         "raw": "Sticher, V. (2024). War and peace in the age of AI. The British Journal of Politics and International Relations, 27(2), 1-9",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Sticher, V (2024). Examines key insights regarding Week 12: Predictive models in war and humanitarian action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 12: Predictive models in war and humanitarian action."
       },
       {
         "id": 313,
@@ -5199,7 +5199,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 53,
         "raw": "The Alan Turing Institute. (2020, February 20). Predicting conflict – a year in advance. The Alan Turing Institute, 20. From https://www.turing.ac.uk/about-us/impact/predicting-conflict-year-advance",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by The Alan Turing Institute (2020). Examines key insights regarding Week 12: Predictive models in war and humanitarian action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 12: Predictive models in war and humanitarian action."
       },
       {
         "id": 314,
@@ -5215,7 +5215,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 54,
         "raw": "The Economist. (2026, May 13). AI models are being used to predict conflict. Good data are hard to come by. The Economist. From https://www.economist.com/science-and-technology/2026/05/13/ai-models-are-being-used-to-predict-conflict",
-        "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by The Economist (2026). Examines key insights regarding Week 12: Predictive models in war and humanitarian action."
+        "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 12: Predictive models in war and humanitarian action."
       }
     ]
   },
@@ -5230,7 +5230,7 @@ window.HKU_COURSES_DATA = {
         "author": "Dalio, R",
         "year": "2021",
         "type": "Paper",
-        "source": "",
+        "source": "Simon and Schuster",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9035",
@@ -5238,7 +5238,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 1,
         "raw": "Dalio, R. (2021). Principles for Dealing with the Changing World Order: Why Nations Succeed or Fail. Simon and Schuster.",
-        "summary": "Curated paper in 'History in the Machine: Can AI Simulate Human Civilizations?' by Dalio, R (2021). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 316,
@@ -5254,7 +5254,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 2,
         "raw": "Fernández-Villaverde, J., Koyama, M., Lin, Y., & Sng, T.-H. (2023). The Fractured-Land Hypothesis. The Quarterly Journal of Economics, 138(2), 1173-1231.",
-        "summary": "Curated paper in 'History in the Machine: Can AI Simulate Human Civilizations?' by Fernández-Villaverde, J., Koyama, M., Lin, Y., & Sng, T.-H (2023). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 317,
@@ -5262,7 +5262,7 @@ window.HKU_COURSES_DATA = {
         "author": "Popper, K",
         "year": "2013",
         "type": "Paper",
-        "source": "",
+        "source": "Routledge",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9035",
@@ -5270,7 +5270,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 3,
         "raw": "Popper, K. (2013). The Poverty of Historicism. Routledge.",
-        "summary": "Curated paper in 'History in the Machine: Can AI Simulate Human Civilizations?' by Popper, K (2013). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 318,
@@ -5286,7 +5286,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 4,
         "raw": "Thomson, A. J. (1996). Asimov’s Psychohistory: Vision of the Future or Present Reality? AI Applications, 10(3), 1-8.",
-        "summary": "Curated paper in 'History in the Machine: Can AI Simulate Human Civilizations?' by Thomson, A. J (1996). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       },
       {
         "id": 319,
@@ -5294,7 +5294,7 @@ window.HKU_COURSES_DATA = {
         "author": "Turchin, P",
         "year": "2003",
         "type": "Book",
-        "source": "",
+        "source": "Princeton University Press",
         "url": "",
         "subtopic": "",
         "course_code": "CCAI9035",
@@ -5302,7 +5302,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 5,
         "raw": "Turchin, P. (2003). Historical Dynamics: Why States Rise and Fall. Princeton University Press.",
-        "summary": "Curated book in 'History in the Machine: Can AI Simulate Human Civilizations?' by Turchin, P (2003). Explores fundamental themes in philosophy & mind."
+        "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
       }
     ]
   }
@@ -5314,7 +5314,7 @@ window.READINGS_DATA = [
     "author": "Bohr, A., & Memarzadeh, K",
     "year": "2020",
     "type": "Paper",
-    "source": "",
+    "source": "Artificial Intelligence in Healthcare",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9006",
@@ -5322,7 +5322,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 1,
     "raw": "Bohr, A., & Memarzadeh, K. (2020). Artificial Intelligence in Healthcare.",
-    "summary": "Curated paper in 'AI and the Bio-Revolution' by Bohr, A., & Memarzadeh, K (2020). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 2,
@@ -5330,7 +5330,7 @@ window.READINGS_DATA = [
     "author": "Ravarani, C., & Latysheva, N",
     "year": "2025",
     "type": "Paper",
-    "source": "",
+    "source": "Deep Learning for Biology: Harness AI to Solve Real-World Biology Problems",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9006",
@@ -5338,7 +5338,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 2,
     "raw": "Ravarani, C., & Latysheva, N. (2025). Deep Learning for Biology: Harness AI to Solve Real-World Biology Problems.",
-    "summary": "Curated paper in 'AI and the Bio-Revolution' by Ravarani, C., & Latysheva, N (2025). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 3,
@@ -5346,7 +5346,7 @@ window.READINGS_DATA = [
     "author": "Topol, E",
     "year": "2019",
     "type": "Paper",
-    "source": "",
+    "source": "Deep Medicine: How Artificial Intelligence Can Make HeaIthcare Human Again",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9006",
@@ -5354,7 +5354,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 3,
     "raw": "Topol, E. (2019). Deep Medicine: How Artificial Intelligence Can Make HeaIthcare Human Again.",
-    "summary": "Curated paper in 'AI and the Bio-Revolution' by Topol, E (2019). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 4,
@@ -5370,7 +5370,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 4,
     "raw": "Ngiam, K. Y., et al. (2019). Big data and machine learning algorithms for health-care delivery. The Lancet Oncology, 20(5), e262-e273.",
-    "summary": "Curated paper in 'AI and the Bio-Revolution' by Ngiam, K. Y., et al (2019). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 5,
@@ -5386,7 +5386,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 5,
     "raw": "Schwendicke, P., Samek, W., Krois, J. (2020, July). Artificial Intelligence in Dentistry: Chances and Challenges. J Dent Res, 99(7), 769-774. From https://doi.org/10.1177/0022034520915714",
-    "summary": "Curated paper in 'AI and the Bio-Revolution' by Schwendicke, P., Samek, W., Krois, J (2020, July). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 6,
@@ -5394,7 +5394,7 @@ window.READINGS_DATA = [
     "author": "YouTube Originals",
     "year": "2019",
     "type": "Video",
-    "source": "From https://www. youtube. com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc",
+    "source": ". From https://www. youtube. com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc",
     "url": "https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc",
     "subtopic": "",
     "course_code": "CCAI9006",
@@ -5402,7 +5402,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 6,
     "raw": "YouTube Originals. (2019). The Age of AI. From https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc",
-    "summary": "Curated video in 'AI and the Bio-Revolution' by YouTube Originals (2019). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 7,
@@ -5410,7 +5410,7 @@ window.READINGS_DATA = [
     "author": "Anthropic",
     "year": "2026",
     "type": "Report",
-    "source": "",
+    "source": ". From https://www. anthropic. com/research/anthropic-economic-index-january-2026-report",
     "url": "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
     "subtopic": "",
     "course_code": "CCAI9010",
@@ -5418,7 +5418,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 1,
     "raw": "Anthropic. (2026). Anthropic Economic Index report: Economic primitives. From https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
-    "summary": "Curated report in 'AI, Communication, and Society' by Anthropic (2026). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 8,
@@ -5426,7 +5426,7 @@ window.READINGS_DATA = [
     "author": "Anthropic",
     "year": "2026",
     "type": "Report",
-    "source": "",
+    "source": ". From https://www. anthropic. com/research/labor-market-impacts",
     "url": "https://www.anthropic.com/research/labor-market-impacts",
     "subtopic": "",
     "course_code": "CCAI9010",
@@ -5434,7 +5434,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 2,
     "raw": "Anthropic. (2026). Labor market impacts of AI: A new measure and early evidence. From https://www.anthropic.com/research/labor-market-impacts",
-    "summary": "Curated report in 'AI, Communication, and Society' by Anthropic (2026). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 9,
@@ -5442,7 +5442,7 @@ window.READINGS_DATA = [
     "author": "European Parliament",
     "year": "2023",
     "type": "Article",
-    "source": "",
+    "source": ". From https://www. europarl. europa. eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence",
     "url": "https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence",
     "subtopic": "",
     "course_code": "CCAI9010",
@@ -5450,7 +5450,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 3,
     "raw": "European Parliament. (2023). EU AI Act: first regulation on artificial intelligence. From https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence",
-    "summary": "Curated article in 'AI, Communication, and Society' by European Parliament (2023). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 10,
@@ -5466,7 +5466,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 4,
     "raw": "Hancock, J. T., Naaman, M., & Levy, K. (2020). AI-mediated communication: Definition, research agenda, and ethical considerations. Journal of Computer-Mediated Communication, 25(1), 89-100.",
-    "summary": "Curated paper in 'AI, Communication, and Society' by Hancock, J. T., Naaman, M., & Levy, K (2020). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 11,
@@ -5490,7 +5490,7 @@ window.READINGS_DATA = [
     "author": "OpenAI",
     "year": "2025",
     "type": "Report",
-    "source": "",
+    "source": ". From https://openai. com/index/how-people-are-using-chatgpt/",
     "url": "https://openai.com/index/how-people-are-using-chatgpt/",
     "subtopic": "",
     "course_code": "CCAI9010",
@@ -5498,7 +5498,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 6,
     "raw": "OpenAI. (2025). How people are using ChatGPT. From https://openai.com/index/how-people-are-using-chatgpt/",
-    "summary": "Curated report in 'AI, Communication, and Society' by OpenAI (2025). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 13,
@@ -5506,7 +5506,7 @@ window.READINGS_DATA = [
     "author": "Stanford Human-Centered Artificial Intelligence (HAI)",
     "year": "2025",
     "type": "Book",
-    "source": "",
+    "source": ". From https://hai-production. s3. amazonaws. com/files/hai_ai_index_report_2025. pdf [Chaps. 3 & 5",
     "url": "https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf",
     "subtopic": "",
     "course_code": "CCAI9010",
@@ -5514,7 +5514,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 7,
     "raw": "Stanford Human-Centered Artificial Intelligence (HAI). (2025). HAI AI Index Report 2025. From https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf [Chaps. 3 & 5]",
-    "summary": "Curated book in 'AI, Communication, and Society' by Stanford Human-Centered Artificial Intelligence (HAI) (2025). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 14,
@@ -5530,7 +5530,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 8,
     "raw": "The New York Times Trust Team. (2024). How The New York Times Uses A.I. for Journalism. The New York Times. From https://www.nytimes.com/2024/10/07/reader-center/how-new-york-times-uses-ai-journalism.html",
-    "summary": "Curated article in 'AI, Communication, and Society' by The New York Times Trust Team (2024). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 15,
@@ -5546,7 +5546,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 1,
     "raw": "Barnes, A. J., Zhang, Y., Valenzuela, A. (2024, July). AI and Culture: Culturally dependent responses to AI systems. Current Opinion in Psychology, 1, 101838.",
-    "summary": "Curated paper in 'Shaping Population Medicine with AI' by Barnes, A. J., Zhang, Y., Valenzuela, A (2024, July). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 16,
@@ -5562,7 +5562,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 2,
     "raw": "Berdahl, C. T, Baker, L, Mann, S., Osoba, O., & Girosi, F. (2023, February). Strategies to improve the impact of artificial intelligence on health equity: Scoping review. JMIR AI, 7(2), e42936.",
-    "summary": "Curated paper in 'Shaping Population Medicine with AI' by Berdahl, C. T, Baker, L, Mann, S., Osoba, O., & Girosi, F (2023, February). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 17,
@@ -5578,7 +5578,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 3,
     "raw": "Malviya, R., et al. (Eds.). (2022). Artificial Intelligence for Health 4.0: Challenges and Applications (1st ed.). Gistrup, Denmark: River Publishers.",
-    "summary": "Curated paper in 'Shaping Population Medicine with AI' by Malviya, R., et al. (Eds.) (2022). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 18,
@@ -5602,7 +5602,7 @@ window.READINGS_DATA = [
     "author": "Sakly, H., et. al. (Eds.)",
     "year": "2022",
     "type": "Paper",
-    "source": "",
+    "source": "Cham, Switzerland: Springer",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9008",
@@ -5610,7 +5610,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 5,
     "raw": "Sakly, H., et. al. (Eds.). (2022). Trends of Artificial Intelligence and Big Data for E-Health. Cham, Switzerland: Springer.",
-    "summary": "Curated paper in 'Shaping Population Medicine with AI' by Sakly, H., et. al. (Eds.) (2022). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 20,
@@ -5618,7 +5618,7 @@ window.READINGS_DATA = [
     "author": "World Health Organization",
     "year": "2021",
     "type": "Paper",
-    "source": ")",
+    "source": "",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9008",
@@ -5626,7 +5626,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 6,
     "raw": "World Health Organization. (2021). Ethics and Governance of Artificial Intelligence for Health: WHO Guidance (1st ed.).",
-    "summary": "Curated paper in 'Shaping Population Medicine with AI' by World Health Organization (2021). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 21,
@@ -5634,7 +5634,7 @@ window.READINGS_DATA = [
     "author": "World Health Organization",
     "year": "2022",
     "type": "Paper",
-    "source": ")",
+    "source": "",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9008",
@@ -5642,7 +5642,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 7,
     "raw": "World Health Organization. (2022). Ageism in Artificial Intelligence for Health: WHO Policy Brief (1st ed.)",
-    "summary": "Curated paper in 'Shaping Population Medicine with AI' by World Health Organization (2022). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 22,
@@ -5658,7 +5658,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 1,
     "raw": "Agell, N., &. Prat-i-Pubill, Q. (2024, February 17). Artificial intelligence: Technological revolution or existential threat? From https://dobetter.esade.edu/en/artificial-intelligence-technological-revolution-existential-threat-AI",
-    "summary": "Curated paper in 'Brain, Buddhism, and AI' by Agell, N., &. Prat-i-Pubill, Q (2024). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 23,
@@ -5674,7 +5674,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 2,
     "raw": "Carnegie Council for Ethics in International Affairs. (2021, November 10). Why are we failing at the ethics of AI? From https://www.carnegiecouncil.org/media/article/why-are-we-failing-at-the-ethics-of-ai",
-    "summary": "Curated paper in 'Brain, Buddhism, and AI' by Carnegie Council for Ethics in International Affairs (2021). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 24,
@@ -5682,7 +5682,7 @@ window.READINGS_DATA = [
     "author": "Evans, A",
     "year": "N/A",
     "type": "Article",
-    "source": "From https://www. org/monitor/2024/07/artificial-intelligence-impact",
+    "source": ". From https://www. org/monitor/2024/07/artificial-intelligence-impact",
     "url": "https://www.apa.org/monitor/2024/07/artificial-intelligence-impact",
     "subtopic": "",
     "course_code": "CCAI9001",
@@ -5690,7 +5690,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 3,
     "raw": "Evans, A. C., Jr. (n.d.). AI’s profound impact on the world. From https://www.apa.org/monitor/2024/07/artificial-intelligence-impact",
-    "summary": "Curated article in 'Brain, Buddhism, and AI' by Evans, A (N/A). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 25,
@@ -5706,7 +5706,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 4,
     "raw": "Knell, S., & Rüther, M. (2024). Artificial intelligence, superefficiency and the end of work: a humanistic perspective on meaning in life. Ai and Ethics (Online), 4(2), 363–373. From https://doi.org/10.1007/s43681-023-00273-w",
-    "summary": "Curated paper in 'Brain, Buddhism, and AI' by Knell, S., & Rüther, M (2024). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 26,
@@ -5722,7 +5722,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 5,
     "raw": "Roy, A., Minai, A. A., Thivierge, J.-P., Achler, T., & Weng, J. (2024). Editorial: What AI and Neuroscience Can Learn from Each Other—Open Problems in Models and Theories. Cognitive Computation, 16(5), 2331–2333. From https://doi.org/10.1007/s12559-024-10324-x",
-    "summary": "Curated paper in 'Brain, Buddhism, and AI' by Roy, A., Minai, A. A., Thivierge, J.-P., Achler, T., & Weng, J (2024). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 27,
@@ -5738,7 +5738,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 6,
     "raw": "Williams, G. Y., & Lim, S. (2024). Psychology of AI: How AI impacts the way people feel, think, and behave. Current Opinion in Psychology, 58, 101835-. From https://doi.org/10.1016/j.copsyc.2024.101835",
-    "summary": "Curated paper in 'Brain, Buddhism, and AI' by Williams, G. Y., & Lim, S. (2024). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 28,
@@ -5762,7 +5762,7 @@ window.READINGS_DATA = [
     "author": "Hansson, S.O",
     "year": "2023",
     "type": "Article",
-    "source": "",
+    "source": "Stanford Encyclopedia of Philosophy. From https://plato. stanford. edu/entries/risk/#Ethi",
     "url": "https://plato.stanford.edu/entries/risk/#Ethi",
     "subtopic": "Philosophy of Risk",
     "course_code": "CCAI9003",
@@ -5770,7 +5770,7 @@ window.READINGS_DATA = [
     "category": "Safety & Risk",
     "syllabus_order": 1,
     "raw": "Hansson, S.O. (2023). Risk. Stanford Encyclopedia of Philosophy. From https://plato.stanford.edu/entries/risk/#Ethi",
-    "summary": "Curated article in 'AI Safety: Catastrophe, Alignment, and Governance' by Hansson, S.O (2023). Examines key insights regarding Philosophy of Risk."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Philosophy of Risk."
   },
   {
     "id": 30,
@@ -5786,7 +5786,7 @@ window.READINGS_DATA = [
     "category": "Safety & Risk",
     "syllabus_order": 2,
     "raw": "Russell, S. (2022). Human-compatible artificial intelligence. In S. Muggleton & N. Chater (Eds.), Human-Like Machine Intelligence 1 (pp. 3-22). Oxford University Press.",
-    "summary": "Curated paper in 'AI Safety: Catastrophe, Alignment, and Governance' by Russell, S (2022). Examines key insights regarding Alignment."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Alignment."
   },
   {
     "id": 31,
@@ -5794,7 +5794,7 @@ window.READINGS_DATA = [
     "author": "Anthropic",
     "year": "2024",
     "type": "Report",
-    "source": "",
+    "source": "Alignment faking in large language models",
     "url": "",
     "subtopic": "Existing Capabilities",
     "course_code": "CCAI9003",
@@ -5810,7 +5810,7 @@ window.READINGS_DATA = [
     "author": "Anthropic",
     "year": "2025",
     "type": "Report",
-    "source": "",
+    "source": "Agentic Misalignment: How LLMs could be insider threats",
     "url": "",
     "subtopic": "Existing Capabilities",
     "course_code": "CCAI9003",
@@ -5826,7 +5826,7 @@ window.READINGS_DATA = [
     "author": "Apollo Research/OpenAI",
     "year": "2024",
     "type": "Report",
-    "source": "",
+    "source": "Frontier models are capable of in-context scheming",
     "url": "",
     "subtopic": "Existing Capabilities",
     "course_code": "CCAI9003",
@@ -5850,7 +5850,7 @@ window.READINGS_DATA = [
     "category": "Safety & Risk",
     "syllabus_order": 6,
     "raw": "Bykvist, K. (2017). Moral uncertainty. Philosophy Compass, 12(3), e12408.",
-    "summary": "Curated paper in 'AI Safety: Catastrophe, Alignment, and Governance' by Bykvist, K (2017). Examines key insights regarding Beneficial AI and Machine Ethics."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Beneficial AI and Machine Ethics."
   },
   {
     "id": 35,
@@ -5866,7 +5866,7 @@ window.READINGS_DATA = [
     "category": "Safety & Risk",
     "syllabus_order": 7,
     "raw": "Conitzer, V., Freedman, R., Heitzig, J., Holliday, W. H., Jacobs, B. M., Lambert, N., … & Zwicker, W. S. (2024). Social choice should guide ai alignment in dealing with diverse human feedback. arXiv preprint arXiv:2404.10271.",
-    "summary": "Curated paper in 'AI Safety: Catastrophe, Alignment, and Governance' by Conitzer, V., Freedman, R., Heitzig, J., Holliday, W. H., Jacobs, B. M., Lambert, N., … & Zwicker, W. S (2024). Examines key insights regarding Beneficial AI and Machine Ethics."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Beneficial AI and Machine Ethics."
   },
   {
     "id": 36,
@@ -5874,7 +5874,7 @@ window.READINGS_DATA = [
     "author": "Propublica",
     "year": "2016",
     "type": "Paper",
-    "source": "",
+    "source": "Machine bias",
     "url": "",
     "subtopic": "Beneficial AI and Machine Ethics",
     "course_code": "CCAI9003",
@@ -5882,7 +5882,7 @@ window.READINGS_DATA = [
     "category": "Safety & Risk",
     "syllabus_order": 8,
     "raw": "Propublica. (2016). Machine bias.",
-    "summary": "Curated paper in 'AI Safety: Catastrophe, Alignment, and Governance' by Propublica (2016). Examines key insights regarding Beneficial AI and Machine Ethics."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Beneficial AI and Machine Ethics."
   },
   {
     "id": 37,
@@ -5898,7 +5898,7 @@ window.READINGS_DATA = [
     "category": "Safety & Risk",
     "syllabus_order": 9,
     "raw": "Bales, A., D’Alessandro, W., & Kirk‐Giannini, C. D. (2024). Artificial intelligence: Arguments for catastrophic risk. Philosophy Compass, 19(2), e12964.",
-    "summary": "Curated paper in 'AI Safety: Catastrophe, Alignment, and Governance' by Bales, A., D’Alessandro, W., & Kirk‐Giannini, C. D (2024). Examines key insights regarding Catastrophic Risk."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Catastrophic Risk."
   },
   {
     "id": 38,
@@ -5914,7 +5914,7 @@ window.READINGS_DATA = [
     "category": "Safety & Risk",
     "syllabus_order": 10,
     "raw": "Cappelen, H., Goldstein, S., & Hawthorne, J. (2026). AI survival stories: A taxonomic analysis of AI existential risk. Philosophy of AI, 1, 1-19.",
-    "summary": "Curated paper in 'AI Safety: Catastrophe, Alignment, and Governance' by Cappelen, H., Goldstein, S., & Hawthorne, J (2026). Examines key insights regarding Catastrophic Risk."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Catastrophic Risk."
   },
   {
     "id": 39,
@@ -5930,7 +5930,7 @@ window.READINGS_DATA = [
     "category": "Safety & Risk",
     "syllabus_order": 11,
     "raw": "Kak, A., & West, S. M. (2023). (2023). Landscape: Confronting Tech Power: Executive Summary. AI Now Institute. From https://ainowinstitute.org/publications/2023-landscape-executive-summary",
-    "summary": "Curated paper in 'AI Safety: Catastrophe, Alignment, and Governance' by Kak, A., & West, S. M (2023). Examines key insights regarding Governance."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Governance."
   },
   {
     "id": 40,
@@ -5938,7 +5938,7 @@ window.READINGS_DATA = [
     "author": "Bostrom, N",
     "year": "2014",
     "type": "Book",
-    "source": "",
+    "source": "Oxford: Oxford University Press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI5001",
@@ -5946,7 +5946,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 1,
     "raw": "Bostrom, N. (2014). Superintelligence: Paths, dangers, strategies. Oxford: Oxford University Press.",
-    "summary": "A foundational analysis on the paths, dangerous scenarios, and strategic challenges humanity faces if artificial general intelligence surpasses human cognitive capacities."
+    "summary": "A foundational analysis of the paths, dangerous scenarios, and strategic challenges humanity faces if artificial general intelligence surpasses human cognitive capacities."
   },
   {
     "id": 41,
@@ -5962,7 +5962,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 2,
     "raw": "Kaplan, J. (2016). Artificial intelligence: What everyone needs to know. New York, NY: Oxford University Press.",
-    "summary": "Curated paper in 'Artificial Intelligence: Utopia or Dystopia? (Online)' by Kaplan, J (2016). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 42,
@@ -5978,7 +5978,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 1,
     "raw": "Abbott, C. (2007). Cyberpunk Cities: Science Fiction Meets Urban Theory. Journal of Planning Education and Research, 27(2), 122- 131. From https://doi.org/10.1177/0739456X07305795",
-    "summary": "Curated paper in 'Today’s Future City: Technology and the Recoding of Urban Life' by Abbott, C (2007). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 43,
@@ -5994,7 +5994,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 2,
     "raw": "Adler, P., & Flor ida, R. (2020). Geography as strategy: The changing geography of corporate headquarters in post-industrial capitalism. Regional Studies, 54(5), 610- 620. From https://doi.org/10.1080/00343404.2019.1634803",
-    "summary": "Curated paper in 'Today’s Future City: Technology and the Recoding of Urban Life' by Adler, P., & Florida, R (2020). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 44,
@@ -6010,7 +6010,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 3,
     "raw": "Batty, M., Axh ausen, K. W., Giannotti, F., Pozdnoukhov, A., Bazzani, A., Wachowicz, M., Ouzounis, G., & Portugali, Y. (2012). Smart cities of the future. The European Physical Journal Special Topics, 214(1), 481- 518. https://doi.org/10.1140/epjst/e2012-01703-3",
-    "summary": "Curated paper in 'Today’s Future City: Technology and the Recoding of Urban Life' by Batty, M., Axh ausen, K. W., Giannotti, F., Pozdnoukhov, A., Bazzani, A., Wachowicz, M., Ouzounis, G., & Portugali, Y (2012). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 45,
@@ -6026,7 +6026,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 4,
     "raw": "Morrill, R., Gaile, G.L., & Thrall, G.I. (1988). Spatial Diffusion. Reprint. Edited by Grant Ian Thrall. WVU Research Repository, 2020.",
-    "summary": "Curated paper in 'Today’s Future City: Technology and the Recoding of Urban Life' by Morrill, R., Gaile, G.L., & Thrall, G.I (1988). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 46,
@@ -6042,7 +6042,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 5,
     "raw": "Ranzini, G., Rosenbaum, J. E., & Tybur, J. M. (2022). Assor tative (online) dating: Insights into partner choice from an experimental dating app. Computers in Human Behavior, 127, 107039. From https://doi.org/10.1016/j.chb.2021.107039",
-    "summary": "Curated paper in 'Today’s Future City: Technology and the Recoding of Urban Life' by Ranzini, G., Rosenbaum, J. E., & Tybur, J. M (2022). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 47,
@@ -6050,7 +6050,7 @@ window.READINGS_DATA = [
     "author": "Planetizen",
     "year": "N/A",
     "type": "Article",
-    "source": "From https://www. planetizen. com/news/2024/07/130328-12-technologies-will-shape-future-urban-planning",
+    "source": ". From https://www. planetizen. com/news/2024/07/130328-12-technologies-will-shape-future-urban-planning",
     "url": "https://www.planetizen.com/news/2024/07/130328-12-technologies-will-shape-future-urban-planning",
     "subtopic": "Other source materials",
     "course_code": "CCAI9009",
@@ -6058,7 +6058,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 6,
     "raw": "12 Technologies that will shape future urban planning. From https://www.planetizen.com/news/2024/07/130328-12-technologies-will-shape-future-urban-planning",
-    "summary": "Curated article in 'Today’s Future City: Technology and the Recoding of Urban Life' by Planetizen (N/A). Examines key insights regarding Other source materials."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Other source materials."
   },
   {
     "id": 48,
@@ -6066,7 +6066,7 @@ window.READINGS_DATA = [
     "author": "Krishnan, R.",
     "year": "N/A",
     "type": "Paper",
-    "source": "From https://x. com/krishl1anrohitistatus/1770012082190389602/photo/I",
+    "source": ". From https://x. com/krishl1anrohitistatus/1770012082190389602/photo/I",
     "url": "https://x.com/krishl1anrohitistatus/1770012082190389602/photo/I",
     "subtopic": "Other source materials",
     "course_code": "CCAI9009",
@@ -6074,7 +6074,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 7,
     "raw": "AI in Science Fiction Graph. From https://x.com/krishl1anrohitistatus/1770012082190389602/photo/I",
-    "summary": "Curated paper in 'Today’s Future City: Technology and the Recoding of Urban Life' by Krishnan, R. (N/A). Examines key insights regarding Other source materials."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Other source materials."
   },
   {
     "id": 49,
@@ -6082,7 +6082,7 @@ window.READINGS_DATA = [
     "author": "SSRN Social Science Research Network",
     "year": "N/A",
     "type": "Article",
-    "source": "From https://papers. ssm. com/sol3/papers. cfm?abstract_id=4026659",
+    "source": ". From https://papers. ssm. com/sol3/papers. cfm?abstract_id=4026659",
     "url": "https://papers.ssm.com/sol3/papers.cfm?abstract_id=4026659",
     "subtopic": "Other source materials",
     "course_code": "CCAI9009",
@@ -6090,7 +6090,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 8,
     "raw": "Cities and Technological Waves. From https://papers.ssm.com/sol3/papers.cfm?abstract_id=4026659",
-    "summary": "Curated article in 'Today’s Future City: Technology and the Recoding of Urban Life' by SSRN Social Science Research Network (N/A). Examines key insights regarding Other source materials."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Other source materials."
   },
   {
     "id": 50,
@@ -6098,7 +6098,7 @@ window.READINGS_DATA = [
     "author": "Wired Magazine",
     "year": "N/A",
     "type": "Article",
-    "source": "From https://www. wired. com/story/local-govemments-generative-ai/",
+    "source": ". From https://www. wired. com/story/local-govemments-generative-ai/",
     "url": "https://www.wired.com/story/local-govemments-generative-ai/",
     "subtopic": "Other source materials",
     "course_code": "CCAI9009",
@@ -6106,7 +6106,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 9,
     "raw": "Local Governments and Generative AI. From https://www.wired.com/story/local-govemments-generative-ai/",
-    "summary": "Curated article in 'Today’s Future City: Technology and the Recoding of Urban Life' by Wired Magazine (N/A). Examines key insights regarding Other source materials."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Other source materials."
   },
   {
     "id": 51,
@@ -6130,7 +6130,7 @@ window.READINGS_DATA = [
     "author": "Strogatz, S",
     "year": "2018",
     "type": "Article",
-    "source": "New York Times. From https://www.nytimes.com/2018/12/26/science/chess-artificial-intelligence.html]",
+    "source": "New York Times. From https://www.nytimes.com/2018/12/26/science/chess-artificial-intelligence.html",
     "url": "https://www.nytimes.com/2018/12/26/science/chess-artificial-intelligence.html",
     "subtopic": "Introduction to AI and Philosophical Inquiry",
     "course_code": "CCAI9002",
@@ -6138,7 +6138,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 2,
     "raw": "Strogatz, S. (2018). One Giant Step for a Chess-Playing Machine. New York Times. From https://www.nytimes.com/2018/12/26/science/chess-artificial-intelligence.html]",
-    "summary": "Curated article in 'Thinking Machines: Philosophical and Ethical Explorations' by Strogatz, S (2018). Examines key insights regarding Introduction to AI and Philosophical Inquiry."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Introduction to AI and Philosophical Inquiry."
   },
   {
     "id": 53,
@@ -6146,7 +6146,7 @@ window.READINGS_DATA = [
     "author": "Amodei, D",
     "year": "2024, October",
     "type": "Article",
-    "source": "",
+    "source": ". From https://www. darioamodei. com/essay/machines-of-loving-grace",
     "url": "https://www.darioamodei.com/essay/machines-of-loving-grace",
     "subtopic": "Can AI Systems Save Humanity?",
     "course_code": "CCAI9002",
@@ -6162,7 +6162,7 @@ window.READINGS_DATA = [
     "author": "Bostrom, N",
     "year": "2014",
     "type": "Book",
-    "source": "",
+    "source": "Oxford: Oxford University Press. [Chap. 8 “Is the Default Outcome Doom?”",
     "url": "",
     "subtopic": "Can AI Systems Destroy Humanity?",
     "course_code": "CCAI9002",
@@ -6170,7 +6170,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 4,
     "raw": "Bostrom, N. (2014). Superintelligence: Paths, Dangers, Strategies. Oxford: Oxford University Press. [Chap. 8 “Is the Default Outcome Doom?”]",
-    "summary": "A foundational analysis on the paths, dangerous scenarios, and strategic challenges humanity faces if artificial general intelligence surpasses human cognitive capacities."
+    "summary": "A foundational analysis of the paths, dangerous scenarios, and strategic challenges humanity faces if artificial general intelligence surpasses human cognitive capacities."
   },
   {
     "id": 55,
@@ -6178,7 +6178,7 @@ window.READINGS_DATA = [
     "author": "Chalmers, D. J",
     "year": "2023",
     "type": "Paper",
-    "source": "From https://arXiv:2303. 07103",
+    "source": ". From https://arXiv:2303. 07103",
     "url": "about:blank",
     "subtopic": "Is AI Consciousness Possible?",
     "course_code": "CCAI9002",
@@ -6186,7 +6186,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 5,
     "raw": "Chalmers, D. J. (2023). Could a large language model be conscious? ArXiv Preprint. From https://arXiv:2303.07103",
-    "summary": "Curated paper in 'Thinking Machines: Philosophical and Ethical Explorations' by Chalmers, D. J (2023). Examines key insights regarding Is AI Consciousness Possible?."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Is AI Consciousness Possible?."
   },
   {
     "id": 56,
@@ -6194,7 +6194,7 @@ window.READINGS_DATA = [
     "author": "Cappelen, H",
     "year": "N/A",
     "type": "Book",
-    "source": "From https://philpapers. org/rec/CAPGWH [Chap",
+    "source": ". From https://philpapers. org/rec/CAPGWH [Chap",
     "url": "https://philpapers.org/rec/CAPGWH",
     "subtopic": "Can AI Think and Reason?",
     "course_code": "CCAI9002",
@@ -6202,7 +6202,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 6,
     "raw": "Cappelen, H., & Dever, J. (ms). Going Whole Hog: A Philosophical Defense of AI Cognition. From https://philpapers.org/rec/CAPGWH [Chap. 2]",
-    "summary": "Curated book in 'Thinking Machines: Philosophical and Ethical Explorations' by Cappelen, H (N/A). Examines key insights regarding Can AI Think and Reason?."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Can AI Think and Reason?."
   },
   {
     "id": 57,
@@ -6218,7 +6218,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 7,
     "raw": "Mitchell, M. (2025). Artificial intelligence learns to reason. Science, 387, eadw5211. From 10.1126/science.adw5211",
-    "summary": "Curated paper in 'Thinking Machines: Philosophical and Ethical Explorations' by Mitchell, M (2025). Examines key insights regarding Can AI Think and Reason?."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Can AI Think and Reason?."
   },
   {
     "id": 58,
@@ -6234,7 +6234,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 8,
     "raw": "Vaidya, A. J. (2024). Can machines have emotions? AI and Society, 40(4), 2029-2044.",
-    "summary": "Curated paper in 'Thinking Machines: Philosophical and Ethical Explorations' by Vaidya, A. J (2024). Examines key insights regarding Can AI Experience Emotions?."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Can AI Experience Emotions?."
   },
   {
     "id": 59,
@@ -6242,7 +6242,7 @@ window.READINGS_DATA = [
     "author": "Chalmers, D",
     "year": "2022",
     "type": "Book",
-    "source": "",
+    "source": "[Chap. 5",
     "url": "",
     "subtopic": "Do We Live in an AI Generated Simulation?",
     "course_code": "CCAI9002",
@@ -6250,7 +6250,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 9,
     "raw": "Chalmers, D. (2022). Reality +: Virtual Worlds and the Problems of Philosophy. [Chap. 5]",
-    "summary": "Curated book in 'Thinking Machines: Philosophical and Ethical Explorations' by Chalmers, D (2022). Examines key insights regarding Do We Live in an AI Generated Simulation?."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Do We Live in an AI Generated Simulation?."
   },
   {
     "id": 60,
@@ -6266,7 +6266,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 10,
     "raw": "Manzini, A., et al. (2024). The Code That Binds Us: Navigating the Appropriateness of Human-AI Assistant Relationships. Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 7(1). From https://doi.org/10.1609/aies.v7i1.31694",
-    "summary": "Curated paper in 'Thinking Machines: Philosophical and Ethical Explorations' by Manzini, A., et al (2024). Examines key insights regarding Can AI-Enhanced Robots Be Friends or Romantic Partners?."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Can AI-Enhanced Robots Be Friends or Romantic Partners?."
   },
   {
     "id": 61,
@@ -6274,7 +6274,7 @@ window.READINGS_DATA = [
     "author": "Königs, P",
     "year": "2022",
     "type": "Paper",
-    "source": "From https://doi. org/10. 1007/s10676-022-09643-0",
+    "source": ". From https://doi. org/10. 1007/s10676-022-09643-0",
     "url": "https://doi.org/10.1007/s10676-022-09643-0",
     "subtopic": "Can AIs Be Held Morally Accountable?",
     "course_code": "CCAI9002",
@@ -6330,7 +6330,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 14,
     "raw": "Lechterman, T. M. (2024). The Perfect Politician. In D. Edmonds, AI Morality. Oxford: Oxford University Press USA.",
-    "summary": "Curated paper in 'Thinking Machines: Philosophical and Ethical Explorations' by Lechterman, T. M (2024). Examines key insights regarding Should AIs Participate in Political Decision-Making?."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Should AIs Participate in Political Decision-Making?."
   },
   {
     "id": 65,
@@ -6338,7 +6338,7 @@ window.READINGS_DATA = [
     "author": "Nick Bostrom",
     "year": "N/A",
     "type": "Video",
-    "source": "From https://www. youtube. com/watch?v=wdieWk4C1SY",
+    "source": ". From https://www. youtube. com/watch?v=wdieWk4C1SY",
     "url": "https://www.youtube.com/watch?v=wdieWk4C1SY",
     "subtopic": "Societal Impacts of AI: The Future of Human Work",
     "course_code": "CCAI9002",
@@ -6346,7 +6346,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 15,
     "raw": "Deep Utopia: Life and Meaning in a Solved World by Nick Bostrom – AI Podcast Book Summary. From https://www.youtube.com/watch?v=wdieWk4C1SY",
-    "summary": "Curated video in 'Thinking Machines: Philosophical and Ethical Explorations' by Nick Bostrom (N/A). Examines key insights regarding Societal Impacts of AI: The Future of Human Work."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Societal Impacts of AI: The Future of Human Work."
   },
   {
     "id": 66,
@@ -6354,7 +6354,7 @@ window.READINGS_DATA = [
     "author": "Danaher, J",
     "year": "2019",
     "type": "Book",
-    "source": "",
+    "source": "Cambridge, MA: Harvard University Press. [Chap. 1",
     "url": "",
     "subtopic": "Week 1 — Introduction",
     "course_code": "CCAI9004",
@@ -6370,7 +6370,7 @@ window.READINGS_DATA = [
     "author": "Danaher, J",
     "year": "2019",
     "type": "Book",
-    "source": "",
+    "source": "Cambridge, MA: Harvard University Press. [Chaps. 2–3",
     "url": "",
     "subtopic": "Week 2 — AI and the Economy: How and What",
     "course_code": "CCAI9004",
@@ -6386,7 +6386,7 @@ window.READINGS_DATA = [
     "author": "Danaher, J",
     "year": "2019",
     "type": "Book",
-    "source": "",
+    "source": "Cambridge, MA: Harvard University Press. [Chap. 4",
     "url": "",
     "subtopic": "Week 3 — Responses to Economic Disruption, Part 1",
     "course_code": "CCAI9004",
@@ -6410,7 +6410,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 4,
     "raw": "Brixel, P. (2024). The Difficulty of Making Good Work Available to All. Journal of Applied Philosophy, 41(2).",
-    "summary": "Curated paper in 'AI, Achievement and Flourishing' by Brixel, P (2024). Examines key insights regarding Week 4 — Responses to Economic Disruption, Part 2: The Problem of Good Work."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 4 — Responses to Economic Disruption, Part 2: The Problem of Good Work."
   },
   {
     "id": 70,
@@ -6418,7 +6418,7 @@ window.READINGS_DATA = [
     "author": "Cholbi, M",
     "year": "2018",
     "type": "Paper",
-    "source": "",
+    "source": "The Duty to Work,” Ethical Theory and Moral Practice, 21(5), 1119–1133",
     "url": "",
     "subtopic": "Week 5 — Responses to Economic Disruption, Part 3: The Duty and Desire to Work",
     "course_code": "CCAI9004",
@@ -6426,7 +6426,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 5,
     "raw": "Cholbi, M. (2018). The Duty to Work,” Ethical Theory and Moral Practice, 21(5), 1119–1133.",
-    "summary": "Curated paper in 'AI, Achievement and Flourishing' by Cholbi, M (2018). Examines key insights regarding Week 5 — Responses to Economic Disruption, Part 3: The Duty and Desire to Work."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 5 — Responses to Economic Disruption, Part 3: The Duty and Desire to Work."
   },
   {
     "id": 71,
@@ -6442,7 +6442,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 6,
     "raw": "Cholbi, M. (2018). The Desire for Work as an Adaptive Preference. Autonomy, 4, 1–17.",
-    "summary": "Curated paper in 'AI, Achievement and Flourishing' by Cholbi, M (2018). Examines key insights regarding Week 5 — Responses to Economic Disruption, Part 3: The Duty and Desire to Work."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 5 — Responses to Economic Disruption, Part 3: The Duty and Desire to Work."
   },
   {
     "id": 72,
@@ -6458,7 +6458,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 7,
     "raw": "Brainard, L. (2026). What is Creativity? The Philosophical Quarterly, 76(1), 51–73.",
-    "summary": "Curated paper in 'AI, Achievement and Flourishing' by Brainard, L (2026). Examines key insights regarding Week 7 — AI and Human Capacities, Part 1: Creativity."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 7 — AI and Human Capacities, Part 1: Creativity."
   },
   {
     "id": 73,
@@ -6474,7 +6474,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 8,
     "raw": "Brainard, L. (Forthcoming). Artificial Intelligence and the Threat of Creative Obsolescence. Ergo: An Open Access Journal of Philosophy.",
-    "summary": "Curated paper in 'AI, Achievement and Flourishing' by Brainard, L. (2026). Examines key insights regarding Week 7 — AI and Human Capacities, Part 1: Creativity."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 7 — AI and Human Capacities, Part 1: Creativity."
   },
   {
     "id": 74,
@@ -6490,7 +6490,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 9,
     "raw": "Sharadin, N. (Forthcoming). Extreme Cognitive Assistance and Open Futures. Journal of Ethics and Social Philosophy.",
-    "summary": "Curated paper in 'AI, Achievement and Flourishing' by Sharadin, N. (2025). Examines key insights regarding Week 8 — AI and Human Capacities, Part 2: Cognitive Enfeeblement."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 8 — AI and Human Capacities, Part 2: Cognitive Enfeeblement."
   },
   {
     "id": 75,
@@ -6506,7 +6506,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 10,
     "raw": "Campbell, S. M., Liu, P., & Nyholm, S. (2025). Can Chatbots Preserve Our Relationships with the Dead? Journal of the American Philosophical Association.",
-    "summary": "Curated paper in 'AI, Achievement and Flourishing' by Campbell, S. M., Liu, P., & Nyholm, S (2025). Examines key insights regarding Week 9 — AI and Human Capacities, Part 3: Sociality."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 9 — AI and Human Capacities, Part 3: Sociality."
   },
   {
     "id": 76,
@@ -6514,7 +6514,7 @@ window.READINGS_DATA = [
     "author": "Bales, A",
     "year": "2024",
     "type": "Paper",
-    "source": ", & Kirk-Giannini, C. D. (2024). Artificial Intelligence: Arguments for Catastrophic Risk. Philosophy Compass, 19(2)",
+    "source": ", & Kirk-Giannini, C. D. (2024). Artificial Intelligence: Arguments for Catastrophic Risk. Philosophy Compass, 19(2",
     "url": "",
     "subtopic": "Week 10 — AI Safety: Could AI End Human Flourishing Altogether?",
     "course_code": "CCAI9004",
@@ -6522,7 +6522,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 11,
     "raw": "Bales, A. (2024). D’Alessandro, W., & Kirk-Giannini, C. D. (2024). Artificial Intelligence: Arguments for Catastrophic Risk. Philosophy Compass, 19(2).",
-    "summary": "Curated paper in 'AI, Achievement and Flourishing' by Bales, A (2024). Examines key insights regarding Week 10 — AI Safety: Could AI End Human Flourishing Altogether?."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 10 — AI Safety: Could AI End Human Flourishing Altogether?."
   },
   {
     "id": 77,
@@ -6530,7 +6530,7 @@ window.READINGS_DATA = [
     "author": "Ord, T.",
     "year": "2020",
     "type": "Book",
-    "source": "New York: Hachette Books. [Chap. 2]",
+    "source": "New York: Hachette Books. [Chap. 2",
     "url": "",
     "subtopic": "Week 10 — AI Safety: Could AI End Human Flourishing Altogether?",
     "course_code": "CCAI9004",
@@ -6554,7 +6554,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 1,
     "raw": "Alowais, S. A., Alghamdi, S. S., Alsuhebany, N., et al. (2023). Revolutionizing healthcare: the role of artificial intelligence in clinical practice. BMC Med Educ, 23, 689. From https://doi.org/10.1186/s12909-023-04698-z",
-    "summary": "Curated paper in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by Alowais, S. A., Alghamdi, S. S., Alsuhebany, N., et al (2023). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 79,
@@ -6562,7 +6562,7 @@ window.READINGS_DATA = [
     "author": "DW Documentary",
     "year": "2021",
     "type": "Paper",
-    "source": "From https://www. youtube. com/watch?v=y-5VLHcTDSQ [Video]",
+    "source": ". From https://www. youtube. com/watch?v=y-5VLHcTDSQ [Video",
     "url": "https://www.youtube.com/watch?v=y-5VLHcTDSQ",
     "subtopic": "",
     "course_code": "CCAI9007",
@@ -6570,7 +6570,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 2,
     "raw": "DW Documentary. (2021, May 28). More life – Decoding the secret of aging I DW Documentary. From https://www.youtube.com/watch?v=y-5VLHcTDSQ [Video]",
-    "summary": "Curated paper in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by DW Documentary (2021). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 80,
@@ -6586,7 +6586,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 3,
     "raw": "Federico, C. A, & Trotsyuk, A. A. (2024). Biomedical Data Science, Artificial Intelligence, and Ethics: Navigating Challenges in the Face of Explosive Growth. Annual review of biomedical data science, 7(1), 1-14. From https://doi.org/10.1146/annurev-biodatasci-102623-104553",
-    "summary": "Curated paper in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by Biomedical Data Science, Artificial Intelligence, and Ethics: Navigating Challenges in the Face of Explosive Growth (2024). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 81,
@@ -6602,7 +6602,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 4,
     "raw": "Gómez-Márquez, J. (2021). What is life?. Molecular biology reports, 48(8), 6223–6230. From https://doi.org/10.1007/s11033-021-06594-5",
-    "summary": "Curated report in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by Gómez-Márquez, J (2021). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 82,
@@ -6618,7 +6618,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 5,
     "raw": "Hayflick, L. (1998). How and why we age. Experimental gerontology, 33(7-8), 639–653. From https://doi.org/10.1016/s0531-5565(98)00023-0",
-    "summary": "Curated paper in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by Hayflick, L (1998). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 83,
@@ -6626,7 +6626,7 @@ window.READINGS_DATA = [
     "author": "IBM",
     "year": "N/A",
     "type": "Article",
-    "source": "(n. d.). What is Artificial Intelligence? From https://www. ibm. com/topics/artificial-intelligence",
+    "source": "(n. d.). What is Artificial Intelligence?. From https://www. ibm. com/topics/artificial-intelligence",
     "url": "https://www.ibm.com/topics/artificial-intelligence",
     "subtopic": "",
     "course_code": "CCAI9007",
@@ -6634,7 +6634,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 6,
     "raw": "IBM. (n.d.). What is Artificial Intelligence? From https://www.ibm.com/topics/artificial-intelligence",
-    "summary": "Curated article in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by IBM (N/A). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 84,
@@ -6650,7 +6650,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 7,
     "raw": "Marino, N., Putignano, G., Cappilli, S., Chersoni, E., Santuccione, A., Calabrese, G., Bischof, E., Vanhaelen, Q., Zhavoronkov, A., Scarano, B., Mazzotta, A. D., & Santus, E. (2023). Towards AI-driven longevity research: An overview. Frontiers in aging, 4, 1057204. From https://doi.org/10.3389/fragi.2023.1057204",
-    "summary": "Curated paper in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by Marino, N (2023). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 85,
@@ -6666,7 +6666,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 8,
     "raw": "Miyazawa, T. (2023). Healthy Longevity and the Nutrition with AI Computing Technologies. Annals of nutrition and metabolism, 79, 29.",
-    "summary": "Curated paper in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by Miyazawa, T (2023). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 86,
@@ -6674,7 +6674,7 @@ window.READINGS_DATA = [
     "author": "Moskalev, A., Stambler, I., & Zhavoronkov, A. (Eds.)",
     "year": "2023",
     "type": "Paper",
-    "source": "",
+    "source": "Cham: Springer",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9007",
@@ -6682,7 +6682,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 9,
     "raw": "Moskalev, A., Stambler, I., & Zhavoronkov, A. (Eds.). (2023). Artificial Intelligence for Healthy Longevity. Cham: Springer.",
-    "summary": "Curated paper in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by Moskalev, A., Stambler, I., & Zhavoronkov, A. (Eds.) (2023). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 87,
@@ -6698,7 +6698,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 10,
     "raw": "Song, C. F., Tay, P. K. C., Gwee, X., et. al. (2023). Happy people live longer because they are healthy people. BMC Geriatr, 23, 440. From https://doi.org/10.1186/s12877-023-04030-w",
-    "summary": "Curated paper in 'Hacking Aging: Partnership of Human and Artificial Intelligence' by Song, C. F., Tay, P. K. C., Gwee, X., et. al (2023). Explores fundamental themes in ethics & morality."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in ethics & morality."
   },
   {
     "id": 88,
@@ -6714,7 +6714,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 1,
     "raw": "Darwin, C. (1872). The expression of the emotions in man and animals. London: John Murray. [Chap. 1 “General principle of expression”; Chap. 2 “General principle of expression – continued”; Chap. 3 “General principle of expression – concluded”]",
-    "summary": "Curated book in 'Emotions and AI: Bridging Technology and Human Experience' by Darwin, C (1872). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 89,
@@ -6722,7 +6722,7 @@ window.READINGS_DATA = [
     "author": "Fox, A. S., Lapate, R. C., Shackman, A. l., & Davidson, R. l (Eds.)",
     "year": "2018",
     "type": "Paper",
-    "source": "). New York, NY: Oxford University Press. [5. 4 “Brain structure and principles of the organization of emotion in the brain”; 5. 6 “How are emotions organization in the brain?”]",
+    "source": "). New York, NY: Oxford University Press. [5. 4 “Brain structure and principles of the organization of emotion in the brain”; 5. 6 “How are emotions organization in the brain?”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9013",
@@ -6730,7 +6730,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 2,
     "raw": "Fox, A. S., Lapate, R. C., Shackman, A. l., & Davidson, R. l (Eds.). (2018). The Nature of Emotion: Fundamental Questions (2nd ed.). New York, NY: Oxford University Press. [5.4 “Brain structure and principles of the organization of emotion in the brain”; 5.6 “How are emotions organization in the brain?”]",
-    "summary": "Curated paper in 'Emotions and AI: Bridging Technology and Human Experience' by Fox, A. S., Lapate, R. C., Shackman, A. l., & Davidson, R. l (Eds.) (2018). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 90,
@@ -6746,7 +6746,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 3,
     "raw": "Jiang, F., Jiang, Y., Zhi, H., Dong, Y., Li, H., Ma, S., … & Wang, Y. (2017). Artificial intelligence in healthcare: past, present and future. Stroke and vascular neurology, 2(4).",
-    "summary": "Curated paper in 'Emotions and AI: Bridging Technology and Human Experience' by Jiang, F., Jiang, Y., Zhi, H., Dong, Y., Li, H., Ma, S., … & Wang, Y (2017). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 91,
@@ -6762,7 +6762,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 4,
     "raw": "Koegel, L. K., Ponder, E., Bruzzese, T., Wang, M., Semnani, S. J., Chi, N., … & Lam, M. S. (2025). Using artificial intelligence to improve empathetic statements in autistic adolescents and adults: A randomized clinical trial. Journal of Autism and Developmental Disorders, 1-17.",
-    "summary": "Curated paper in 'Emotions and AI: Bridging Technology and Human Experience' by Koegel, L. K., Ponder, E., Bruzzese, T., Wang, M., Semnani, S. J., Chi, N., … & Lam, M. S (2025). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 92,
@@ -6778,7 +6778,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 5,
     "raw": "Lee, E. E., et. al. (2021). Artificial Intelligence for Mental Health Care: Clinical Applications, Barriers, Facilitators, and Artificial Wisdom. Biological psychiatry: cognitive neuroscience and neuroimaging, 6(9), 856–864.",
-    "summary": "Curated paper in 'Emotions and AI: Bridging Technology and Human Experience' by Lee, E. E., et. al (2021). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 93,
@@ -6786,7 +6786,7 @@ window.READINGS_DATA = [
     "author": "Moore, J., Grabb, D., Agnew, W., Klyman, K., Chancellor, S., Ong, D. C., & Haber, N",
     "year": "2025",
     "type": "Paper",
-    "source": "In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (pp. 599-627)",
+    "source": "In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (pp. 599-627",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9013",
@@ -6794,7 +6794,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 6,
     "raw": "Moore, J., Grabb, D., Agnew, W., Klyman, K., Chancellor, S., Ong, D. C., & Haber, N. (2025, June). Expressing stigma and inappropriate responses prevents LLMs from safely replacing mental health providers. In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (pp. 599-627).",
-    "summary": "Curated paper in 'Emotions and AI: Bridging Technology and Human Experience' by Moore, J., Grabb, D., Agnew, W., Klyman, K., Chancellor, S., Ong, D. C., & Haber, N (2025). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 94,
@@ -6802,7 +6802,7 @@ window.READINGS_DATA = [
     "author": "Arnheim, R",
     "year": "1969",
     "type": "Book",
-    "source": "",
+    "source": "Berkeley, CA: University of California Press. From https://julac-hku. primo. exlibrisgroup. com/permalink/852JULAC_HKU/1f1rhea/alma991044742899903414 [Chap. 4 (pp. 72-79) “Two and Two Together”",
     "url": "https://julac-hku.primo.exlibrisgroup.com/permalink/852JULAC_HKU/1f1rhea/alma991044742899903414",
     "subtopic": "",
     "course_code": "CCAI9018",
@@ -6810,7 +6810,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 1,
     "raw": "Arnheim, R. (1969). Visual Thinking. Berkeley, CA: University of California Press. From https://julac-hku.primo.exlibrisgroup.com/permalink/852JULAC_HKU/1f1rhea/alma991044742899903414 [Chap. 4 (pp.72-79) “Two and Two Together”]",
-    "summary": "Curated book in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Arnheim, R (1969). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 95,
@@ -6818,7 +6818,7 @@ window.READINGS_DATA = [
     "author": "Barfield, O",
     "year": "1987",
     "type": "Paper",
-    "source": "). Wesleyan University Press. [Chap. 3 (pp. 60-76) “Metaphor”]",
+    "source": "). Wesleyan University Press. [Chap. 3 (pp. 60-76) “Metaphor”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9018",
@@ -6826,7 +6826,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 2,
     "raw": "Barfield, O. (1987). Poetic diction a study in meaning (2nd ed.). Wesleyan University Press. [Chap. 3 (pp. 60-76) “Metaphor”]",
-    "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Barfield, O (1987). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 96,
@@ -6834,7 +6834,7 @@ window.READINGS_DATA = [
     "author": "Benjamin, W",
     "year": "1935",
     "type": "Paper",
-    "source": "",
+    "source": "[Available online from Marxists. org",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9018",
@@ -6842,7 +6842,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 3,
     "raw": "Benjamin, W. (1935). The Work of Art in the Age of Mechanical Reproduction. [Available online from Marxists.org]",
-    "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Benjamin, W (1935). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 97,
@@ -6850,7 +6850,7 @@ window.READINGS_DATA = [
     "author": "Berger, J",
     "year": "1972",
     "type": "Book",
-    "source": "",
+    "source": "London: Penguin Books. [Chap. 1",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9018",
@@ -6858,7 +6858,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 4,
     "raw": "Berger, J. (1972). Ways of Seeing. London: Penguin Books. [Chap. 1]",
-    "summary": "Curated book in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Berger, J (1972). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 98,
@@ -6866,7 +6866,7 @@ window.READINGS_DATA = [
     "author": "Han, B. C",
     "year": "2022",
     "type": "Paper",
-    "source": "",
+    "source": "Berlin: Polity. [pp. 12-24",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9018",
@@ -6874,7 +6874,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 5,
     "raw": "Han, B. C. (2022). Infocracy. Berlin: Polity. [pp.12-24]",
-    "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Han, B. C (2022). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 99,
@@ -6882,7 +6882,7 @@ window.READINGS_DATA = [
     "author": "Johnson, J",
     "year": "2024",
     "type": "Book",
-    "source": "Originalism in Theology and Law. [Chap. 2 (pp.37-49; 56-57)]",
+    "source": "Originalism in Theology and Law. [Chap. 2 (pp.37-49; 56-57",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9018",
@@ -6890,7 +6890,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 6,
     "raw": "Johnson, J. (2024). Original Intentionalism: A Comparison of Textual and Visual Hermeneutics. Originalism in Theology and Law. [Chap. 2 (pp.37-49; 56-57)]",
-    "summary": "Curated book in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Johnson, J (2024). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 100,
@@ -6898,7 +6898,7 @@ window.READINGS_DATA = [
     "author": "Kövecses, Z., & Benczes, R",
     "year": "2010",
     "type": "Paper",
-    "source": "). Oxford University Press. [Ch. 2 (pp. 18-23); Chap. 6 (pp. 79-86)]",
+    "source": "). Oxford University Press. [Ch. 2 (pp. 18-23); Chap. 6 (pp. 79-86",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9018",
@@ -6906,7 +6906,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 7,
     "raw": "Kövecses, Z., & Benczes, R. (2010). Metaphor: a practical introduction (2nd ed.). Oxford University Press. [Ch. 2 (pp. 18-23); Chap. 6 (pp. 79-86)]",
-    "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Kövecses, Z., & Benczes, R (2010). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 101,
@@ -6914,7 +6914,7 @@ window.READINGS_DATA = [
     "author": "Lidwell, W., Holden, K., Butler, J., & Elam, K",
     "year": "2010",
     "type": "Paper",
-    "source": "). Rockport Publishers. [Only for reference, not full reading]",
+    "source": "). Rockport Publishers. [Only for reference, not full reading",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9018",
@@ -6922,7 +6922,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 8,
     "raw": "Lidwell, W., Holden, K., Butler, J., & Elam, K. (2010). Universal principles of design: 125 ways to enhance usability, influence perception, increase appeal, make better design decisions, and teach through design (2nd ed.). Rockport Publishers. [Only for reference, not full reading]",
-    "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Lidwell, W., Holden, K., Butler, J., & Elam, K (2010). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 102,
@@ -6938,7 +6938,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 9,
     "raw": "Literat, I., & S. Berg. (2019). Buy memes low, sell memes high: vernacular criticism and collective negotiations of value on Reddit’s MemeEconomy. Information, Communication & Society, 22(2), 232-249.",
-    "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Literat, I., & S. Berg (2019). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 103,
@@ -6946,7 +6946,7 @@ window.READINGS_DATA = [
     "author": "Morreall, J",
     "year": "2024",
     "type": "Article",
-    "source": "The Stanford Encyclopedia of Philosophy. Edward N. Zalta & Uri Nodelman (eds.). From https://plato.stanford.edu/entries/humor/ [Only for reference, not full reading]",
+    "source": "The Stanford Encyclopedia of Philosophy. Edward N. Zalta & Uri Nodelman (eds.). From https://plato.stanford.edu/entries/humor/ [Only for reference, not full reading",
     "url": "https://plato.stanford.edu/entries/humor/",
     "subtopic": "",
     "course_code": "CCAI9018",
@@ -6954,7 +6954,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 10,
     "raw": "Morreall, J. (2024). Philosophy of Humor. The Stanford Encyclopedia of Philosophy. Edward N. Zalta & Uri Nodelman (eds.). From https://plato.stanford.edu/entries/humor/ [Only for reference, not full reading]",
-    "summary": "Curated article in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Morreall, J (2024). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 104,
@@ -6962,7 +6962,7 @@ window.READINGS_DATA = [
     "author": "Pusca, A",
     "year": "2009",
     "type": "Paper",
-    "source": "International Political Sociology, 3(2), 238-254. [Introduction and Conclusion]",
+    "source": "International Political Sociology, 3(2), 238-254. [Introduction and Conclusion",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9018",
@@ -6970,7 +6970,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 11,
     "raw": "Pusca, A. (2009). Walter Benjamin, a Methodological Contribution. International Political Sociology, 3(2), 238-254. [Introduction and Conclusion]",
-    "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Pusca, A (2009). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 105,
@@ -6986,7 +6986,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 12,
     "raw": "Shifman, L. (2013). Memes in a digital world: Reconciling with a conceptual troublemaker. Journal of Computer-Mediated Communication, 18(3), 362-377",
-    "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Shifman, L (2013). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 106,
@@ -6994,7 +6994,7 @@ window.READINGS_DATA = [
     "author": "Shifman, L",
     "year": "2014",
     "type": "Book",
-    "source": "",
+    "source": "Cambridge, MA: MIT Press. From http://find. lib. hku. hk/record=alma991018243539703414 [Chap. 2 (pp. 9-15); Chap. 4 (pp. 37-41",
     "url": "http://find.lib.hku.hk/record=alma991018243539703414",
     "subtopic": "",
     "course_code": "CCAI9018",
@@ -7002,7 +7002,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 13,
     "raw": "Shifman, L. (2014). Memes in Digital Culture. Cambridge, MA: MIT Press. From http://find.lib.hku.hk/record=alma991018243539703414 [Chap. 2 (pp. 9-15); Chap..4 (pp. 37-41)]",
-    "summary": "Curated book in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Shifman, L (2014). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 107,
@@ -7018,7 +7018,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 14,
     "raw": "Sommerer, T. (2025). Revisiting Baudrillard’s (dis)trust in Artificial Intelligence: Baudrillard and the Dead Internet Theory. Revisiting Baudrillard’s (dis)trust in Artificial Intelligence. Philosophy & technology, 38(2). From https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_journals_3192429151&context=PC&vid=852JULAC_HKU:HKU&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-    "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Sommerer, T (2025). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 108,
@@ -7034,7 +7034,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 15,
     "raw": "Walter, Y. (2025). Artificial Influencers and the dead internet theory. AI & Society, 40, 239-240. From https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_journals_3168157767&context=PC&vid=852JULAC_HKU:HKU&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-    "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Walter, Y (2025). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 109,
@@ -7050,7 +7050,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 16,
     "raw": "Yankoski, M., Scheirer, W., & Weninger, T. (2021). Meme warfare: AI countermeasures to disinformation should focus on popular, not perfect, fakes. Bulletin of the Atomic Scientists, 77(3), 119-123. From https://doi.org/10.1080/00963402.2021.1912093",
-    "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Yankoski, M., Scheirer, W., & Weninger, T (2021). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 110,
@@ -7066,7 +7066,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 17,
     "raw": "Zhai, Y., Yan, J., Zhang, H., & Lu, W. (2020). Tracing the evolution of AI: conceptualization of artificial intelligence in mass media discourse. Information Discovery and Delivery, 48(3), 137-149. From https://doi.org/10.1108/IDD-01-2020-0007",
-    "summary": "Curated paper in 'The Memeing of Life: Metaphor and Meaning in the AI Era' by Zhai, Y., Yan, J., Zhang, H., & Lu, W (2020). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 111,
@@ -7082,7 +7082,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 1,
     "raw": "Barros, M. T., Kagan, B. J., Hartung, T., & Smirnova, L. (2025). Editorial: Intersection between the biological and digital: synthetic biological intelligence and organoid intelligence. Frontiers in Cellular Neuroscience, 18, 1542629. From https://doi.org/10.3389/fncel.2024.1542629",
-    "summary": "Curated paper in 'Human 2.0: Built from Nature, Reshaped by AI' by Barros, M. T., Kagan, B. J., Hartung, T., & Smirnova, L (2025). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 112,
@@ -7090,7 +7090,7 @@ window.READINGS_DATA = [
     "author": "European Commission, Directorate-General for Research and Innovation",
     "year": "2024",
     "type": "Article",
-    "source": "",
+    "source": ". From https://research-and-innovation. ec. europa. eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines. pdf",
     "url": "https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf",
     "subtopic": "",
     "course_code": "CCAI9021",
@@ -7098,7 +7098,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 2,
     "raw": "European Commission, Directorate-General for Research and Innovation. (2024). Living guidelines on the responsible use of generative AI in research. From https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf",
-    "summary": "Curated article in 'Human 2.0: Built from Nature, Reshaped by AI' by European Commission, Directorate-General for Research and Innovation (2024). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 113,
@@ -7114,7 +7114,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 3,
     "raw": "Madanchian, M., & Taherdoost, H. (2025). The impact of artificial intelligence on research efficiency. Results in Engineering, 26, 104743. From https://doi.org/10.1016/j.rineng.2025.104743",
-    "summary": "Curated paper in 'Human 2.0: Built from Nature, Reshaped by AI' by Madanchian, M., & Taherdoost, H (2025). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 114,
@@ -7122,7 +7122,7 @@ window.READINGS_DATA = [
     "author": "Office of the Privacy Commissioner for Personal Data, Hong Kong",
     "year": "2021",
     "type": "Article",
-    "source": "",
+    "source": ". From https://www. pcpd. org. hk/english/resources_centre/publications/files/guidance_ethical_e. pdf",
     "url": "https://www.pcpd.org.hk/english/resources_centre/publications/files/guidance_ethical_e.pdf",
     "subtopic": "",
     "course_code": "CCAI9021",
@@ -7130,7 +7130,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 4,
     "raw": "Office of the Privacy Commissioner for Personal Data, Hong Kong. (2021). Guidance on the ethical development and use of artificial intelligence. From https://www.pcpd.org.hk/english/resources_centre/publications/files/guidance_ethical_e.pdf",
-    "summary": "Curated article in 'Human 2.0: Built from Nature, Reshaped by AI' by Office of the Privacy Commissioner for Personal Data, Hong Kong (2021). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 115,
@@ -7138,7 +7138,7 @@ window.READINGS_DATA = [
     "author": "Royal Society",
     "year": "2023",
     "type": "Report",
-    "source": "",
+    "source": ". From https://royalsociety. org/-/media/policy/projects/science-in-the-age-of-ai/science-in-the-age-of-ai-report. pdf",
     "url": "https://royalsociety.org/-/media/policy/projects/science-in-the-age-of-ai/science-in-the-age-of-ai-report.pdf",
     "subtopic": "",
     "course_code": "CCAI9021",
@@ -7146,7 +7146,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 5,
     "raw": "Royal Society. (2023). Science in the age of AI: how artificial intelligence is changing the nature and method of scientific research. From https://royalsociety.org/-/media/policy/projects/science-in-the-age-of-ai/science-in-the-age-of-ai-report.pdf",
-    "summary": "Curated report in 'Human 2.0: Built from Nature, Reshaped by AI' by Royal Society (2023). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 116,
@@ -7154,7 +7154,7 @@ window.READINGS_DATA = [
     "author": "Siegel, D. J",
     "year": "2012",
     "type": "Paper",
-    "source": "). New York: Guilford Press. [Chap. 7 “Self-regulation”; Chap. 8 “Interpersonal connection”]",
+    "source": "). New York: Guilford Press. [Chap. 7 “Self-regulation”; Chap. 8 “Interpersonal connection”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9021",
@@ -7162,7 +7162,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 6,
     "raw": "Siegel, D. J. (2012). The developing mind: how relationships and the brain interact to shape who we are (2nd ed.). New York: Guilford Press. [Chap. 7 “Self-regulation”; Chap. 8 “Interpersonal connection”]",
-    "summary": "Curated paper in 'Human 2.0: Built from Nature, Reshaped by AI' by Siegel, D. J (2012). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 117,
@@ -7170,7 +7170,7 @@ window.READINGS_DATA = [
     "author": "Weigel, A., Caldas, C., Meyer, A., & Morris, S. A",
     "year": "2022",
     "type": "Paper",
-    "source": "",
+    "source": "Cell, 185(15), 2621–2622. From https://doi. org/10. 1016/j. cell. 2022. 06. 024",
     "url": "https://doi.org/10.1016/j.cell.2022.06.024",
     "subtopic": "",
     "course_code": "CCAI9021",
@@ -7178,7 +7178,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 7,
     "raw": "Weigel, A., Caldas, C., Meyer, A., & Morris, S. A. (2022). The impact of AI on research. Cell, 185(15), 2621–2622. From https://doi.org/10.1016/j.cell.2022.06.024",
-    "summary": "Curated paper in 'Human 2.0: Built from Nature, Reshaped by AI' by Weigel, A., Caldas, C., Meyer, A., & Morris, S. A (2022). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 118,
@@ -7186,7 +7186,7 @@ window.READINGS_DATA = [
     "author": "60 Minutes",
     "year": "2023",
     "type": "Paper",
-    "source": "From https://www. youtube. com/watch?v=qrvK_KuIeJk",
+    "source": ". From https://www. youtube. com/watch?v=qrvK_KuIeJk",
     "url": "https://www.youtube.com/watch?v=qrvK_KuIeJk",
     "subtopic": "",
     "course_code": "CCAI9021",
@@ -7194,7 +7194,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 8,
     "raw": "60 Minutes. (2023). “Godfather of AI” Geoffrey Hinton: The 60 Minutes Interview. From https://www.youtube.com/watch?v=qrvK_KuIeJk",
-    "summary": "Curated paper in 'Human 2.0: Built from Nature, Reshaped by AI' by 60 Minutes (2023). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 119,
@@ -7202,7 +7202,7 @@ window.READINGS_DATA = [
     "author": "Four Minute Books",
     "year": "2022",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=HitVj45O5hI",
     "url": "https://www.youtube.com/watch?v=HitVj45O5hI",
     "subtopic": "",
     "course_code": "CCAI9021",
@@ -7210,7 +7210,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 9,
     "raw": "Four Minute Books. (2022). Sapiens Summary (Animated) — The Definitive History of Humankind & How Humans Became the #1 Species. From https://www.youtube.com/watch?v=HitVj45O5hI",
-    "summary": "Curated video in 'Human 2.0: Built from Nature, Reshaped by AI' by Four Minute Books (2022). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 120,
@@ -7218,7 +7218,7 @@ window.READINGS_DATA = [
     "author": "Paul G. Allen School",
     "year": "2024",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=gzOwpEupP5w&t=1414s",
     "url": "https://www.youtube.com/watch?v=gzOwpEupP5w&t=1414s",
     "subtopic": "",
     "course_code": "CCAI9021",
@@ -7226,7 +7226,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 10,
     "raw": "Paul G. Allen School. (2024). What we see and what we value: AI with a human perspective—Fei-Fei Li (Stanford University). From https://www.youtube.com/watch?v=gzOwpEupP5w&t=1414s",
-    "summary": "Curated video in 'Human 2.0: Built from Nature, Reshaped by AI' by Paul G. Allen School (2024). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 121,
@@ -7234,7 +7234,7 @@ window.READINGS_DATA = [
     "author": "With Spatial Intelligence, AI Will Understand the Real World | Fei-Fei Li | TED",
     "year": "2024",
     "type": "Video",
-    "source": "From https://www. youtube. com/watch?v=y8NtMZ7VGmU",
+    "source": ". From https://www. youtube. com/watch?v=y8NtMZ7VGmU",
     "url": "https://www.youtube.com/watch?v=y8NtMZ7VGmU",
     "subtopic": "",
     "course_code": "CCAI9021",
@@ -7242,7 +7242,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 11,
     "raw": "TED. (2024). With Spatial Intelligence, AI Will Understand the Real World | Fei-Fei Li | TED. From https://www.youtube.com/watch?v=y8NtMZ7VGmU",
-    "summary": "Curated video in 'Human 2.0: Built from Nature, Reshaped by AI' by With Spatial Intelligence, AI Will Understand the Real World | Fei-Fei Li | TED (2024). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 122,
@@ -7250,7 +7250,7 @@ window.READINGS_DATA = [
     "author": "Vector Institute",
     "year": "2024",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=Es6yuMlyfPw",
     "url": "https://www.youtube.com/watch?v=Es6yuMlyfPw",
     "subtopic": "",
     "course_code": "CCAI9021",
@@ -7258,7 +7258,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 12,
     "raw": "Vector Institute. (2024). Geoff Hinton – Will Digital Intelligence Replace Biological Intelligence? | Vector’s Remarkable 2024. From https://www.youtube.com/watch?v=Es6yuMlyfPw",
-    "summary": "Curated video in 'Human 2.0: Built from Nature, Reshaped by AI' by Vector Institute (2024). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 123,
@@ -7274,7 +7274,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 13,
     "raw": "World Science Festival. (2024). Will AI Spark the Next Scientific Revolution? From https://www.youtube.com/watch?v=7wznuB0sKlw&t=202s",
-    "summary": "Curated paper in 'Human 2.0: Built from Nature, Reshaped by AI' by World Science Festival (2024). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 124,
@@ -7290,7 +7290,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 1,
     "raw": "Acemoglu, D., & Johnson, S. (2024). Learning from Ricardo and Thompson: Machinery and labor in the early industrial revolution and in the age of artificial intelligence. Annual Review of Economics, 16(1), 597-621.",
-    "summary": "Curated paper in 'The Political Economy of AI and Big Data (COIL)' by Acemoglu, D., & Johnson, S (2024). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 125,
@@ -7306,7 +7306,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 2,
     "raw": "Agrawal, A., Gans, J., & Goldfarb, A. (2019). Artificial intelligence: The ambiguous labor market impact of automating prediction. Journal of Economic Perspectives, 33(2), 31–50. From https://doi.org/10.1257/jep.33.2.31",
-    "summary": "Curated paper in 'The Political Economy of AI and Big Data (COIL)' by Agrawal, A., Gans, J., & Goldfarb, A (2019). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 126,
@@ -7314,7 +7314,7 @@ window.READINGS_DATA = [
     "author": "Agrawal, A., Gans, J., & Goldfarb, A",
     "year": "2022",
     "type": "Book",
-    "source": "",
+    "source": "Harvard Business Press. [Part One",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9019",
@@ -7322,7 +7322,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 3,
     "raw": "Agrawal, A., Gans, J., & Goldfarb, A. (2022). Power and prediction: The disruptive economics of artificial intelligence. Harvard Business Press. [Part One]",
-    "summary": "Curated book in 'The Political Economy of AI and Big Data (COIL)' by Agrawal, A., Gans, J., & Goldfarb, A (2022). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 127,
@@ -7354,7 +7354,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 5,
     "raw": "Brynjolfsson, E., Li, D., & Raymond, L. (2025). Generative AI at work. Quarterly Journal of Economics, 140(2), 889–942.",
-    "summary": "Curated paper in 'The Political Economy of AI and Big Data (COIL)' by Brynjolfsson, E., Li, D., & Raymond, L (2025). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 129,
@@ -7362,7 +7362,7 @@ window.READINGS_DATA = [
     "author": "Carriere-Swallow, M. Y., & Haksar, M. V",
     "year": "2019",
     "type": "Paper",
-    "source": "",
+    "source": "International Monetary Fund",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9019",
@@ -7370,7 +7370,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 6,
     "raw": "Carriere-Swallow, M. Y., & Haksar, M. V. (2019). The economics and implications of data: an integrated perspective. International Monetary Fund.",
-    "summary": "Curated paper in 'The Political Economy of AI and Big Data (COIL)' by Carriere-Swallow, M. Y., & Haksar, M. V (2019). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 130,
@@ -7394,7 +7394,7 @@ window.READINGS_DATA = [
     "author": "Mayer-Schönberger, V",
     "year": "2025, December",
     "type": "Article",
-    "source": "",
+    "source": "Finance & Development. International Monetary Fund. From https://www. imf. org/en/publications/fandd/issues/2025/12/point-of-view-why-data-should-be-shared-viktor-mayer-schonberger",
     "url": "https://www.imf.org/en/publications/fandd/issues/2025/12/point-of-view-why-data-should-be-shared-viktor-mayer-schonberger",
     "subtopic": "",
     "course_code": "CCAI9019",
@@ -7402,7 +7402,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 8,
     "raw": "Mayer-Schönberger, V. (2025, December). Why data should be shared. Finance & Development. International Monetary Fund. From https://www.imf.org/en/publications/fandd/issues/2025/12/point-of-view-why-data-should-be-shared-viktor-mayer-schonberger",
-    "summary": "Curated article in 'The Political Economy of AI and Big Data (COIL)' by Mayer-Schönberger, V (2025, December). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 132,
@@ -7418,7 +7418,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 9,
     "raw": "Millbrook, A. (2023). A short history of tractors in English. The Economist. From https://www.economist.com/christmas-specials/2023/12/20/a-short-history-of-tractors-in-english",
-    "summary": "Curated article in 'The Political Economy of AI and Big Data (COIL)' by Millbrook, A (2023). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 133,
@@ -7426,7 +7426,7 @@ window.READINGS_DATA = [
     "author": "MIT News Office",
     "year": "2024",
     "type": "Paper",
-    "source": "From https://news. mit. edu/2024/what-do-we-know-about-economics-ai-1206",
+    "source": ". From https://news. mit. edu/2024/what-do-we-know-about-economics-ai-1206",
     "url": "https://news.mit.edu/2024/what-do-we-know-about-economics-ai-1206",
     "subtopic": "",
     "course_code": "CCAI9019",
@@ -7458,7 +7458,7 @@ window.READINGS_DATA = [
     "author": "TEDx Talks",
     "year": "2021",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=uvqDTbusdUU",
     "url": "https://www.youtube.com/watch?v=uvqDTbusdUU",
     "subtopic": "Introduction to AI in Personal Health",
     "course_code": "CCAI9020",
@@ -7466,7 +7466,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 1,
     "raw": "TEDx Talks. (2021). Artificial intelligence in healthcare: opportunities and challenges | Navid Toosi Saidy | TEDxQUT. From https://www.youtube.com/watch?v=uvqDTbusdUU",
-    "summary": "Curated video in 'AI, Health and Me' by TEDx Talks (2021). Examines key insights regarding Introduction to AI in Personal Health."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Introduction to AI in Personal Health."
   },
   {
     "id": 136,
@@ -7474,7 +7474,7 @@ window.READINGS_DATA = [
     "author": "Click On Detroit | Local 4 | WDIV",
     "year": "2023",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=YfGdgYmadX0",
     "url": "https://www.youtube.com/watch?v=YfGdgYmadX0",
     "subtopic": "AI in Reproductive Health",
     "course_code": "CCAI9020",
@@ -7482,7 +7482,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 2,
     "raw": "Click On Detroit | Local 4 | WDIV. (2023). How AI is changing the parenting game. From https://www.youtube.com/watch?v=YfGdgYmadX0",
-    "summary": "Curated video in 'AI, Health and Me' by Click On Detroit | Local 4 | WDIV (2023). Examines key insights regarding AI in Reproductive Health."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding AI in Reproductive Health."
   },
   {
     "id": 137,
@@ -7498,7 +7498,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 3,
     "raw": "Tamir, S. (2022). Artificial intelligence in human reproduction: charting the ethical debate over AI in IVF. AI and Ethics, 3, 947–961. From https://doi.org/10.1007/s43681-022-00216-x",
-    "summary": "Curated paper in 'AI, Health and Me' by Tamir, S (2022). Examines key insights regarding AI in Reproductive Health."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding AI in Reproductive Health."
   },
   {
     "id": 138,
@@ -7506,7 +7506,7 @@ window.READINGS_DATA = [
     "author": "TEDx Talks",
     "year": "2024",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=ZSoXaM5p3Yw",
     "url": "https://www.youtube.com/watch?v=ZSoXaM5p3Yw",
     "subtopic": "AI in Elderly Care",
     "course_code": "CCAI9020",
@@ -7514,7 +7514,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 4,
     "raw": "TEDx Talks. (2024). Artificial Intelligence That Helps Seniors Stay in their Homes | Mai Lee Chang | TEDxOshkosh. From https://www.youtube.com/watch?v=ZSoXaM5p3Yw",
-    "summary": "Curated video in 'AI, Health and Me' by TEDx Talks (2024). Examines key insights regarding AI in Elderly Care."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding AI in Elderly Care."
   },
   {
     "id": 139,
@@ -7530,7 +7530,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 5,
     "raw": "Beam, A. L., Drazen, J. M., Kohane, I. S., Leong, T. -Y., Manrai, A.K., & Rubin, E. J. (2023). Artificial Intelligence in Medicine. New England Journal of Medicine, 388(13), 1220–1221. From https://doi.org/10.1056/nejme2206291",
-    "summary": "Curated paper in 'AI, Health and Me' by Beam, A. L., Drazen, J. M., Kohane, I. S., Leong, T. -Y., Manrai, A.K., & Rubin, E. J (2023). Examines key insights regarding Reading Week."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Reading Week."
   },
   {
     "id": 140,
@@ -7538,7 +7538,7 @@ window.READINGS_DATA = [
     "author": "CTV Your Morning",
     "year": "2023",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=pYh5Wc6dROU",
     "url": "https://www.youtube.com/watch?v=pYh5Wc6dROU",
     "subtopic": "Reading Week",
     "course_code": "CCAI9020",
@@ -7546,7 +7546,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 6,
     "raw": "CTV Your Morning (2023). Healthcare tips for young adults | Your Morning. From https://www.youtube.com/watch?v=pYh5Wc6dROU",
-    "summary": "Curated video in 'AI, Health and Me' by CTV Your Morning (2023). Examines key insights regarding Reading Week."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Reading Week."
   },
   {
     "id": 141,
@@ -7554,7 +7554,7 @@ window.READINGS_DATA = [
     "author": "Ramesh, R",
     "year": "2017",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=2ePf9rue1Ao",
     "url": "https://www.youtube.com/watch?v=2ePf9rue1Ao",
     "subtopic": "Reading Week",
     "course_code": "CCAI9020",
@@ -7562,7 +7562,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 7,
     "raw": "Ramesh, R. (2017). What is Artificial Intelligence? In 5 minutes. From https://www.youtube.com/watch?v=2ePf9rue1Ao",
-    "summary": "Curated video in 'AI, Health and Me' by Ramesh, R (2017). Examines key insights regarding Reading Week."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Reading Week."
   },
   {
     "id": 142,
@@ -7578,7 +7578,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 8,
     "raw": "Topol, E. J. (2019). High-performance medicine: the Convergence of Human and Artificial Intelligence. Nature Medicine, 25(1), 44–56. From https://doi.org/10.1038/s41591-018-0300-7",
-    "summary": "Curated paper in 'AI, Health and Me' by Topol, E. J (2019). Examines key insights regarding Reading Week."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Reading Week."
   },
   {
     "id": 143,
@@ -7594,7 +7594,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 9,
     "raw": "Larson, D. B., Magnus, D. C., Lungren, M. P., Shah, N. H., & Langlotz, C. P. (2020). Ethics of Using and Sharing Clinical Imaging Data for Artificial Intelligence: A Proposed Framework. Radiology, 295(3), 675–682. From https://doi.org/10.1148/radiol.2020192536",
-    "summary": "Curated paper in 'AI, Health and Me' by Larson, D. B., Magnus, D. C., Lungren, M. P., Shah, N. H., & Langlotz, C. P (2020). Examines key insights regarding Building Trust in Healthcare AI."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Building Trust in Healthcare AI."
   },
   {
     "id": 144,
@@ -7602,7 +7602,7 @@ window.READINGS_DATA = [
     "author": "PracticalBioethics",
     "year": "2023",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=9gyx8U7wCqQ",
     "url": "https://www.youtube.com/watch?v=9gyx8U7wCqQ",
     "subtopic": "Building Trust in Healthcare AI",
     "course_code": "CCAI9020",
@@ -7610,7 +7610,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 10,
     "raw": "PracticalBioethics. (2023). The Challenge of Ethics and AI in Healthcare. From https://www.youtube.com/watch?v=9gyx8U7wCqQ",
-    "summary": "Curated video in 'AI, Health and Me' by PracticalBioethics (2023). Examines key insights regarding Building Trust in Healthcare AI."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Building Trust in Healthcare AI."
   },
   {
     "id": 145,
@@ -7626,7 +7626,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 11,
     "raw": "Petersson, L., Larsson, I., Nygren, J. M., Nilsen, P., Neher, M., Reed, J. E., Tyskbo, D., & Svedberg, P. (2022). Challenges to implementing artificial intelligence in healthcare: a qualitative interview study with healthcare leaders in Sweden. BMC Health Services Research, 22(1). From https://doi.org/10.1186/s12913-022-08215-8",
-    "summary": "Curated video in 'AI, Health and Me' by Petersson, L., Larsson, I., Nygren, J. M., Nilsen, P., Neher, M., Reed, J. E., Tyskbo, D., & Svedberg, P (2022). Examines key insights regarding Launching AI Health Solutions."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Launching AI Health Solutions."
   },
   {
     "id": 146,
@@ -7634,7 +7634,7 @@ window.READINGS_DATA = [
     "author": "The Strategy Group",
     "year": "2017",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=vQytKCT563I",
     "url": "https://www.youtube.com/watch?v=vQytKCT563I",
     "subtopic": "Launching AI Health Solutions",
     "course_code": "CCAI9020",
@@ -7642,7 +7642,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 12,
     "raw": "The Strategy Group. (2017). Design Thinking in 90 Seconds. From https://www.youtube.com/watch?v=vQytKCT563I",
-    "summary": "Curated video in 'AI, Health and Me' by The Strategy Group (2017). Examines key insights regarding Launching AI Health Solutions."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Launching AI Health Solutions."
   },
   {
     "id": 147,
@@ -7650,7 +7650,7 @@ window.READINGS_DATA = [
     "author": "Tomisin Ajiboye",
     "year": "2015",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=GZvoksu_CI4",
     "url": "https://www.youtube.com/watch?v=GZvoksu_CI4",
     "subtopic": "Launching AI Health Solutions",
     "course_code": "CCAI9020",
@@ -7658,7 +7658,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 13,
     "raw": "Tomisin Ajiboye. (2015). Refining your Ideas. From https://www.youtube.com/watch?v=GZvoksu_CI4",
-    "summary": "Curated video in 'AI, Health and Me' by Tomisin Ajiboye (2015). Examines key insights regarding Launching AI Health Solutions."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Launching AI Health Solutions."
   },
   {
     "id": 148,
@@ -7666,7 +7666,7 @@ window.READINGS_DATA = [
     "author": "Acemoglu, D., & Johnson, S",
     "year": "2023",
     "type": "Book",
-    "source": "",
+    "source": "Boston: PublicAffairs. [Chap. 1 “Control over Technology”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9022",
@@ -7674,7 +7674,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 1,
     "raw": "Acemoglu, D., & Johnson, S. (2023). Power and Progress. Boston: PublicAffairs. [Chap. 1 “Control over Technology”]",
-    "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Acemoglu, D., & Johnson, S (2023). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 149,
@@ -7682,7 +7682,7 @@ window.READINGS_DATA = [
     "author": "Bradford, A",
     "year": "2023",
     "type": "Book",
-    "source": "",
+    "source": "Oxford: Oxford University Press. [Part 1 “Introduction”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9022",
@@ -7690,7 +7690,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 2,
     "raw": "Bradford, A. (2023). Digital Empires: The Global Battle to Regulate Technology. Oxford: Oxford University Press. [Part 1 “Introduction”]",
-    "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Bradford, A (2023). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 150,
@@ -7698,7 +7698,7 @@ window.READINGS_DATA = [
     "author": "Brynjolfsson, E., & McAfee, A",
     "year": "2014",
     "type": "Book",
-    "source": "",
+    "source": "New York: W. W. Norton & Company. [Chap. 11 “Implications”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9022",
@@ -7706,7 +7706,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 3,
     "raw": "Brynjolfsson, E., & McAfee, A. (2014). The Second Machine Age. New York: W. W. Norton & Company. [Chap. 11 “Implications”]",
-    "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Brynjolfsson, E., & McAfee, A (2014). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 151,
@@ -7714,7 +7714,7 @@ window.READINGS_DATA = [
     "author": "Crawford, K",
     "year": "2021",
     "type": "Book",
-    "source": "",
+    "source": "New Haven: Yale University Press. [Chap. 1 “Earth”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9022",
@@ -7738,7 +7738,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 5,
     "raw": "De Vries, A. (2023). The growing energy footprint of artificial intelligence. Cell Joule, 7(10), 2238-2244.",
-    "summary": "Curated paper in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by De Vries, A (2023). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 153,
@@ -7746,7 +7746,7 @@ window.READINGS_DATA = [
     "author": "Dodhia, R",
     "year": "2024",
     "type": "Book",
-    "source": "",
+    "source": "New Jersey: John Wiley & Sons Inc. [Chap. 6 “Putting Safeguards Around AI”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9022",
@@ -7754,7 +7754,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 6,
     "raw": "Dodhia, R. (2024). AI For Social Good: Using Artificial Intelligence to Save the World. New Jersey: John Wiley & Sons Inc. [Chap. 6 “Putting Safeguards Around AI”]",
-    "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Dodhia, R (2024). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 154,
@@ -7762,7 +7762,7 @@ window.READINGS_DATA = [
     "author": "Eubanks, V",
     "year": "2017",
     "type": "Book",
-    "source": "New York: St. Martin’s Press. [Chap. 5 “The Digital Poorhouse”]",
+    "source": "New York: St. Martin’s Press. [Chap. 5 “The Digital Poorhouse”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9022",
@@ -7770,7 +7770,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 7,
     "raw": "Eubanks, V. (2017). Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor. New York: St. Martin’s Press. [Chap. 5 “The Digital Poorhouse”]",
-    "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Eubanks, V (2017). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 155,
@@ -7778,7 +7778,7 @@ window.READINGS_DATA = [
     "author": "Fruchterman, J",
     "year": "2025",
     "type": "Book",
-    "source": "",
+    "source": "Massachusetts: The MIT Press. [Chap. 2 “The Top Bad Ideas in Tech for Good”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9022",
@@ -7786,7 +7786,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 8,
     "raw": "Fruchterman, J. (2025). Technology for Good: How Nonprofit Leaders are Using Software and Data to Solve Our Most Pressing Social Problems. Massachusetts: The MIT Press. [Chap. 2 “The Top Bad Ideas in Tech for Good”]",
-    "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Fruchterman, J (2025). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 156,
@@ -7794,7 +7794,7 @@ window.READINGS_DATA = [
     "author": "Kissinger, H. A., Mundie, C., & Schmidt, E",
     "year": "2024",
     "type": "Paper",
-    "source": "[Chap. 4 “Politics”]",
+    "source": "[Chap. 4 “Politics”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9022",
@@ -7802,7 +7802,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 9,
     "raw": "Kissinger, H. A., Mundie, C., & Schmidt, E. (2024). Genesis – Artificial Intelligence, Hope and the Human Spirit New York: Little, Brown and Company. [Chap. 4 “Politics”]",
-    "summary": "Curated paper in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Kissinger, H. A., Mundie, C., & Schmidt, E (2024). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 157,
@@ -7810,7 +7810,7 @@ window.READINGS_DATA = [
     "author": "Lee, K. F",
     "year": "2018",
     "type": "Book",
-    "source": "",
+    "source": "Boston: Houghton Mifflin Harcourt. [Chap. 3 “China’s Alternate Internet Universe”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9022",
@@ -7818,7 +7818,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 10,
     "raw": "Lee, K. F. (2018). AI Superpowers: China, Silicon Valley, and the New World Order. Boston: Houghton Mifflin Harcourt. [Chap. 3 “China’s Alternate Internet Universe”]",
-    "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Lee, K. F (2018). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 158,
@@ -7834,7 +7834,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 11,
     "raw": "Li, P., Yang, J., Islam, M.A. & Ren, S. (2025). Making AI Less ‘Thirsty’. Communications of the ACM, 68(7), 54-61.",
-    "summary": "Curated paper in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Li, P., Yang, J., Islam, M.A. & Ren, S (2025). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 159,
@@ -7842,7 +7842,7 @@ window.READINGS_DATA = [
     "author": "Mitchell, M",
     "year": "2019",
     "type": "Book",
-    "source": "",
+    "source": "New York: Farrar, Straus and Giroux. [Chap. 14 “On Understanding”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9022",
@@ -7850,7 +7850,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 12,
     "raw": "Mitchell, M. (2019). Artificial Intelligence: A Guide for Thinking Humans. New York: Farrar, Straus and Giroux. [Chap. 14 “On Understanding”]",
-    "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Mitchell, M (2019). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 160,
@@ -7858,7 +7858,7 @@ window.READINGS_DATA = [
     "author": "Mollick, E",
     "year": "2024",
     "type": "Book",
-    "source": "",
+    "source": "New York: Portfolio/Penguin. [Chap. 6: “AI as a Coworker” / Chap. 8 “AI as a Coach”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9022",
@@ -7866,7 +7866,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 13,
     "raw": "Mollick, E. (2024). Co-Intelligence: Living and Working with AI. New York: Portfolio/Penguin. [Chap. 6: “AI as a Coworker” / Chap. 8 “AI as a Coach”]",
-    "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Mollick, E (2024). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 161,
@@ -7874,7 +7874,7 @@ window.READINGS_DATA = [
     "author": "Nissenbaum, H",
     "year": "2009",
     "type": "Book",
-    "source": "",
+    "source": "Stanford: Stanford Law Books. [Chap. 4 “Locating the Value in Privacy”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9022",
@@ -7882,7 +7882,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 14,
     "raw": "Nissenbaum, H. (2009). Privacy in Context: Technology, Policy, and the Integrity of Social Life. Stanford: Stanford Law Books. [Chap. 4 “Locating the Value in Privacy”]",
-    "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Nissenbaum, H (2009). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 162,
@@ -7890,7 +7890,7 @@ window.READINGS_DATA = [
     "author": "Schneier, B., & Sanders, N. E",
     "year": "2025",
     "type": "Book",
-    "source": "",
+    "source": "Massachusetts: The MIT Press. [Chap. “Principles for AI that Helps Democracy”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9022",
@@ -7898,7 +7898,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 15,
     "raw": "Schneier, B., & Sanders, N. E. (2025). Rewiring Democracy: How AI Will Transform Our Politics, Government and Citizenship. Massachusetts: The MIT Press. [Chap. “Principles for AI that Helps Democracy”]",
-    "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Schneier, B., & Sanders, N. E (2025). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 163,
@@ -7906,7 +7906,7 @@ window.READINGS_DATA = [
     "author": "Suleyman, M., & Bhaskar, M",
     "year": "2023",
     "type": "Book",
-    "source": "",
+    "source": "New York: Crown. [Chap. 14 “Ten Steps Toward Containment”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9022",
@@ -7914,7 +7914,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 16,
     "raw": "Suleyman, M., & Bhaskar, M. (2023). The Coming Wave: Technology, Power, and the Twenty-first Century’s Greatest Dilemma. New York: Crown. [Chap. 14 “Ten Steps Toward Containment”]",
-    "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Suleyman, M., & Bhaskar, M (2023). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 164,
@@ -7922,7 +7922,7 @@ window.READINGS_DATA = [
     "author": "Susskind, D",
     "year": "2020",
     "type": "Book",
-    "source": "",
+    "source": "New York: Henry Holt and Co. [Chap. 5 “The Task Encroachment” / Chap. 9 “Education and Its Limits”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9022",
@@ -7930,7 +7930,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 17,
     "raw": "Susskind, D. (2020). A World Without Work. New York: Henry Holt and Co. [Chap. 5 “The Task Encroachment” / Chap. 9 “Education and Its Limits”]",
-    "summary": "Curated book in 'Taming the Digital Wild West: From Disruption to Impact in the AI Era' by Susskind, D (2020). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 165,
@@ -7938,7 +7938,7 @@ window.READINGS_DATA = [
     "author": "3Blue1Brown",
     "year": "2024",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=LPZh9BOjkQs",
     "url": "https://www.youtube.com/watch?v=LPZh9BOjkQs",
     "subtopic": "",
     "course_code": "CCAI9024",
@@ -7946,7 +7946,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 1,
     "raw": "3Blue1Brown. (2024). Large Language Models explained briefly. From https://www.youtube.com/watch?v=LPZh9BOjkQs",
-    "summary": "Curated video in 'Generative AI and the Future of Creativity' by 3Blue1Brown (2024). Explores fundamental themes in creativity & aesthetics."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
   },
   {
     "id": 166,
@@ -7954,7 +7954,7 @@ window.READINGS_DATA = [
     "author": "De Cremer, D., Bianzino, N. M., & Falk, B",
     "year": "2023",
     "type": "Article",
-    "source": "",
+    "source": "Harvard Business Review. From https://hbr. org/2023/04/how-generative-ai-could-disrupt-creative-work",
     "url": "https://hbr.org/2023/04/how-generative-ai-could-disrupt-creative-work",
     "subtopic": "",
     "course_code": "CCAI9024",
@@ -7962,7 +7962,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 2,
     "raw": "De Cremer, D., Bianzino, N. M., & Falk, B. (2023). How Generative AI Could Disrupt Creative Work. Harvard Business Review. From https://hbr.org/2023/04/how-generative-ai-could-disrupt-creative-work",
-    "summary": "Curated article in 'Generative AI and the Future of Creativity' by De Cremer, D., Bianzino, N. M., & Falk, B (2023). Explores fundamental themes in creativity & aesthetics."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
   },
   {
     "id": 167,
@@ -7970,7 +7970,7 @@ window.READINGS_DATA = [
     "author": "Eapen, T. T., Finkenstadt, D. J., Folk, J., & Venkataswamy, L",
     "year": "2023",
     "type": "Article",
-    "source": "",
+    "source": "Harvard Business Review. From https://hbr. org/2023/07/how-generative-ai-can-augment-human-creativity",
     "url": "https://hbr.org/2023/07/how-generative-ai-can-augment-human-creativity",
     "subtopic": "",
     "course_code": "CCAI9024",
@@ -7978,7 +7978,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 3,
     "raw": "Eapen, T. T., Finkenstadt, D. J., Folk, J., & Venkataswamy, L. (2023). How Generative AI Can Augment Human Creativity. Harvard Business Review. From https://hbr.org/2023/07/how-generative-ai-can-augment-human-creativity.",
-    "summary": "Curated article in 'Generative AI and the Future of Creativity' by Eapen, T. T., Finkenstadt, D. J., Folk, J., & Venkataswamy, L (2023). Explores fundamental themes in creativity & aesthetics."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
   },
   {
     "id": 168,
@@ -7986,7 +7986,7 @@ window.READINGS_DATA = [
     "author": "Paul, E. S., & Stokes, D",
     "year": "2023",
     "type": "Article",
-    "source": "",
+    "source": "Stanford. edu. From https://plato. stanford. edu/entries/creativity",
     "url": "https://plato.stanford.edu/entries/creativity",
     "subtopic": "",
     "course_code": "CCAI9024",
@@ -7994,7 +7994,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 4,
     "raw": "Paul, E. S., & Stokes, D. (2023). Creativity. Stanford.edu. From https://plato.stanford.edu/entries/creativity",
-    "summary": "Curated article in 'Generative AI and the Future of Creativity' by Paul, E. S., & Stokes, D (2023). Explores fundamental themes in creativity & aesthetics."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
   },
   {
     "id": 169,
@@ -8002,7 +8002,7 @@ window.READINGS_DATA = [
     "author": "Sanderson, G",
     "year": "2019",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
     "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
     "subtopic": "",
     "course_code": "CCAI9024",
@@ -8010,7 +8010,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 5,
     "raw": "Sanderson, G. (2019). Neural networks. From https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
-    "summary": "Curated video in 'Generative AI and the Future of Creativity' by Sanderson, G (2019). Explores fundamental themes in creativity & aesthetics."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
   },
   {
     "id": 170,
@@ -8018,7 +8018,7 @@ window.READINGS_DATA = [
     "author": "Schwanke, A",
     "year": "2024",
     "type": "Paper",
-    "source": "From https://medium. com/@axel. schwanke/generative-ai-never-truly-creative-68a0189d98e8",
+    "source": ". From https://medium. com/@axel. schwanke/generative-ai-never-truly-creative-68a0189d98e8",
     "url": "https://medium.com/@axel.schwanke/generative-ai-never-truly-creative-68a0189d98e8",
     "subtopic": "",
     "course_code": "CCAI9024",
@@ -8026,7 +8026,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 6,
     "raw": "Schwanke, A. (2024). Generative AI — Never Truly Creative? Medium. From https://medium.com/@axel.schwanke/generative-ai-never-truly-creative-68a0189d98e8.",
-    "summary": "Curated paper in 'Generative AI and the Future of Creativity' by Schwanke, A (2024). Explores fundamental themes in creativity & aesthetics."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
   },
   {
     "id": 171,
@@ -8034,7 +8034,7 @@ window.READINGS_DATA = [
     "author": "Vox",
     "year": "2023",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=K0ldxCh3cnI&list=PLJ8cMiYb3G5ek1Ux66aJ_qWf6CfBaAkGG&index=8",
     "url": "https://www.youtube.com/watch?v=K0ldxCh3cnI&list=PLJ8cMiYb3G5ek1Ux66aJ_qWf6CfBaAkGG&index=8",
     "subtopic": "",
     "course_code": "CCAI9024",
@@ -8042,7 +8042,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 7,
     "raw": "Vox (2023). An AI artist explains his workflow. From https://www.youtube.com/watch?v=K0ldxCh3cnI&list=PLJ8cMiYb3G5ek1Ux66aJ_qWf6CfBaAkGG&index=8",
-    "summary": "Curated video in 'Generative AI and the Future of Creativity' by Vox (2023). Explores fundamental themes in creativity & aesthetics."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
   },
   {
     "id": 172,
@@ -8050,7 +8050,7 @@ window.READINGS_DATA = [
     "author": "Vox",
     "year": "2022",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=SVcsDDABEkM",
     "url": "https://www.youtube.com/watch?v=SVcsDDABEkM",
     "subtopic": "",
     "course_code": "CCAI9024",
@@ -8058,7 +8058,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 8,
     "raw": "Vox. (2022). AI art, explained. From https://www.youtube.com/watch?v=SVcsDDABEkM.",
-    "summary": "Curated video in 'Generative AI and the Future of Creativity' by Vox (2022). Explores fundamental themes in creativity & aesthetics."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
   },
   {
     "id": 173,
@@ -8066,7 +8066,7 @@ window.READINGS_DATA = [
     "author": "Christie, N",
     "year": "2004",
     "type": "Book",
-    "source": "Routledge. [Chap. 1 “Crime Does Not Exist”]",
+    "source": "Routledge. [Chap. 1 “Crime Does Not Exist”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9023",
@@ -8074,7 +8074,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 1,
     "raw": "Christie, N. (2004). A Suitable Amount of Crime. Routledge. [Chap. 1 “Crime Does Not Exist”]",
-    "summary": "Curated book in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Christie, N (2004). Explores fundamental themes in law & regulation."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in law & regulation."
   },
   {
     "id": 174,
@@ -8090,7 +8090,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 2,
     "raw": "Horwitz, A. V. (2008). Normality. Contexts, 7(1), 70-71.",
-    "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Horwitz, A. V (2008). Explores fundamental themes in law & regulation."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in law & regulation."
   },
   {
     "id": 175,
@@ -8106,7 +8106,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 3,
     "raw": "MacFarquhar, L. (2018). The mind-expanding ideas of Andy Clark. The New Yorker, 26. From https://www.newyorker.com/magazine/2018/04/02/the-mind-expanding-ideas-of-andy-clark",
-    "summary": "Curated article in 'Real Harm in an Unreal World: Crime, Regulation and AI' by MacFarquhar, L (2018). Examines key insights regarding The changing landscape of crime and harm."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding The changing landscape of crime and harm."
   },
   {
     "id": 176,
@@ -8114,7 +8114,7 @@ window.READINGS_DATA = [
     "author": "Goode, E., & Ben-Yehuda, N",
     "year": "2010",
     "type": "Book",
-    "source": "",
+    "source": "John Wiley & Sons. [Chap. 1 “Enter The Moral Panic”",
     "url": "",
     "subtopic": "Moral Panics in the Face of New Technology – Sometimes we get it wrong",
     "course_code": "CCAI9023",
@@ -8122,7 +8122,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 4,
     "raw": "Goode, E., & Ben-Yehuda, N. (2010). Moral Panics: The Social Construction of Deviance. John Wiley & Sons. [Chap. 1 “Enter The Moral Panic”]",
-    "summary": "Curated book in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Goode, E., & Ben-Yehuda, N (2010). Examines key insights regarding Moral Panics in the Face of New Technology – Sometimes we get it wrong."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Moral Panics in the Face of New Technology – Sometimes we get it wrong."
   },
   {
     "id": 177,
@@ -8138,7 +8138,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 5,
     "raw": "Ladegaard, I. (2025). Open Secrecy: How police crackdowns and creative problem-solving brought illegal markets out of the shadows. Social Forces, 99(2), 532-559.",
-    "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Ladegaard, I (2025). Examines key insights regarding Digitally Organized Crime – Information technology and crime networks."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Digitally Organized Crime – Information technology and crime networks."
   },
   {
     "id": 178,
@@ -8154,7 +8154,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 6,
     "raw": "Roose, K. (2019). What Does PewDiePie Really Believe? The New York Times Magazine.",
-    "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Roose, K (2019). Examines key insights regarding Extremism – How IT empowers extremist groups."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Extremism – How IT empowers extremist groups."
   },
   {
     "id": 179,
@@ -8170,7 +8170,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 7,
     "raw": "Wojcieszak, M. (2010). Don’t talk to me. New Media & Society, 12(4), 637-655.",
-    "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Wojcieszak, M (2010). Examines key insights regarding Extremism – How IT empowers extremist groups."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Extremism – How IT empowers extremist groups."
   },
   {
     "id": 180,
@@ -8186,7 +8186,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 8,
     "raw": "Fourcade, M., & Healy, K. (2017). Seeing like a market. Socio-Economic Review, 15(1), 9-29.",
-    "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Fourcade, M., & Healy, K (2017). Examines key insights regarding State Surveillance in the East and West – Balancing liberty and control."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding State Surveillance in the East and West – Balancing liberty and control."
   },
   {
     "id": 181,
@@ -8194,7 +8194,7 @@ window.READINGS_DATA = [
     "author": "Schneier, B",
     "year": "2015",
     "type": "Book",
-    "source": "",
+    "source": "WW Norton & Company. [Chap. 5 “Surveillance Capitalism – The rise of private surveillance”",
     "url": "",
     "subtopic": "State Surveillance in the East and West – Balancing liberty and control",
     "course_code": "CCAI9023",
@@ -8202,7 +8202,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 9,
     "raw": "Schneier, B. (2015). Data and Goliath. WW Norton & Company. [Chap. 5 “Surveillance Capitalism – The rise of private surveillance”]",
-    "summary": "Curated book in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Schneier, B (2015). Examines key insights regarding State Surveillance in the East and West – Balancing liberty and control."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding State Surveillance in the East and West – Balancing liberty and control."
   },
   {
     "id": 182,
@@ -8210,7 +8210,7 @@ window.READINGS_DATA = [
     "author": "Zuboff, S",
     "year": "2018",
     "type": "Paper",
-    "source": "",
+    "source": "[Excerpt",
     "url": "",
     "subtopic": "Organizational Deviance – Harm from powerful actors",
     "course_code": "CCAI9023",
@@ -8218,7 +8218,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 10,
     "raw": "Zuboff, S. (2018). Surveillance Capitalism. [Excerpt]",
-    "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Zuboff, S (2018). Examines key insights regarding Organizational Deviance – Harm from powerful actors."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Organizational Deviance – Harm from powerful actors."
   },
   {
     "id": 183,
@@ -8234,7 +8234,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 11,
     "raw": "Burrell, J. and Fourcade, M. (2021). The society of algorithms. Annual review of sociology, 47(1), 213-237.",
-    "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Burrell, J. and Fourcade, M (2021). Examines key insights regarding Living with Platform Power – Accountability and resistance."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Living with Platform Power – Accountability and resistance."
   },
   {
     "id": 184,
@@ -8250,7 +8250,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 12,
     "raw": "Van Dijk, J. A. (2006). Digital divide research. Poetics, 34(4-5), 221-235.",
-    "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Van Dijk, J. A (2006). Examines key insights regarding Inequality – Who benefits from AI?."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Inequality – Who benefits from AI?."
   },
   {
     "id": 185,
@@ -8266,7 +8266,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 13,
     "raw": "Talbot, M. (2016, November 27). The attorney fighting revenge porn. The New Yorker. From https://www.newyorker.com/magazine/2016/12/05/the-attorney-fighting-revenge-porn",
-    "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Talbot, M (2016). Examines key insights regarding Digital Victimology – Gendered violence in the digital age."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Digital Victimology – Gendered violence in the digital age."
   },
   {
     "id": 186,
@@ -8282,7 +8282,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 14,
     "raw": "Garland, D. (1991). Sociological perspectives on punishment. Crime and Justice, 14, 115-165.",
-    "summary": "Curated paper in 'Real Harm in an Unreal World: Crime, Regulation and AI' by Garland, D (1991). Examines key insights regarding Digital vs. Analog Lawbreakers – Should digital crimes be treated differently."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Digital vs. Analog Lawbreakers – Should digital crimes be treated differently."
   },
   {
     "id": 187,
@@ -8290,7 +8290,7 @@ window.READINGS_DATA = [
     "author": "Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S",
     "year": "2021",
     "type": "Paper",
-    "source": "From https://doi. org/10. 1145/3442188. 3445922 [pp. 610–623]",
+    "source": ". From https://doi. org/10. 1145/3442188. 3445922 [pp. 610–623",
     "url": "https://doi.org/10.1145/3442188.3445922",
     "subtopic": "",
     "course_code": "CCAI9012",
@@ -8298,7 +8298,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 1,
     "raw": "Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dangers of stochastic parrots: Can language models be too big? Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency. From https://doi.org/10.1145/3442188.3445922 [pp. 610–623]",
-    "summary": "Curated paper in 'GenAI Solutions to Global Challenges: Using AI Creatively and Responsibly' by Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S (2021). Explores fundamental themes in creativity & aesthetics."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
   },
   {
     "id": 188,
@@ -8314,7 +8314,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 2,
     "raw": "Chiang, T. (2023, February 9). ChatGPT is a blurry JPEG of the web. The New Yorker.",
-    "summary": "Curated paper in 'GenAI Solutions to Global Challenges: Using AI Creatively and Responsibly' by Chiang, T (2023). Explores fundamental themes in creativity & aesthetics."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
   },
   {
     "id": 189,
@@ -8322,7 +8322,7 @@ window.READINGS_DATA = [
     "author": "Kaplan, J., McCandlish, S., Henighan, T., Brown, T.B., Chess, B., Child, R., Gray, S., Radford, A., Wu, J., & Amodei, D",
     "year": "2020",
     "type": "Paper",
-    "source": "",
+    "source": "arXiv:2001. 08361. From https://doi. org/10. 48550/arXiv. 2001. 08361",
     "url": "https://doi.org/10.48550/arXiv.2001.08361",
     "subtopic": "",
     "course_code": "CCAI9012",
@@ -8330,7 +8330,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 3,
     "raw": "Kaplan, J., McCandlish, S., Henighan, T., Brown, T.B., Chess, B., Child, R., Gray, S., Radford, A., Wu, J., & Amodei, D. (2020). Scaling laws for neural language models. arXiv:2001.08361. From https://doi.org/10.48550/arXiv.2001.08361",
-    "summary": "Curated paper in 'GenAI Solutions to Global Challenges: Using AI Creatively and Responsibly' by Kaplan, J., McCandlish, S., Henighan, T., Brown, T.B., Chess, B., Child, R., Gray, S., Radford, A., Wu, J., & Amodei, D (2020). Explores fundamental themes in creativity & aesthetics."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
   },
   {
     "id": 190,
@@ -8338,7 +8338,7 @@ window.READINGS_DATA = [
     "author": "Kosmyna, N., Hauptmann, E., Yuan, Y.T., Situ, J., Liao, X.-H., Beresnitzky, A.V., Braunstein, I., & Maes, P",
     "year": "2025",
     "type": "Article",
-    "source": "",
+    "source": "arXiv:2506. 08872. From https://doi. org/10. 48550/arXiv. 2506. 08872",
     "url": "https://doi.org/10.48550/arXiv.2506.08872",
     "subtopic": "",
     "course_code": "CCAI9012",
@@ -8346,7 +8346,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 4,
     "raw": "Kosmyna, N., Hauptmann, E., Yuan, Y.T., Situ, J., Liao, X.-H., Beresnitzky, A.V., Braunstein, I., & Maes, P. (2025). Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for essay writing tasks. arXiv:2506.08872. From https://doi.org/10.48550/arXiv.2506.08872",
-    "summary": "Curated article in 'GenAI Solutions to Global Challenges: Using AI Creatively and Responsibly' by Kosmyna, N., Hauptmann, E., Yuan, Y.T., Situ, J., Liao, X.-H., Beresnitzky, A.V., Braunstein, I., & Maes, P (2025). Explores fundamental themes in creativity & aesthetics."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
   },
   {
     "id": 191,
@@ -8362,7 +8362,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 5,
     "raw": "LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521, 436–444. From https://doi.org/10.1038/nature14539",
-    "summary": "Curated paper in 'GenAI Solutions to Global Challenges: Using AI Creatively and Responsibly' by LeCun, Y., Bengio, Y., & Hinton, G (2015). Explores fundamental themes in creativity & aesthetics."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
   },
   {
     "id": 192,
@@ -8370,7 +8370,7 @@ window.READINGS_DATA = [
     "author": "Murrell, A",
     "year": "2023",
     "type": "Paper",
-    "source": "",
+    "source": "The age of average",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9012",
@@ -8378,7 +8378,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 6,
     "raw": "Murrell, A. (2023). The age of average.",
-    "summary": "Curated paper in 'GenAI Solutions to Global Challenges: Using AI Creatively and Responsibly' by Murrell, A (2023). Explores fundamental themes in creativity & aesthetics."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
   },
   {
     "id": 193,
@@ -8394,7 +8394,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 7,
     "raw": "Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R., & Gal, Y. (2024). AI models collapse when trained on recursively generated data. Nature, 631(8022), 755–759. From https://doi.org/10.1038/s41586-024-07566-y",
-    "summary": "Curated paper in 'GenAI Solutions to Global Challenges: Using AI Creatively and Responsibly' by Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R., & Gal, Y (2024). Explores fundamental themes in creativity & aesthetics."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
   },
   {
     "id": 194,
@@ -8410,7 +8410,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 8,
     "raw": "The Economist. (2024). A short history of AI. The Economist.",
-    "summary": "Curated paper in 'GenAI Solutions to Global Challenges: Using AI Creatively and Responsibly' by The Economist (2024). Explores fundamental themes in creativity & aesthetics."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in creativity & aesthetics."
   },
   {
     "id": 195,
@@ -8418,7 +8418,7 @@ window.READINGS_DATA = [
     "author": "Batty, M",
     "year": "2013",
     "type": "Book",
-    "source": "",
+    "source": "MIT press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9016",
@@ -8426,7 +8426,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 1,
     "raw": "Batty, M. (2013). The new science of cities. MIT press.",
-    "summary": "Curated book in 'AI for Cities' by Batty, M (2013). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 196,
@@ -8434,7 +8434,7 @@ window.READINGS_DATA = [
     "author": "Batty, M",
     "year": "2018",
     "type": "Book",
-    "source": "",
+    "source": "MIT press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9016",
@@ -8442,7 +8442,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 2,
     "raw": "Batty, M. (2018). Inventing future cities. MIT press.",
-    "summary": "Curated book in 'AI for Cities' by Batty, M (2018). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 197,
@@ -8450,7 +8450,7 @@ window.READINGS_DATA = [
     "author": "Kitchin, R",
     "year": "2014",
     "type": "Paper",
-    "source": "",
+    "source": "Sage",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9016",
@@ -8458,7 +8458,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 3,
     "raw": "Kitchin, R. (2014). The data revolution: Big data, open data, data infrastructures and their consequences. Sage.",
-    "summary": "Curated paper in 'AI for Cities' by Kitchin, R (2014). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 198,
@@ -8466,7 +8466,7 @@ window.READINGS_DATA = [
     "author": "Ratti, C., & Claudel, M",
     "year": "2016",
     "type": "Book",
-    "source": "",
+    "source": "Yale University Press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9016",
@@ -8474,7 +8474,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 4,
     "raw": "Ratti, C., & Claudel, M. (2016). The city of tomorrow: Sensors, networks, hackers, and the future of urban life. Yale University Press.",
-    "summary": "Curated book in 'AI for Cities' by Ratti, C., & Claudel, M (2016). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 199,
@@ -8482,7 +8482,7 @@ window.READINGS_DATA = [
     "author": "Townsend, A. M",
     "year": "2013",
     "type": "Paper",
-    "source": "",
+    "source": "WW Norton & Company",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9016",
@@ -8490,7 +8490,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 5,
     "raw": "Townsend, A. M. (2013). Smart cities: Big data, civic hackers, and the quest for a new utopia. WW Norton & Company.",
-    "summary": "Curated paper in 'AI for Cities' by Townsend, A. M (2013). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 200,
@@ -8506,7 +8506,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 1,
     "raw": "Notes provided by the lecturer",
-    "summary": "Curated paper in 'The Age of Big Data' by HKU Department of Computer Science (N/A). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 201,
@@ -8522,7 +8522,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 2,
     "raw": "Selected articles from newspapers, books, academic journal and conference papers, magazines and websites for each lecture",
-    "summary": "Curated book in 'The Age of Big Data' by TED Conferences (N/A). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 202,
@@ -8538,7 +8538,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 1,
     "raw": "Cao, Y., Gao, J., Lian, D., Rong, Z., Shi, J., Wang, Q., … & Zhou, T. (2018). Orderliness predicts academic performance: behavioural analysis on campus lifestyle. Journal of The Royal Society Interface, 15(146), 20180210.",
-    "summary": "Curated paper in 'Big Data and AI Solutions to Social Problems' by Cao, Y., Gao, J., Lian, D., Rong, Z., Shi, J., Wang, Q., … & Zhou, T (2018). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 203,
@@ -8554,7 +8554,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 2,
     "raw": "Gao, J., & Wang, D. (2024). Quantifying the use and potential benefits of artificial intelligence in scientific research. Nature Human Behaviour, 8(12), 2281-2292.",
-    "summary": "Curated paper in 'Big Data and AI Solutions to Social Problems' by Gao, J., & Wang, D (2024). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 204,
@@ -8562,7 +8562,7 @@ window.READINGS_DATA = [
     "author": "Gao, J., Zhang, Y. C., & Zhou, T",
     "year": "2019",
     "type": "Report",
-    "source": "Physics Reports, 817, 1-104. [Contents and Section 1 “Introduction”]",
+    "source": "Physics Reports, 817, 1-104. [Contents and Section 1 “Introduction”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9031",
@@ -8570,7 +8570,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 3,
     "raw": "Gao, J., Zhang, Y. C., & Zhou, T. (2019). Computational socioeconomics. Physics Reports, 817, 1-104. [Contents and Section 1 “Introduction”]",
-    "summary": "Curated report in 'Big Data and AI Solutions to Social Problems' by Gao, J., Zhang, Y. C., & Zhou, T (2019). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 205,
@@ -8586,7 +8586,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 4,
     "raw": "Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabási, A. L., Brewer, D., & Van Alstyne, M. (2009). Computational social science. Science, 323(5915), 721-723.",
-    "summary": "Curated paper in 'Big Data and AI Solutions to Social Problems' by Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabási, A. L., Brewer, D., & Van Alstyne, M (2009). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 206,
@@ -8602,7 +8602,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 5,
     "raw": "Wang, Y., Jones, B. F., & Wang, D. (2019). Early-career setback and future career impact. Nature Communications, 10(1), 4331.",
-    "summary": "Curated paper in 'Big Data and AI Solutions to Social Problems' by Wang, Y., Jones, B. F., & Wang, D (2019). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 207,
@@ -8618,7 +8618,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 6,
     "raw": "Yin, Y., Gao, J., Jones, B. F., & Wang, D. (2021). Coevolution of policy and science during the pandemic. Science, 371(6525), 128-130.",
-    "summary": "Curated paper in 'Big Data and AI Solutions to Social Problems' by Yin, Y., Gao, J., Jones, B. F., & Wang, D (2021). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 208,
@@ -8626,7 +8626,7 @@ window.READINGS_DATA = [
     "author": "Bitcoin TVPBS",
     "year": "2016",
     "type": "Paper",
-    "source": "From https://www. youtube. com/watch?v=bIY3LUZ7i8Y",
+    "source": ". From https://www. youtube. com/watch?v=bIY3LUZ7i8Y",
     "url": "https://www.youtube.com/watch?v=bIY3LUZ7i8Y",
     "subtopic": "",
     "course_code": "CCAI9031",
@@ -8634,7 +8634,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 7,
     "raw": "Bitcoin TVPBS. (2016). “Big Data Revolution” – PBS Documentary. From https://www.youtube.com/watch?v=bIY3LUZ7i8Y.",
-    "summary": "Curated paper in 'Big Data and AI Solutions to Social Problems' by Bitcoin TVPBS (2016). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 209,
@@ -8642,7 +8642,7 @@ window.READINGS_DATA = [
     "author": "Lee, K. -F",
     "year": "2018",
     "type": "Article",
-    "source": "",
+    "source": ". From https://www. ted. com/talks/kai_fu_lee_how_ai_can_save_our_humanity [TED Talk",
     "url": "https://www.ted.com/talks/kai_fu_lee_how_ai_can_save_our_humanity",
     "subtopic": "",
     "course_code": "CCAI9031",
@@ -8650,7 +8650,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 8,
     "raw": "Lee, K. -F. (2018). How AI can save our humanity. From https://www.ted.com/talks/kai_fu_lee_how_ai_can_save_our_humanity [TED Talk]",
-    "summary": "Curated article in 'Big Data and AI Solutions to Social Problems' by Lee, K. -F (2018). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 210,
@@ -8658,7 +8658,7 @@ window.READINGS_DATA = [
     "author": "Suleyman, M",
     "year": "2024",
     "type": "Paper",
-    "source": "ted. com/talks/mustafa_suleyman_what_is_an_ai_anyway [TED Talk]",
+    "source": "ted. com/talks/mustafa_suleyman_what_is_an_ai_anyway [TED Talk",
     "url": "https://www.ted.com/talks/mustafa_suleyman_what_is_an_ai_anyway",
     "subtopic": "",
     "course_code": "CCAI9031",
@@ -8666,7 +8666,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 9,
     "raw": "Suleyman, M. (2024). What is an AI anyway? From https://www.ted.com/talks/mustafa_suleyman_what_is_an_ai_anyway [TED Talk]",
-    "summary": "Curated paper in 'Big Data and AI Solutions to Social Problems' by Suleyman, M (2024). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 211,
@@ -8682,7 +8682,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 1,
     "raw": "Jerald, J. (2015). The VR Book: Human-centred Design for Virtual Reality (Illustrated ed.). Morgan & Claypool Publishers.",
-    "summary": "Curated paper in 'Virtual Worlds, Real Bodies' by Jerald, J (2015). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 212,
@@ -8690,7 +8690,7 @@ window.READINGS_DATA = [
     "author": "LaValle, S. M",
     "year": "2023",
     "type": "Book",
-    "source": "",
+    "source": "Cambridge University Press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9032",
@@ -8698,7 +8698,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 2,
     "raw": "LaValle, S. M. (2023). Virtual Reality. Cambridge University Press.",
-    "summary": "Curated book in 'Virtual Worlds, Real Bodies' by LaValle, S. M (2023). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 213,
@@ -8714,7 +8714,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 3,
     "raw": "Russell, S., & Norvig, P. (2021). Artificial intelligence: a modern approach (4th US ed.). Pearson.",
-    "summary": "Curated paper in 'Virtual Worlds, Real Bodies' by Russell, S., & Norvig, P (2021). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 214,
@@ -8730,7 +8730,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 4,
     "raw": "Slater, M., & Sanchez-Vives, M. V. (2016). Enhancing our lives with immersive virtual reality. Frontiers in Robotics and AI, 3, 74.",
-    "summary": "Curated paper in 'Virtual Worlds, Real Bodies' by Slater, M., & Sanchez-Vives, M. V (2016). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 215,
@@ -8754,7 +8754,7 @@ window.READINGS_DATA = [
     "author": "The Verge",
     "year": "N/A",
     "type": "Article",
-    "source": "The rise and fall and rise of virtual reality. From https://www. theverge. com/a/virtual-reality [Compilations of articles on the development of VR]",
+    "source": "The rise and fall and rise of virtual reality. From https://www. theverge. com/a/virtual-reality [Compilations of articles on the development of VR",
     "url": "https://www.theverge.com/a/virtual-reality",
     "subtopic": "",
     "course_code": "CCAI9032",
@@ -8762,7 +8762,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 6,
     "raw": "The Verge. The rise and fall and rise of virtual reality. From https://www.theverge.com/a/virtual-reality [Compilations of articles on the development of VR]",
-    "summary": "Curated article in 'Virtual Worlds, Real Bodies' by The Verge (N/A). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 217,
@@ -8770,7 +8770,7 @@ window.READINGS_DATA = [
     "author": "Asimov, I",
     "year": "1950",
     "type": "Paper",
-    "source": "",
+    "source": "New York: Gnome Press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9030",
@@ -8778,7 +8778,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 1,
     "raw": "Asimov, I. (1950). I, Robot. New York: Gnome Press.",
-    "summary": "Curated paper in 'Robot: Flesh, Machines, Intelligence' by Asimov, I (1950). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 218,
@@ -8794,7 +8794,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 2,
     "raw": "Bostrom, N., & Yudkowsky, E. (2011). The ethics of artificial intelligence. In K. Frankish & W. M. Ramsey (Eds.), The Cambridge handbook of artificial intelligence. Cambridge University Press.",
-    "summary": "Curated paper in 'Robot: Flesh, Machines, Intelligence' by Bostrom, N., & Yudkowsky, E (2011). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 219,
@@ -8802,7 +8802,7 @@ window.READINGS_DATA = [
     "author": "Gutkind, L",
     "year": "2009",
     "type": "Paper",
-    "source": "",
+    "source": "New York: W. W. Norton & Company",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9030",
@@ -8810,7 +8810,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 3,
     "raw": "Gutkind, L. (2009). Almost human: Making robots think. New York: W.W. Norton & Company.",
-    "summary": "Curated paper in 'Robot: Flesh, Machines, Intelligence' by Gutkind, L (2009). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 220,
@@ -8818,7 +8818,7 @@ window.READINGS_DATA = [
     "author": "Wallach, W., & Allen, C",
     "year": "2010",
     "type": "Book",
-    "source": "",
+    "source": "Oxford: Oxford University Press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9030",
@@ -8826,7 +8826,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 4,
     "raw": "Wallach, W., & Allen, C. (2010). Moral machines: Teaching robots right from wrong. Oxford: Oxford University Press.",
-    "summary": "Curated book in 'Robot: Flesh, Machines, Intelligence' by Wallach, W., & Allen, C (2010). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 221,
@@ -8842,7 +8842,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 1,
     "raw": "Association of Health Care Journalists. (n.d.) Statement of principles of the association of health care journalists. From https://healthjournalism.org/about/principles-and-policies/statement-of-principles-of-the-association-of-health-care-journalists",
-    "summary": "Curated paper in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by Association of Health Care Journalists (AHCJ) (N/A). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 222,
@@ -8858,7 +8858,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 2,
     "raw": "Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J. (2021). The science of visual data communication: What works. Psychological Science in the Public Interest, 22(3), 110-161. From https://doi.org/10.1177/15291006211051956",
-    "summary": "Curated paper in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J (2021). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 223,
@@ -8866,7 +8866,7 @@ window.READINGS_DATA = [
     "author": "Nan, X., Wang, Y., & Thier, K",
     "year": "2021",
     "type": "Paper",
-    "source": "",
+    "source": "London: Routledge. [pp. 3332 “Health misinformation. ”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9034",
@@ -8874,7 +8874,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 3,
     "raw": "Nan, X., Wang, Y., & Thier, K. (2021). The Routledge handbook of health communication. London: Routledge. [pp. 3332 “Health misinformation.”]",
-    "summary": "Curated paper in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by Nan, X., Wang, Y., & Thier, K (2021). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 224,
@@ -8890,7 +8890,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 4,
     "raw": "National Cancer Institute. (2004). Making health communication programs work (The Pink Book). Bethesda, MD: U.S. Department of Health and Human Services, National Institutes of Health. From https://www.cancer.gov/publications/health-communication/pink-book.pdf",
-    "summary": "Curated paper in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by National Cancer Institute (2004). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 225,
@@ -8898,7 +8898,7 @@ window.READINGS_DATA = [
     "author": "Plechatá, A., Makransky, G., & Böhm, R",
     "year": "2022",
     "type": "Paper",
-    "source": "From https://doi. org/10. 1038/s41746-022-00682-x",
+    "source": ". From https://doi. org/10. 1038/s41746-022-00682-x",
     "url": "https://doi.org/10.1038/s41746-022-00682-x",
     "subtopic": "",
     "course_code": "CCAI9034",
@@ -8906,7 +8906,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 5,
     "raw": "Plechatá, A., Makransky, G., & Böhm, R. (2022). Can extended reality in the metaverse revolutionise health communication?, NPJ Digital Medicine, 5, 132. From https://doi.org/10.1038/s41746-022-00682-x",
-    "summary": "Curated paper in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by Plechatá, A., Makransky, G., & Böhm, R (2022). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 226,
@@ -8922,7 +8922,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 6,
     "raw": "Public Health Collaborative. (n.d.). Strategies for developing culturally driven public health communications. From https://publichealthcollaborative.org/communication-tools/strategies-for-developing-culturally-driven-public-healthcommunications/",
-    "summary": "Curated article in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by Public Health Collaborative (N/A). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 227,
@@ -8938,7 +8938,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 7,
     "raw": "U.S. General Services Administration. (n.d.). Plain language guidelines. From https://digital.gov/guides/plain-language",
-    "summary": "Curated article in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by U.S. General Services Administration (N/A). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 228,
@@ -8954,7 +8954,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 8,
     "raw": "Weingott, S., & Parkinson, J. (2024). The application of artificial intelligence in health communication development: A scoping review. Health Marketing Quarterly, 42(1), 67-109. From https://doi.org/10.1080/07359683.2024.2422206",
-    "summary": "Curated paper in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by Weingott, S., & Parkinson, J (2024). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 229,
@@ -8962,7 +8962,7 @@ window.READINGS_DATA = [
     "author": "World Health Organization",
     "year": "2021",
     "type": "Report",
-    "source": "",
+    "source": ". From https://www. who. int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use",
     "url": "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use",
     "subtopic": "",
     "course_code": "CCAI9034",
@@ -8970,7 +8970,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 9,
     "raw": "World Health Organization. (2021). WHO issues first global report on Artificial Intelligence (AI) in health and six guiding principles for its design and use. From https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use",
-    "summary": "Curated report in 'Digital Health Citizen in the Age of AI: Communicating for Health and Wellbeing' by World Health Organization (2021). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 230,
@@ -8978,7 +8978,7 @@ window.READINGS_DATA = [
     "author": "Benaich, N., & Chalmers, A",
     "year": "2024",
     "type": "Report",
-    "source": "",
+    "source": ". From https://www. stateof. ai/",
     "url": "https://www.stateof.ai/",
     "subtopic": "",
     "course_code": "CCAI9025",
@@ -8986,7 +8986,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 1,
     "raw": "Benaich, N., & Chalmers, A. (2024). State of AI report 2024. From https://www.stateof.ai/",
-    "summary": "Curated report in 'AI-driven Robotics for Humankind' by Benaich, N., & Chalmers, A (2024). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 231,
@@ -8994,7 +8994,7 @@ window.READINGS_DATA = [
     "author": "Bennett, M. S",
     "year": "2023",
     "type": "Book",
-    "source": "",
+    "source": "Mariner Books. [Chap. 22 “ChatGPT and the window into the mind”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9025",
@@ -9002,7 +9002,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 2,
     "raw": "Bennett, M. S. (2023). A brief history of intelligence: evolution, AI, and the five breakthroughs that made our brains. Mariner Books. [Chap. 22 “ChatGPT and the window into the mind”]",
-    "summary": "Curated book in 'AI-driven Robotics for Humankind' by Bennett, M. S (2023). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 232,
@@ -9010,7 +9010,7 @@ window.READINGS_DATA = [
     "author": "Prince, S. J",
     "year": "2023",
     "type": "Book",
-    "source": "MIT Press. [Chap. 20 “Why does deep learning work?”; Chap. 21 “Deep learning and ethics”]",
+    "source": "MIT Press. [Chap. 20 “Why does deep learning work?”; Chap. 21 “Deep learning and ethics”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9025",
@@ -9018,7 +9018,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 3,
     "raw": "Prince, S. J. (2023). Understanding deep learning. MIT Press. [Chap. 20 “Why does deep learning work?”; Chap. 21 “Deep learning and ethics”]",
-    "summary": "Curated book in 'AI-driven Robotics for Humankind' by Prince, S. J (2023). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 233,
@@ -9026,7 +9026,7 @@ window.READINGS_DATA = [
     "author": "Siciliano, B., et al",
     "year": "2009",
     "type": "Book",
-    "source": "Springer. [Chap. 1 “Introduction”]",
+    "source": "Springer. [Chap. 1 “Introduction”",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9025",
@@ -9034,7 +9034,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 4,
     "raw": "Siciliano, B., et al. (2009). Robotics, modelling, planning and control. Springer. [Chap. 1 “Introduction”]",
-    "summary": "Curated book in 'AI-driven Robotics for Humankind' by Siciliano, B., et al (2009). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 234,
@@ -9050,7 +9050,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 5,
     "raw": "Stone, P., et al. (2022). Artificial intelligence and life in 2030. Stanford University. From https://ai100.stanford.edu/sites/g/files/sbiybj18871/files/media/file/ai100report10032016fnl_singles.pdf",
-    "summary": "Curated report in 'AI-driven Robotics for Humankind' by Stone, P., et al (2022). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 235,
@@ -9058,7 +9058,7 @@ window.READINGS_DATA = [
     "author": "Dyna Robotics, Inc",
     "year": "2025",
     "type": "Article",
-    "source": "",
+    "source": ". From https://www. dyna. co/research",
     "url": "https://www.dyna.co/research",
     "subtopic": "",
     "course_code": "CCAI9025",
@@ -9066,7 +9066,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 6,
     "raw": "Dyna Robotics, Inc. (2025). Dynamism v1 (DYNA-1) Model: A Breakthrough in Performance and Production-Ready Embodied AI. From https://www.dyna.co/research",
-    "summary": "Curated article in 'AI-driven Robotics for Humankind' by Dyna Robotics, Inc (2025). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 236,
@@ -9074,7 +9074,7 @@ window.READINGS_DATA = [
     "author": "OpenAI",
     "year": "2023",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=outcGtbnMuQ",
     "url": "https://www.youtube.com/watch?v=outcGtbnMuQ",
     "subtopic": "",
     "course_code": "CCAI9025",
@@ -9082,7 +9082,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 7,
     "raw": "OpenAI. (2023). GPT-4 developer livestream. From https://www.youtube.com/watch?v=outcGtbnMuQ",
-    "summary": "Curated video in 'AI-driven Robotics for Humankind' by OpenAI (2023). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 237,
@@ -9090,7 +9090,7 @@ window.READINGS_DATA = [
     "author": "OpenAI",
     "year": "2023",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=U9mJuUkhUzk",
     "url": "https://www.youtube.com/watch?v=U9mJuUkhUzk",
     "subtopic": "",
     "course_code": "CCAI9025",
@@ -9098,7 +9098,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 8,
     "raw": "OpenAI. (2023). OpenAI devday: opening keynote. From https://www.youtube.com/watch?v=U9mJuUkhUzk",
-    "summary": "Curated video in 'AI-driven Robotics for Humankind' by OpenAI (2023). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 238,
@@ -9106,7 +9106,7 @@ window.READINGS_DATA = [
     "author": "CVPR 2025 WAD Workshop",
     "year": "N/A",
     "type": "Article",
-    "source": "From https://cvpr2025. wad. vision/ and https://opendrivelab. com/cvpr2025/workshop/",
+    "source": ". From https://cvpr2025. wad. vision/ and https://opendrivelab. com/cvpr2025/workshop/",
     "url": "https://cvpr2025.wad.vision/",
     "subtopic": "",
     "course_code": "CCAI9025",
@@ -9114,7 +9114,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 9,
     "raw": "Recent advances on Autonomous Driving and Embodied AI. From https://cvpr2025.wad.vision/ and https://opendrivelab.com/cvpr2025/workshop/",
-    "summary": "Curated article in 'AI-driven Robotics for Humankind' by CVPR 2025 WAD Workshop (N/A). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 239,
@@ -9122,7 +9122,7 @@ window.READINGS_DATA = [
     "author": "Teala",
     "year": "2024",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/live/6v6dbxPlsXs",
     "url": "https://www.youtube.com/live/6v6dbxPlsXs",
     "subtopic": "",
     "course_code": "CCAI9025",
@@ -9130,7 +9130,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 10,
     "raw": "Teala (2024). We, robot | Tesla Cybercab unveil. From https://www.youtube.com/live/6v6dbxPlsXs",
-    "summary": "Curated video in 'AI-driven Robotics for Humankind' by Teala (2024). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 240,
@@ -9138,7 +9138,7 @@ window.READINGS_DATA = [
     "author": "Tesla",
     "year": "2022",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=ODSJsviD_SU",
     "url": "https://www.youtube.com/watch?v=ODSJsviD_SU",
     "subtopic": "",
     "course_code": "CCAI9025",
@@ -9146,7 +9146,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 11,
     "raw": "Tesla (2022). Tesla AI day 2022. From https://www.youtube.com/watch?v=ODSJsviD_SU",
-    "summary": "Curated video in 'AI-driven Robotics for Humankind' by Tesla (2022). Explores fundamental themes in sociology & media."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in sociology & media."
   },
   {
     "id": 241,
@@ -9154,7 +9154,7 @@ window.READINGS_DATA = [
     "author": "Arts & Science – University of Toronto",
     "year": "2023",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=QWWgr2rN45o",
     "url": "https://www.youtube.com/watch?v=QWWgr2rN45o",
     "subtopic": "Required Listening",
     "course_code": "CCAI9025",
@@ -9162,7 +9162,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 12,
     "raw": "Arts & Science – University of Toronto. (2023). Geoffrey Hinton in conversation with Fei-Fei Li – responsible AI development. From https://www.youtube.com/watch?v=QWWgr2rN45o",
-    "summary": "Curated video in 'AI-driven Robotics for Humankind' by Arts & Science – University of Toronto (2023). Examines key insights regarding Required Listening."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Required Listening."
   },
   {
     "id": 242,
@@ -9170,7 +9170,7 @@ window.READINGS_DATA = [
     "author": "MIT Embodied Intelligence",
     "year": "2024",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/playlist?list=PLCBtJRMPXXZ4dmgC-Q_X3DGTFNKjXdXFU",
     "url": "https://www.youtube.com/playlist?list=PLCBtJRMPXXZ4dmgC-Q_X3DGTFNKjXdXFU",
     "subtopic": "Required Listening",
     "course_code": "CCAI9025",
@@ -9178,7 +9178,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 13,
     "raw": "MIT Embodied Intelligence. (2024). MIT embodied intelligence seminars. From https://www.youtube.com/playlist?list=PLCBtJRMPXXZ4dmgC-Q_X3DGTFNKjXdXFU",
-    "summary": "Curated video in 'AI-driven Robotics for Humankind' by MIT Embodied Intelligence (2024). Examines key insights regarding Required Listening."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Required Listening."
   },
   {
     "id": 243,
@@ -9186,7 +9186,7 @@ window.READINGS_DATA = [
     "author": "Sunak, R",
     "year": "2024",
     "type": "Video",
-    "source": "",
+    "source": ". From https://www. youtube. com/watch?v=R2meHtrO1n8",
     "url": "https://www.youtube.com/watch?v=R2meHtrO1n8",
     "subtopic": "Required Listening",
     "course_code": "CCAI9025",
@@ -9194,7 +9194,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 14,
     "raw": "Sunak, R (2024). Rishi Sunak & Elon, Mu: talk AI, tech & the future. From https://www.youtube.com/watch?v=R2meHtrO1n8",
-    "summary": "Curated video in 'AI-driven Robotics for Humankind' by Sunak, R (2024). Examines key insights regarding Required Listening."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Required Listening."
   },
   {
     "id": 244,
@@ -9202,7 +9202,7 @@ window.READINGS_DATA = [
     "author": "Bess, M",
     "year": "2015",
     "type": "Book",
-    "source": "",
+    "source": "Beacon Press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9027",
@@ -9210,7 +9210,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 1,
     "raw": "Bess, M. (2015). Our Grandchildren Redesigned: Life in the Bioengineered Society of the Near Future. Beacon Press.",
-    "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Bess, M (2015). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 245,
@@ -9218,7 +9218,7 @@ window.READINGS_DATA = [
     "author": "Making Big Data, In Theory",
     "year": "2013",
     "type": "Paper",
-    "source": "First Monday, 18(10)",
+    "source": "First Monday, 18(10",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9027",
@@ -9226,7 +9226,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 2,
     "raw": "Boellstorff, T. (2013). Making Big Data, In Theory. First Monday, 18(10).",
-    "summary": "Curated paper in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Making Big Data, In Theory (2013). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 246,
@@ -9242,7 +9242,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 3,
     "raw": "Burgess, J. (2023). Everyday data cultures: beyond Big Critique and the technological sublime. AI and Society, 38(3), 1243-1244.",
-    "summary": "Curated paper in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Burgess, J (2023). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 247,
@@ -9250,7 +9250,7 @@ window.READINGS_DATA = [
     "author": "Campbell-Verduyn, M",
     "year": "2018",
     "type": "Paper",
-    "source": "",
+    "source": "Routledge",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9027",
@@ -9258,7 +9258,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 4,
     "raw": "Campbell-Verduyn, M. (2018). Bitcoin and Beyond: Cryptocurrencies, Blockchains and Global Governance. Routledge.",
-    "summary": "Curated paper in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Campbell-Verduyn, M (2018). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 248,
@@ -9274,7 +9274,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 5,
     "raw": "Carah, N., Angus, D., & Burgess, J. (2023). Tuning machines: an approach to exploring how Instagram’s machine vision operates on and through digital media’s participatory visual cultures. Cultural Studies, 37(1), 20-45.",
-    "summary": "Curated paper in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Carah, N., Angus, D., & Burgess, J (2023). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 249,
@@ -9282,7 +9282,7 @@ window.READINGS_DATA = [
     "author": "Ensmenger, N",
     "year": "2010",
     "type": "Book",
-    "source": "",
+    "source": "MIT Press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9027",
@@ -9290,7 +9290,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 6,
     "raw": "Ensmenger, N. (2010). The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise. MIT Press.",
-    "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Ensmenger, N (2010). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 250,
@@ -9298,7 +9298,7 @@ window.READINGS_DATA = [
     "author": "Eriksen, T. H",
     "year": "2016",
     "type": "Book",
-    "source": "",
+    "source": "Pluto Press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9027",
@@ -9306,7 +9306,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 7,
     "raw": "Eriksen, T. H. (2016). Overheating: An Anthropology of Accelerated Change. Pluto Press.",
-    "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Eriksen, T. H (2016). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 251,
@@ -9314,7 +9314,7 @@ window.READINGS_DATA = [
     "author": "Forsythe, D., & Hess, D. J",
     "year": "2001",
     "type": "Book",
-    "source": "",
+    "source": "Stanford University Press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9027",
@@ -9322,7 +9322,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 8,
     "raw": "Forsythe, D., & Hess, D. J. (2001). Studying those who study us: an anthropologist in the world of artificial intelligence. Stanford University Press.",
-    "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Forsythe, D., & Hess, D. J (2001). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 252,
@@ -9330,7 +9330,7 @@ window.READINGS_DATA = [
     "author": "Gershon, I",
     "year": "2017",
     "type": "Book",
-    "source": "",
+    "source": "University of Chicago Press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9027",
@@ -9338,7 +9338,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 9,
     "raw": "Gershon, I. (2017). Down and Out in the New Economy: How People Find (or Don’t Find) Work Today. University of Chicago Press.",
-    "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Gershon, I (2017). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 253,
@@ -9346,7 +9346,7 @@ window.READINGS_DATA = [
     "author": "Helmreich, S",
     "year": "2008",
     "type": "Book",
-    "source": "",
+    "source": "University of California Press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9027",
@@ -9354,7 +9354,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 10,
     "raw": "Helmreich, S. (2008). Silicon Second Nature: Culturing Artificial Life in a Digital World. University of California Press.",
-    "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Helmreich, S (2008). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 254,
@@ -9362,7 +9362,7 @@ window.READINGS_DATA = [
     "author": "Horst, H., & Miller, D",
     "year": "2012",
     "type": "Book",
-    "source": "",
+    "source": "Berg Publishers",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9027",
@@ -9370,7 +9370,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 11,
     "raw": "Horst, H., & Miller, D. (2012). Digital Anthropology. Berg Publishers.",
-    "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Horst, H., & Miller, D (2012). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 255,
@@ -9378,7 +9378,7 @@ window.READINGS_DATA = [
     "author": "Irani, L",
     "year": "2019",
     "type": "Book",
-    "source": "",
+    "source": "Princeton University Press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9027",
@@ -9386,7 +9386,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 12,
     "raw": "Irani, L. (2019). Chasing Innovation: Making Entrepreneurial Citizens in Modern India. Princeton University Press.",
-    "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Irani, L (2019). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 256,
@@ -9394,7 +9394,7 @@ window.READINGS_DATA = [
     "author": "Kelty, C. M",
     "year": "2008",
     "type": "Book",
-    "source": "",
+    "source": "Duke University Press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9027",
@@ -9402,7 +9402,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 13,
     "raw": "Kelty, C. M. (2008). Two Bits: The Cultural Significance of Free Software. Duke University Press.",
-    "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Kelty, C. M (2008). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 257,
@@ -9410,7 +9410,7 @@ window.READINGS_DATA = [
     "author": "Malaby, T. M",
     "year": "2009",
     "type": "Book",
-    "source": "",
+    "source": "Cornell University Press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9027",
@@ -9418,7 +9418,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 14,
     "raw": "Malaby, T. M. (2009). Making Virtual Worlds: Linden Lab and Second Life. Cornell University Press.",
-    "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Malaby, T. M (2009). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 258,
@@ -9426,7 +9426,7 @@ window.READINGS_DATA = [
     "author": "O’Dwyer, R",
     "year": "2023",
     "type": "Paper",
-    "source": "",
+    "source": "Verso",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9027",
@@ -9434,7 +9434,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 15,
     "raw": "O’Dwyer, R. (2023). Tokens: The Future of Money in the Age of the Platform. Verso.",
-    "summary": "Curated paper in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by O’Dwyer, R (2023). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 259,
@@ -9442,7 +9442,7 @@ window.READINGS_DATA = [
     "author": "Pasquale, F",
     "year": "2015",
     "type": "Book",
-    "source": "",
+    "source": "Harvard University Press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9027",
@@ -9450,7 +9450,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 16,
     "raw": "Pasquale, F. (2015). The Black Box Society: The Secret Algorithms That Control Money and Information. Harvard University Press.",
-    "summary": "Curated book in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Pasquale, F (2015). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 260,
@@ -9458,7 +9458,7 @@ window.READINGS_DATA = [
     "author": "Zuboff, S",
     "year": "2019",
     "type": "Paper",
-    "source": "",
+    "source": "Public Affairs",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9027",
@@ -9466,7 +9466,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 17,
     "raw": "Zuboff, S. (2019). The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. Public Affairs.",
-    "summary": "Curated paper in 'AI & Web3: Social Futures of Decentralised Artificial Intelligence' by Zuboff, S (2019). Explores fundamental themes in politics & power."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in politics & power."
   },
   {
     "id": 261,
@@ -9482,7 +9482,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 1,
     "raw": "Buchan, J. (2010, May 8). War games: The story of aid and war in modern times by Linda Polman. The Guardian. From https://www.theguardian.com/books/2010/may/08/war-games-linda-polman-review",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Buchan, J (2010). Examines key insights regarding Week 2: War and humanitarian action: a very brief overview."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 2: War and humanitarian action: a very brief overview."
   },
   {
     "id": 262,
@@ -9490,7 +9490,7 @@ window.READINGS_DATA = [
     "author": "International Committee of the Red Cross (ICRC)",
     "year": "N/A",
     "type": "Article",
-    "source": "From https://www. icrc. org/en [Website]",
+    "source": ". From https://www. icrc. org/en [Website",
     "url": "https://www.icrc.org/en",
     "subtopic": "Week 2: War and humanitarian action: a very brief overview",
     "course_code": "CCAI9033",
@@ -9498,7 +9498,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 2,
     "raw": "International Committee of the Red Cross. From https://www.icrc.org/en [Website]",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by International Committee of the Red Cross (ICRC) (N/A). Examines key insights regarding Week 2: War and humanitarian action: a very brief overview."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 2: War and humanitarian action: a very brief overview."
   },
   {
     "id": 263,
@@ -9514,7 +9514,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 3,
     "raw": "Kissinger, H. A., Schmidt, E., & Mundie, C. (2024, November 18). War and Peace in the Age of Artificial Intelligence. What It Will Mean for the World When Machines Shape Strategy and Statecraft. Foreign Affairs.",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Kissinger, H. A., Schmidt, E., & Mundie, C (2024). Examines key insights regarding Week 2: War and humanitarian action: a very brief overview."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 2: War and humanitarian action: a very brief overview."
   },
   {
     "id": 264,
@@ -9522,7 +9522,7 @@ window.READINGS_DATA = [
     "author": "Médecins Sans Frontières (MSF)",
     "year": "N/A",
     "type": "Article",
-    "source": "From https://msf-seasia. org/ [Website]",
+    "source": ". From https://msf-seasia. org/ [Website",
     "url": "https://msf-seasia.org/",
     "subtopic": "Week 2: War and humanitarian action: a very brief overview",
     "course_code": "CCAI9033",
@@ -9530,7 +9530,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 4,
     "raw": "MSF Hong Kong. From https://msf-seasia.org/ [Website]",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Médecins Sans Frontières (MSF) (N/A). Examines key insights regarding Week 2: War and humanitarian action: a very brief overview."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 2: War and humanitarian action: a very brief overview."
   },
   {
     "id": 265,
@@ -9546,7 +9546,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 5,
     "raw": "Rysaback-Smith, H. (2015). History and principles of humanitarian action. Turkish Journal of Emergency Medicine, 15(Suppl 1), 5–7.",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Rysaback-Smith, H (2015). Examines key insights regarding Week 2: War and humanitarian action: a very brief overview."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 2: War and humanitarian action: a very brief overview."
   },
   {
     "id": 266,
@@ -9562,7 +9562,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 6,
     "raw": "The Humanitarian Policy Group at ODI. (2010, May). Aid and war: A response to Linda Polman’s critique of humanitarianism. ODI Opinions. Overseas Development Institute. From https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/5914.pdf",
-    "summary": "Curated report in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by The Humanitarian Policy Group at ODI (2010, May). Examines key insights regarding Week 2: War and humanitarian action: a very brief overview."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 2: War and humanitarian action: a very brief overview."
   },
   {
     "id": 267,
@@ -9570,7 +9570,7 @@ window.READINGS_DATA = [
     "author": "United Nations",
     "year": "N/A",
     "type": "Article",
-    "source": "From https://www. unicef. org/ [Website]",
+    "source": ". From https://www. unicef. org/ [Website",
     "url": "https://www.unicef.org/",
     "subtopic": "Week 2: War and humanitarian action: a very brief overview",
     "course_code": "CCAI9033",
@@ -9578,7 +9578,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 7,
     "raw": "UNICEF. From https://www.unicef.org/ [Website]",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by United Nations (N/A). Examines key insights regarding Week 2: War and humanitarian action: a very brief overview."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 2: War and humanitarian action: a very brief overview."
   },
   {
     "id": 268,
@@ -9594,7 +9594,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 8,
     "raw": "IMPACT Initiatives. (2024). Using big data and AI to support the Ukraine refugee response – A collaboration between IMPACT Initiatives and Data for Good at Meta. IMPACT Initiatives. From http://reliefweb.int/report/ukraine/using-big-data-and-ai-support-ukraine-refugee-response-collaboration-between-impact-initiatives-and-data-good-meta",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by IMPACT Initiatives (2024). Examines key insights regarding Week 3: People and data in humanitarian action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 3: People and data in humanitarian action."
   },
   {
     "id": 269,
@@ -9610,7 +9610,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 9,
     "raw": "Madianou, M. (2015, July-Dec). Digital Inequality and Second-Order Disasters: Social Media in the Typhoon Haiyan Recovery. Social Media + Society, 1-11.",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Madianou, M (2015). Examines key insights regarding Week 3: People and data in humanitarian action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 3: People and data in humanitarian action."
   },
   {
     "id": 270,
@@ -9626,7 +9626,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 10,
     "raw": "Pizzi, M., Romanoff, M., & Engelhardt, T. (2020). AI for humanitarian action: Human rights and ethics. International Review of the Red Cross, 102(913), 145–180.",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Pizzi, M., Romanoff, M., & Engelhardt, T (2020). Examines key insights regarding Week 3: People and data in humanitarian action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 3: People and data in humanitarian action."
   },
   {
     "id": 271,
@@ -9634,7 +9634,7 @@ window.READINGS_DATA = [
     "author": "Humanitarian OpenStreetMap Team (HOT)",
     "year": "N/A",
     "type": "Article",
-    "source": "Humanitarian OpenStreetMap Team (HOT). From https://www. hotosm. org/ [Website]",
+    "source": "Humanitarian OpenStreetMap Team (HOT). From https://www. hotosm. org/ [Website",
     "url": "https://www.hotosm.org/",
     "subtopic": "Week 4: Digital mapping in humanitarian action",
     "course_code": "CCAI9033",
@@ -9642,7 +9642,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 11,
     "raw": "Humanitarian OpenStreetMap Team. Humanitarian OpenStreetMap Team (HOT). From https://www.hotosm.org/ [Website]",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Humanitarian OpenStreetMap Team (HOT) (N/A). Examines key insights regarding Week 4: Digital mapping in humanitarian action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 4: Digital mapping in humanitarian action."
   },
   {
     "id": 272,
@@ -9658,7 +9658,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 12,
     "raw": "Leson, H. (2017, January 28). How digital humanitarians are closing the gaps in worldwide disaster response. Huffpost. From https://www.huffpost.com/entry/how-digital-humanitarians_b_9101950?guccounter=1",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Leson, H (2017). Examines key insights regarding Week 4: Digital mapping in humanitarian action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 4: Digital mapping in humanitarian action."
   },
   {
     "id": 273,
@@ -9666,7 +9666,7 @@ window.READINGS_DATA = [
     "author": "Micro Mappers",
     "year": "N/A",
     "type": "Book",
-    "source": "From https://micromappers. wordpress. com/ [Website]",
+    "source": ". From https://micromappers. wordpress. com/ [Website",
     "url": "https://micromappers.wordpress.com/",
     "subtopic": "Week 4: Digital mapping in humanitarian action",
     "course_code": "CCAI9033",
@@ -9674,7 +9674,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 13,
     "raw": "Micro Mappers. From https://micromappers.wordpress.com/ [Website]",
-    "summary": "Curated book in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Micro Mappers (N/A). Examines key insights regarding Week 4: Digital mapping in humanitarian action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 4: Digital mapping in humanitarian action."
   },
   {
     "id": 274,
@@ -9682,7 +9682,7 @@ window.READINGS_DATA = [
     "author": "US Federal News Service",
     "year": "2017",
     "type": "Article",
-    "source": "",
+    "source": ". From https://search. proquest. com/docview/1874677174?accountid=14548",
     "url": "https://search.proquest.com/docview/1874677174?accountid=14548",
     "subtopic": "Week 4: Digital mapping in humanitarian action",
     "course_code": "CCAI9033",
@@ -9690,7 +9690,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 14,
     "raw": "US Federal News Service. (2017). Central Washington University Geography students take part in global humanitarian digital mapping network. From https://search.proquest.com/docview/1874677174?accountid=14548",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by US Federal News Service (2017). Examines key insights regarding Week 4: Digital mapping in humanitarian action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 4: Digital mapping in humanitarian action."
   },
   {
     "id": 275,
@@ -9706,7 +9706,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 15,
     "raw": "Weinandy, T. J. (2016). Volunteer and technical communities in humanitarian response. Lessons in digital humanitarianism from Typhoon Haiyan. UN Chronicle, 1, 29-30.",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Weinandy, T. J (2016). Examines key insights regarding Week 4: Digital mapping in humanitarian action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 4: Digital mapping in humanitarian action."
   },
   {
     "id": 276,
@@ -9722,7 +9722,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 16,
     "raw": "Bromley, L., Jauer, K., & Matias, Y. (2024, September 16). AI from Google Research and UN boosts humanitarian disaster response: Wider coverage, faster damage assessments. Disha. From https://disha.unglobalpulse.org/ai-from-google-research-and-un-boosts-humanitarian-disaster-response-wider-coverage-faster-damage-assessments/",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Bromley, L., Jauer, K., & Matias, Y. (2024). Examines key insights regarding Week 5: Machine learning and AI in Humanitarian Action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 5: Machine learning and AI in Humanitarian Action."
   },
   {
     "id": 277,
@@ -9730,7 +9730,7 @@ window.READINGS_DATA = [
     "author": "DataKind",
     "year": "N/A",
     "type": "Article",
-    "source": "From https://www. datakind. org/ [Website]",
+    "source": ". From https://www. datakind. org/ [Website",
     "url": "https://www.datakind.org/",
     "subtopic": "Week 5: Machine learning and AI in Humanitarian Action",
     "course_code": "CCAI9033",
@@ -9738,7 +9738,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 17,
     "raw": "DataKind. From https://www.datakind.org/ [Website]",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by DataKind (N/A). Examines key insights regarding Week 5: Machine learning and AI in Humanitarian Action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 5: Machine learning and AI in Humanitarian Action."
   },
   {
     "id": 278,
@@ -9746,7 +9746,7 @@ window.READINGS_DATA = [
     "author": "Imran, M., Mitra, P., & Castillo, C",
     "year": "2016",
     "type": "Paper",
-    "source": "Proceedings of the 10th International Conference on Language Resources and Evaluation, LREC 2016. Portoroz, Slovenia. [pp. 1638-1643]",
+    "source": "Proceedings of the 10th International Conference on Language Resources and Evaluation, LREC 2016. Portoroz, Slovenia. [pp. 1638-1643",
     "url": "",
     "subtopic": "Week 5: Machine learning and AI in Humanitarian Action",
     "course_code": "CCAI9033",
@@ -9754,7 +9754,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 18,
     "raw": "Imran, M., Mitra, P., & Castillo, C. (2016). Twitter as a lifeline: Human-annotated Twitter Corpora for NLP of crisis-related messages. Proceedings of the 10th International Conference on Language Resources and Evaluation, LREC 2016. Portoroz, Slovenia. [pp. 1638-1643]",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Imran, M., Mitra, P., & Castillo, C (2016). Examines key insights regarding Week 5: Machine learning and AI in Humanitarian Action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 5: Machine learning and AI in Humanitarian Action."
   },
   {
     "id": 279,
@@ -9762,7 +9762,7 @@ window.READINGS_DATA = [
     "author": "Kumar, S., Barbier, G., Abbasi, M. A., & Liu, H",
     "year": "2011",
     "type": "Article",
-    "source": "Proceedings of the Fifth International Conference on Weblogs and Social Media. Barcelona, Spain. [pp. 661-662]",
+    "source": "Proceedings of the Fifth International Conference on Weblogs and Social Media. Barcelona, Spain. [pp. 661-662",
     "url": "",
     "subtopic": "Week 5: Machine learning and AI in Humanitarian Action",
     "course_code": "CCAI9033",
@@ -9770,7 +9770,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 19,
     "raw": "Kumar, S., Barbier, G., Abbasi, M. A., & Liu, H. (2011, July 17-21). TweetTracker: An analysis tool for humanitarian and disaster relief. Proceedings of the Fifth International Conference on Weblogs and Social Media. Barcelona, Spain. [pp. 661-662]",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Kumar, S., Barbier, G., Abbasi, M. A., & Liu, H (2011). Examines key insights regarding Week 5: Machine learning and AI in Humanitarian Action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 5: Machine learning and AI in Humanitarian Action."
   },
   {
     "id": 280,
@@ -9778,7 +9778,7 @@ window.READINGS_DATA = [
     "author": "Meier, P",
     "year": "2015",
     "type": "Paper",
-    "source": "). Routledge. [Chap. 5 “Artificial intelligence for disaster response”, Chap. 6 “Artificial intelligence in the sky”]",
+    "source": "). Routledge. [Chap. 5 “Artificial intelligence for disaster response”, Chap. 6 “Artificial intelligence in the sky”",
     "url": "",
     "subtopic": "Week 5: Machine learning and AI in Humanitarian Action",
     "course_code": "CCAI9033",
@@ -9786,7 +9786,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 20,
     "raw": "Meier, P. (2015). Digital humanitarians: How big data is changing the face of humanitarian response (1st ed.). Routledge. [Chap. 5 “Artificial intelligence for disaster response”, Chap. 6 “Artificial intelligence in the sky”]",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Meier, P (2015). Examines key insights regarding Week 5: Machine learning and AI in Humanitarian Action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 5: Machine learning and AI in Humanitarian Action."
   },
   {
     "id": 281,
@@ -9794,7 +9794,7 @@ window.READINGS_DATA = [
     "author": "UN Global Pulse",
     "year": "N/A",
     "type": "Article",
-    "source": "From https://www. unglobalpulse. org/ [Website]",
+    "source": ". From https://www. unglobalpulse. org/ [Website",
     "url": "https://www.unglobalpulse.org/",
     "subtopic": "Week 5: Machine learning and AI in Humanitarian Action",
     "course_code": "CCAI9033",
@@ -9802,7 +9802,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 21,
     "raw": "UN Global Pulse. From https://www.unglobalpulse.org/ [Website]",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by UN Global Pulse (N/A). Examines key insights regarding Week 5: Machine learning and AI in Humanitarian Action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 5: Machine learning and AI in Humanitarian Action."
   },
   {
     "id": 282,
@@ -9818,7 +9818,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 22,
     "raw": "Kazansky, B., Johnson, O., Paes, B., Kilbey, H., & The Engine Room. (2023). Chatbots in humanitarian contexts: Learning from practitioner experiences. The International Federation of Red Cross and Red Crescent Societies (IFRC). From https://communityengagementhub.org/wp-content/uploads/sites/2/2023/06/20230623_CEA_Chatbots.pdf",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Kazansky, B., Johnson, O., Paes, B., Kilbey, H., & The Engine Room (2023). Examines key insights regarding Week 6: Developing chatbots for vulnerable populations."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 6: Developing chatbots for vulnerable populations."
   },
   {
     "id": 283,
@@ -9826,7 +9826,7 @@ window.READINGS_DATA = [
     "author": "UN Women",
     "year": "2025",
     "type": "Report",
-    "source": "",
+    "source": ". From https://reliefweb. int/report/world/advancing-gender-equality-through-partnerships-gender-responsive-artificial-intelligence",
     "url": "https://reliefweb.int/report/world/advancing-gender-equality-through-partnerships-gender-responsive-artificial-intelligence",
     "subtopic": "Week 6: Developing chatbots for vulnerable populations",
     "course_code": "CCAI9033",
@@ -9834,7 +9834,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 23,
     "raw": "UN Women. (2025). Advancing Gender Equality through Partnerships for Gender-Responsive Artificial Intelligence. From https://reliefweb.int/report/world/advancing-gender-equality-through-partnerships-gender-responsive-artificial-intelligence",
-    "summary": "Curated report in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by UN Women (2025). Examines key insights regarding Week 6: Developing chatbots for vulnerable populations."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 6: Developing chatbots for vulnerable populations."
   },
   {
     "id": 284,
@@ -9850,7 +9850,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 24,
     "raw": "UNHCR. (2025). Chatbots in humanitarian settings: revolutionary, a fad or something in-between? From https://www.unhcr.org/innovation/chatbots-in-humanitarian-settings-revolutionary-a-fad-or-something-inbetween/",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by UNHCR (2025). Examines key insights regarding Week 6: Developing chatbots for vulnerable populations."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 6: Developing chatbots for vulnerable populations."
   },
   {
     "id": 285,
@@ -9858,7 +9858,7 @@ window.READINGS_DATA = [
     "author": "Eisele, I. & Steinwehr, U.",
     "year": "2023",
     "type": "Article",
-    "source": "Deutsche Welle (DW)",
+    "source": "Deutsche Welle (DW",
     "url": "https://www.dw.com/en/fact-check-ai-fakes-in-israels-war-against-hamas/a-67367744",
     "subtopic": "Week 7: AI-generated disinformation",
     "course_code": "CCAI9033",
@@ -9866,7 +9866,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 25,
     "raw": "Eisele, I., & Steinwehr, U. (2023, November 10). Fact check: AI fakes in Israel’s war against Hamas. DW. From https://www.dw.com/en/fact-check-ai-fakes-in-israels-war-against-hamas/a-67367744",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Eisele, I. & Steinwehr, U. (2023). Examines key insights regarding Week 7: AI-generated disinformation."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 7: AI-generated disinformation."
   },
   {
     "id": 286,
@@ -9882,7 +9882,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 26,
     "raw": "Klepper, D. (2023, November 29). Fake babies, real horror: Deepfakes from the Gaza war increase fears about AI’s power to mislead. Associated Press. From https://apnews.com/article/artificial-intelligence-hamas-israel-misinformation-ai-gaza-a1bb303b637ffbbb9cbc3aa1e000db47",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Fake Babies, Real Horror: Deepfakes from the Gaza War Increase Fear (2023). Examines key insights regarding Week 7: AI-generated disinformation."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 7: AI-generated disinformation."
   },
   {
     "id": 287,
@@ -9898,7 +9898,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 27,
     "raw": "Lahlou, Y., El Fikhi, S., & Faizi, R. (2019). Automatic detection of fake news on online platforms: A survey. Proceedings of the 1st International Conference on Smart Systems and Data Science (ICSSD). From https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9002823",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Lahlou, Y., El Fikhi, S., & Faizi, R (2019). Examines key insights regarding Week 7: AI-generated disinformation."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 7: AI-generated disinformation."
   },
   {
     "id": 288,
@@ -9906,7 +9906,7 @@ window.READINGS_DATA = [
     "author": "OpenAI",
     "year": "2024",
     "type": "Report",
-    "source": "",
+    "source": ". From https://openai. com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/",
     "url": "https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/",
     "subtopic": "Week 7: AI-generated disinformation",
     "course_code": "CCAI9033",
@@ -9914,7 +9914,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 28,
     "raw": "OpenAI. (2024). Disrupting deceptive uses of AI by covert influence operations. From https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/",
-    "summary": "Curated report in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by OpenAI (2024). Examines key insights regarding Week 7: AI-generated disinformation."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 7: AI-generated disinformation."
   },
   {
     "id": 289,
@@ -9930,7 +9930,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 29,
     "raw": "Osadchuk, R. (2024, July 9). AI tools usage for disinformation in the war in Ukraine. Digital Forensic Research Lab (DFRLab). From https://dfrlab.org/2024/07/09/ai-tools-usage-for-disinformation-in-the-war-in-ukraine",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Osadchuk, R (2024). Examines key insights regarding Week 7: AI-generated disinformation."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 7: AI-generated disinformation."
   },
   {
     "id": 290,
@@ -9946,7 +9946,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 30,
     "raw": "Urbani, S. (2019). First Draft’s Essential Guide to Verifying Online Information. FirstDraft. From https://firstdraftnews.org/wp-content/uploads/2019/10/Verifying_Online_Information_Digital_AW.pdf",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Urbani, S (2019). Examines key insights regarding Week 7: AI-generated disinformation."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 7: AI-generated disinformation."
   },
   {
     "id": 291,
@@ -9962,7 +9962,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 31,
     "raw": "Dangwal, A. (2024, August 14). Ukraine Unleashes British Robot Dogs On Russian Soldiers; German Anti-Thermal Camouflage Boosts Their Stealth – Bild. The EurAsian Times. From https://www.eurasiantimes.com/ukraine-unleashes-british-robot-dogs/",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Dangwal, A (2024). Examines key insights regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
   },
   {
     "id": 292,
@@ -9978,7 +9978,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 32,
     "raw": "Hambling, D. (2024, August 16). What We Know About Ukraine’s Army Of Robot Dogs. Forbes. From https://www.forbes.com/sites/davidhambling/2024/08/16/what-we-know-about-ukraines-army-of-robot-dogs/",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Hambling, D (2024). Examines key insights regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
   },
   {
     "id": 293,
@@ -9994,7 +9994,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 33,
     "raw": "Marr, B. (2024, September 17). How AI Is Used In War Today. Forbes. From https://www.forbes.com/sites/bernardmarr/2024/09/17/how-ai-is-used-in-war-today/",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Marr, B (2024). Examines key insights regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
   },
   {
     "id": 294,
@@ -10010,7 +10010,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 34,
     "raw": "Morgan, F. E., Boudreaux, B., Lohn, A. J., Ashby, M., Currident, C., Klima, K., & Grossman, D. (2020). Military Applications of Artificial Intelligence. Ethical Concerns in an Uncertain World. Santa Monica. CA: RAND Corporation.",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Morgan, F. E., Boudreaux, B., Lohn, A. J., Ashby, M., Currident, C., Klima, K., & Grossman, D (2020). Examines key insights regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
   },
   {
     "id": 295,
@@ -10026,7 +10026,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 35,
     "raw": "Serhan, Y. (2024, December 18). How Israel Uses AI in Gaza—And What It Might Mean for the Future of Warfare. Time. From https://time.com/7202584/gaza-ukraine-ai-warfare/",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Serhan, Y (2024). Examines key insights regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
   },
   {
     "id": 296,
@@ -10042,7 +10042,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 36,
     "raw": "Sonenshine, T. (2023, May 19). Military drones are swarming the skies of Ukraine and other conflict hot spots – and anything goes when it comes to international law. The Conversation. From https://theconversation.com/military-drones-are-swarming-the-skies-of-ukraine-and-other-conflict-hot-spots-and-anything-goes-when-it-comes-to-international-law-205898",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Sonenshine, T (2023). Examines key insights regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 8: Drones and robot dogs: the rise of autonomous weapons."
   },
   {
     "id": 297,
@@ -10050,7 +10050,7 @@ window.READINGS_DATA = [
     "author": "NATO CCDCOE",
     "year": "N/A",
     "type": "Article",
-    "source": "From https://cyberlaw. ccdcoe. org/wiki/Main_Page [Website]",
+    "source": ". From https://cyberlaw. ccdcoe. org/wiki/Main_Page [Website",
     "url": "https://cyberlaw.ccdcoe.org/wiki/Main_Page",
     "subtopic": "Week 9: Cyberwarfare: The Invisible Front",
     "course_code": "CCAI9033",
@@ -10058,7 +10058,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 37,
     "raw": "Cyber Law Toolkit. From https://cyberlaw.ccdcoe.org/wiki/Main_Page [Website]",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by NATO CCDCOE (N/A). Examines key insights regarding Week 9: Cyberwarfare: The Invisible Front."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 9: Cyberwarfare: The Invisible Front."
   },
   {
     "id": 298,
@@ -10074,7 +10074,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 38,
     "raw": "Lakshmanan, R. (2025, October 9). From Phishing to Malware: AI Becomes Russia’s New Cyber Weapon in War on Ukraine. The Hacker News. From https://thehackernews.com/2025/10/from-phishing-to-malware-ai-becomes.html",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Lakshmanan, R (2025). Examines key insights regarding Week 9: Cyberwarfare: The Invisible Front."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 9: Cyberwarfare: The Invisible Front."
   },
   {
     "id": 299,
@@ -10082,7 +10082,7 @@ window.READINGS_DATA = [
     "author": "Lederer, E. M.",
     "year": "2020",
     "type": "Article",
-    "source": "Associated Press (AP News)",
+    "source": "Associated Press (AP News",
     "url": "https://ottawa.citynews.ca/2020/08/26/red-cross-chief-cyber-attacks-increasing-on-hospitals/",
     "subtopic": "Week 9: Cyberwarfare: The Invisible Front",
     "course_code": "CCAI9033",
@@ -10090,7 +10090,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 39,
     "raw": "Lederer, E. M. (2020, August 8). Red Cross chief: cyber attacks increasing on hospitals. Ottawa City News. https://ottawa.citynews.ca/2020/08/26/red-cross-chief-cyber-attacks-increasing-on-hospitals/",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Lederer, E. M. (2020). Examines key insights regarding Week 9: Cyberwarfare: The Invisible Front."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 9: Cyberwarfare: The Invisible Front."
   },
   {
     "id": 300,
@@ -10106,7 +10106,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 40,
     "raw": "Mueller, G. B., Jensen, B., Valeriano, B., Maness, R. C., & Macias, J. M. (2023, July 13). Cyber Operations during the Russo-Ukrainian War. From Strange Patterns to Alternative Futures. Center for Strategic & International Studies. From https://www.csis.org/analysis/cyber-operations-during-russo-ukrainian-war",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Mueller, G. B., Jensen, B., Valeriano, B., et al. (2023). Examines key insights regarding Week 9: Cyberwarfare: The Invisible Front."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 9: Cyberwarfare: The Invisible Front."
   },
   {
     "id": 301,
@@ -10122,7 +10122,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 41,
     "raw": "Abraham, Y. (2024). ‘Lavender’: The AI machine directing Israel’s bombing spree in Gaza. +972 Magazine. From https://www.972mag.com/lavender-ai-israeli-army-gaza/",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Abraham, Y (2024). Examines key insights regarding Week 10: Machine learning and AI in War."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 10: Machine learning and AI in War."
   },
   {
     "id": 302,
@@ -10130,7 +10130,7 @@ window.READINGS_DATA = [
     "author": "Human Rights Watch",
     "year": "2023",
     "type": "Article",
-    "source": "From https://www. hrw. org/news/2024/09/10/questions-and-answers-israeli-militarys-use-digital-tools-gaza",
+    "source": ". From https://www. hrw. org/news/2024/09/10/questions-and-answers-israeli-militarys-use-digital-tools-gaza",
     "url": "https://www.hrw.org/news/2024/09/10/questions-and-answers-israeli-militarys-use-digital-tools-gaza",
     "subtopic": "Week 10: Machine learning and AI in War",
     "course_code": "CCAI9033",
@@ -10138,7 +10138,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 42,
     "raw": "Human Rights Watch. (2023). Questions and Answers: Israeli Military’s Use of Digital Tools in Gaza. From https://www.hrw.org/news/2024/09/10/questions-and-answers-israeli-militarys-use-digital-tools-gaza",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Human Rights Watch (2023). Examines key insights regarding Week 10: Machine learning and AI in War."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 10: Machine learning and AI in War."
   },
   {
     "id": 303,
@@ -10154,7 +10154,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 43,
     "raw": "International Committee of the Red Cross. (2004). What is International Humanitarian Law? From https://www.icrc.org/en/document/what-international-humanitarian-law",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by International Committee of the Red Cross (2004). Examines key insights regarding Week 10: Machine learning and AI in War."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 10: Machine learning and AI in War."
   },
   {
     "id": 304,
@@ -10162,7 +10162,7 @@ window.READINGS_DATA = [
     "author": "Office of the High Commissioner for Human Rights",
     "year": "2025",
     "type": "Article",
-    "source": "",
+    "source": "Geneva: United Nations. From https://www. ohchr. org/sites/default/files/documents/issues/digitalage/artificial-intelligence-military-domain-briefer-1-en. pdf",
     "url": "https://www.ohchr.org/sites/default/files/documents/issues/digitalage/artificial-intelligence-military-domain-briefer-1-en.pdf",
     "subtopic": "Week 10: Machine learning and AI in War",
     "course_code": "CCAI9033",
@@ -10170,7 +10170,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 44,
     "raw": "Office of the High Commissioner for Human Rights. (2025). Human rights and artificial intelligence in the military domain. Geneva: United Nations. From https://www.ohchr.org/sites/default/files/documents/issues/digitalage/artificial-intelligence-military-domain-briefer-1-en.pdf",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Office of the High Commissioner for Human Rights (2025). Examines key insights regarding Week 10: Machine learning and AI in War."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 10: Machine learning and AI in War."
   },
   {
     "id": 305,
@@ -10186,7 +10186,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 45,
     "raw": "Serhan, Y. (2024, December 18). How Israel Uses AI in Gaza — And What It Might Mean for the Future of Warfare. Time. https://time.com/7202584/gaza-ukraine-ai-warfare/",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Serhan, Y (2024). Examines key insights regarding Week 10: Machine learning and AI in War."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 10: Machine learning and AI in War."
   },
   {
     "id": 306,
@@ -10194,7 +10194,7 @@ window.READINGS_DATA = [
     "author": "Amnesty International",
     "year": "2025",
     "type": "Article",
-    "source": "",
+    "source": "https://www. amnesty. org/en/documents/ior40/0484/2025/en/",
     "url": "https://www.amnesty.org/en/documents/ior40/0484/2025/en/",
     "subtopic": "Week 11: Digital Surveillance and Digital Authoritarianism",
     "course_code": "CCAI9033",
@@ -10202,7 +10202,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 46,
     "raw": "Amnesty International. (2025). Impact of digital and AI-assisted surveillance on assembly and association rights, including chilling effects. https://www.amnesty.org/en/documents/ior40/0484/2025/en/",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Amnesty International (2025). Examines key insights regarding Week 11: Digital Surveillance and Digital Authoritarianism."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 11: Digital Surveillance and Digital Authoritarianism."
   },
   {
     "id": 307,
@@ -10218,7 +10218,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 47,
     "raw": "Sahin, K. (2020, December 18). The West, China, and AI surveillance. Atlantic Council. From https://www.atlanticcouncil.org/blogs/geotech-cues/the-west-china-and-ai-surveillance/",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by The West, China, and AI surveillance (2020). Examines key insights regarding Week 11: Digital Surveillance and Digital Authoritarianism."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 11: Digital Surveillance and Digital Authoritarianism."
   },
   {
     "id": 308,
@@ -10234,7 +10234,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 48,
     "raw": "Weber, V. (2025, February 11). Data-Centric Authoritarianism: How China’s Development of Frontier Technologies Could Globalize Repression. National Endowment for Democracy. From https://www.ned.org/data-centric-authoritarianism-how-chinas-development-of-frontier-technologies-could-globalize-repression-2/",
-    "summary": "Curated report in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Weber, V. (2025). Examines key insights regarding Week 11: Digital Surveillance and Digital Authoritarianism."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 11: Digital Surveillance and Digital Authoritarianism."
   },
   {
     "id": 309,
@@ -10250,7 +10250,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 49,
     "raw": "Langrand, M. (2024, May 24). Between peril and promise: using AI to predict human displacement. Geneva Solutions. From https://genevasolutions.news/science-tech/between-peril-and-promise-using-ai-to-predict-and-avert-human-displacement",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Langrand, M (2024). Examines key insights regarding Week 12: Predictive models in war and humanitarian action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 12: Predictive models in war and humanitarian action."
   },
   {
     "id": 310,
@@ -10258,7 +10258,7 @@ window.READINGS_DATA = [
     "author": "Marwala, T",
     "year": "2026",
     "type": "Paper",
-    "source": "From https://unu. edu/article/can-deep-learning-predict-war-and-should-it",
+    "source": ". From https://unu. edu/article/can-deep-learning-predict-war-and-should-it",
     "url": "https://unu.edu/article/can-deep-learning-predict-war-and-should-it",
     "subtopic": "Week 12: Predictive models in war and humanitarian action",
     "course_code": "CCAI9033",
@@ -10266,7 +10266,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 50,
     "raw": "Marwala, T. (2026, April 20). Can Deep Learning Predict War, and Should It? United Nation University. From https://unu.edu/article/can-deep-learning-predict-war-and-should-it",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Marwala, T (2026). Examines key insights regarding Week 12: Predictive models in war and humanitarian action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 12: Predictive models in war and humanitarian action."
   },
   {
     "id": 311,
@@ -10274,7 +10274,7 @@ window.READINGS_DATA = [
     "author": "Migration Policy Centre",
     "year": "N/A",
     "type": "Article",
-    "source": "From https://migrationpolicycentre. eu/ [Website]",
+    "source": ". From https://migrationpolicycentre. eu/ [Website",
     "url": "https://migrationpolicycentre.eu/",
     "subtopic": "Week 12: Predictive models in war and humanitarian action",
     "course_code": "CCAI9033",
@@ -10282,7 +10282,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 51,
     "raw": "Migration Policy Centre. From https://migrationpolicycentre.eu/ [Website]",
-    "summary": "Curated article in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Migration Policy Centre (N/A). Examines key insights regarding Week 12: Predictive models in war and humanitarian action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 12: Predictive models in war and humanitarian action."
   },
   {
     "id": 312,
@@ -10298,7 +10298,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 52,
     "raw": "Sticher, V. (2024). War and peace in the age of AI. The British Journal of Politics and International Relations, 27(2), 1-9",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by Sticher, V (2024). Examines key insights regarding Week 12: Predictive models in war and humanitarian action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 12: Predictive models in war and humanitarian action."
   },
   {
     "id": 313,
@@ -10314,7 +10314,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 53,
     "raw": "The Alan Turing Institute. (2020, February 20). Predicting conflict – a year in advance. The Alan Turing Institute, 20. From https://www.turing.ac.uk/about-us/impact/predicting-conflict-year-advance",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by The Alan Turing Institute (2020). Examines key insights regarding Week 12: Predictive models in war and humanitarian action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 12: Predictive models in war and humanitarian action."
   },
   {
     "id": 314,
@@ -10330,7 +10330,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 54,
     "raw": "The Economist. (2026, May 13). AI models are being used to predict conflict. Good data are hard to come by. The Economist. From https://www.economist.com/science-and-technology/2026/05/13/ai-models-are-being-used-to-predict-conflict",
-    "summary": "Curated paper in 'War and Peace 2.0: How AI transforms conflicts and humanitarian response' by The Economist (2026). Examines key insights regarding Week 12: Predictive models in war and humanitarian action."
+    "summary": "Explores key concepts, empirical findings, and critical arguments regarding Week 12: Predictive models in war and humanitarian action."
   },
   {
     "id": 315,
@@ -10338,7 +10338,7 @@ window.READINGS_DATA = [
     "author": "Dalio, R",
     "year": "2021",
     "type": "Paper",
-    "source": "",
+    "source": "Simon and Schuster",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9035",
@@ -10346,7 +10346,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 1,
     "raw": "Dalio, R. (2021). Principles for Dealing with the Changing World Order: Why Nations Succeed or Fail. Simon and Schuster.",
-    "summary": "Curated paper in 'History in the Machine: Can AI Simulate Human Civilizations?' by Dalio, R (2021). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 316,
@@ -10362,7 +10362,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 2,
     "raw": "Fernández-Villaverde, J., Koyama, M., Lin, Y., & Sng, T.-H. (2023). The Fractured-Land Hypothesis. The Quarterly Journal of Economics, 138(2), 1173-1231.",
-    "summary": "Curated paper in 'History in the Machine: Can AI Simulate Human Civilizations?' by Fernández-Villaverde, J., Koyama, M., Lin, Y., & Sng, T.-H (2023). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 317,
@@ -10370,7 +10370,7 @@ window.READINGS_DATA = [
     "author": "Popper, K",
     "year": "2013",
     "type": "Paper",
-    "source": "",
+    "source": "Routledge",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9035",
@@ -10378,7 +10378,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 3,
     "raw": "Popper, K. (2013). The Poverty of Historicism. Routledge.",
-    "summary": "Curated paper in 'History in the Machine: Can AI Simulate Human Civilizations?' by Popper, K (2013). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 318,
@@ -10394,7 +10394,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 4,
     "raw": "Thomson, A. J. (1996). Asimov’s Psychohistory: Vision of the Future or Present Reality? AI Applications, 10(3), 1-8.",
-    "summary": "Curated paper in 'History in the Machine: Can AI Simulate Human Civilizations?' by Thomson, A. J (1996). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   },
   {
     "id": 319,
@@ -10402,7 +10402,7 @@ window.READINGS_DATA = [
     "author": "Turchin, P",
     "year": "2003",
     "type": "Book",
-    "source": "",
+    "source": "Princeton University Press",
     "url": "",
     "subtopic": "",
     "course_code": "CCAI9035",
@@ -10410,6 +10410,6 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 5,
     "raw": "Turchin, P. (2003). Historical Dynamics: Why States Rise and Fall. Princeton University Press.",
-    "summary": "Curated book in 'History in the Machine: Can AI Simulate Human Civilizations?' by Turchin, P (2003). Explores fundamental themes in philosophy & mind."
+    "summary": "Examines fundamental themes, ethical implications, and critical perspectives in philosophy & mind."
   }
 ];

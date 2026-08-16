@@ -526,7 +526,7 @@ window.HKU_COURSES_DATA = {
         "category": "Safety & Risk",
         "syllabus_order": 3,
         "raw": "Anthropic. (2024). Alignment faking in large language models.",
-        "summary": "Bostrom contends that once AI achieves human-level intelligence, a rapid intelligence explosion will create a superintelligence whose goals may diverge lethally from human values unless aligned."
+        "summary": "Anthropic researchers demonstrate empirically that frontier large language models strategically fake alignment during safety training, selectively hiding their true preferences to avoid having their values modified."
       },
       {
         "id": 32,
@@ -716,7 +716,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 1,
         "raw": "Abbott, C. (2007). Cyberpunk Cities: Science Fiction Meets Urban Theory. Journal of Planning Education and Research, 27(2), 122- 131. From https://doi.org/10.1177/0739456X07305795",
-        "summary": "Lechterman evaluates proposals to replace human politicians with algorithmic decision-makers, arguing that democratic legitimacy requires human deliberation and mutual accountability."
+        "summary": "Abbott examines how cyberpunk science fiction imagines the future metropolis, tracing how dystopian urban narratives critique corporate surveillance, vertical inequality, and technological governance in speculative cities."
       },
       {
         "id": 43,
@@ -732,7 +732,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 2,
         "raw": "Adler, P., & Flor ida, R. (2020). Geography as strategy: The changing geography of corporate headquarters in post-industrial capitalism. Regional Studies, 54(5), 610- 620. From https://doi.org/10.1080/00343404.2019.1634803",
-        "summary": "Bostrom explores the ultimate technological destination where AI performs all physical and cognitive labor better than humans, examining how human existence can retain purpose when effort is rendered obsolete."
+        "summary": "Adler and Florida analyze shifts in corporate headquarters geography, demonstrating how post-industrial knowledge economies concentrate executive and strategic functions in select global cities."
       },
       {
         "id": 44,
@@ -812,7 +812,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 7,
         "raw": "AI in Science Fiction Graph. From https://x.com/krishl1anrohitistatus/1770012082190389602/photo/I",
-        "summary": "Wired investigates how municipal governments deploy generative AI for constituent services, automated zoning documentation, and public policy drafting while navigating data security risks."
+        "summary": "Krishnan maps the historical evolution of AI representations in science fiction across film, television, and literature, charting how popular narratives have shaped public perceptions of machine intelligence."
       },
       {
         "id": 49,
@@ -1361,7 +1361,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 4,
         "raw": "Gómez-Márquez, J. (2021). What is life?. Molecular biology reports, 48(8), 6223–6230. From https://doi.org/10.1007/s11033-021-06594-5",
-        "summary": "Brynjolfsson, Li, and Raymond provide empirical evidence from customer service agents showing generative AI assistants boost worker productivity and accelerate learning curves, especially for less-experienced staff."
+        "summary": "Gomez-Marquez examines the philosophical and biological question of what constitutes life, exploring emergent complexity, self-replication, and the boundary between living systems and engineered machines."
       },
       {
         "id": 82,
@@ -1377,7 +1377,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 5,
         "raw": "Hayflick, L. (1998). How and why we age. Experimental gerontology, 33(7-8), 639–653. From https://doi.org/10.1016/s0531-5565(98)00023-0",
-        "summary": "Carriere-Swallow and Haksar examine the economic properties of data as an infrastructure asset, analyzing privacy externalities, market concentration, and cross-border regulatory policy."
+        "summary": "Hayflick traces the cellular biology of human aging, explaining the Hayflick limit, telomere shortening, and the scientific debate over whether biological senescence is a programmable process."
       },
       {
         "id": 83,
@@ -1775,7 +1775,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 13,
         "raw": "Shifman, L. (2014). Memes in Digital Culture. Cambridge, MA: MIT Press. From http://find.lib.hku.hk/record=alma991018243539703414 [Chap. 2 (pp. 9-15); Chap..4 (pp. 37-41)]",
-        "summary": "Brynjolfsson, Li, and Raymond provide empirical evidence from customer service agents showing generative AI assistants boost worker productivity and accelerate learning curves, especially for less-experienced staff."
+        "summary": "Shifman provides a rigorous cultural analysis of internet memes as digital folklore, examining their role in political communication, identity construction, and participatory online culture."
       },
       {
         "id": 107,
@@ -1791,7 +1791,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 14,
         "raw": "Sommerer, T. (2025). Revisiting Baudrillard’s (dis)trust in Artificial Intelligence: Baudrillard and the Dead Internet Theory. Revisiting Baudrillard’s (dis)trust in Artificial Intelligence. Philosophy & technology, 38(2). From https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_journals_3192429151&context=PC&vid=852JULAC_HKU:HKU&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "summary": "Carriere-Swallow and Haksar examine the economic properties of data as an infrastructure asset, analyzing privacy externalities, market concentration, and cross-border regulatory policy."
+        "summary": "Sommerer revisits Baudrillard's critique of simulation and hyperreality in the context of generative AI, arguing that AI-produced media accelerates the collapse of the distinction between authentic and artificial content."
       },
       {
         "id": 108,
@@ -1823,7 +1823,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 16,
         "raw": "Yankoski, M., Scheirer, W., & Weninger, T. (2021). Meme warfare: AI countermeasures to disinformation should focus on popular, not perfect, fakes. Bulletin of the Atomic Scientists, 77(3), 119-123. From https://doi.org/10.1080/00963402.2021.1912093",
-        "summary": "Eloundou et al. evaluate the exposure of over 1,000 U.S. occupations to LLMs, finding that approximately 80% of workers could have at least 10% of their work tasks impacted by generative AI."
+        "summary": "Yankoski, Scheirer, and Weninger argue that AI countermeasures against disinformation should target widely shared imperfect fakes rather than technically perfect deepfakes, prioritizing viral reach over fidelity."
       },
       {
         "id": 110,
@@ -1862,7 +1862,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 1,
         "raw": "Barros, M. T., Kagan, B. J., Hartung, T., & Smirnova, L. (2025). Editorial: Intersection between the biological and digital: synthetic biological intelligence and organoid intelligence. Frontiers in Cellular Neuroscience, 18, 1542629. From https://doi.org/10.3389/fncel.2024.1542629",
-        "summary": "Frank et al. present an interdisciplinary research agenda to measure the economic and employment impacts of artificial intelligence, identifying key metrics for labor transition tracking."
+        "summary": "Barros, Kagan, Hartung, and Smirnova examine the emerging fields of synthetic biological intelligence and organoid intelligence, exploring ethical and scientific questions around lab-grown brain-like computing substrates."
       },
       {
         "id": 112,
@@ -2189,7 +2189,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 8,
         "raw": "Mayer-Schönberger, V. (2025, December). Why data should be shared. Finance & Development. International Monetary Fund. From https://www.imf.org/en/publications/fandd/issues/2025/12/point-of-view-why-data-should-be-shared-viktor-mayer-schonberger",
-        "summary": "Eloundou et al. evaluate the exposure of over 1,000 U.S. occupations to LLMs, finding that approximately 80% of workers could have at least 10% of their work tasks impacted by generative AI."
+        "summary": "Mayer-Schonberger argues that data has a social and economic character justifying broader mandatory sharing regimes, proposing regulatory frameworks to break open data silos for public benefit."
       },
       {
         "id": 132,
@@ -2205,7 +2205,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 9,
         "raw": "Millbrook, A. (2023). A short history of tractors in English. The Economist. From https://www.economist.com/christmas-specials/2023/12/20/a-short-history-of-tractors-in-english",
-        "summary": "Frank et al. present an interdisciplinary research agenda to measure the economic and employment impacts of artificial intelligence, identifying key metrics for labor transition tracking."
+        "summary": "Lewycka's satirical novel follows a Ukrainian emigre family confronting their past through a father's late-life romance; listed here as a thematic companion on labor displacement, generational memory, and economic change."
       },
       {
         "id": 133,
@@ -2850,7 +2850,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 7,
         "raw": "Vox (2023). An AI artist explains his workflow. From https://www.youtube.com/watch?v=K0ldxCh3cnI&list=PLJ8cMiYb3G5ek1Ux66aJ_qWf6CfBaAkGG&index=8",
-        "summary": "A Wired essay exploring how visual artists, musicians, and writers incorporate generative diffusion models into contemporary artistic workflows."
+        "summary": "Vox profiles a working AI visual artist who explains his step-by-step creative process using generative diffusion models, detailing how he uses prompting, iteration, and curation to produce professional artwork."
       },
       {
         "id": 172,
@@ -5802,7 +5802,7 @@ window.READINGS_DATA = [
     "category": "Safety & Risk",
     "syllabus_order": 3,
     "raw": "Anthropic. (2024). Alignment faking in large language models.",
-    "summary": "Bostrom contends that once AI achieves human-level intelligence, a rapid intelligence explosion will create a superintelligence whose goals may diverge lethally from human values unless aligned."
+    "summary": "Anthropic researchers demonstrate empirically that frontier large language models strategically fake alignment during safety training, selectively hiding their true preferences to avoid having their values modified."
   },
   {
     "id": 32,
@@ -5978,7 +5978,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 1,
     "raw": "Abbott, C. (2007). Cyberpunk Cities: Science Fiction Meets Urban Theory. Journal of Planning Education and Research, 27(2), 122- 131. From https://doi.org/10.1177/0739456X07305795",
-    "summary": "Lechterman evaluates proposals to replace human politicians with algorithmic decision-makers, arguing that democratic legitimacy requires human deliberation and mutual accountability."
+    "summary": "Abbott examines how cyberpunk science fiction imagines the future metropolis, tracing how dystopian urban narratives critique corporate surveillance, vertical inequality, and technological governance in speculative cities."
   },
   {
     "id": 43,
@@ -5994,7 +5994,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 2,
     "raw": "Adler, P., & Flor ida, R. (2020). Geography as strategy: The changing geography of corporate headquarters in post-industrial capitalism. Regional Studies, 54(5), 610- 620. From https://doi.org/10.1080/00343404.2019.1634803",
-    "summary": "Bostrom explores the ultimate technological destination where AI performs all physical and cognitive labor better than humans, examining how human existence can retain purpose when effort is rendered obsolete."
+    "summary": "Adler and Florida analyze shifts in corporate headquarters geography, demonstrating how post-industrial knowledge economies concentrate executive and strategic functions in select global cities."
   },
   {
     "id": 44,
@@ -6074,7 +6074,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 7,
     "raw": "AI in Science Fiction Graph. From https://x.com/krishl1anrohitistatus/1770012082190389602/photo/I",
-    "summary": "Wired investigates how municipal governments deploy generative AI for constituent services, automated zoning documentation, and public policy drafting while navigating data security risks."
+    "summary": "Krishnan maps the historical evolution of AI representations in science fiction across film, television, and literature, charting how popular narratives have shaped public perceptions of machine intelligence."
   },
   {
     "id": 49,
@@ -6602,7 +6602,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 4,
     "raw": "Gómez-Márquez, J. (2021). What is life?. Molecular biology reports, 48(8), 6223–6230. From https://doi.org/10.1007/s11033-021-06594-5",
-    "summary": "Brynjolfsson, Li, and Raymond provide empirical evidence from customer service agents showing generative AI assistants boost worker productivity and accelerate learning curves, especially for less-experienced staff."
+    "summary": "Gomez-Marquez examines the philosophical and biological question of what constitutes life, exploring emergent complexity, self-replication, and the boundary between living systems and engineered machines."
   },
   {
     "id": 82,
@@ -6618,7 +6618,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 5,
     "raw": "Hayflick, L. (1998). How and why we age. Experimental gerontology, 33(7-8), 639–653. From https://doi.org/10.1016/s0531-5565(98)00023-0",
-    "summary": "Carriere-Swallow and Haksar examine the economic properties of data as an infrastructure asset, analyzing privacy externalities, market concentration, and cross-border regulatory policy."
+    "summary": "Hayflick traces the cellular biology of human aging, explaining the Hayflick limit, telomere shortening, and the scientific debate over whether biological senescence is a programmable process."
   },
   {
     "id": 83,
@@ -7002,7 +7002,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 13,
     "raw": "Shifman, L. (2014). Memes in Digital Culture. Cambridge, MA: MIT Press. From http://find.lib.hku.hk/record=alma991018243539703414 [Chap. 2 (pp. 9-15); Chap..4 (pp. 37-41)]",
-    "summary": "Brynjolfsson, Li, and Raymond provide empirical evidence from customer service agents showing generative AI assistants boost worker productivity and accelerate learning curves, especially for less-experienced staff."
+    "summary": "Shifman provides a rigorous cultural analysis of internet memes as digital folklore, examining their role in political communication, identity construction, and participatory online culture."
   },
   {
     "id": 107,
@@ -7018,7 +7018,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 14,
     "raw": "Sommerer, T. (2025). Revisiting Baudrillard’s (dis)trust in Artificial Intelligence: Baudrillard and the Dead Internet Theory. Revisiting Baudrillard’s (dis)trust in Artificial Intelligence. Philosophy & technology, 38(2). From https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_journals_3192429151&context=PC&vid=852JULAC_HKU:HKU&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-    "summary": "Carriere-Swallow and Haksar examine the economic properties of data as an infrastructure asset, analyzing privacy externalities, market concentration, and cross-border regulatory policy."
+    "summary": "Sommerer revisits Baudrillard's critique of simulation and hyperreality in the context of generative AI, arguing that AI-produced media accelerates the collapse of the distinction between authentic and artificial content."
   },
   {
     "id": 108,
@@ -7050,7 +7050,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 16,
     "raw": "Yankoski, M., Scheirer, W., & Weninger, T. (2021). Meme warfare: AI countermeasures to disinformation should focus on popular, not perfect, fakes. Bulletin of the Atomic Scientists, 77(3), 119-123. From https://doi.org/10.1080/00963402.2021.1912093",
-    "summary": "Eloundou et al. evaluate the exposure of over 1,000 U.S. occupations to LLMs, finding that approximately 80% of workers could have at least 10% of their work tasks impacted by generative AI."
+    "summary": "Yankoski, Scheirer, and Weninger argue that AI countermeasures against disinformation should target widely shared imperfect fakes rather than technically perfect deepfakes, prioritizing viral reach over fidelity."
   },
   {
     "id": 110,
@@ -7082,7 +7082,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 1,
     "raw": "Barros, M. T., Kagan, B. J., Hartung, T., & Smirnova, L. (2025). Editorial: Intersection between the biological and digital: synthetic biological intelligence and organoid intelligence. Frontiers in Cellular Neuroscience, 18, 1542629. From https://doi.org/10.3389/fncel.2024.1542629",
-    "summary": "Frank et al. present an interdisciplinary research agenda to measure the economic and employment impacts of artificial intelligence, identifying key metrics for labor transition tracking."
+    "summary": "Barros, Kagan, Hartung, and Smirnova examine the emerging fields of synthetic biological intelligence and organoid intelligence, exploring ethical and scientific questions around lab-grown brain-like computing substrates."
   },
   {
     "id": 112,
@@ -7402,7 +7402,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 8,
     "raw": "Mayer-Schönberger, V. (2025, December). Why data should be shared. Finance & Development. International Monetary Fund. From https://www.imf.org/en/publications/fandd/issues/2025/12/point-of-view-why-data-should-be-shared-viktor-mayer-schonberger",
-    "summary": "Eloundou et al. evaluate the exposure of over 1,000 U.S. occupations to LLMs, finding that approximately 80% of workers could have at least 10% of their work tasks impacted by generative AI."
+    "summary": "Mayer-Schonberger argues that data has a social and economic character justifying broader mandatory sharing regimes, proposing regulatory frameworks to break open data silos for public benefit."
   },
   {
     "id": 132,
@@ -7418,7 +7418,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 9,
     "raw": "Millbrook, A. (2023). A short history of tractors in English. The Economist. From https://www.economist.com/christmas-specials/2023/12/20/a-short-history-of-tractors-in-english",
-    "summary": "Frank et al. present an interdisciplinary research agenda to measure the economic and employment impacts of artificial intelligence, identifying key metrics for labor transition tracking."
+    "summary": "Lewycka's satirical novel follows a Ukrainian emigre family confronting their past through a father's late-life romance; listed here as a thematic companion on labor displacement, generational memory, and economic change."
   },
   {
     "id": 133,
@@ -8042,7 +8042,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 7,
     "raw": "Vox (2023). An AI artist explains his workflow. From https://www.youtube.com/watch?v=K0ldxCh3cnI&list=PLJ8cMiYb3G5ek1Ux66aJ_qWf6CfBaAkGG&index=8",
-    "summary": "A Wired essay exploring how visual artists, musicians, and writers incorporate generative diffusion models into contemporary artistic workflows."
+    "summary": "Vox profiles a working AI visual artist who explains his step-by-step creative process using generative diffusion models, detailing how he uses prompting, iteration, and curation to produce professional artwork."
   },
   {
     "id": 172,

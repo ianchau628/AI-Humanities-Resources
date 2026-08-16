@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI & Humanities Academic Resource Directory | HKU Common Core</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700&display=swap" rel="stylesheet">
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="styles.css?v=7">
+</head>
+<body>
+
+  <!-- Academic Header -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="brand">
+        <div class="brand-icon">
+          <i class="fa-solid fa-graduation-cap"></i>
+        </div>
+        <div class="brand-text">
+          <h1>AI & Humanities Resource Directory</h1>
+          <p>Curated Course Syllabi, Books, Papers & Direct Resources • HKU Common Core</p>
+        </div>
+      </div>
+      <div class="header-actions">
+        <!-- Completed Button (Left of Saved Readings) -->
+        <button id="btn-completed" class="action-btn" title="View Completed Readings">
+          <i class="fa-solid fa-check-double text-emerald"></i>
+          <span>Completed</span>
+          <span id="completed-count" class="pill-badge badge-green">0</span>
+        </button>
+        <!-- Saved Readings Button -->
+        <button id="btn-bookmarks" class="action-btn" title="View Saved Reading List">
+          <i class="fa-solid fa-bookmark text-amber"></i>
+          <span>Saved Readings</span>
+          <span id="bookmark-count" class="pill-badge">0</span>
+        </button>
+        <!-- Export Button -->
+        <button id="btn-export" class="action-btn secondary" title="Export Reading List">
+          <i class="fa-solid fa-file-export"></i>
+          <span>Export List (.md)</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Layout -->
+  <div class="main-layout">
+    
+    <!-- Unified Sidebar Navigation -->
+    <aside class="sidebar">
+      <!-- Main Views -->
+      <div class="sidebar-section">
+        <h3><i class="fa-solid fa-compass"></i> Main Views</h3>
+        <ul class="nav-list" id="main-nav-menu">
+          <li class="nav-item active" data-view="all">
+            <span><i class="fa-solid fa-layer-group"></i> All 319 Resources</span>
+          </li>
+          <li class="nav-item" data-view="must-read">
+            <span><i class="fa-solid fa-star text-amber"></i> Must-Read Classics</span>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Course Selection Filter (Only courses with resources) -->
+      <div class="sidebar-section">
+        <h3><i class="fa-solid fa-book-open"></i> Filter by HKU Course</h3>
+        <div class="course-select-box">
+          <select id="course-select" class="dropdown-select">
+            <option value="all">-- Select an HKU CC AI Course --</option>
+            <!-- Dynamically populated by JS -->
+          </select>
+        </div>
+      </div>
+
+      <!-- Humanities Domains Filter -->
+      <div class="sidebar-section">
+        <h3><i class="fa-solid fa-folder-tree"></i> Humanities Domains</h3>
+        <ul class="nav-list" id="domain-menu">
+          <!-- Dynamically populated by JS -->
+        </ul>
+      </div>
+
+      <div class="sidebar-stats">
+        <div class="stat-card">
+          <span class="stat-num" id="stat-total">319</span>
+          <span class="stat-label">Total Resources</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-num" id="stat-read">0</span>
+          <span class="stat-label">Completed</span>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Content Workspace -->
+    <main class="content-area">
+
+      <!-- Filter Controls -->
+      <section class="controls-card">
+        <!-- Search Bar -->
+        <div class="search-box">
+          <i class="fa-solid fa-magnifying-glass search-icon"></i>
+          <input type="text" id="search-input" placeholder="Search by book/paper title, author, year, course (e.g. Bostrom, Crawford, alignment, 2024)..." />
+          <button id="search-clear" class="clear-btn" style="display: none;"><i class="fa-solid fa-xmark"></i></button>
+        </div>
+
+        <!-- Format Filter Pills (Clean Single Words) -->
+        <div class="filter-bar">
+          <span class="filter-label">Resource Type:</span>
+          <div class="filter-pills" id="format-pills">
+            <button class="pill active" data-type="all">All</button>
+            <button class="pill" data-type="Book">Books</button>
+            <button class="pill" data-type="Paper">Papers</button>
+            <button class="pill" data-type="Report">Reports</button>
+            <button class="pill" data-type="Article">Articles</button>
+            <button class="pill" data-type="Video">Videos</button>
+            <button class="pill" data-type="Classic">Classics</button>
+          </div>
+        </div>
+
+        <!-- Status & Sort Controls -->
+        <div class="status-strip">
+          <div class="results-info">
+            Showing <strong id="visible-count">0</strong> of <strong id="total-count">319</strong> items
+            <span id="active-category-tag" class="tag-label" style="display: none;"></span>
+          </div>
+          <div class="sort-box">
+            <label for="sort-select">Sort by:</label>
+            <select id="sort-select">
+              <option value="schedule" selected>Schedule (Syllabus Order)</option>
+              <option value="year-desc">Year (Newest First)</option>
+              <option value="year-asc">Year (Oldest First)</option>
+              <option value="type-asc">Resource Type (Grouped)</option>
+              <option value="author-asc">Author (A-Z)</option>
+              <option value="title-asc">Title (A-Z)</option>
+            </select>
+          </div>
+        </div>
+      </section>
+
+      <!-- Active Course Syllabus Banner -->
+      <div id="course-header-banner" class="course-banner" style="display: none;">
+        <div class="banner-badge" id="banner-code">CCAI9003</div>
+        <div class="banner-content">
+          <h2 id="banner-title">AI Safety: Catastrophe, Alignment, and Governance</h2>
+          <p id="banner-domain">Category: Safety & Risk</p>
+        </div>
+        <button id="banner-clear-btn" class="action-btn secondary"><i class="fa-solid fa-xmark"></i> Show All Courses</button>
+      </div>
+
+      <!-- Academic Resource List Container -->
+      <section class="resources-container" id="resources-container">
+        <!-- Rendered statefully by JS -->
+      </section>
+
+      <!-- Empty State -->
+      <div id="empty-state" class="empty-card" style="display: none;">
+        <i class="fa-solid fa-book-open empty-icon"></i>
+        <h3>No matching resources found</h3>
+        <p>Try adjusting your search criteria or resetting filters.</p>
+        <button id="reset-filters-btn" class="action-btn secondary" style="margin-top: 1rem;">Reset All Filters</button>
+      </div>
+    </main>
+
+  </div>
+
+  <!-- Toast Notification -->
+  <div id="toast" class="toast"></div>
+
+  <!-- Data Script -->
+  <script src="data.js?v=6"></script>
+  <!-- App Logic -->
+  <script src="app.js?v=6"></script>
+</body>
+</html>

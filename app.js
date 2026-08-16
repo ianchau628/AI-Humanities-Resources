@@ -207,7 +207,7 @@ document.addEventListener("DOMContentLoaded", () => {
     attachTooltipListeners();
   }
 
-  // Render Single Resource Item
+  // Render Single Resource Item (WITHOUT native title attribute to prevent duplicate browser tooltips)
   function renderSingleItemHtml(item) {
     const isBookmarked = bookmarks.includes(item.id);
     const isRead = readItems.includes(item.id);
@@ -238,11 +238,11 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="item-header-meta">
             <span class="type-badge-inline ${badgeClass}">${item.type}</span>
             ${item.year !== 'N/A' ? `<span class="item-year">${item.year}</span>` : ''}
-            <span class="item-course-tag" data-tooltip-type="course" data-tooltip-text="${escapeHtml(fullCourseTitle)}" title="${escapeHtml(fullCourseTitle)}">${item.course_code}</span>
+            <span class="item-course-tag" data-tooltip-type="course" data-tooltip-text="${escapeHtml(fullCourseTitle)}">${item.course_code}</span>
             ${item.subtopic ? `<span class="item-subtopic-inline">${escapeHtml(item.subtopic)}</span>` : ''}
           </div>
           
-          <h4 class="item-title" data-tooltip-type="intro" data-tooltip-text="${escapeHtml(resourceIntro)}" title="${escapeHtml(resourceIntro)}">${escapeHtml(item.title)}</h4>
+          <h4 class="item-title" data-tooltip-type="intro" data-tooltip-text="${escapeHtml(resourceIntro)}">${escapeHtml(item.title)}</h4>
           <div class="item-author"><i class="fa-regular fa-user" style="font-size:0.75rem; margin-right:0.25rem; color:#64748b;"></i> ${escapeHtml(item.author)}</div>
           ${item.source ? `<div class="item-source">${escapeHtml(item.source)}</div>` : ''}
         </div>
@@ -303,7 +303,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function positionTooltip(e) {
     const tooltipWidth = 320;
-    const padding = 15;
     let left = e.clientX + 12;
     let top = e.clientY + 12;
 

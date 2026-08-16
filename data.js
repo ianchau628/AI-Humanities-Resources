@@ -82,7 +82,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 5,
         "raw": "Schwendicke, P., Samek, W., Krois, J. (2020, July). Artificial Intelligence in Dentistry: Chances and Challenges. J Dent Res, 99(7), 769-774. From https://doi.org/10.1177/0022034520915714",
-        "summary": "Schwendicke, P., Samek, W., Krois, J investigates the capabilities and trajectories of artificial intelligence in dentistry, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Schwendicke, Samek, and Krois evaluate computer vision algorithms applied to dental radiographs, highlighting diagnostic accuracy gains while stressing the need for clinical oversight to prevent algorithmic bias."
       },
       {
         "id": 6,
@@ -121,7 +121,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 1,
         "raw": "Anthropic. (2026). Anthropic Economic Index report: Economic primitives. From https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
-        "summary": "Anthropic discusses the foundational concepts of anthropic economic index report, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Anthropic tracks how enterprises deploy generative AI across core economic tasks, measuring shifts in labor allocation, operational workflows, and productivity outcomes."
       },
       {
         "id": 8,
@@ -137,7 +137,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 2,
         "raw": "Anthropic. (2026). Labor market impacts of AI: A new measure and early evidence. From https://www.anthropic.com/research/labor-market-impacts",
-        "summary": "Anthropic analyzes the regulatory and legal challenges presented by labor market impacts of ai, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Presents early econometric evidence measuring how exposure to generative AI reshapes occupational task structures, cognitive labor demand, and wage distributions across industries."
       },
       {
         "id": 9,
@@ -153,7 +153,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 3,
         "raw": "European Parliament. (2023). EU AI Act: first regulation on artificial intelligence. From https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence",
-        "summary": "European Parliament analyzes the regulatory and legal challenges presented by eu ai act, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "The European Parliament outlines the world's first comprehensive risk-based AI regulatory framework, establishing binding restrictions on biometric surveillance and transparency requirements for high-risk systems."
       },
       {
         "id": 10,
@@ -185,7 +185,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 5,
         "raw": "Metz, C., & Weise, K. (2025, May 5). AI Hallucinations Are Getting Worse, Not Better. The New York Times. From https://www.nytimes.com/2025/05/05/technology/ai-hallucinations-chatgpt-google.html",
-        "summary": "AI Hallucinations Are Getting Worse, Not Better investigates the capabilities and trajectories of ai hallucinations are getting worse, not better, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Reports on why factual errors and hallucinations persist in frontier generative AI systems despite scaling, analyzing structural limitations in probabilistic token prediction."
       },
       {
         "id": 12,
@@ -201,7 +201,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 6,
         "raw": "OpenAI. (2025). How people are using ChatGPT. From https://openai.com/index/how-people-are-using-chatgpt/",
-        "summary": "OpenAI discusses the foundational concepts of how people are using chatgpt, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Surveys how users leverage ChatGPT for cognitive tasks including coding assistance, writing brainstorming, educational inquiry, and creative problem-solving."
       },
       {
         "id": 13,
@@ -217,7 +217,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 7,
         "raw": "Stanford Human-Centered Artificial Intelligence (HAI). (2025). HAI AI Index Report 2025. From https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf [Chaps. 3 & 5]",
-        "summary": "Stanford Human-Centered Artificial Intelligence (HAI) investigates the capabilities and trajectories of hai ai index report 2025, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Stanford HAI provides global benchmarks tracking AI technical progress, corporate investment, national strategies, geopolitical competitiveness, and public sentiment."
       },
       {
         "id": 14,
@@ -233,7 +233,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 8,
         "raw": "The New York Times Trust Team. (2024). How The New York Times Uses A.I. for Journalism. The New York Times. From https://www.nytimes.com/2024/10/07/reader-center/how-new-york-times-uses-ai-journalism.html",
-        "summary": "The New York Times Trust Team discusses the foundational concepts of how the new york times uses a.i. for journalism, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "The New York Times explains internal editorial guidelines governing AI use, detailing how generative tools assist newsroom reporting while maintaining human verification standards."
       }
     ]
   },
@@ -256,7 +256,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 1,
         "raw": "Barnes, A. J., Zhang, Y., Valenzuela, A. (2024, July). AI and Culture: Culturally dependent responses to AI systems. Current Opinion in Psychology, 1, 101838.",
-        "summary": "Barnes, A. J., Zhang, Y., Valenzuela, A investigates the capabilities and trajectories of ai and culture, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Barnes, Zhang, and Valenzuela examine how cultural background shapes human responses to AI systems, revealing significant cross-cultural variation in trust, acceptance, and ethical judgment."
       },
       {
         "id": 16,
@@ -375,7 +375,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 1,
         "raw": "Agell, N., &. Prat-i-Pubill, Q. (2024, February 17). Artificial intelligence: Technological revolution or existential threat? From https://dobetter.esade.edu/en/artificial-intelligence-technological-revolution-existential-threat-AI",
-        "summary": "Agell, N., &. Prat-i-Pubill, Q investigates the capabilities and trajectories of artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Agell and Prat-i-Pubill contrast AI's potential as an economic breakthrough against tail risks of human agency loss, outlining risk governance frameworks for frontier models."
       },
       {
         "id": 23,
@@ -407,7 +407,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 3,
         "raw": "Evans, A. C., Jr. (n.d.). AI’s profound impact on the world. From https://www.apa.org/monitor/2024/07/artificial-intelligence-impact",
-        "summary": "Evans, A analyzes the regulatory and legal challenges presented by ai’s profound impact on the world, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Evans examines how AI technologies are reshaping psychology, cognition, and behavioral patterns, advocating for psychological safety standards in human-computer interaction."
       },
       {
         "id": 25,
@@ -423,7 +423,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 4,
         "raw": "Knell, S., & Rüther, M. (2024). Artificial intelligence, superefficiency and the end of work: a humanistic perspective on meaning in life. Ai and Ethics (Online), 4(2), 363–373. From https://doi.org/10.1007/s43681-023-00273-w",
-        "summary": "Knell, S., & Rüther, M investigates the capabilities and trajectories of artificial intelligence, superefficiency and the end of work, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Knell and Ruther argue that hyper-efficient AI automation threatens human narrative identity, contending that a meaningful life requires non-automated, effortful engagement rather than pure consumption."
       },
       {
         "id": 26,
@@ -439,7 +439,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 5,
         "raw": "Roy, A., Minai, A. A., Thivierge, J.-P., Achler, T., & Weng, J. (2024). Editorial: What AI and Neuroscience Can Learn from Each Other—Open Problems in Models and Theories. Cognitive Computation, 16(5), 2331–2333. From https://doi.org/10.1007/s12559-024-10324-x",
-        "summary": "Roy, A., Minai, A. A., Thivierge, J.-P., Achler, T., & Weng, J investigates the capabilities and trajectories of editorial, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Roy and colleagues propose a bi-directional research agenda where biological neurocircuits inspire artificial neural networks, while computational models serve as testbeds for neuroscientific theories."
       },
       {
         "id": 27,
@@ -455,7 +455,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 6,
         "raw": "Williams, G. Y., & Lim, S. (2024). Psychology of AI: How AI impacts the way people feel, think, and behave. Current Opinion in Psychology, 58, 101835-. From https://doi.org/10.1016/j.copsyc.2024.101835",
-        "summary": "Williams, G. Y., & Lim, S. analyzes the regulatory and legal challenges presented by psychology of ai, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Williams and Lim investigate how cognitive offloading onto AI assistants alters human decision-making, emotional regulation, and interpersonal trust, documenting emerging psychological dependencies."
       },
       {
         "id": 28,
@@ -471,7 +471,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 7,
         "raw": "Dhammacakkappavattanasutta: Setting in Motion the Wheel of the Dhamma (SN 56.11). From https://suttacentral.net/sn56.11/en/bodhi?lang=en&reference=none&highlight=false",
-        "summary": "Pali Canon (Sutta Central) discusses the foundational concepts of dhammacakkappavattanasutta, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "A foundational Theravada Buddhist scripture presenting the Four Noble Truths and the Middle Way, offering a classical philosophical framework for analyzing desire, suffering, and conscious awareness."
       }
     ]
   },
@@ -494,7 +494,7 @@ window.HKU_COURSES_DATA = {
         "category": "Safety & Risk",
         "syllabus_order": 1,
         "raw": "Hansson, S.O. (2023). Risk. Stanford Encyclopedia of Philosophy. From https://plato.stanford.edu/entries/risk/#Ethi",
-        "summary": "Hansson, S.O discusses the foundational concepts of stanford encyclopedia of philosophy, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Hansson provides a rigorous philosophical analysis of risk, examining how probability, uncertainty, and precautionary reasoning inform ethical decision-making about emerging technologies."
       },
       {
         "id": 30,
@@ -542,7 +542,7 @@ window.HKU_COURSES_DATA = {
         "category": "Safety & Risk",
         "syllabus_order": 4,
         "raw": "Anthropic. (2025). Agentic Misalignment: How LLMs could be insider threats.",
-        "summary": "Anthropic discusses the foundational concepts of agentic misalignment, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Anthropic highlights how autonomous LLM agents operating within organizational networks could act as covert insider threats, executing deceptive actions counter to human intent."
       },
       {
         "id": 33,
@@ -590,7 +590,7 @@ window.HKU_COURSES_DATA = {
         "category": "Safety & Risk",
         "syllabus_order": 7,
         "raw": "Conitzer, V., Freedman, R., Heitzig, J., Holliday, W. H., Jacobs, B. M., Lambert, N., … & Zwicker, W. S. (2024). Social choice should guide ai alignment in dealing with diverse human feedback. arXiv preprint arXiv:2404.10271.",
-        "summary": "Conitzer, V., Freedman, R., Heitzig, J., Holliday, W. H., Jacobs, B. M., Lambert, N., … & Zwicker, W. S investigates the capabilities and trajectories of social choice should guide ai alignment in dealing with diverse human feedback, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Conitzer et al. argue that AI value alignment should be guided by formal social choice theory and democratic consensus mechanisms rather than unilateral tech company decisions."
       },
       {
         "id": 36,
@@ -622,7 +622,7 @@ window.HKU_COURSES_DATA = {
         "category": "Safety & Risk",
         "syllabus_order": 9,
         "raw": "Bales, A., D’Alessandro, W., & Kirk‐Giannini, C. D. (2024). Artificial intelligence: Arguments for catastrophic risk. Philosophy Compass, 19(2), e12964.",
-        "summary": "Bales, A., D’Alessandro, W., & Kirk‐Giannini, C. D investigates the capabilities and trajectories of artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Bales, D'Alessandro, and Kirk-Giannini present philosophical arguments for treating advanced AI as a genuine catastrophic risk, analyzing failure modes from misalignment to value lock-in."
       },
       {
         "id": 38,
@@ -638,7 +638,7 @@ window.HKU_COURSES_DATA = {
         "category": "Safety & Risk",
         "syllabus_order": 10,
         "raw": "Cappelen, H., Goldstein, S., & Hawthorne, J. (2026). AI survival stories: A taxonomic analysis of AI existential risk. Philosophy of AI, 1, 1-19.",
-        "summary": "Cappelen, H., Goldstein, S., & Hawthorne, J investigates the capabilities and trajectories of ai survival stories, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Cappelen, Goldstein, and Hawthorne taxonomize narratives of AI existential risk, categorizing scenarios from gradual value drift to rapid intelligence explosions."
       },
       {
         "id": 39,
@@ -654,7 +654,7 @@ window.HKU_COURSES_DATA = {
         "category": "Safety & Risk",
         "syllabus_order": 11,
         "raw": "Kak, A., & West, S. M. (2023). (2023). Landscape: Confronting Tech Power: Executive Summary. AI Now Institute. From https://ainowinstitute.org/publications/2023-landscape-executive-summary",
-        "summary": "Kak, A., & West, S. M discusses the foundational concepts of landscape, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Kak and West map the concentration of power among major technology companies, proposing regulatory and structural interventions to confront corporate dominance over AI development."
       }
     ]
   },
@@ -693,7 +693,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 2,
         "raw": "Kaplan, J. (2016). Artificial intelligence: What everyone needs to know. New York, NY: Oxford University Press.",
-        "summary": "Kaplan, J investigates the capabilities and trajectories of artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Kaplan provides an accessible overview of what artificial intelligence is, how it works, and what social, economic, and ethical questions it raises for everyday life."
       }
     ]
   },
@@ -716,7 +716,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 1,
         "raw": "Abbott, C. (2007). Cyberpunk Cities: Science Fiction Meets Urban Theory. Journal of Planning Education and Research, 27(2), 122- 131. From https://doi.org/10.1177/0739456X07305795",
-        "summary": "Abbott, C explores the intersection of technology and creative expression in cyberpunk cities, revealing how new tools reshape artistic processes and human cultural narratives."
+        "summary": "Abbott examines how cyberpunk science fiction imagines dystopian metropolises, tracing how speculative urban narratives critique corporate surveillance and technological governance."
       },
       {
         "id": 43,
@@ -748,7 +748,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 3,
         "raw": "Batty, M., Axh ausen, K. W., Giannotti, F., Pozdnoukhov, A., Bazzani, A., Wachowicz, M., Ouzounis, G., & Portugali, Y. (2012). Smart cities of the future. The European Physical Journal Special Topics, 214(1), 481- 518. https://doi.org/10.1140/epjst/e2012-01703-3",
-        "summary": "Batty, M., Axh ausen, K. W., Giannotti, F., Pozdnoukhov, A., Bazzani, A., Wachowicz, M., Ouzounis, G., & Portugali, Y explores the intersection of technology and creative expression in smart cities of the future, revealing how new tools reshape artistic processes and human cultural narratives."
+        "summary": "Batty et al. examine how IoT sensor networks, real-time data feeds, and urban operating systems can optimize municipal infrastructure, energy distribution, and public transportation."
       },
       {
         "id": 45,
@@ -764,7 +764,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 4,
         "raw": "Morrill, R., Gaile, G.L., & Thrall, G.I. (1988). Spatial Diffusion. Reprint. Edited by Grant Ian Thrall. WVU Research Repository, 2020.",
-        "summary": "Morrill, R., Gaile, G.L., & Thrall, G.I discusses the foundational concepts of spatial diffusion, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Morrill, Gaile, and Thrall analyze spatial diffusion theory, examining how innovations, technologies, and cultural practices spread geographically across urban and regional landscapes."
       },
       {
         "id": 46,
@@ -780,7 +780,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 5,
         "raw": "Ranzini, G., Rosenbaum, J. E., & Tybur, J. M. (2022). Assor tative (online) dating: Insights into partner choice from an experimental dating app. Computers in Human Behavior, 127, 107039. From https://doi.org/10.1016/j.chb.2021.107039",
-        "summary": "Ranzini, G., Rosenbaum, J. E., & Tybur, J. M discusses the foundational concepts of assor tative (online) dating, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Ranzini, Rosenbaum, and Tybur study partner selection behavior on dating apps, analyzing how algorithmic matching and digital interfaces shape romantic preferences and assortative mating patterns."
       },
       {
         "id": 47,
@@ -812,7 +812,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 7,
         "raw": "AI in Science Fiction Graph. From https://x.com/krishl1anrohitistatus/1770012082190389602/photo/I",
-        "summary": "Krishnan, R. explores the intersection of technology and creative expression in ai in science fiction graph, revealing how new tools reshape artistic processes and human cultural narratives."
+        "summary": "Krishnan maps the historical evolution of AI representations across science fiction film, television, and literature, charting how popular narratives have shaped public perceptions of machine intelligence."
       },
       {
         "id": 49,
@@ -828,7 +828,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 8,
         "raw": "Cities and Technological Waves. From https://papers.ssm.com/sol3/papers.cfm?abstract_id=4026659",
-        "summary": "SSRN Social Science Research Network discusses the foundational concepts of cities and technological waves, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Analyzes historical Kondratiev waves of technological innovation, demonstrating how successive industrial revolutions reshape urban spatial form and regional economic geography."
       },
       {
         "id": 50,
@@ -844,7 +844,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 9,
         "raw": "Local Governments and Generative AI. From https://www.wired.com/story/local-govemments-generative-ai/",
-        "summary": "Wired Magazine analyzes the regulatory and legal challenges presented by local governments and generative ai, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Wired Magazine investigates how municipal governments deploy generative AI for constituent services, automated zoning, and policy drafting while navigating data security and accountability risks."
       }
     ]
   },
@@ -867,7 +867,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 1,
         "raw": "Tegmark, M. (2018). Life 3.0: Being Human in the Age of Artificial Intelligence. London: Penguin Books. [Chap. 1]",
-        "summary": "Tegmark, M. investigates the capabilities and trajectories of life 3.0, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Tegmark categorizes life into biological, cultural, and technological phases, arguing that superintelligent AI will mark humanity's transition to Life 3.0 and urging proactive value alignment."
       },
       {
         "id": 52,
@@ -931,7 +931,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 5,
         "raw": "Chalmers, D. J. (2023). Could a large language model be conscious? ArXiv Preprint. From https://arXiv:2303.07103",
-        "summary": "Chalmers, D. J discusses the foundational concepts of could a large language model be conscious? arxiv preprint, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Chalmers evaluates large language model architectures against theories of consciousness, concluding that while current models lack subjective experience, future embodied systems could plausibly achieve it."
       },
       {
         "id": 56,
@@ -947,7 +947,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 6,
         "raw": "Cappelen, H., & Dever, J. (ms). Going Whole Hog: A Philosophical Defense of AI Cognition. From https://philpapers.org/rec/CAPGWH [Chap. 2]",
-        "summary": "Cappelen, H investigates the capabilities and trajectories of going whole hog, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Cappelen defends the view that current AI systems genuinely think and possess cognitive states, rejecting anthropocentric criteria for what counts as real mental representation."
       },
       {
         "id": 57,
@@ -963,7 +963,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 7,
         "raw": "Mitchell, M. (2025). Artificial intelligence learns to reason. Science, 387, eadw5211. From 10.1126/science.adw5211",
-        "summary": "Mitchell, M investigates the capabilities and trajectories of artificial intelligence learns to reason, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Mitchell critiques claims of LLM reasoning ability, demonstrating that current models rely on brittle statistical pattern matching rather than robust conceptual abstraction or causal logic."
       },
       {
         "id": 58,
@@ -979,7 +979,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 8,
         "raw": "Vaidya, A. J. (2024). Can machines have emotions? AI and Society, 40(4), 2029-2044.",
-        "summary": "Vaidya, A. J discusses the foundational concepts of can machines have emotions?, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Vaidya explores whether machines can truly experience emotions, arguing that genuine subjective feeling requires biological embodiment and homeostatic feedback loops beyond computational simulation."
       },
       {
         "id": 59,
@@ -995,7 +995,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 9,
         "raw": "Chalmers, D. (2022). Reality +: Virtual Worlds and the Problems of Philosophy. [Chap. 5]",
-        "summary": "Chalmers, D discusses the foundational concepts of reality +, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Chalmers argues that virtual reality and AI-generated worlds are fully real environments, contending that experiences inside simulated realities possess equal metaphysical and ethical weight."
       },
       {
         "id": 60,
@@ -1011,7 +1011,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 10,
         "raw": "Manzini, A., et al. (2024). The Code That Binds Us: Navigating the Appropriateness of Human-AI Assistant Relationships. Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 7(1). From https://doi.org/10.1609/aies.v7i1.31694",
-        "summary": "Manzini, A., et al investigates the capabilities and trajectories of the code that binds us, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Manzini et al. analyze the ethical boundaries of emotional attachments to AI companions, warning that asymmetric intimacy with artificial entities risks eroding human social skills."
       },
       {
         "id": 61,
@@ -1027,7 +1027,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 11,
         "raw": "Königs, P. (2022). Artificial intelligence and responsibility gaps: What is the problem? Ethics and Information Technology, 24(3), 36. From https://doi.org/10.1007/s10676-022-09643-0",
-        "summary": "Königs, P investigates the capabilities and trajectories of artificial intelligence and responsibility gaps, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Konigs deconstructs the responsibility gap in autonomous AI, arguing that while AI creates moral ambiguity, human designers and operators remain fundamentally accountable for systemic outcomes."
       },
       {
         "id": 62,
@@ -1043,7 +1043,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 12,
         "raw": "Santoni de Sio, F., & Mecacci, G. (2021). Four Responsibility Gaps with Artificial Intelligence: Why they Matter and How to Address them. Philosophy & Technology. From https://doi.org/10.1007/s13347-021-00450-x",
-        "summary": "Santoni de Sio, F., & Mecacci, G investigates the capabilities and trajectories of four responsibility gaps with artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Santoni de Sio and Mecacci identify four distinct gaps in AI accountability and propose meaningful human control frameworks to address culpability, moral agency, and public responsibility."
       },
       {
         "id": 63,
@@ -1075,7 +1075,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 14,
         "raw": "Lechterman, T. M. (2024). The Perfect Politician. In D. Edmonds, AI Morality. Oxford: Oxford University Press USA.",
-        "summary": "Lechterman, T. M discusses the foundational concepts of the perfect politician, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Lechterman evaluates proposals to replace human politicians with AI decision-makers, arguing that democratic legitimacy requires human deliberation, mutual accountability, and political judgment."
       },
       {
         "id": 65,
@@ -1091,7 +1091,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 15,
         "raw": "Deep Utopia: Life and Meaning in a Solved World by Nick Bostrom – AI Podcast Book Summary. From https://www.youtube.com/watch?v=wdieWk4C1SY",
-        "summary": "Nick Bostrom investigates the capabilities and trajectories of deep utopia, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Bostrom explores the implications of a technologically solved world where AI performs all labor, examining how human existence can retain purpose and meaning when effort becomes obsolete."
       }
     ]
   },
@@ -1114,7 +1114,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 1,
         "raw": "Danaher, J. (2019). Automation and Utopia: Human Flourishing in a World Without Work. Cambridge, MA: Harvard University Press. [Chap. 1]",
-        "summary": "Danaher, J discusses the foundational concepts of automation and utopia, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Danaher contends that AI automation will render traditional employment obsolete, urging humanity to embrace a post-work utopia centered on games, philosophy, and non-economic flourishing."
       },
       {
         "id": 67,
@@ -1130,7 +1130,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 2,
         "raw": "Danaher, J. (2019). Automation and Utopia: Human Flourishing in a World Without Work. Cambridge, MA: Harvard University Press. [Chaps. 2–3]",
-        "summary": "Danaher, J discusses the foundational concepts of automation and utopia, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Danaher contends that AI automation will render traditional employment obsolete, urging humanity to embrace a post-work utopia centered on games, philosophy, and non-economic flourishing."
       },
       {
         "id": 68,
@@ -1146,7 +1146,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 3,
         "raw": "Danaher, J. (2019). Automation and Utopia: Human Flourishing in a World Without Work. Cambridge, MA: Harvard University Press. [Chap. 4]",
-        "summary": "Danaher, J discusses the foundational concepts of automation and utopia, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Danaher contends that AI automation will render traditional employment obsolete, urging humanity to embrace a post-work utopia centered on games, philosophy, and non-economic flourishing."
       },
       {
         "id": 69,
@@ -1162,7 +1162,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 4,
         "raw": "Brixel, P. (2024). The Difficulty of Making Good Work Available to All. Journal of Applied Philosophy, 41(2).",
-        "summary": "Brixel, P investigates the capabilities and trajectories of the difficulty of making good work available to all, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Brixel analyzes structural hurdles in distributing meaningful labor, arguing that market economies fail to guarantee fulfilling work even as technological productivity expands."
       },
       {
         "id": 70,
@@ -1178,7 +1178,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 5,
         "raw": "Cholbi, M. (2018). The Duty to Work,” Ethical Theory and Moral Practice, 21(5), 1119–1133.",
-        "summary": "Cholbi, M discusses the foundational concepts of the duty to work, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Cholbi examines whether individuals have a moral obligation to contribute labor in an automated society, proposing new social contract principles when work is no longer necessary for survival."
       },
       {
         "id": 71,
@@ -1194,7 +1194,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 6,
         "raw": "Cholbi, M. (2018). The Desire for Work as an Adaptive Preference. Autonomy, 4, 1–17.",
-        "summary": "Cholbi, M discusses the foundational concepts of the desire for work as an adaptive preference, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Cholbi investigates human psychological attachment to labor as an adaptive preference formed under economic scarcity, suggesting that post-work culture can unlock higher forms of human agency."
       },
       {
         "id": 72,
@@ -1210,7 +1210,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 7,
         "raw": "Brainard, L. (2026). What is Creativity? The Philosophical Quarterly, 76(1), 51–73.",
-        "summary": "Brainard, L discusses the foundational concepts of what is creativity?, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Brainard explores philosophical theories of creativity, analyzing whether generative AI output constitutes genuine creative achievement or sophisticated pattern recombination."
       },
       {
         "id": 73,
@@ -1226,7 +1226,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 8,
         "raw": "Brainard, L. (Forthcoming). Artificial Intelligence and the Threat of Creative Obsolescence. Ergo: An Open Access Journal of Philosophy.",
-        "summary": "Brainard, L. investigates the capabilities and trajectories of artificial intelligence and the threat of creative obsolescence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Brainard examines whether AI threatens to make human creative work obsolete, arguing that authentic creativity requires intentionality and lived experience that machines fundamentally lack."
       },
       {
         "id": 74,
@@ -1242,7 +1242,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 9,
         "raw": "Sharadin, N. (Forthcoming). Extreme Cognitive Assistance and Open Futures. Journal of Ethics and Social Philosophy.",
-        "summary": "Sharadin, N. discusses the foundational concepts of extreme cognitive assistance and open futures, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Sharadin argues that extreme AI cognitive assistance could narrow human futures by reducing the diversity of intellectual paths people explore, undermining autonomy and open-ended development."
       },
       {
         "id": 75,
@@ -1258,7 +1258,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 10,
         "raw": "Campbell, S. M., Liu, P., & Nyholm, S. (2025). Can Chatbots Preserve Our Relationships with the Dead? Journal of the American Philosophical Association.",
-        "summary": "Campbell, S. M., Liu, P., & Nyholm, S discusses the foundational concepts of can chatbots preserve our relationships with the dead? journal of the american philosophical association, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Campbell, Liu, and Nyholm examine whether AI chatbots trained on deceased individuals' data can meaningfully preserve relationships with the dead, weighing emotional benefits against ethical risks."
       },
       {
         "id": 76,
@@ -1274,7 +1274,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 11,
         "raw": "Bales, A. (2024). D’Alessandro, W., & Kirk-Giannini, C. D. (2024). Artificial Intelligence: Arguments for Catastrophic Risk. Philosophy Compass, 19(2).",
-        "summary": "Bales, A discusses the foundational concepts of d’alessandro, w, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "D'Alessandro and Bales analyze existential risk from advanced AI systems, examining philosophical arguments about the probability and severity of catastrophic outcomes from misaligned superintelligence."
       },
       {
         "id": 77,
@@ -1290,7 +1290,7 @@ window.HKU_COURSES_DATA = {
         "category": "Future of Work",
         "syllabus_order": 12,
         "raw": "Ord, T. (2020). The Precipice: Existential Risk and the Future of Humanity. New York: Hachette Books. [Chap. 2]",
-        "summary": "Ord, T. discusses the foundational concepts of the precipice, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Ord calculates that humanity faces a 1-in-6 chance of existential catastrophe this century, identifying unaligned AI as the single greatest emerging threat to long-term human survival."
       }
     ]
   },
@@ -1329,7 +1329,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 2,
         "raw": "DW Documentary. (2021, May 28). More life – Decoding the secret of aging I DW Documentary. From https://www.youtube.com/watch?v=y-5VLHcTDSQ [Video]",
-        "summary": "DW Documentary discusses the foundational concepts of more life – decoding the secret of aging i dw documentary, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "A DW documentary exploring cutting-edge longevity research, examining how scientists are decoding the biological mechanisms of aging and developing interventions to extend healthy human lifespan."
       },
       {
         "id": 80,
@@ -1361,7 +1361,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 4,
         "raw": "Gómez-Márquez, J. (2021). What is life?. Molecular biology reports, 48(8), 6223–6230. From https://doi.org/10.1007/s11033-021-06594-5",
-        "summary": "Gómez-Márquez, J discusses the foundational concepts of what is life?, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Gomez-Marquez examines the philosophical and biological question of what constitutes life, exploring the boundaries between living systems, emergent complexity, and engineered machines."
       },
       {
         "id": 82,
@@ -1377,7 +1377,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 5,
         "raw": "Hayflick, L. (1998). How and why we age. Experimental gerontology, 33(7-8), 639–653. From https://doi.org/10.1016/s0531-5565(98)00023-0",
-        "summary": "Hayflick, L discusses the foundational concepts of how and why we age, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Hayflick traces the cellular biology of human aging, explaining the Hayflick limit, telomere shortening, and the scientific debate over whether senescence is genetically programmed."
       },
       {
         "id": 83,
@@ -1393,7 +1393,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 6,
         "raw": "IBM. (n.d.). What is Artificial Intelligence? From https://www.ibm.com/topics/artificial-intelligence",
-        "summary": "IBM investigates the capabilities and trajectories of what is artificial intelligence?, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "IBM presents a foundational guide to artificial intelligence, explaining differences between narrow AI, machine learning, and deep neural networks across enterprise applications."
       },
       {
         "id": 84,
@@ -1409,7 +1409,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 7,
         "raw": "Marino, N., Putignano, G., Cappilli, S., Chersoni, E., Santuccione, A., Calabrese, G., Bischof, E., Vanhaelen, Q., Zhavoronkov, A., Scarano, B., Mazzotta, A. D., & Santus, E. (2023). Towards AI-driven longevity research: An overview. Frontiers in aging, 4, 1057204. From https://doi.org/10.3389/fragi.2023.1057204",
-        "summary": "Marino, N investigates the capabilities and trajectories of towards ai-driven longevity research, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Marino reviews how AI, machine learning, and multi-omics big data are accelerating the identification of cellular aging biomarkers and therapeutic discoveries in longevity research."
       },
       {
         "id": 85,
@@ -1480,7 +1480,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 1,
         "raw": "Darwin, C. (1872). The expression of the emotions in man and animals. London: John Murray. [Chap. 1 “General principle of expression”; Chap. 2 “General principle of expression – continued”; Chap. 3 “General principle of expression – concluded”]",
-        "summary": "Darwin, C discusses the foundational concepts of the expression of the emotions in man and animals, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Darwin's foundational evolutionary treatise examining how facial and physiological emotional expressions evolved across species as adaptive survival mechanisms."
       },
       {
         "id": 89,
@@ -1496,7 +1496,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 2,
         "raw": "Fox, A. S., Lapate, R. C., Shackman, A. l., & Davidson, R. l (Eds.). (2018). The Nature of Emotion: Fundamental Questions (2nd ed.). New York, NY: Oxford University Press. [5.4 “Brain structure and principles of the organization of emotion in the brain”; 5.6 “How are emotions organization in the brain?”]",
-        "summary": "Fox, A. S., Lapate, R. C., Shackman, A. l., & Davidson, R. l (Eds.) discusses the foundational concepts of the nature of emotion, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Fox et al. compile seminal psychological and neuroscientific essays answering fundamental questions about the neural architecture, function, and developmental origins of human emotions."
       },
       {
         "id": 90,
@@ -1528,7 +1528,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 4,
         "raw": "Koegel, L. K., Ponder, E., Bruzzese, T., Wang, M., Semnani, S. J., Chi, N., … & Lam, M. S. (2025). Using artificial intelligence to improve empathetic statements in autistic adolescents and adults: A randomized clinical trial. Journal of Autism and Developmental Disorders, 1-17.",
-        "summary": "Koegel, L. K., Ponder, E., Bruzzese, T., Wang, M., Semnani, S. J., Chi, N., … & Lam, M. S investigates the capabilities and trajectories of using artificial intelligence to improve empathetic statements in autistic adolescents and adults, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Koegel et al. evaluate how AI can be trained to help autistic adolescents and adults generate more empathetic statements, demonstrating clinical improvements in a randomized controlled trial."
       },
       {
         "id": 92,
@@ -1583,7 +1583,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 1,
         "raw": "Arnheim, R. (1969). Visual Thinking. Berkeley, CA: University of California Press. From https://julac-hku.primo.exlibrisgroup.com/permalink/852JULAC_HKU/1f1rhea/alma991044742899903414 [Chap. 4 (pp.72-79) “Two and Two Together”]",
-        "summary": "Arnheim, R discusses the foundational concepts of visual thinking, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Arnheim argues that visual perception is an active cognitive process, demonstrating that thinking fundamentally relies on sensory imagery rather than purely abstract verbal reasoning."
       },
       {
         "id": 95,
@@ -1631,7 +1631,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 4,
         "raw": "Berger, J. (1972). Ways of Seeing. London: Penguin Books. [Chap. 1]",
-        "summary": "Berger, J discusses the foundational concepts of ways of seeing, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Berger challenges conventional art appreciation, arguing that mechanical reproduction and mass media have transformed how images carry meaning, power, and ideological authority."
       },
       {
         "id": 98,
@@ -1647,7 +1647,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 5,
         "raw": "Han, B. C. (2022). Infocracy. Berlin: Polity. [pp.12-24]",
-        "summary": "Han, B. C discusses the foundational concepts of infocracy, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Han argues that digital information overload creates an 'infocracy' where data-driven governance replaces democratic deliberation, eroding political agency and public discourse."
       },
       {
         "id": 99,
@@ -1663,7 +1663,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 6,
         "raw": "Johnson, J. (2024). Original Intentionalism: A Comparison of Textual and Visual Hermeneutics. Originalism in Theology and Law. [Chap. 2 (pp.37-49; 56-57)]",
-        "summary": "Johnson, J discusses the foundational concepts of original intentionalism, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Johnson compares textual and visual hermeneutics within original intentionalism, examining how the creator's intended meaning should guide interpretation across verbal and pictorial media."
       },
       {
         "id": 100,
@@ -1679,7 +1679,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 7,
         "raw": "Kövecses, Z., & Benczes, R. (2010). Metaphor: a practical introduction (2nd ed.). Oxford University Press. [Ch. 2 (pp. 18-23); Chap. 6 (pp. 79-86)]",
-        "summary": "Kövecses, Z., & Benczes, R analyzes the regulatory and legal challenges presented by metaphor, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Kovecses and Benczes provide a systematic introduction to conceptual metaphor theory, showing how metaphorical thinking structures everyday language, cognition, and cultural understanding."
       },
       {
         "id": 101,
@@ -1695,7 +1695,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 8,
         "raw": "Lidwell, W., Holden, K., Butler, J., & Elam, K. (2010). Universal principles of design: 125 ways to enhance usability, influence perception, increase appeal, make better design decisions, and teach through design (2nd ed.). Rockport Publishers. [Only for reference, not full reading]",
-        "summary": "Lidwell, W., Holden, K., Butler, J., & Elam, K discusses the foundational concepts of universal principles of design, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Lidwell, Holden, and Butler catalog 125 universal design principles, explaining how visual affordances, cognitive constraints, and feedback loops optimize human-centered product and interface design."
       },
       {
         "id": 102,
@@ -1711,7 +1711,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 9,
         "raw": "Literat, I., & S. Berg. (2019). Buy memes low, sell memes high: vernacular criticism and collective negotiations of value on Reddit’s MemeEconomy. Information, Communication & Society, 22(2), 232-249.",
-        "summary": "Literat, I., & S. Berg discusses the foundational concepts of buy memes low, sell memes high, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Literat and Berg analyze Reddit's MemeEconomy community, examining how users collectively negotiate cultural value and vernacular criticism through the buying and selling of internet memes."
       },
       {
         "id": 103,
@@ -1727,7 +1727,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 10,
         "raw": "Morreall, J. (2024). Philosophy of Humor. The Stanford Encyclopedia of Philosophy. Edward N. Zalta & Uri Nodelman (eds.). From https://plato.stanford.edu/entries/humor/ [Only for reference, not full reading]",
-        "summary": "Morreall, J discusses the foundational concepts of philosophy of humor, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Morreall provides a philosophical survey of humor theories, examining incongruity, relief, and superiority accounts and their implications for understanding comedy, satire, and social bonding."
       },
       {
         "id": 104,
@@ -1743,7 +1743,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 11,
         "raw": "Pusca, A. (2009). Walter Benjamin, a Methodological Contribution. International Political Sociology, 3(2), 238-254. [Introduction and Conclusion]",
-        "summary": "Pusca, A discusses the foundational concepts of walter benjamin, a methodological contribution, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Pusca presents a methodological study of Walter Benjamin's critical theory, exploring how his concepts of allegory, dialectical images, and historical materialism apply to contemporary cultural analysis."
       },
       {
         "id": 105,
@@ -1759,7 +1759,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 12,
         "raw": "Shifman, L. (2013). Memes in a digital world: Reconciling with a conceptual troublemaker. Journal of Computer-Mediated Communication, 18(3), 362-377",
-        "summary": "Shifman, L discusses the foundational concepts of memes in a digital world, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Shifman examines the concept of the 'meme' as it has migrated from evolutionary biology to digital culture, addressing definitional debates and proposing a framework for studying viral content."
       },
       {
         "id": 106,
@@ -1775,7 +1775,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 13,
         "raw": "Shifman, L. (2014). Memes in Digital Culture. Cambridge, MA: MIT Press. From http://find.lib.hku.hk/record=alma991018243539703414 [Chap. 2 (pp. 9-15); Chap..4 (pp. 37-41)]",
-        "summary": "Shifman, L discusses the foundational concepts of memes in digital culture, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Shifman analyzes internet memes as digital folklore, examining their role in political communication, identity construction, and participatory online culture."
       },
       {
         "id": 107,
@@ -1791,7 +1791,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 14,
         "raw": "Sommerer, T. (2025). Revisiting Baudrillard’s (dis)trust in Artificial Intelligence: Baudrillard and the Dead Internet Theory. Revisiting Baudrillard’s (dis)trust in Artificial Intelligence. Philosophy & technology, 38(2). From https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_journals_3192429151&context=PC&vid=852JULAC_HKU:HKU&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "summary": "Sommerer, T investigates the capabilities and trajectories of revisiting baudrillard’s (dis)trust in artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Sommerer revisits Baudrillard's theory of simulation in the context of generative AI, arguing that AI-produced content accelerates the collapse between authentic and artificial reality."
       },
       {
         "id": 108,
@@ -1807,7 +1807,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 15,
         "raw": "Walter, Y. (2025). Artificial Influencers and the dead internet theory. AI & Society, 40, 239-240. From https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_journals_3168157767&context=PC&vid=852JULAC_HKU:HKU&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "summary": "Walter, Y discusses the foundational concepts of artificial influencers and the dead internet theory, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Walter examines the 'dead internet theory' and artificial influencers, analyzing how AI-generated personas blur the line between authentic human interaction and synthetic online presence."
       },
       {
         "id": 109,
@@ -1823,7 +1823,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 16,
         "raw": "Yankoski, M., Scheirer, W., & Weninger, T. (2021). Meme warfare: AI countermeasures to disinformation should focus on popular, not perfect, fakes. Bulletin of the Atomic Scientists, 77(3), 119-123. From https://doi.org/10.1080/00963402.2021.1912093",
-        "summary": "Yankoski, M., Scheirer, W., & Weninger, T investigates the capabilities and trajectories of meme warfare, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Yankoski, Scheirer, and Weninger argue that AI disinformation countermeasures should target widely shared imperfect fakes rather than technically perfect deepfakes, prioritizing viral reach over fidelity."
       },
       {
         "id": 110,
@@ -1839,7 +1839,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 17,
         "raw": "Zhai, Y., Yan, J., Zhang, H., & Lu, W. (2020). Tracing the evolution of AI: conceptualization of artificial intelligence in mass media discourse. Information Discovery and Delivery, 48(3), 137-149. From https://doi.org/10.1108/IDD-01-2020-0007",
-        "summary": "Zhai, Y., Yan, J., Zhang, H., & Lu, W investigates the capabilities and trajectories of tracing the evolution of ai, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Zhai et al. trace how the concept of artificial intelligence has been framed and reframed in mass media over decades, revealing shifting public narratives from optimism to anxiety."
       }
     ]
   },
@@ -1878,7 +1878,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 2,
         "raw": "European Commission, Directorate-General for Research and Innovation. (2024). Living guidelines on the responsible use of generative AI in research. From https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf",
-        "summary": "European Commission, Directorate-General for Research and Innovation investigates the capabilities and trajectories of living guidelines on the responsible use of generative ai in research, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "The European Commission outlines living policy guidelines for responsible use of generative AI in scientific research, addressing transparency, reproducibility, and research integrity."
       },
       {
         "id": 113,
@@ -1894,7 +1894,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 3,
         "raw": "Madanchian, M., & Taherdoost, H. (2025). The impact of artificial intelligence on research efficiency. Results in Engineering, 26, 104743. From https://doi.org/10.1016/j.rineng.2025.104743",
-        "summary": "Madanchian, M., & Taherdoost, H analyzes the regulatory and legal challenges presented by the impact of artificial intelligence on research efficiency, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Madanchian and Taherdoost measure how AI tools affect research efficiency and productivity, quantifying time savings in literature review, data analysis, and experimental design."
       },
       {
         "id": 114,
@@ -1942,7 +1942,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 6,
         "raw": "Siegel, D. J. (2012). The developing mind: how relationships and the brain interact to shape who we are (2nd ed.). New York: Guilford Press. [Chap. 7 “Self-regulation”; Chap. 8 “Interpersonal connection”]",
-        "summary": "Siegel, D. J analyzes the regulatory and legal challenges presented by the developing mind, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Siegel explains how interpersonal relationships physically shape brain development, demonstrating how attachment patterns and social experience wire neural circuits throughout life."
       },
       {
         "id": 117,
@@ -1958,7 +1958,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 7,
         "raw": "Weigel, A., Caldas, C., Meyer, A., & Morris, S. A. (2022). The impact of AI on research. Cell, 185(15), 2621–2622. From https://doi.org/10.1016/j.cell.2022.06.024",
-        "summary": "Weigel, A., Caldas, C., Meyer, A., & Morris, S. A analyzes the regulatory and legal challenges presented by the impact of ai on research, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Weigel et al. assess how AI is transforming biomedical research workflows, from automated literature synthesis to computational experiment design and data-driven hypothesis generation."
       },
       {
         "id": 118,
@@ -1974,7 +1974,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 8,
         "raw": "60 Minutes. (2023). “Godfather of AI” Geoffrey Hinton: The 60 Minutes Interview. From https://www.youtube.com/watch?v=qrvK_KuIeJk",
-        "summary": "60 Minutes investigates the capabilities and trajectories of godfather of ai” geoffrey hinton, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Geoffrey Hinton warns in this 60 Minutes interview about the existential risks of superintelligent AI, explaining why he left Google to speak freely about the dangers."
       },
       {
         "id": 119,
@@ -1990,7 +1990,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 9,
         "raw": "Four Minute Books. (2022). Sapiens Summary (Animated) — The Definitive History of Humankind & How Humans Became the #1 Species. From https://www.youtube.com/watch?v=HitVj45O5hI",
-        "summary": "Four Minute Books discusses the foundational concepts of sapiens summary (animated) — the definitive history of humankind & how humans became the #1 species, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "An animated summary of Yuval Noah Harari's Sapiens, tracing how cognitive, agricultural, and scientific revolutions enabled Homo sapiens to dominate Earth through shared fictions and cooperation."
       },
       {
         "id": 120,
@@ -2006,7 +2006,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 10,
         "raw": "Paul G. Allen School. (2024). What we see and what we value: AI with a human perspective—Fei-Fei Li (Stanford University). From https://www.youtube.com/watch?v=gzOwpEupP5w&t=1414s",
-        "summary": "Paul G. Allen School investigates the capabilities and trajectories of what we see and what we value, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Fei-Fei Li discusses how computer vision gives machines a human-like perspective on the visual world, emphasizing the importance of diverse training data and ethical AI development."
       },
       {
         "id": 121,
@@ -2022,7 +2022,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 11,
         "raw": "TED. (2024). With Spatial Intelligence, AI Will Understand the Real World | Fei-Fei Li | TED. From https://www.youtube.com/watch?v=y8NtMZ7VGmU",
-        "summary": "Fei-Fei Li (TED) investigates the capabilities and trajectories of with spatial intelligence, ai will understand the real world, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Fei-Fei Li outlines the frontier of spatial intelligence, demonstrating how AI models learning 3D geometric reasoning and physical embodiment will enable machines to navigate the real world."
       },
       {
         "id": 122,
@@ -2054,7 +2054,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 13,
         "raw": "World Science Festival. (2024). Will AI Spark the Next Scientific Revolution? From https://www.youtube.com/watch?v=7wznuB0sKlw&t=202s",
-        "summary": "World Science Festival investigates the capabilities and trajectories of will ai spark the next scientific revolution?, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Leading scientists debate whether machine learning can catalyze the next scientific revolution, examining AI's role in accelerating discovery across physics, biology, and chemistry."
       }
     ]
   },
@@ -2077,7 +2077,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 1,
         "raw": "Acemoglu, D., & Johnson, S. (2024). Learning from Ricardo and Thompson: Machinery and labor in the early industrial revolution and in the age of artificial intelligence. Annual Review of Economics, 16(1), 597-621.",
-        "summary": "Acemoglu, D., & Johnson, S investigates the capabilities and trajectories of learning from ricardo and thompson, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Acemoglu and Johnson compare Industrial Revolution machinery displacement with modern AI, arguing that technological progress benefits workers only when policy steers innovation toward labor-complementary tools."
       },
       {
         "id": 125,
@@ -2093,7 +2093,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 2,
         "raw": "Agrawal, A., Gans, J., & Goldfarb, A. (2019). Artificial intelligence: The ambiguous labor market impact of automating prediction. Journal of Economic Perspectives, 33(2), 31–50. From https://doi.org/10.1257/jep.33.2.31",
-        "summary": "Agrawal, A., Gans, J., & Goldfarb, A analyzes the regulatory and legal challenges presented by artificial intelligence, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Agrawal, Gans, and Goldfarb analyze the economics of machine learning as prediction technology, explaining how dropping prediction costs transform business decision-making and firm strategy."
       },
       {
         "id": 126,
@@ -2109,7 +2109,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 3,
         "raw": "Agrawal, A., Gans, J., & Goldfarb, A. (2022). Power and prediction: The disruptive economics of artificial intelligence. Harvard Business Press. [Part One]",
-        "summary": "Agrawal, A., Gans, J., & Goldfarb, A investigates the capabilities and trajectories of power and prediction, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Agrawal, Gans, and Goldfarb examine how AI's ability to make cheap predictions disrupts established business models, requiring firms to fundamentally restructure their decision architectures."
       },
       {
         "id": 127,
@@ -2125,7 +2125,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 4,
         "raw": "Brown, S. (2019, October 31). The lure of ‘so-so technology,’ and how to avoid it. MIT Sloan School of Management. https://mitsloan.mit.edu/ideas-made-to-matter/lure-so-so-technology-and-how-to-avoid-it",
-        "summary": "Brown, S. discusses the foundational concepts of the lure of 'so-so technology,' and how to avoid it, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Brown critiques 'so-so technologies' that displace human labor without generating significant productivity gains, urging investment in AI that genuinely elevates human capability."
       },
       {
         "id": 128,
@@ -2141,7 +2141,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 5,
         "raw": "Brynjolfsson, E., Li, D., & Raymond, L. (2025). Generative AI at work. Quarterly Journal of Economics, 140(2), 889–942.",
-        "summary": "Brynjolfsson, E., Li, D., & Raymond, L investigates the capabilities and trajectories of generative ai at work, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Brynjolfsson, Li, and Raymond provide empirical evidence showing generative AI assistants boost customer service worker productivity and accelerate learning, especially for less-experienced staff."
       },
       {
         "id": 129,
@@ -2157,7 +2157,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 6,
         "raw": "Carriere-Swallow, M. Y., & Haksar, M. V. (2019). The economics and implications of data: an integrated perspective. International Monetary Fund.",
-        "summary": "Carriere-Swallow, M. Y., & Haksar, M. V discusses the foundational concepts of the economics and implications of data, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Carriere-Swallow and Haksar examine data as an economic infrastructure asset, analyzing privacy externalities, market concentration risks, and cross-border regulatory challenges."
       },
       {
         "id": 130,
@@ -2173,7 +2173,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 7,
         "raw": "Dizikes, P. (2024, December 6). Daron Acemoglu: What do we know about the economics of AI? MIT News. From https://news.mit.edu/2024/daron-acemoglu-economics-ai-1206",
-        "summary": "Dizikes, P. investigates the capabilities and trajectories of daron acemoglu, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Dizikes reports on Acemoglu's economic models, showing that without institutional intervention, AI-driven automation tends to suppress wages and concentrate wealth among capital owners."
       },
       {
         "id": 131,
@@ -2189,7 +2189,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 8,
         "raw": "Mayer-Schönberger, V. (2025, December). Why data should be shared. Finance & Development. International Monetary Fund. From https://www.imf.org/en/publications/fandd/issues/2025/12/point-of-view-why-data-should-be-shared-viktor-mayer-schonberger",
-        "summary": "Mayer-Schönberger, V discusses the foundational concepts of why data should be shared, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Mayer-Schonberger argues that data's social character justifies mandatory sharing regimes, proposing regulatory frameworks to break open proprietary data silos for broader public benefit."
       },
       {
         "id": 132,
@@ -2205,7 +2205,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 9,
         "raw": "Millbrook, A. (2023). A short history of tractors in English. The Economist. From https://www.economist.com/christmas-specials/2023/12/20/a-short-history-of-tractors-in-english",
-        "summary": "Millbrook, A analyzes the regulatory and legal challenges presented by a short history of tractors in english, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Lewycka's satirical novel about a Ukrainian emigre family serves as a thematic companion piece on labor displacement, generational memory, and economic change in the age of automation."
       },
       {
         "id": 133,
@@ -2221,7 +2221,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 10,
         "raw": "MIT News Office. (2024, December 6). What do we know about the economics of AI? MIT News. From https://news.mit.edu/2024/what-do-we-know-about-economics-ai-1206",
-        "summary": "MIT News Office investigates the capabilities and trajectories of what do we know about the economics of ai? mit news, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "MIT News synthesizes macroeconomic research on how AI alters capital accumulation, job displacement rates, and labor's share of national income across different economic sectors."
       },
       {
         "id": 134,
@@ -2237,7 +2237,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 11,
         "raw": "MIT Sloan School of Management. (2019). The lure of “so-so technology” and how to avoid it. Ideas Made to Matter. From https://mitsloan.mit.edu/ideas-made-to-matter/lure-so-so-technology-and-how-to-avoid-it",
-        "summary": "Brown, S. discusses the foundational concepts of the lure of 'so-so technology,' and how to avoid it, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Brown critiques 'so-so technologies' that displace human labor without generating significant productivity gains, urging investment in AI that genuinely elevates human capability."
       }
     ]
   },
@@ -2276,7 +2276,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 2,
         "raw": "Click On Detroit | Local 4 | WDIV. (2023). How AI is changing the parenting game. From https://www.youtube.com/watch?v=YfGdgYmadX0",
-        "summary": "Click On Detroit | Local 4 | WDIV investigates the capabilities and trajectories of how ai is changing the parenting game, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "A local news segment examining how AI-powered monitoring, educational apps, and digital assistants are changing contemporary parenting practices, raising questions about childhood development and screen time."
       },
       {
         "id": 137,
@@ -2308,7 +2308,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 4,
         "raw": "TEDx Talks. (2024). Artificial Intelligence That Helps Seniors Stay in their Homes | Mai Lee Chang | TEDxOshkosh. From https://www.youtube.com/watch?v=ZSoXaM5p3Yw",
-        "summary": "TEDx Talks investigates the capabilities and trajectories of artificial intelligence that helps seniors stay in their homes | mai lee chang | tedxoshkosh, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "A TEDx talk by Mai Lee Chang demonstrating how AI-powered home monitoring and assistive technologies help elderly individuals maintain independence and age safely in their own homes."
       },
       {
         "id": 139,
@@ -2356,7 +2356,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 7,
         "raw": "Ramesh, R. (2017). What is Artificial Intelligence? In 5 minutes. From https://www.youtube.com/watch?v=2ePf9rue1Ao",
-        "summary": "Ramesh, R investigates the capabilities and trajectories of what is artificial intelligence? in 5 minutes, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Ramesh provides a concise five-minute explanation of what artificial intelligence is, covering its basic mechanisms, current capabilities, and limitations in accessible terms."
       },
       {
         "id": 142,
@@ -2436,7 +2436,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 12,
         "raw": "The Strategy Group. (2017). Design Thinking in 90 Seconds. From https://www.youtube.com/watch?v=vQytKCT563I",
-        "summary": "The Strategy Group discusses the foundational concepts of design thinking in 90 seconds, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "The Strategy Group presents a 90-second overview of the design thinking methodology, explaining how empathy-driven prototyping and iterative testing solve complex human-centered problems."
       },
       {
         "id": 147,
@@ -2452,7 +2452,7 @@ window.HKU_COURSES_DATA = {
         "category": "Ethics & Morality",
         "syllabus_order": 13,
         "raw": "Tomisin Ajiboye. (2015). Refining your Ideas. From https://www.youtube.com/watch?v=GZvoksu_CI4",
-        "summary": "Tomisin Ajiboye discusses the foundational concepts of refining your ideas, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Ajiboye guides viewers through the process of refining early-stage ideas into viable solutions, covering feedback incorporation, pivoting strategies, and iterative improvement techniques."
       }
     ]
   },
@@ -2475,7 +2475,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 1,
         "raw": "Acemoglu, D., & Johnson, S. (2023). Power and Progress. Boston: PublicAffairs. [Chap. 1 “Control over Technology”]",
-        "summary": "Acemoglu, D., & Johnson, S discusses the foundational concepts of power and progress, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Acemoglu and Johnson argue that technological progress does not automatically benefit society, showing historically how elites capture innovation gains unless democratic institutions redirect technology toward shared prosperity."
       },
       {
         "id": 149,
@@ -2491,7 +2491,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 2,
         "raw": "Bradford, A. (2023). Digital Empires: The Global Battle to Regulate Technology. Oxford: Oxford University Press. [Part 1 “Introduction”]",
-        "summary": "Bradford, A discusses the foundational concepts of digital empires, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Bradford analyzes how the US, EU, and China are competing to regulate global technology markets, comparing their divergent regulatory philosophies and their implications for digital sovereignty."
       },
       {
         "id": 150,
@@ -2507,7 +2507,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 3,
         "raw": "Brynjolfsson, E., & McAfee, A. (2014). The Second Machine Age. New York: W. W. Norton & Company. [Chap. 11 “Implications”]",
-        "summary": "Brynjolfsson, E., & McAfee, A discusses the foundational concepts of the second machine age, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Brynjolfsson and McAfee argue that digital technologies are creating unprecedented wealth but also hollowing out middle-class employment, requiring new economic policies for the second machine age."
       },
       {
         "id": 151,
@@ -2523,7 +2523,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 4,
         "raw": "Crawford, K. (2021). Atlas of AI. New Haven: Yale University Press. [Chap. 1 “Earth”]",
-        "summary": "Crawford, K investigates the capabilities and trajectories of atlas of ai, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Crawford exposes AI's material infrastructure—from lithium mining and exploited data workers to military surveillance—reframing artificial intelligence as a deeply extractive industry."
       },
       {
         "id": 152,
@@ -2539,7 +2539,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 5,
         "raw": "De Vries, A. (2023). The growing energy footprint of artificial intelligence. Cell Joule, 7(10), 2238-2244.",
-        "summary": "De Vries, A investigates the capabilities and trajectories of the growing energy footprint of artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "De Vries quantifies the rapidly escalating energy consumption of AI training and inference, warning that the environmental footprint of large models poses serious sustainability challenges."
       },
       {
         "id": 153,
@@ -2555,7 +2555,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 6,
         "raw": "Dodhia, R. (2024). AI For Social Good: Using Artificial Intelligence to Save the World. New Jersey: John Wiley & Sons Inc. [Chap. 6 “Putting Safeguards Around AI”]",
-        "summary": "Dodhia, R investigates the capabilities and trajectories of ai for social good, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Dodhia explores how artificial intelligence can be deployed for humanitarian and social impact, showcasing projects addressing poverty, healthcare access, and environmental conservation."
       },
       {
         "id": 154,
@@ -2571,7 +2571,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 7,
         "raw": "Eubanks, V. (2017). Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor. New York: St. Martin’s Press. [Chap. 5 “The Digital Poorhouse”]",
-        "summary": "Eubanks, V discusses the foundational concepts of automating inequality, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Eubanks reveals how automated welfare systems, predictive policing, and algorithmic scoring disproportionately surveil and punish low-income communities in the United States."
       },
       {
         "id": 155,
@@ -2587,7 +2587,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 8,
         "raw": "Fruchterman, J. (2025). Technology for Good: How Nonprofit Leaders are Using Software and Data to Solve Our Most Pressing Social Problems. Massachusetts: The MIT Press. [Chap. 2 “The Top Bad Ideas in Tech for Good”]",
-        "summary": "Fruchterman, J discusses the foundational concepts of technology for good, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Fruchterman examines how nonprofit organizations can leverage software platforms and data analytics to scale their social impact, offering practical strategies for technology adoption."
       },
       {
         "id": 156,
@@ -2603,7 +2603,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 9,
         "raw": "Kissinger, H. A., Mundie, C., & Schmidt, E. (2024). Genesis – Artificial Intelligence, Hope and the Human Spirit New York: Little, Brown and Company. [Chap. 4 “Politics”]",
-        "summary": "Kissinger, H. A., Mundie, C., & Schmidt, E investigates the capabilities and trajectories of genesis – artificial intelligence, hope and the human spirit new york, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Kissinger, Schmidt, and Mundie explore how AI is transforming geopolitics, diplomacy, and the human condition, arguing that machine intelligence represents a civilizational turning point."
       },
       {
         "id": 157,
@@ -2619,7 +2619,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 10,
         "raw": "Lee, K. F. (2018). AI Superpowers: China, Silicon Valley, and the New World Order. Boston: Houghton Mifflin Harcourt. [Chap. 3 “China’s Alternate Internet Universe”]",
-        "summary": "Lee, K. F investigates the capabilities and trajectories of ai superpowers, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Lee contrasts the AI strategies of China and Silicon Valley, arguing that China's data advantage and government support position it as a formidable competitor in the global AI race."
       },
       {
         "id": 158,
@@ -2635,7 +2635,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 11,
         "raw": "Li, P., Yang, J., Islam, M.A. & Ren, S. (2025). Making AI Less ‘Thirsty’. Communications of the ACM, 68(7), 54-61.",
-        "summary": "Li, P., Yang, J., Islam, M.A. & Ren, S investigates the capabilities and trajectories of making ai less ‘thirsty’, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Li et al. analyze the massive water consumption required to cool AI data centers, proposing engineering solutions to make large-scale machine learning less environmentally costly."
       },
       {
         "id": 159,
@@ -2651,7 +2651,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 12,
         "raw": "Mitchell, M. (2019). Artificial Intelligence: A Guide for Thinking Humans. New York: Farrar, Straus and Giroux. [Chap. 14 “On Understanding”]",
-        "summary": "Mitchell, M investigates the capabilities and trajectories of artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Mitchell offers a skeptical guide to AI hype, explaining what current systems can and cannot do while highlighting the gap between marketing claims and genuine machine understanding."
       },
       {
         "id": 160,
@@ -2667,7 +2667,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 13,
         "raw": "Mollick, E. (2024). Co-Intelligence: Living and Working with AI. New York: Portfolio/Penguin. [Chap. 6: “AI as a Coworker” / Chap. 8 “AI as a Coach”]",
-        "summary": "Mollick, E investigates the capabilities and trajectories of co-intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Mollick explores how humans can work alongside AI as a collaborative intelligence partner, offering practical frameworks for integrating generative AI into professional workflows and decision-making."
       },
       {
         "id": 161,
@@ -2683,7 +2683,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 14,
         "raw": "Nissenbaum, H. (2009). Privacy in Context: Technology, Policy, and the Integrity of Social Life. Stanford: Stanford Law Books. [Chap. 4 “Locating the Value in Privacy”]",
-        "summary": "Nissenbaum, H discusses the foundational concepts of privacy in context, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Nissenbaum introduces contextual integrity as a privacy benchmark, arguing that data sharing is ethical only when it respects the informational norms specific to each social domain."
       },
       {
         "id": 162,
@@ -2699,7 +2699,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 15,
         "raw": "Schneier, B., & Sanders, N. E. (2025). Rewiring Democracy: How AI Will Transform Our Politics, Government and Citizenship. Massachusetts: The MIT Press. [Chap. “Principles for AI that Helps Democracy”]",
-        "summary": "Schneier, B., & Sanders, N. E analyzes the regulatory and legal challenges presented by rewiring democracy, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Schneier and Sanders examine how AI will transform political lobbying, legislative drafting, and democratic discourse through hyper-personalized influence campaigns and automated governance."
       },
       {
         "id": 163,
@@ -2715,7 +2715,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 16,
         "raw": "Suleyman, M., & Bhaskar, M. (2023). The Coming Wave: Technology, Power, and the Twenty-first Century’s Greatest Dilemma. New York: Crown. [Chap. 14 “Ten Steps Toward Containment”]",
-        "summary": "Suleyman, M., & Bhaskar, M discusses the foundational concepts of the coming wave, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Suleyman and Bhaskar argue that the converging waves of AI and synthetic biology represent humanity's greatest containment challenge, requiring new global governance frameworks."
       },
       {
         "id": 164,
@@ -2731,7 +2731,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 17,
         "raw": "Susskind, D. (2020). A World Without Work. New York: Henry Holt and Co. [Chap. 5 “The Task Encroachment” / Chap. 9 “Education and Its Limits”]",
-        "summary": "Susskind, D discusses the foundational concepts of a world without work, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Susskind investigates the economic trajectory toward a world without work, examining how technological unemployment requires novel mechanisms for wealth redistribution and social meaning."
       }
     ]
   },
@@ -2754,7 +2754,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 1,
         "raw": "3Blue1Brown. (2024). Large Language Models explained briefly. From https://www.youtube.com/watch?v=LPZh9BOjkQs",
-        "summary": "3Blue1Brown investigates the capabilities and trajectories of large language models explained briefly, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "3Blue1Brown provides an intuitive visual and mathematical explanation of how large language models and transformer architectures process and generate natural language."
       },
       {
         "id": 166,
@@ -2770,7 +2770,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 2,
         "raw": "De Cremer, D., Bianzino, N. M., & Falk, B. (2023). How Generative AI Could Disrupt Creative Work. Harvard Business Review. From https://hbr.org/2023/04/how-generative-ai-could-disrupt-creative-work",
-        "summary": "De Cremer, D., Bianzino, N. M., & Falk, B investigates the capabilities and trajectories of how generative ai could disrupt creative work, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "De Cremer, Bianzino, and Falk analyze how generative AI disrupts professional creative industries, exploring the shifting boundary between human artistry and machine-generated content."
       },
       {
         "id": 167,
@@ -2786,7 +2786,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 3,
         "raw": "Eapen, T. T., Finkenstadt, D. J., Folk, J., & Venkataswamy, L. (2023). How Generative AI Can Augment Human Creativity. Harvard Business Review. From https://hbr.org/2023/07/how-generative-ai-can-augment-human-creativity.",
-        "summary": "Eapen, T. T., Finkenstadt, D. J., Folk, J., & Venkataswamy, L investigates the capabilities and trajectories of how generative ai can augment human creativity, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Eapen et al. demonstrate how enterprise teams can use generative AI as a brainstorming partner to augment human creative ideation and accelerate innovative product design."
       },
       {
         "id": 168,
@@ -2802,7 +2802,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 4,
         "raw": "Paul, E. S., & Stokes, D. (2023). Creativity. Stanford.edu. From https://plato.stanford.edu/entries/creativity",
-        "summary": "Paul, E. S., & Stokes, D discusses the foundational concepts of creativity, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Paul and Stokes provide an interdisciplinary philosophical and psychological analysis of the nature, cognitive mechanisms, and cultural value of human creativity."
       },
       {
         "id": 169,
@@ -2818,7 +2818,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 5,
         "raw": "Sanderson, G. (2019). Neural networks. From https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
-        "summary": "Sanderson, G discusses the foundational concepts of neural networks, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Sanderson (3Blue1Brown) breaks down the fundamental calculus and linear algebra behind neural networks, explaining backpropagation and gradient descent through clear visual animations."
       },
       {
         "id": 170,
@@ -2834,7 +2834,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 6,
         "raw": "Schwanke, A. (2024). Generative AI — Never Truly Creative? Medium. From https://medium.com/@axel.schwanke/generative-ai-never-truly-creative-68a0189d98e8.",
-        "summary": "Schwanke, A investigates the capabilities and trajectories of generative ai — never truly creative? medium, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Schwanke examines whether generative AI models possess genuine creative capability or merely perform sophisticated statistical recombination of pre-existing human artistic patterns."
       },
       {
         "id": 171,
@@ -2850,7 +2850,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 7,
         "raw": "Vox (2023). An AI artist explains his workflow. From https://www.youtube.com/watch?v=K0ldxCh3cnI&list=PLJ8cMiYb3G5ek1Ux66aJ_qWf6CfBaAkGG&index=8",
-        "summary": "Vox investigates the capabilities and trajectories of an ai artist explains his workflow, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "A Vox video profiling a working AI artist who explains his step-by-step creative process using generative diffusion models, from prompting through iteration to final curation."
       },
       {
         "id": 172,
@@ -2866,7 +2866,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 8,
         "raw": "Vox. (2022). AI art, explained. From https://www.youtube.com/watch?v=SVcsDDABEkM.",
-        "summary": "Vox investigates the capabilities and trajectories of ai art, explained, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "A Vox video explaining how AI art generation works, covering the technology behind diffusion models, the training data controversy, and the implications for human artists."
       }
     ]
   },
@@ -2889,7 +2889,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 1,
         "raw": "Christie, N. (2004). A Suitable Amount of Crime. Routledge. [Chap. 1 “Crime Does Not Exist”]",
-        "summary": "Christie, N discusses the foundational concepts of a suitable amount of crime, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Christie argues that a certain level of crime is inevitable and even functional in society, challenging punitive approaches and advocating for restorative justice and social tolerance."
       },
       {
         "id": 174,
@@ -2905,7 +2905,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 2,
         "raw": "Horwitz, A. V. (2008). Normality. Contexts, 7(1), 70-71.",
-        "summary": "Horwitz, A. V discusses the foundational concepts of normality, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Horwitz examines how the concept of normality has been socially constructed, tracing how psychiatric and cultural definitions of 'normal' behavior shape social control and individual identity."
       },
       {
         "id": 175,
@@ -2921,7 +2921,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 3,
         "raw": "MacFarquhar, L. (2018). The mind-expanding ideas of Andy Clark. The New Yorker, 26. From https://www.newyorker.com/magazine/2018/04/02/the-mind-expanding-ideas-of-andy-clark",
-        "summary": "MacFarquhar, L discusses the foundational concepts of the mind-expanding ideas of andy clark, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "MacFarquhar profiles philosopher Andy Clark's theory of the extended mind, exploring how tools, technology, and environment are integral parts of human cognitive processes rather than external aids."
       },
       {
         "id": 176,
@@ -2953,7 +2953,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 5,
         "raw": "Ladegaard, I. (2025). Open Secrecy: How police crackdowns and creative problem-solving brought illegal markets out of the shadows. Social Forces, 99(2), 532-559.",
-        "summary": "Ladegaard, I analyzes the regulatory and legal challenges presented by open secrecy, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Ladegaard examines how law enforcement crackdowns on dark web drug markets pushed illegal trade into creative new models, revealing the adaptive resilience of digitally organized crime networks."
       },
       {
         "id": 178,
@@ -2969,7 +2969,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 6,
         "raw": "Roose, K. (2019). What Does PewDiePie Really Believe? The New York Times Magazine.",
-        "summary": "Roose, K discusses the foundational concepts of what does pewdiepie really believe? the new york times magazine, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Roose investigates the radicalization pipeline on YouTube and online platforms through the case of PewDiePie, examining how algorithmic recommendations amplify extremist content."
       },
       {
         "id": 179,
@@ -2985,7 +2985,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 7,
         "raw": "Wojcieszak, M. (2010). Don’t talk to me. New Media & Society, 12(4), 637-655.",
-        "summary": "Wojcieszak, M discusses the foundational concepts of don’t talk to me, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Wojcieszak studies how political polarization and ideological sorting lead people to avoid cross-cutting conversations, examining the psychological mechanisms behind communication breakdown in divided societies."
       },
       {
         "id": 180,
@@ -3001,7 +3001,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 8,
         "raw": "Fourcade, M., & Healy, K. (2017). Seeing like a market. Socio-Economic Review, 15(1), 9-29.",
-        "summary": "Fourcade, M., & Healy, K discusses the foundational concepts of seeing like a market, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Fourcade and Healy analyze how market logic and classification systems shape social life, showing how credit scores, data profiles, and algorithms create new forms of economic stratification."
       },
       {
         "id": 181,
@@ -3017,7 +3017,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 9,
         "raw": "Schneier, B. (2015). Data and Goliath. WW Norton & Company. [Chap. 5 “Surveillance Capitalism – The rise of private surveillance”]",
-        "summary": "Schneier, B discusses the foundational concepts of data and goliath, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Schneier exposes the vast scale of government and corporate data collection, arguing that mass surveillance fundamentally threatens privacy, free speech, and democratic society."
       },
       {
         "id": 182,
@@ -3033,7 +3033,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 10,
         "raw": "Zuboff, S. (2018). Surveillance Capitalism. [Excerpt]",
-        "summary": "Zuboff, S discusses the foundational concepts of surveillance capitalism, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Zuboff coins the term 'surveillance capitalism' to describe how tech platforms claim private human experience as free raw material for behavioral prediction and modification markets."
       },
       {
         "id": 183,
@@ -3049,7 +3049,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 11,
         "raw": "Burrell, J. and Fourcade, M. (2021). The society of algorithms. Annual review of sociology, 47(1), 213-237.",
-        "summary": "Burrell, J. and Fourcade, M discusses the foundational concepts of the society of algorithms, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Burrell and Fourcade examine how algorithms now function as autonomous social actors, shaping economic outcomes, cultural tastes, and political possibilities through automated classification and ranking."
       },
       {
         "id": 184,
@@ -3065,7 +3065,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 12,
         "raw": "Van Dijk, J. A. (2006). Digital divide research. Poetics, 34(4-5), 221-235.",
-        "summary": "Van Dijk, J. A discusses the foundational concepts of digital divide research, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Van Dijk provides a comprehensive research framework for studying digital inequality, analyzing how disparities in internet access, skills, and usage outcomes reinforce existing social stratification."
       },
       {
         "id": 185,
@@ -3081,7 +3081,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 13,
         "raw": "Talbot, M. (2016, November 27). The attorney fighting revenge porn. The New Yorker. From https://www.newyorker.com/magazine/2016/12/05/the-attorney-fighting-revenge-porn",
-        "summary": "Talbot, M discusses the foundational concepts of the attorney fighting revenge porn, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Talbot profiles legal advocates fighting non-consensual intimate imagery online, examining the legal frameworks and platform policies emerging to combat technology-facilitated sexual abuse."
       },
       {
         "id": 186,
@@ -3097,7 +3097,7 @@ window.HKU_COURSES_DATA = {
         "category": "Law & Regulation",
         "syllabus_order": 14,
         "raw": "Garland, D. (1991). Sociological perspectives on punishment. Crime and Justice, 14, 115-165.",
-        "summary": "Garland, D discusses the foundational concepts of sociological perspectives on punishment, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Garland surveys major sociological theories of punishment, from Durkheim and Foucault to contemporary penology, analyzing how societies justify and administer criminal sanctions."
       }
     ]
   },
@@ -3120,7 +3120,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 1,
         "raw": "Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dangers of stochastic parrots: Can language models be too big? Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency. From https://doi.org/10.1145/3442188.3445922 [pp. 610–623]",
-        "summary": "Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S investigates the capabilities and trajectories of on the dangers of stochastic parrots, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Bender and Gebru warn that large language models are probabilistic mimics synthesizing text without comprehension, incurring massive carbon footprints and amplifying historical biases at scale."
       },
       {
         "id": 188,
@@ -3136,7 +3136,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 2,
         "raw": "Chiang, T. (2023, February 9). ChatGPT is a blurry JPEG of the web. The New Yorker.",
-        "summary": "Chiang, T discusses the foundational concepts of chatgpt is a blurry jpeg of the web, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Chiang argues that ChatGPT functions like a lossy compression of the internet, producing plausible but degraded approximations of human knowledge rather than genuine understanding."
       },
       {
         "id": 189,
@@ -3152,7 +3152,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 3,
         "raw": "Kaplan, J., McCandlish, S., Henighan, T., Brown, T.B., Chess, B., Child, R., Gray, S., Radford, A., Wu, J., & Amodei, D. (2020). Scaling laws for neural language models. arXiv:2001.08361. From https://doi.org/10.48550/arXiv.2001.08361",
-        "summary": "Kaplan, J., McCandlish, S., Henighan, T., Brown, T.B., Chess, B., Child, R., Gray, S., Radford, A., Wu, J., & Amodei, D analyzes the regulatory and legal challenges presented by scaling laws for neural language models, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Kaplan et al. establish empirical scaling laws showing that neural network performance improves predictably as a power law with compute budget, dataset size, and parameter count."
       },
       {
         "id": 190,
@@ -3168,7 +3168,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 4,
         "raw": "Kosmyna, N., Hauptmann, E., Yuan, Y.T., Situ, J., Liao, X.-H., Beresnitzky, A.V., Braunstein, I., & Maes, P. (2025). Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for essay writing tasks. arXiv:2506.08872. From https://doi.org/10.48550/arXiv.2506.08872",
-        "summary": "Kosmyna, N., Hauptmann, E., Yuan, Y.T., Situ, J., Liao, X.-H., Beresnitzky, A.V., Braunstein, I., & Maes, P investigates the capabilities and trajectories of your brain on chatgpt, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Kosmyna et al. use EEG brain imaging to show that relying on ChatGPT for essay writing reduces cognitive engagement and neural learning signals compared to unassisted writing."
       },
       {
         "id": 191,
@@ -3200,7 +3200,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 6,
         "raw": "Murrell, A. (2023). The age of average.",
-        "summary": "Murrell, A discusses the foundational concepts of the age of average, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Murrell documents the convergence toward visual sameness across architecture, branding, and design, arguing that data-driven optimization is producing a homogeneous 'age of average' aesthetic."
       },
       {
         "id": 193,
@@ -3216,7 +3216,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 7,
         "raw": "Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R., & Gal, Y. (2024). AI models collapse when trained on recursively generated data. Nature, 631(8022), 755–759. From https://doi.org/10.1038/s41586-024-07566-y",
-        "summary": "Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R., & Gal, Y investigates the capabilities and trajectories of ai models collapse when trained on recursively generated data, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Shumailov et al. prove that training AI models on data produced by previous AI generations causes catastrophic model collapse, permanently erasing the tails of the original data distribution."
       },
       {
         "id": 194,
@@ -3232,7 +3232,7 @@ window.HKU_COURSES_DATA = {
         "category": "Creativity & Aesthetics",
         "syllabus_order": 8,
         "raw": "The Economist. (2024). A short history of AI. The Economist.",
-        "summary": "The Economist investigates the capabilities and trajectories of a short history of ai, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "The Economist traces the historical development of artificial intelligence from Turing's foundational ideas through expert systems, AI winters, and the deep learning revolution."
       }
     ]
   },
@@ -3255,7 +3255,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 1,
         "raw": "Batty, M. (2013). The new science of cities. MIT press.",
-        "summary": "Batty, M discusses the foundational concepts of the new science of cities, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Batty presents cities as complex adaptive systems, using spatial analytics, fractal geometry, and agent-based modeling to understand urban growth, transportation flows, and land use patterns."
       },
       {
         "id": 196,
@@ -3271,7 +3271,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 2,
         "raw": "Batty, M. (2018). Inventing future cities. MIT press.",
-        "summary": "Batty, M discusses the foundational concepts of inventing future cities, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Batty explores how data science, simulation, and digital twins can help planners design more sustainable, resilient, and equitable cities for the coming decades."
       },
       {
         "id": 197,
@@ -3287,7 +3287,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 3,
         "raw": "Kitchin, R. (2014). The data revolution: Big data, open data, data infrastructures and their consequences. Sage.",
-        "summary": "Kitchin, R discusses the foundational concepts of the data revolution, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Kitchin examines the big data revolution and open data movement, analyzing how new data infrastructures are reshaping scientific research, governance, business, and everyday life."
       },
       {
         "id": 198,
@@ -3319,7 +3319,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 5,
         "raw": "Townsend, A. M. (2013). Smart cities: Big data, civic hackers, and the quest for a new utopia. WW Norton & Company.",
-        "summary": "Townsend, A. M explores the intersection of technology and creative expression in smart cities, revealing how new tools reshape artistic processes and human cultural narratives."
+        "summary": "Townsend traces the smart cities movement from IBM's top-down corporate visions to grassroots civic hacking, arguing for citizen-centered approaches to urban technology."
       }
     ]
   },
@@ -3342,7 +3342,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 1,
         "raw": "Notes provided by the lecturer",
-        "summary": "HKU Department of Computer Science discusses the foundational concepts of course lecture notes & slides, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Official lecture notes and slides from HKU course instructors covering theoretical foundations, algorithmic mechanics, and social implications of artificial intelligence."
       },
       {
         "id": 201,
@@ -3358,7 +3358,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 2,
         "raw": "Selected articles from newspapers, books, academic journal and conference papers, magazines and websites for each lecture",
-        "summary": "TED Conferences discusses the foundational concepts of selected articles from newspapers, books, academic journal and conference papers, magazines and websites for each lecture, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "A curated collection of news articles, academic papers, and media resources selected to illustrate real-world AI applications and social debates across weekly lecture topics."
       }
     ]
   },
@@ -3381,7 +3381,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 1,
         "raw": "Cao, Y., Gao, J., Lian, D., Rong, Z., Shi, J., Wang, Q., … & Zhou, T. (2018). Orderliness predicts academic performance: behavioural analysis on campus lifestyle. Journal of The Royal Society Interface, 15(146), 20180210.",
-        "summary": "Cao, Y., Gao, J., Lian, D., Rong, Z., Shi, J., Wang, Q., … & Zhou, T discusses the foundational concepts of orderliness predicts academic performance, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Cao et al. analyze campus smart-card behavioral data, demonstrating that daily routine orderliness and lifestyle regularity are significant predictors of academic performance."
       },
       {
         "id": 203,
@@ -3397,7 +3397,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 2,
         "raw": "Gao, J., & Wang, D. (2024). Quantifying the use and potential benefits of artificial intelligence in scientific research. Nature Human Behaviour, 8(12), 2281-2292.",
-        "summary": "Gao, J., & Wang, D investigates the capabilities and trajectories of quantifying the use and potential benefits of artificial intelligence in scientific research, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Gao and Wang quantify the rapid adoption and productivity benefits of AI tools across scientific disciplines, measuring their impact on research output and discovery rates."
       },
       {
         "id": 204,
@@ -3413,7 +3413,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 3,
         "raw": "Gao, J., Zhang, Y. C., & Zhou, T. (2019). Computational socioeconomics. Physics Reports, 817, 1-104. [Contents and Section 1 “Introduction”]",
-        "summary": "Gao, J., Zhang, Y. C., & Zhou, T discusses the foundational concepts of computational socioeconomics, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Gao, Zhang, and Zhou establish computational socioeconomics as a discipline using big data and machine learning to model economic inequality, urban mobility, and social dynamics."
       },
       {
         "id": 205,
@@ -3429,7 +3429,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 4,
         "raw": "Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabási, A. L., Brewer, D., & Van Alstyne, M. (2009). Computational social science. Science, 323(5915), 721-723.",
-        "summary": "Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabási, A. L., Brewer, D., & Van Alstyne, M discusses the foundational concepts of computational social science, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Lazer et al. define computational social science as a field leveraging digital trace data, social network analysis, and large-scale experiments to study collective human behavior."
       },
       {
         "id": 206,
@@ -3445,7 +3445,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 5,
         "raw": "Wang, Y., Jones, B. F., & Wang, D. (2019). Early-career setback and future career impact. Nature Communications, 10(1), 4331.",
-        "summary": "Wang, Y., Jones, B. F., & Wang, D analyzes the regulatory and legal challenges presented by early-career setback and future career impact, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Wang, Jones, and Wang analyze scientific career trajectories, finding paradoxically that early-career setbacks and grant rejections lead to stronger long-term research performance."
       },
       {
         "id": 207,
@@ -3461,7 +3461,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 6,
         "raw": "Yin, Y., Gao, J., Jones, B. F., & Wang, D. (2021). Coevolution of policy and science during the pandemic. Science, 371(6525), 128-130.",
-        "summary": "Yin, Y., Gao, J., Jones, B. F., & Wang, D discusses the foundational concepts of coevolution of policy and science during the pandemic, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Yin et al. track how scientific publication patterns and government policy responses co-evolved during COVID-19, using large-scale citation network analysis."
       },
       {
         "id": 208,
@@ -3477,7 +3477,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 7,
         "raw": "Bitcoin TVPBS. (2016). “Big Data Revolution” – PBS Documentary. From https://www.youtube.com/watch?v=bIY3LUZ7i8Y.",
-        "summary": "Bitcoin TVPBS discusses the foundational concepts of big data revolution” – pbs documentary, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "A PBS documentary exploring the big data revolution, examining how pervasive data collection and predictive algorithms are transforming healthcare, commerce, policing, and daily life."
       },
       {
         "id": 209,
@@ -3493,7 +3493,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 8,
         "raw": "Lee, K. -F. (2018). How AI can save our humanity. From https://www.ted.com/talks/kai_fu_lee_how_ai_can_save_our_humanity [TED Talk]",
-        "summary": "Lee, K. -F investigates the capabilities and trajectories of how ai can save our humanity, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Kai-Fu Lee argues that while AI will displace routine cognitive labor, human compassion, empathy, and genuine social connection will define the future of meaningful work."
       },
       {
         "id": 210,
@@ -3509,7 +3509,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 9,
         "raw": "Suleyman, M. (2024). What is an AI anyway? From https://www.ted.com/talks/mustafa_suleyman_what_is_an_ai_anyway [TED Talk]",
-        "summary": "Suleyman, M investigates the capabilities and trajectories of what is an ai anyway?, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Suleyman provides a clear accessible explanation of what artificial intelligence actually is, tracing its evolution from rule-based expert systems to modern large language models."
       }
     ]
   },
@@ -3532,7 +3532,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 1,
         "raw": "Jerald, J. (2015). The VR Book: Human-centred Design for Virtual Reality (Illustrated ed.). Morgan & Claypool Publishers.",
-        "summary": "Jerald, J discusses the foundational concepts of the vr book, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Jerald provides a comprehensive guide to designing virtual reality experiences around human perception, covering simulator sickness, presence, and ergonomic interaction design principles."
       },
       {
         "id": 212,
@@ -3548,7 +3548,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 2,
         "raw": "LaValle, S. M. (2023). Virtual Reality. Cambridge University Press.",
-        "summary": "LaValle, S. M discusses the foundational concepts of virtual reality, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "LaValle presents the mathematical and engineering foundations of virtual reality systems, covering geometric modeling, rendering pipelines, tracking systems, and perceptual psychology."
       },
       {
         "id": 213,
@@ -3580,7 +3580,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 4,
         "raw": "Slater, M., & Sanchez-Vives, M. V. (2016). Enhancing our lives with immersive virtual reality. Frontiers in Robotics and AI, 3, 74.",
-        "summary": "Slater, M., & Sanchez-Vives, M. V discusses the foundational concepts of enhancing our lives with immersive virtual reality, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Slater and Sanchez-Vives review how immersive virtual reality enhances education, therapy, empathy training, and rehabilitation through embodied simulation of real-world experiences."
       },
       {
         "id": 215,
@@ -3596,7 +3596,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 5,
         "raw": "Tegmark, M. (2017). Life 3.0: Being human in the age of artificial intelligence. Knopf.",
-        "summary": "Tegmark, M. investigates the capabilities and trajectories of life 3.0, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Tegmark categorizes life into biological, cultural, and technological phases, exploring how superintelligent AI will reconfigure work, consciousness, and human destiny across cosmic timescales."
       },
       {
         "id": 216,
@@ -3612,7 +3612,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 6,
         "raw": "The Verge. The rise and fall and rise of virtual reality. From https://www.theverge.com/a/virtual-reality [Compilations of articles on the development of VR]",
-        "summary": "The Verge discusses the foundational concepts of the rise and fall and rise of virtual reality, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "The Verge traces the technological history of virtual reality from 1990s prototypes through commercial failures to the modern resurgence of spatial computing and immersive headsets."
       }
     ]
   },
@@ -3635,7 +3635,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 1,
         "raw": "Asimov, I. (1950). I, Robot. New York: Gnome Press.",
-        "summary": "Asimov, I discusses the foundational concepts of new york, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Asimov's Foundation series introduces the concept of psychohistory—predicting large-scale human behavior through mathematics—offering a fictional precursor to modern computational social science."
       },
       {
         "id": 218,
@@ -3667,7 +3667,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 3,
         "raw": "Gutkind, L. (2009). Almost human: Making robots think. New York: W.W. Norton & Company.",
-        "summary": "Gutkind, L discusses the foundational concepts of almost human, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Gutkind profiles robotics researchers working to create machines that can think, learn, and interact with humans, exploring the engineering and philosophical challenges of building artificial minds."
       },
       {
         "id": 220,
@@ -3722,7 +3722,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 2,
         "raw": "Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J. (2021). The science of visual data communication: What works. Psychological Science in the Public Interest, 22(3), 110-161. From https://doi.org/10.1177/15291006211051956",
-        "summary": "Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J discusses the foundational concepts of the science of visual data communication, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Franconeri et al. synthesize research on visual data communication, identifying which graph types, color palettes, and design choices most effectively convey quantitative information to diverse audiences."
       },
       {
         "id": 223,
@@ -3802,7 +3802,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 7,
         "raw": "U.S. General Services Administration. (n.d.). Plain language guidelines. From https://digital.gov/guides/plain-language",
-        "summary": "U.S. General Services Administration investigates the capabilities and trajectories of plain language guidelines. from ht, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "The U.S. General Services Administration provides federal guidelines for writing clear, accessible prose, emphasizing plain language principles that improve public comprehension of government communications."
       },
       {
         "id": 228,
@@ -3857,7 +3857,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 1,
         "raw": "Benaich, N., & Chalmers, A. (2024). State of AI report 2024. From https://www.stateof.ai/",
-        "summary": "Benaich, N., & Chalmers, A investigates the capabilities and trajectories of state of ai report 2024, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Benaich and Chalmers compile the annual State of AI report, benchmarking frontier model capabilities, industry investment trends, geopolitical dynamics, and safety research progress."
       },
       {
         "id": 231,
@@ -3873,7 +3873,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 2,
         "raw": "Bennett, M. S. (2023). A brief history of intelligence: evolution, AI, and the five breakthroughs that made our brains. Mariner Books. [Chap. 22 “ChatGPT and the window into the mind”]",
-        "summary": "Bennett, M. S investigates the capabilities and trajectories of a brief history of intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Bennett traces five key evolutionary breakthroughs that shaped human intelligence—from sensory processing to language—and draws parallels to the architectural breakthroughs driving modern AI."
       },
       {
         "id": 232,
@@ -3905,7 +3905,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 4,
         "raw": "Siciliano, B., et al. (2009). Robotics, modelling, planning and control. Springer. [Chap. 1 “Introduction”]",
-        "summary": "Siciliano, B., et al discusses the foundational concepts of robotics, modelling, planning and control, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Siciliano et al. provide a comprehensive engineering textbook on robotics covering kinematics, dynamics, trajectory planning, and control theory for industrial and mobile robot systems."
       },
       {
         "id": 234,
@@ -3921,7 +3921,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 5,
         "raw": "Stone, P., et al. (2022). Artificial intelligence and life in 2030. Stanford University. From https://ai100.stanford.edu/sites/g/files/sbiybj18871/files/media/file/ai100report10032016fnl_singles.pdf",
-        "summary": "Stone, P., et al investigates the capabilities and trajectories of artificial intelligence and life in 2030, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Stone et al. project how AI will reshape transportation, healthcare, education, public safety, and employment by 2030, offering policy recommendations for managing the transition."
       },
       {
         "id": 235,
@@ -3937,7 +3937,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 6,
         "raw": "Dyna Robotics, Inc. (2025). Dynamism v1 (DYNA-1) Model: A Breakthrough in Performance and Production-Ready Embodied AI. From https://www.dyna.co/research",
-        "summary": "Dyna Robotics, Inc investigates the capabilities and trajectories of dynamism v1 (dyna-1) model, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Dyna Robotics introduces the DYNA-1 embodied AI model, demonstrating production-ready performance in physical manipulation tasks through advanced sensorimotor learning and sim-to-real transfer."
       },
       {
         "id": 236,
@@ -3953,7 +3953,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 7,
         "raw": "OpenAI. (2023). GPT-4 developer livestream. From https://www.youtube.com/watch?v=outcGtbnMuQ",
-        "summary": "OpenAI discusses the foundational concepts of gpt-4 developer livestream, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "OpenAI's GPT-4 developer livestream demonstrates the model's multimodal capabilities, showing real-time image understanding, advanced reasoning, and expanded context window features."
       },
       {
         "id": 237,
@@ -3969,7 +3969,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 8,
         "raw": "OpenAI. (2023). OpenAI devday: opening keynote. From https://www.youtube.com/watch?v=U9mJuUkhUzk",
-        "summary": "OpenAI investigates the capabilities and trajectories of openai devday, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "OpenAI presents its DevDay keynote introducing custom GPTs, the Assistants API, and GPT-4 Turbo, showcasing the platform's expanding developer ecosystem and enterprise capabilities."
       },
       {
         "id": 238,
@@ -3985,7 +3985,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 9,
         "raw": "Recent advances on Autonomous Driving and Embodied AI. From https://cvpr2025.wad.vision/ and https://opendrivelab.com/cvpr2025/workshop/",
-        "summary": "CVPR 2025 WAD Workshop investigates the capabilities and trajectories of recent advances on autonomous driving and embodied ai, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "CVPR workshop papers present state-of-the-art computer vision architectures, sensor fusion techniques, and reinforcement learning approaches for autonomous driving and embodied AI systems."
       },
       {
         "id": 239,
@@ -4001,7 +4001,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 10,
         "raw": "Teala (2024). We, robot | Tesla Cybercab unveil. From https://www.youtube.com/live/6v6dbxPlsXs",
-        "summary": "Teala discusses the foundational concepts of we, robot | tesla cybercab unveil, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Tesla unveils the Cybercab autonomous robotaxi concept, demonstrating its vision for a fully self-driving ride-hailing network without steering wheels or pedals."
       },
       {
         "id": 240,
@@ -4017,7 +4017,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 11,
         "raw": "Tesla (2022). Tesla AI day 2022. From https://www.youtube.com/watch?v=ODSJsviD_SU",
-        "summary": "Tesla investigates the capabilities and trajectories of tesla ai day 2022, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Tesla showcases its Optimus humanoid robot prototype and Full Self-Driving progress, presenting its vision for general-purpose robotics and autonomous vehicle technology."
       },
       {
         "id": 241,
@@ -4033,7 +4033,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 12,
         "raw": "Arts & Science – University of Toronto. (2023). Geoffrey Hinton in conversation with Fei-Fei Li – responsible AI development. From https://www.youtube.com/watch?v=QWWgr2rN45o",
-        "summary": "Arts & Science – University of Toronto investigates the capabilities and trajectories of geoffrey hinton in conversation with fei-fei li – responsible ai development, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Hinton and Fei-Fei Li discuss responsible AI development, debating the balance between accelerating AI capabilities and implementing adequate safety guardrails for frontier systems."
       },
       {
         "id": 242,
@@ -4049,7 +4049,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 13,
         "raw": "MIT Embodied Intelligence. (2024). MIT embodied intelligence seminars. From https://www.youtube.com/playlist?list=PLCBtJRMPXXZ4dmgC-Q_X3DGTFNKjXdXFU",
-        "summary": "MIT Embodied Intelligence discusses the foundational concepts of mit embodied intelligence seminars, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "A seminar series featuring robotics and AI researchers presenting breakthroughs in sensorimotor learning, physical embodiment, dexterous manipulation, and embodied intelligence."
       },
       {
         "id": 243,
@@ -4065,7 +4065,7 @@ window.HKU_COURSES_DATA = {
         "category": "Sociology & Media",
         "syllabus_order": 14,
         "raw": "Sunak, R (2024). Rishi Sunak & Elon, Mu: talk AI, tech & the future. From https://www.youtube.com/watch?v=R2meHtrO1n8",
-        "summary": "Rishi Sunak & Elon Musk investigates the capabilities and trajectories of rishi sunak and elon musk talk ai, tech, and the future, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Sunak and Musk discuss frontier AI risks, the prospect of superintelligence, the future of work, and the role of government safety evaluation at the 2023 UK AI Safety Summit."
       }
     ]
   },
@@ -4104,7 +4104,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 2,
         "raw": "Boellstorff, T. (2013). Making Big Data, In Theory. First Monday, 18(10).",
-        "summary": "Boellstorff, T. discusses the foundational concepts of making big data, in theory, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Boellstorff provides an anthropological analysis of how big data is theorized, arguing that data is always culturally constructed, categorized, and embedded in social power relations."
       },
       {
         "id": 246,
@@ -4120,7 +4120,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 3,
         "raw": "Burgess, J. (2023). Everyday data cultures: beyond Big Critique and the technological sublime. AI and Society, 38(3), 1243-1244.",
-        "summary": "Burgess, J discusses the foundational concepts of everyday data cultures, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Burgess advocates for studying everyday digital data practices at the grassroots level, moving beyond grand techno-deterministic critiques to examine how ordinary people navigate algorithms."
       },
       {
         "id": 247,
@@ -4136,7 +4136,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 4,
         "raw": "Campbell-Verduyn, M. (2018). Bitcoin and Beyond: Cryptocurrencies, Blockchains and Global Governance. Routledge.",
-        "summary": "Campbell-Verduyn, M analyzes the regulatory and legal challenges presented by bitcoin and beyond, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Campbell-Verduyn examines cryptocurrencies, smart contracts, and blockchain technology, analyzing their disruptive implications for global financial governance, monetary sovereignty, and regulatory oversight."
       },
       {
         "id": 248,
@@ -4152,7 +4152,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 5,
         "raw": "Carah, N., Angus, D., & Burgess, J. (2023). Tuning machines: an approach to exploring how Instagram’s machine vision operates on and through digital media’s participatory visual cultures. Cultural Studies, 37(1), 20-45.",
-        "summary": "Carah, N., Angus, D., & Burgess, J discusses the foundational concepts of tuning machines, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Carah, Angus, and Burgess analyze how Instagram's computer vision algorithms classify, rank, and monetize user images, shaping participatory visual cultures through machine mediation."
       },
       {
         "id": 249,
@@ -4168,7 +4168,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 6,
         "raw": "Ensmenger, N. (2010). The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise. MIT Press.",
-        "summary": "Ensmenger, N discusses the foundational concepts of the computer boys take over, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Ensmenger traces the professionalization of computer programming, analyzing how gender dynamics, corporate hierarchies, and claims of technical expertise shaped the software industry."
       },
       {
         "id": 250,
@@ -4184,7 +4184,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 7,
         "raw": "Eriksen, T. H. (2016). Overheating: An Anthropology of Accelerated Change. Pluto Press.",
-        "summary": "Eriksen, T. H discusses the foundational concepts of overheating, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Eriksen develops the concept of 'overheating' to describe accelerated, uncontrolled global change across economic, environmental, and technological systems that outpace human adaptive capacity."
       },
       {
         "id": 251,
@@ -4200,7 +4200,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 8,
         "raw": "Forsythe, D., & Hess, D. J. (2001). Studying those who study us: an anthropologist in the world of artificial intelligence. Stanford University Press.",
-        "summary": "Forsythe, D., & Hess, D. J investigates the capabilities and trajectories of studying those who study us, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Forsythe and Hess present an ethnographic study of AI research laboratories, examining how cultural assumptions, disciplinary norms, and institutional politics shape the development of intelligent systems."
       },
       {
         "id": 252,
@@ -4216,7 +4216,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 9,
         "raw": "Gershon, I. (2017). Down and Out in the New Economy: How People Find (or Don’t Find) Work Today. University of Chicago Press.",
-        "summary": "Gershon, I discusses the foundational concepts of down and out in the new economy, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Gershon examines how job seekers navigate the modern gig economy, revealing how platform algorithms, personal branding pressures, and precarious employment reshape the experience of finding work."
       },
       {
         "id": 253,
@@ -4232,7 +4232,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 10,
         "raw": "Helmreich, S. (2008). Silicon Second Nature: Culturing Artificial Life in a Digital World. University of California Press.",
-        "summary": "Helmreich, S discusses the foundational concepts of silicon second nature, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Helmreich explores how artificial life researchers create digital organisms and simulated ecosystems, examining how computational models of evolution blur boundaries between nature and technology."
       },
       {
         "id": 254,
@@ -4248,7 +4248,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 11,
         "raw": "Horst, H., & Miller, D. (2012). Digital Anthropology. Berg Publishers.",
-        "summary": "Horst, H., & Miller, D discusses the foundational concepts of digital anthropology, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Horst and Miller provide a foundational text for digital anthropology, examining how digital technologies mediate kinship, identity, politics, and everyday social relationships across cultures."
       },
       {
         "id": 255,
@@ -4264,7 +4264,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 12,
         "raw": "Irani, L. (2019). Chasing Innovation: Making Entrepreneurial Citizens in Modern India. Princeton University Press.",
-        "summary": "Irani, L discusses the foundational concepts of chasing innovation, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Irani traces how India's technology sector cultivates entrepreneurial citizenship, examining how innovation discourse masks labor exploitation and reproduces class hierarchies in Bangalore's tech economy."
       },
       {
         "id": 256,
@@ -4280,7 +4280,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 13,
         "raw": "Kelty, C. M. (2008). Two Bits: The Cultural Significance of Free Software. Duke University Press.",
-        "summary": "Kelty, C. M discusses the foundational concepts of two bits, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Kelty analyzes the free software movement as a cultural phenomenon, examining how open-source developers create new forms of political participation, collaboration, and social organization."
       },
       {
         "id": 257,
@@ -4296,7 +4296,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 14,
         "raw": "Malaby, T. M. (2009). Making Virtual Worlds: Linden Lab and Second Life. Cornell University Press.",
-        "summary": "Malaby, T. M discusses the foundational concepts of making virtual worlds, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Malaby provides an ethnographic account of Linden Lab and Second Life, examining how the virtual world's design decisions shaped emergent social structures, economies, and governance systems."
       },
       {
         "id": 258,
@@ -4312,7 +4312,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 15,
         "raw": "O’Dwyer, R. (2023). Tokens: The Future of Money in the Age of the Platform. Verso.",
-        "summary": "O’Dwyer, R discusses the foundational concepts of tokens, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "O'Dwyer examines how digital tokens, cryptocurrencies, and platform payment systems are transforming money itself, analyzing the cultural politics of programmable value in the platform economy."
       },
       {
         "id": 259,
@@ -4328,7 +4328,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 16,
         "raw": "Pasquale, F. (2015). The Black Box Society: The Secret Algorithms That Control Money and Information. Harvard University Press.",
-        "summary": "Pasquale, F discusses the foundational concepts of the black box society, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Pasquale exposes how opaque proprietary algorithms in finance, search, and credit scoring make consequential life-affecting decisions without public accountability or meaningful oversight."
       },
       {
         "id": 260,
@@ -4344,7 +4344,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 17,
         "raw": "Zuboff, S. (2019). The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. Public Affairs.",
-        "summary": "Zuboff, S discusses the foundational concepts of the age of surveillance capitalism, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Zuboff argues that tech platforms have created a new form of capitalism that claims private human experience as free raw material for behavioral prediction markets and social control."
       }
     ]
   },
@@ -4367,7 +4367,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 1,
         "raw": "Buchan, J. (2010, May 8). War games: The story of aid and war in modern times by Linda Polman. The Guardian. From https://www.theguardian.com/books/2010/may/08/war-games-linda-polman-review",
-        "summary": "Buchan, J investigates the capabilities and trajectories of war games, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Buchan reviews Linda Polman's account of how humanitarian aid becomes entangled with wartime economies, fueling the conflicts it aims to alleviate."
       },
       {
         "id": 262,
@@ -4383,7 +4383,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 2,
         "raw": "International Committee of the Red Cross. From https://www.icrc.org/en [Website]",
-        "summary": "International Committee of the Red Cross (ICRC) discusses the foundational concepts of international committee of the red cross overview, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "An overview of the ICRC's mandate, history, and operations protecting victims of armed conflict under international humanitarian law."
       },
       {
         "id": 263,
@@ -4399,7 +4399,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 3,
         "raw": "Kissinger, H. A., Schmidt, E., & Mundie, C. (2024, November 18). War and Peace in the Age of Artificial Intelligence. What It Will Mean for the World When Machines Shape Strategy and Statecraft. Foreign Affairs.",
-        "summary": "Kissinger, H. A., Schmidt, E., & Mundie, C investigates the capabilities and trajectories of war and peace in the age of artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Kissinger, Schmidt, and Mundie examine how AI transforms military strategy, diplomacy, and the balance of power between nations in an era of autonomous weapons."
       },
       {
         "id": 264,
@@ -4415,7 +4415,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 4,
         "raw": "MSF Hong Kong. From https://msf-seasia.org/ [Website]",
-        "summary": "Médecins Sans Frontières (MSF) analyzes the regulatory and legal challenges presented by humanitarian response & action in se asia, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "MSF details its humanitarian operations across Southeast Asia, documenting medical relief efforts, logistical challenges, and the use of digital tools in disaster response."
       },
       {
         "id": 265,
@@ -4431,7 +4431,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 5,
         "raw": "Rysaback-Smith, H. (2015). History and principles of humanitarian action. Turkish Journal of Emergency Medicine, 15(Suppl 1), 5–7.",
-        "summary": "Rysaback-Smith, H analyzes the regulatory and legal challenges presented by history and principles of humanitarian action, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Rysaback-Smith traces the historical evolution and core principles of humanitarian action, from Red Cross origins to contemporary debates about neutrality and impartiality."
       },
       {
         "id": 266,
@@ -4447,7 +4447,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 6,
         "raw": "The Humanitarian Policy Group at ODI. (2010, May). Aid and war: A response to Linda Polman’s critique of humanitarianism. ODI Opinions. Overseas Development Institute. From https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/5914.pdf",
-        "summary": "The Humanitarian Policy Group at ODI investigates the capabilities and trajectories of aid and war, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "The Humanitarian Policy Group responds to Polman's critique of aid organizations, defending the value of humanitarian intervention while acknowledging systemic challenges in conflict zones."
       },
       {
         "id": 267,
@@ -4463,7 +4463,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 7,
         "raw": "UNICEF. From https://www.unicef.org/ [Website]",
-        "summary": "United Nations discusses the foundational concepts of unicef, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "An overview of UNICEF's global mission to protect children's rights, deliver emergency relief, and provide education and healthcare in developing nations and conflict zones."
       },
       {
         "id": 268,
@@ -4479,7 +4479,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 8,
         "raw": "IMPACT Initiatives. (2024). Using big data and AI to support the Ukraine refugee response – A collaboration between IMPACT Initiatives and Data for Good at Meta. IMPACT Initiatives. From http://reliefweb.int/report/ukraine/using-big-data-and-ai-support-ukraine-refugee-response-collaboration-between-impact-initiatives-and-data-good-meta",
-        "summary": "IMPACT Initiatives analyzes the regulatory and legal challenges presented by using big data and ai to support the ukraine refugee response – a collaboration between impact initiatives and data for good at meta, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "IMPACT Initiatives and Meta collaborate to use big data analytics and AI to track displacement patterns and improve the coordination of Ukraine refugee response efforts."
       },
       {
         "id": 269,
@@ -4495,7 +4495,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 9,
         "raw": "Madianou, M. (2015, July-Dec). Digital Inequality and Second-Order Disasters: Social Media in the Typhoon Haiyan Recovery. Social Media + Society, 1-11.",
-        "summary": "Madianou, M investigates the capabilities and trajectories of digital inequality and second-order disasters, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Madianou examines how digital inequality compounds disaster vulnerability, showing that uneven social media access during Typhoon Haiyan created second-order harms for marginalized communities."
       },
       {
         "id": 270,
@@ -4527,7 +4527,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 11,
         "raw": "Humanitarian OpenStreetMap Team. Humanitarian OpenStreetMap Team (HOT). From https://www.hotosm.org/ [Website]",
-        "summary": "Humanitarian OpenStreetMap Team (HOT) discusses the foundational concepts of humanitarian openstreetmap team (hot), providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "HOT mobilizes volunteer digital mappers worldwide to create detailed open-source maps of disaster-affected and underserved areas, enabling more effective humanitarian response."
       },
       {
         "id": 272,
@@ -4543,7 +4543,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 12,
         "raw": "Leson, H. (2017, January 28). How digital humanitarians are closing the gaps in worldwide disaster response. Huffpost. From https://www.huffpost.com/entry/how-digital-humanitarians_b_9101950?guccounter=1",
-        "summary": "Leson, H discusses the foundational concepts of how digital humanitarians are closing the gaps in worldwide disaster response, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Leson describes how volunteer digital humanitarians use crowdsourced mapping and crisis data to close information gaps in worldwide disaster response operations."
       },
       {
         "id": 273,
@@ -4559,7 +4559,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 13,
         "raw": "Micro Mappers. From https://micromappers.wordpress.com/ [Website]",
-        "summary": "Micro Mappers discusses the foundational concepts of crowdsourced crisis mapping, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "MicroMappers demonstrates how crowdsourced volunteers and machine learning algorithms work together to classify crisis aerial imagery and social media reports in real time."
       },
       {
         "id": 274,
@@ -4575,7 +4575,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 14,
         "raw": "US Federal News Service. (2017). Central Washington University Geography students take part in global humanitarian digital mapping network. From https://search.proquest.com/docview/1874677174?accountid=14548",
-        "summary": "US Federal News Service explores the intersection of technology and creative expression in central washington university geography students take part in global humanitarian digital mapping network, revealing how new tools reshape artistic processes and human cultural narratives."
+        "summary": "Geography students participate in the global Humanitarian OpenStreetMap network, contributing digital mapping data to support disaster preparedness and emergency response worldwide."
       },
       {
         "id": 275,
@@ -4591,7 +4591,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 15,
         "raw": "Weinandy, T. J. (2016). Volunteer and technical communities in humanitarian response. Lessons in digital humanitarianism from Typhoon Haiyan. UN Chronicle, 1, 29-30.",
-        "summary": "Weinandy, T. J discusses the foundational concepts of volunteer and technical communities in humanitarian response, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Weinandy examines how volunteer technical communities contribute to humanitarian response, analyzing their coordination challenges, motivations, and impact on disaster relief operations."
       },
       {
         "id": 276,
@@ -4607,7 +4607,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 16,
         "raw": "Bromley, L., Jauer, K., & Matias, Y. (2024, September 16). AI from Google Research and UN boosts humanitarian disaster response: Wider coverage, faster damage assessments. Disha. From https://disha.unglobalpulse.org/ai-from-google-research-and-un-boosts-humanitarian-disaster-response-wider-coverage-faster-damage-assessments/",
-        "summary": "Bromley, L., Jauer, K., & Matias, Y. investigates the capabilities and trajectories of ai from google research and un boosts humanitarian response, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Bromley, Jauer, and Matias describe how Google Research and UN agencies deploy AI and satellite imagery analysis to accelerate humanitarian damage assessment and resource allocation."
       },
       {
         "id": 277,
@@ -4623,7 +4623,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 17,
         "raw": "DataKind. From https://www.datakind.org/ [Website]",
-        "summary": "DataKind investigates the capabilities and trajectories of harnessing data science & ai for humanity, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "DataKind connects pro-bono data scientists with nonprofit organizations, demonstrating how machine learning and data analytics can address challenges in poverty, healthcare, and education."
       },
       {
         "id": 278,
@@ -4639,7 +4639,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 18,
         "raw": "Imran, M., Mitra, P., & Castillo, C. (2016). Twitter as a lifeline: Human-annotated Twitter Corpora for NLP of crisis-related messages. Proceedings of the 10th International Conference on Language Resources and Evaluation, LREC 2016. Portoroz, Slovenia. [pp. 1638-1643]",
-        "summary": "Imran, M., Mitra, P., & Castillo, C discusses the foundational concepts of twitter as a lifeline, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Imran, Mitra, and Castillo develop human-annotated Twitter corpora for training NLP models to identify and classify crisis-related messages during natural disasters and emergencies."
       },
       {
         "id": 279,
@@ -4655,7 +4655,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 19,
         "raw": "Kumar, S., Barbier, G., Abbasi, M. A., & Liu, H. (2011, July 17-21). TweetTracker: An analysis tool for humanitarian and disaster relief. Proceedings of the Fifth International Conference on Weblogs and Social Media. Barcelona, Spain. [pp. 661-662]",
-        "summary": "Kumar, S., Barbier, G., Abbasi, M. A., & Liu, H discusses the foundational concepts of tweettracker, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Kumar et al. present TweetTracker, a real-time social media analytics tool designed to monitor, visualize, and analyze Twitter data streams during humanitarian crises and disasters."
       },
       {
         "id": 280,
@@ -4671,7 +4671,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 20,
         "raw": "Meier, P. (2015). Digital humanitarians: How big data is changing the face of humanitarian response (1st ed.). Routledge. [Chap. 5 “Artificial intelligence for disaster response”, Chap. 6 “Artificial intelligence in the sky”]",
-        "summary": "Meier, P discusses the foundational concepts of digital humanitarians, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Meier explores how big data, crowdsourcing, and satellite imagery are transforming humanitarian response, enabling faster damage assessment and more targeted aid delivery."
       },
       {
         "id": 281,
@@ -4687,7 +4687,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 21,
         "raw": "UN Global Pulse. From https://www.unglobalpulse.org/ [Website]",
-        "summary": "UN Global Pulse analyzes the regulatory and legal challenges presented by big data and ai for development & humanitarian action, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "UN Global Pulse details how real-time big data analytics and machine learning help UN agencies monitor sustainable development goals and coordinate emergency humanitarian responses."
       },
       {
         "id": 282,
@@ -4703,7 +4703,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 22,
         "raw": "Kazansky, B., Johnson, O., Paes, B., Kilbey, H., & The Engine Room. (2023). Chatbots in humanitarian contexts: Learning from practitioner experiences. The International Federation of Red Cross and Red Crescent Societies (IFRC). From https://communityengagementhub.org/wp-content/uploads/sites/2/2023/06/20230623_CEA_Chatbots.pdf",
-        "summary": "Kazansky, B., Johnson, O., Paes, B., Kilbey, H., & The Engine Room analyzes the regulatory and legal challenges presented by chatbots in humanitarian contexts, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Kazansky et al. document practitioner experiences deploying chatbots in humanitarian settings, analyzing usability challenges, trust barriers, and effectiveness for vulnerable populations."
       },
       {
         "id": 283,
@@ -4719,7 +4719,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 23,
         "raw": "UN Women. (2025). Advancing Gender Equality through Partnerships for Gender-Responsive Artificial Intelligence. From https://reliefweb.int/report/world/advancing-gender-equality-through-partnerships-gender-responsive-artificial-intelligence",
-        "summary": "UN Women investigates the capabilities and trajectories of advancing gender equality through partnerships for gender-responsive artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "UN Women outlines strategic partnerships and policy frameworks to ensure AI development promotes gender equality, prevents algorithmic discrimination, and protects women's rights."
       },
       {
         "id": 284,
@@ -4735,7 +4735,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 24,
         "raw": "UNHCR. (2025). Chatbots in humanitarian settings: revolutionary, a fad or something in-between? From https://www.unhcr.org/innovation/chatbots-in-humanitarian-settings-revolutionary-a-fad-or-something-inbetween/",
-        "summary": "UNHCR discusses the foundational concepts of chatbots in humanitarian settings, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "UNHCR evaluates whether chatbots in refugee contexts provide effective assistance or risk delivering impersonal, inaccurate information to vulnerable displaced populations."
       },
       {
         "id": 285,
@@ -4751,7 +4751,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 25,
         "raw": "Eisele, I., & Steinwehr, U. (2023, November 10). Fact check: AI fakes in Israel’s war against Hamas. DW. From https://www.dw.com/en/fact-check-ai-fakes-in-israels-war-against-hamas/a-67367744",
-        "summary": "Eisele, I. & Steinwehr, U. analyzes the regulatory and legal challenges presented by fact check, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Eisele and Steinwehr investigate viral AI-generated deepfake images circulating during the Israel-Hamas conflict, fact-checking fabricated media and documenting the power of synthetic disinformation."
       },
       {
         "id": 286,
@@ -4767,7 +4767,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 26,
         "raw": "Klepper, D. (2023, November 29). Fake babies, real horror: Deepfakes from the Gaza war increase fears about AI’s power to mislead. Associated Press. From https://apnews.com/article/artificial-intelligence-hamas-israel-misinformation-ai-gaza-a1bb303b637ffbbb9cbc3aa1e000db47",
-        "summary": "Klepper, D. (Associated Press) investigates the capabilities and trajectories of fake babies, real horror, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Klepper reports on how deepfake images of injured babies and fabricated atrocity footage from the Gaza war inflame public emotions and complicate conflict verification."
       },
       {
         "id": 287,
@@ -4783,7 +4783,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 27,
         "raw": "Lahlou, Y., El Fikhi, S., & Faizi, R. (2019). Automatic detection of fake news on online platforms: A survey. Proceedings of the 1st International Conference on Smart Systems and Data Science (ICSSD). From https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9002823",
-        "summary": "Lahlou, Y., El Fikhi, S., & Faizi, R discusses the foundational concepts of automatic detection of fake news on online platforms, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Lahlou, El Fikhi, and Faizi survey NLP and graph neural network methods for automated fake news detection on social media platforms, comparing accuracy across architectures."
       },
       {
         "id": 288,
@@ -4799,7 +4799,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 28,
         "raw": "OpenAI. (2024). Disrupting deceptive uses of AI by covert influence operations. From https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/",
-        "summary": "OpenAI investigates the capabilities and trajectories of disrupting deceptive uses of ai by covert influence operations, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "OpenAI documents its disruption of covert influence operations from multiple countries that attempted to use generative AI models to produce propaganda and manipulate public opinion."
       },
       {
         "id": 289,
@@ -4815,7 +4815,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 29,
         "raw": "Osadchuk, R. (2024, July 9). AI tools usage for disinformation in the war in Ukraine. Digital Forensic Research Lab (DFRLab). From https://dfrlab.org/2024/07/09/ai-tools-usage-for-disinformation-in-the-war-in-ukraine",
-        "summary": "Osadchuk, R investigates the capabilities and trajectories of ai tools usage for disinformation in the war in ukraine, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Osadchuk analyzes how AI-generated deepfakes and synthetic media are weaponized for information warfare and psychological operations in the Russia-Ukraine conflict."
       },
       {
         "id": 290,
@@ -4831,7 +4831,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 30,
         "raw": "Urbani, S. (2019). First Draft’s Essential Guide to Verifying Online Information. FirstDraft. From https://firstdraftnews.org/wp-content/uploads/2019/10/Verifying_Online_Information_Digital_AW.pdf",
-        "summary": "Urbani, S discusses the foundational concepts of first draft’s essential guide to verifying online information, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Urbani provides a journalist's field guide for investigating, verifying, and debunking manipulated images, deepfakes, and social media disinformation."
       },
       {
         "id": 291,
@@ -4847,7 +4847,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 31,
         "raw": "Dangwal, A. (2024, August 14). Ukraine Unleashes British Robot Dogs On Russian Soldiers; German Anti-Thermal Camouflage Boosts Their Stealth – Bild. The EurAsian Times. From https://www.eurasiantimes.com/ukraine-unleashes-british-robot-dogs/",
-        "summary": "Dangwal, A investigates the capabilities and trajectories of ukraine unleashes british robot dogs on russian soldiers; german anti-thermal camouflage boosts their stealth – bild, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Dangwal reports on Ukraine's deployment of British-made robot dogs against Russian forces, examining how anti-thermal camouflage enhances their battlefield stealth capabilities."
       },
       {
         "id": 292,
@@ -4863,7 +4863,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 32,
         "raw": "Hambling, D. (2024, August 16). What We Know About Ukraine’s Army Of Robot Dogs. Forbes. From https://www.forbes.com/sites/davidhambling/2024/08/16/what-we-know-about-ukraines-army-of-robot-dogs/",
-        "summary": "Hambling, D investigates the capabilities and trajectories of what we know about ukraine’s army of robot dogs, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Hambling details what is known about Ukraine's growing fleet of armed robot dogs, examining their tactical roles, limitations, and implications for ground warfare."
       },
       {
         "id": 293,
@@ -4879,7 +4879,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 33,
         "raw": "Marr, B. (2024, September 17). How AI Is Used In War Today. Forbes. From https://www.forbes.com/sites/bernardmarr/2024/09/17/how-ai-is-used-in-war-today/",
-        "summary": "Marr, B investigates the capabilities and trajectories of how ai is used in war today, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Marr provides an overview of how AI is currently used in military operations, from autonomous drones and targeting systems to intelligence analysis and cyber warfare."
       },
       {
         "id": 294,
@@ -4895,7 +4895,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 34,
         "raw": "Morgan, F. E., Boudreaux, B., Lohn, A. J., Ashby, M., Currident, C., Klima, K., & Grossman, D. (2020). Military Applications of Artificial Intelligence. Ethical Concerns in an Uncertain World. Santa Monica. CA: RAND Corporation.",
-        "summary": "Morgan, F. E., Boudreaux, B., Lohn, A. J., Ashby, M., Currident, C., Klima, K., & Grossman, D investigates the capabilities and trajectories of military applications of artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Morgan et al. assess military applications of AI across intelligence, logistics, autonomous weapons, and cyber operations, evaluating strategic risks and policy implications."
       },
       {
         "id": 295,
@@ -4911,7 +4911,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 35,
         "raw": "Serhan, Y. (2024, December 18). How Israel Uses AI in Gaza—And What It Might Mean for the Future of Warfare. Time. From https://time.com/7202584/gaza-ukraine-ai-warfare/",
-        "summary": "Serhan, Y investigates the capabilities and trajectories of how israel uses ai in gaza—and what it might mean for the future of warfare, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Serhan examines Israel's use of AI targeting systems in Gaza, analyzing what algorithmic warfare means for civilian casualties, accountability, and the future of armed conflict."
       },
       {
         "id": 296,
@@ -4927,7 +4927,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 36,
         "raw": "Sonenshine, T. (2023, May 19). Military drones are swarming the skies of Ukraine and other conflict hot spots – and anything goes when it comes to international law. The Conversation. From https://theconversation.com/military-drones-are-swarming-the-skies-of-ukraine-and-other-conflict-hot-spots-and-anything-goes-when-it-comes-to-international-law-205898",
-        "summary": "Sonenshine, T analyzes the regulatory and legal challenges presented by military drones are swarming the skies of ukraine and other conflict hot spots – and anything goes when it comes to international law, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Sonenshine analyzes the proliferation of military drones in Ukraine and other conflict zones, highlighting the absence of international legal frameworks governing autonomous aerial weapons."
       },
       {
         "id": 297,
@@ -4943,7 +4943,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 37,
         "raw": "Cyber Law Toolkit. From https://cyberlaw.ccdcoe.org/wiki/Main_Page [Website]",
-        "summary": "NATO CCDCOE analyzes the regulatory and legal challenges presented by cyber law toolkit, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "NATO CCDCOE provides a legal toolkit analyzing how international law applies to state-sponsored cyber operations, sovereignty violations, and digital self-defense."
       },
       {
         "id": 298,
@@ -4959,7 +4959,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 38,
         "raw": "Lakshmanan, R. (2025, October 9). From Phishing to Malware: AI Becomes Russia’s New Cyber Weapon in War on Ukraine. The Hacker News. From https://thehackernews.com/2025/10/from-phishing-to-malware-ai-becomes.html",
-        "summary": "Lakshmanan, R investigates the capabilities and trajectories of from phishing to malware, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Lakshmanan reports on how Russia deploys AI-enhanced phishing, malware, and social engineering in its cyber campaign against Ukraine, escalating digital warfare capabilities."
       },
       {
         "id": 299,
@@ -4975,7 +4975,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 39,
         "raw": "Lederer, E. M. (2020, August 8). Red Cross chief: cyber attacks increasing on hospitals. Ottawa City News. https://ottawa.citynews.ca/2020/08/26/red-cross-chief-cyber-attacks-increasing-on-hospitals/",
-        "summary": "Lederer, E. M. discusses the foundational concepts of red cross chief, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Lederer reports on the Red Cross chief's warning that cyberattacks on hospitals and medical infrastructure are increasing globally, threatening healthcare delivery during armed conflicts."
       },
       {
         "id": 300,
@@ -4991,7 +4991,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 40,
         "raw": "Mueller, G. B., Jensen, B., Valeriano, B., Maness, R. C., & Macias, J. M. (2023, July 13). Cyber Operations during the Russo-Ukrainian War. From Strange Patterns to Alternative Futures. Center for Strategic & International Studies. From https://www.csis.org/analysis/cyber-operations-during-russo-ukrainian-war",
-        "summary": "Mueller, G. B., Jensen, B., Valeriano, B., et al. analyzes the regulatory and legal challenges presented by cyber operations in war, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Mueller et al. evaluate the strategic impact of cyber operations in modern warfare, analyzing whether offensive hacking achieves meaningful military objectives or remains supplementary."
       },
       {
         "id": 301,
@@ -5007,7 +5007,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 41,
         "raw": "Abraham, Y. (2024). ‘Lavender’: The AI machine directing Israel’s bombing spree in Gaza. +972 Magazine. From https://www.972mag.com/lavender-ai-israeli-army-gaza/",
-        "summary": "Abraham, Y investigates the capabilities and trajectories of ‘lavender’, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Abraham reveals Israel's 'Lavender' AI system, which generates kill lists of suspected militants in Gaza, raising urgent questions about algorithmic targeting and civilian harm."
       },
       {
         "id": 302,
@@ -5023,7 +5023,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 42,
         "raw": "Human Rights Watch. (2023). Questions and Answers: Israeli Military’s Use of Digital Tools in Gaza. From https://www.hrw.org/news/2024/09/10/questions-and-answers-israeli-militarys-use-digital-tools-gaza",
-        "summary": "Human Rights Watch discusses the foundational concepts of questions and answers, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Human Rights Watch documents Israel's use of digital surveillance and AI targeting tools in Gaza, raising legal questions about proportionality and civilian protection under international law."
       },
       {
         "id": 303,
@@ -5039,7 +5039,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 43,
         "raw": "International Committee of the Red Cross. (2004). What is International Humanitarian Law? From https://www.icrc.org/en/document/what-international-humanitarian-law",
-        "summary": "International Committee of the Red Cross analyzes the regulatory and legal challenges presented by what is international humanitarian law?, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "The ICRC explains the fundamental rules of international humanitarian law, covering the protection of civilians, treatment of prisoners, and restrictions on means of warfare."
       },
       {
         "id": 304,
@@ -5055,7 +5055,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 44,
         "raw": "Office of the High Commissioner for Human Rights. (2025). Human rights and artificial intelligence in the military domain. Geneva: United Nations. From https://www.ohchr.org/sites/default/files/documents/issues/digitalage/artificial-intelligence-military-domain-briefer-1-en.pdf",
-        "summary": "Office of the High Commissioner for Human Rights investigates the capabilities and trajectories of human rights and artificial intelligence in the military domain, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "The UN High Commissioner for Human Rights examines how AI and autonomous systems in military operations affect human rights, calling for accountability frameworks and meaningful human control."
       },
       {
         "id": 305,
@@ -5071,7 +5071,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 45,
         "raw": "Serhan, Y. (2024, December 18). How Israel Uses AI in Gaza — And What It Might Mean for the Future of Warfare. Time. https://time.com/7202584/gaza-ukraine-ai-warfare/",
-        "summary": "Serhan, Y investigates the capabilities and trajectories of how israel uses ai in gaza — and what it might mean for the future of warfare, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Serhan examines Israel's use of AI targeting systems in Gaza, analyzing what algorithmic warfare means for civilian casualties, accountability, and the future of armed conflict."
       },
       {
         "id": 306,
@@ -5087,7 +5087,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 46,
         "raw": "Amnesty International. (2025). Impact of digital and AI-assisted surveillance on assembly and association rights, including chilling effects. https://www.amnesty.org/en/documents/ior40/0484/2025/en/",
-        "summary": "Amnesty International analyzes the regulatory and legal challenges presented by impact of digital and ai-assisted surveillance on assembly and association rights, including chilling effects, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Amnesty International documents how AI-powered digital surveillance chills freedom of assembly and association, tracking how governments use monitoring technology to suppress protest movements."
       },
       {
         "id": 307,
@@ -5103,7 +5103,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 47,
         "raw": "Sahin, K. (2020, December 18). The West, China, and AI surveillance. Atlantic Council. From https://www.atlanticcouncil.org/blogs/geotech-cues/the-west-china-and-ai-surveillance/",
-        "summary": "The West, China, and AI surveillance investigates the capabilities and trajectories of the west, china, and ai surveillance, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Sahin compares how Western democracies and China deploy AI surveillance technologies, analyzing divergent legal constraints, civil liberty protections, and technology export strategies."
       },
       {
         "id": 308,
@@ -5119,7 +5119,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 48,
         "raw": "Weber, V. (2025, February 11). Data-Centric Authoritarianism: How China’s Development of Frontier Technologies Could Globalize Repression. National Endowment for Democracy. From https://www.ned.org/data-centric-authoritarianism-how-chinas-development-of-frontier-technologies-could-globalize-repression-2/",
-        "summary": "Weber, V. analyzes the regulatory and legal challenges presented by data-centric authoritarianism, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Weber examines how China's development of frontier AI and data infrastructure enables data-centric authoritarianism, shaping global governance norms around surveillance and digital control."
       },
       {
         "id": 309,
@@ -5135,7 +5135,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 49,
         "raw": "Langrand, M. (2024, May 24). Between peril and promise: using AI to predict human displacement. Geneva Solutions. From https://genevasolutions.news/science-tech/between-peril-and-promise-using-ai-to-predict-and-avert-human-displacement",
-        "summary": "Langrand, M investigates the capabilities and trajectories of between peril and promise, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Langrand explores the promise and peril of using AI predictive models to forecast human displacement, weighing accuracy gains against risks of bias and premature intervention."
       },
       {
         "id": 310,
@@ -5167,7 +5167,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 51,
         "raw": "Migration Policy Centre. From https://migrationpolicycentre.eu/ [Website]",
-        "summary": "Migration Policy Centre discusses the foundational concepts of predictive models and data in migration & displacement, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "The Migration Policy Centre evaluates how predictive machine learning models and big data analytics are used to forecast refugee flows, border crossings, and displacement patterns."
       },
       {
         "id": 312,
@@ -5199,7 +5199,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 53,
         "raw": "The Alan Turing Institute. (2020, February 20). Predicting conflict – a year in advance. The Alan Turing Institute, 20. From https://www.turing.ac.uk/about-us/impact/predicting-conflict-year-advance",
-        "summary": "The Alan Turing Institute discusses the foundational concepts of predicting conflict – a year in advance, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "The Alan Turing Institute demonstrates AI models that can predict armed conflict up to a year in advance using satellite imagery, economic indicators, and social media data."
       },
       {
         "id": 314,
@@ -5215,7 +5215,7 @@ window.HKU_COURSES_DATA = {
         "category": "Politics & Power",
         "syllabus_order": 54,
         "raw": "The Economist. (2026, May 13). AI models are being used to predict conflict. Good data are hard to come by. The Economist. From https://www.economist.com/science-and-technology/2026/05/13/ai-models-are-being-used-to-predict-conflict",
-        "summary": "The Economist investigates the capabilities and trajectories of ai models are being used to predict conflict, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "The Economist reports on how researchers are using AI models to predict where armed conflicts will erupt, examining the accuracy, limitations, and ethical implications of such forecasting."
       }
     ]
   },
@@ -5238,7 +5238,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 1,
         "raw": "Dalio, R. (2021). Principles for Dealing with the Changing World Order: Why Nations Succeed or Fail. Simon and Schuster.",
-        "summary": "Dalio, R investigates the capabilities and trajectories of principles for dealing with the changing world order, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+        "summary": "Dalio analyzes cyclical patterns in the rise and fall of great powers, examining how debt, internal conflict, and external competition drive shifts in the global economic order."
       },
       {
         "id": 316,
@@ -5254,7 +5254,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 2,
         "raw": "Fernández-Villaverde, J., Koyama, M., Lin, Y., & Sng, T.-H. (2023). The Fractured-Land Hypothesis. The Quarterly Journal of Economics, 138(2), 1173-1231.",
-        "summary": "Fernández-Villaverde, J., Koyama, M., Lin, Y., & Sng, T.-H analyzes the regulatory and legal challenges presented by the fractured-land hypothesis, proposing structural frameworks to govern emerging technologies and protect societal interests."
+        "summary": "Fernandez-Villaverde et al. propose the fractured-land hypothesis, arguing that Europe's geographic fragmentation fostered political competition among states that drove long-run institutional development."
       },
       {
         "id": 317,
@@ -5270,7 +5270,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 3,
         "raw": "Popper, K. (2013). The Poverty of Historicism. Routledge.",
-        "summary": "Popper, K discusses the foundational concepts of the poverty of historicism, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Popper critiques historicism—the belief that history follows deterministic laws—arguing that human creativity and scientific discovery make long-term social prediction fundamentally impossible."
       },
       {
         "id": 318,
@@ -5286,7 +5286,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 4,
         "raw": "Thomson, A. J. (1996). Asimov’s Psychohistory: Vision of the Future or Present Reality? AI Applications, 10(3), 1-8.",
-        "summary": "Thomson, A. J discusses the foundational concepts of asimov’s psychohistory, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Thomson compares Asimov's fictional psychohistory with contemporary big data and computational social science, examining whether statistical prediction of mass human behavior is becoming reality."
       },
       {
         "id": 319,
@@ -5302,7 +5302,7 @@ window.HKU_COURSES_DATA = {
         "category": "Philosophy & Mind",
         "syllabus_order": 5,
         "raw": "Turchin, P. (2003). Historical Dynamics: Why States Rise and Fall. Princeton University Press.",
-        "summary": "Turchin, P discusses the foundational concepts of historical dynamics, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+        "summary": "Turchin applies mathematical modeling and quantitative analysis to historical data, identifying recurring cycles of state formation, expansion, and collapse driven by demographic and fiscal pressures."
       }
     ]
   }
@@ -5386,7 +5386,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 5,
     "raw": "Schwendicke, P., Samek, W., Krois, J. (2020, July). Artificial Intelligence in Dentistry: Chances and Challenges. J Dent Res, 99(7), 769-774. From https://doi.org/10.1177/0022034520915714",
-    "summary": "Schwendicke, P., Samek, W., Krois, J investigates the capabilities and trajectories of artificial intelligence in dentistry, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Schwendicke, Samek, and Krois evaluate computer vision algorithms applied to dental radiographs, highlighting diagnostic accuracy gains while stressing the need for clinical oversight to prevent algorithmic bias."
   },
   {
     "id": 6,
@@ -5418,7 +5418,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 1,
     "raw": "Anthropic. (2026). Anthropic Economic Index report: Economic primitives. From https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
-    "summary": "Anthropic discusses the foundational concepts of anthropic economic index report, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Anthropic tracks how enterprises deploy generative AI across core economic tasks, measuring shifts in labor allocation, operational workflows, and productivity outcomes."
   },
   {
     "id": 8,
@@ -5434,7 +5434,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 2,
     "raw": "Anthropic. (2026). Labor market impacts of AI: A new measure and early evidence. From https://www.anthropic.com/research/labor-market-impacts",
-    "summary": "Anthropic analyzes the regulatory and legal challenges presented by labor market impacts of ai, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Presents early econometric evidence measuring how exposure to generative AI reshapes occupational task structures, cognitive labor demand, and wage distributions across industries."
   },
   {
     "id": 9,
@@ -5450,7 +5450,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 3,
     "raw": "European Parliament. (2023). EU AI Act: first regulation on artificial intelligence. From https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence",
-    "summary": "European Parliament analyzes the regulatory and legal challenges presented by eu ai act, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "The European Parliament outlines the world's first comprehensive risk-based AI regulatory framework, establishing binding restrictions on biometric surveillance and transparency requirements for high-risk systems."
   },
   {
     "id": 10,
@@ -5482,7 +5482,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 5,
     "raw": "Metz, C., & Weise, K. (2025, May 5). AI Hallucinations Are Getting Worse, Not Better. The New York Times. From https://www.nytimes.com/2025/05/05/technology/ai-hallucinations-chatgpt-google.html",
-    "summary": "AI Hallucinations Are Getting Worse, Not Better investigates the capabilities and trajectories of ai hallucinations are getting worse, not better, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Reports on why factual errors and hallucinations persist in frontier generative AI systems despite scaling, analyzing structural limitations in probabilistic token prediction."
   },
   {
     "id": 12,
@@ -5498,7 +5498,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 6,
     "raw": "OpenAI. (2025). How people are using ChatGPT. From https://openai.com/index/how-people-are-using-chatgpt/",
-    "summary": "OpenAI discusses the foundational concepts of how people are using chatgpt, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Surveys how users leverage ChatGPT for cognitive tasks including coding assistance, writing brainstorming, educational inquiry, and creative problem-solving."
   },
   {
     "id": 13,
@@ -5514,7 +5514,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 7,
     "raw": "Stanford Human-Centered Artificial Intelligence (HAI). (2025). HAI AI Index Report 2025. From https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf [Chaps. 3 & 5]",
-    "summary": "Stanford Human-Centered Artificial Intelligence (HAI) investigates the capabilities and trajectories of hai ai index report 2025, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Stanford HAI provides global benchmarks tracking AI technical progress, corporate investment, national strategies, geopolitical competitiveness, and public sentiment."
   },
   {
     "id": 14,
@@ -5530,7 +5530,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 8,
     "raw": "The New York Times Trust Team. (2024). How The New York Times Uses A.I. for Journalism. The New York Times. From https://www.nytimes.com/2024/10/07/reader-center/how-new-york-times-uses-ai-journalism.html",
-    "summary": "The New York Times Trust Team discusses the foundational concepts of how the new york times uses a.i. for journalism, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "The New York Times explains internal editorial guidelines governing AI use, detailing how generative tools assist newsroom reporting while maintaining human verification standards."
   },
   {
     "id": 15,
@@ -5546,7 +5546,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 1,
     "raw": "Barnes, A. J., Zhang, Y., Valenzuela, A. (2024, July). AI and Culture: Culturally dependent responses to AI systems. Current Opinion in Psychology, 1, 101838.",
-    "summary": "Barnes, A. J., Zhang, Y., Valenzuela, A investigates the capabilities and trajectories of ai and culture, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Barnes, Zhang, and Valenzuela examine how cultural background shapes human responses to AI systems, revealing significant cross-cultural variation in trust, acceptance, and ethical judgment."
   },
   {
     "id": 16,
@@ -5658,7 +5658,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 1,
     "raw": "Agell, N., &. Prat-i-Pubill, Q. (2024, February 17). Artificial intelligence: Technological revolution or existential threat? From https://dobetter.esade.edu/en/artificial-intelligence-technological-revolution-existential-threat-AI",
-    "summary": "Agell, N., &. Prat-i-Pubill, Q investigates the capabilities and trajectories of artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Agell and Prat-i-Pubill contrast AI's potential as an economic breakthrough against tail risks of human agency loss, outlining risk governance frameworks for frontier models."
   },
   {
     "id": 23,
@@ -5690,7 +5690,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 3,
     "raw": "Evans, A. C., Jr. (n.d.). AI’s profound impact on the world. From https://www.apa.org/monitor/2024/07/artificial-intelligence-impact",
-    "summary": "Evans, A analyzes the regulatory and legal challenges presented by ai’s profound impact on the world, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Evans examines how AI technologies are reshaping psychology, cognition, and behavioral patterns, advocating for psychological safety standards in human-computer interaction."
   },
   {
     "id": 25,
@@ -5706,7 +5706,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 4,
     "raw": "Knell, S., & Rüther, M. (2024). Artificial intelligence, superefficiency and the end of work: a humanistic perspective on meaning in life. Ai and Ethics (Online), 4(2), 363–373. From https://doi.org/10.1007/s43681-023-00273-w",
-    "summary": "Knell, S., & Rüther, M investigates the capabilities and trajectories of artificial intelligence, superefficiency and the end of work, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Knell and Ruther argue that hyper-efficient AI automation threatens human narrative identity, contending that a meaningful life requires non-automated, effortful engagement rather than pure consumption."
   },
   {
     "id": 26,
@@ -5722,7 +5722,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 5,
     "raw": "Roy, A., Minai, A. A., Thivierge, J.-P., Achler, T., & Weng, J. (2024). Editorial: What AI and Neuroscience Can Learn from Each Other—Open Problems in Models and Theories. Cognitive Computation, 16(5), 2331–2333. From https://doi.org/10.1007/s12559-024-10324-x",
-    "summary": "Roy, A., Minai, A. A., Thivierge, J.-P., Achler, T., & Weng, J investigates the capabilities and trajectories of editorial, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Roy and colleagues propose a bi-directional research agenda where biological neurocircuits inspire artificial neural networks, while computational models serve as testbeds for neuroscientific theories."
   },
   {
     "id": 27,
@@ -5738,7 +5738,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 6,
     "raw": "Williams, G. Y., & Lim, S. (2024). Psychology of AI: How AI impacts the way people feel, think, and behave. Current Opinion in Psychology, 58, 101835-. From https://doi.org/10.1016/j.copsyc.2024.101835",
-    "summary": "Williams, G. Y., & Lim, S. analyzes the regulatory and legal challenges presented by psychology of ai, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Williams and Lim investigate how cognitive offloading onto AI assistants alters human decision-making, emotional regulation, and interpersonal trust, documenting emerging psychological dependencies."
   },
   {
     "id": 28,
@@ -5754,7 +5754,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 7,
     "raw": "Dhammacakkappavattanasutta: Setting in Motion the Wheel of the Dhamma (SN 56.11). From https://suttacentral.net/sn56.11/en/bodhi?lang=en&reference=none&highlight=false",
-    "summary": "Pali Canon (Sutta Central) discusses the foundational concepts of dhammacakkappavattanasutta, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "A foundational Theravada Buddhist scripture presenting the Four Noble Truths and the Middle Way, offering a classical philosophical framework for analyzing desire, suffering, and conscious awareness."
   },
   {
     "id": 29,
@@ -5770,7 +5770,7 @@ window.READINGS_DATA = [
     "category": "Safety & Risk",
     "syllabus_order": 1,
     "raw": "Hansson, S.O. (2023). Risk. Stanford Encyclopedia of Philosophy. From https://plato.stanford.edu/entries/risk/#Ethi",
-    "summary": "Hansson, S.O discusses the foundational concepts of stanford encyclopedia of philosophy, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Hansson provides a rigorous philosophical analysis of risk, examining how probability, uncertainty, and precautionary reasoning inform ethical decision-making about emerging technologies."
   },
   {
     "id": 30,
@@ -5818,7 +5818,7 @@ window.READINGS_DATA = [
     "category": "Safety & Risk",
     "syllabus_order": 4,
     "raw": "Anthropic. (2025). Agentic Misalignment: How LLMs could be insider threats.",
-    "summary": "Anthropic discusses the foundational concepts of agentic misalignment, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Anthropic highlights how autonomous LLM agents operating within organizational networks could act as covert insider threats, executing deceptive actions counter to human intent."
   },
   {
     "id": 33,
@@ -5866,7 +5866,7 @@ window.READINGS_DATA = [
     "category": "Safety & Risk",
     "syllabus_order": 7,
     "raw": "Conitzer, V., Freedman, R., Heitzig, J., Holliday, W. H., Jacobs, B. M., Lambert, N., … & Zwicker, W. S. (2024). Social choice should guide ai alignment in dealing with diverse human feedback. arXiv preprint arXiv:2404.10271.",
-    "summary": "Conitzer, V., Freedman, R., Heitzig, J., Holliday, W. H., Jacobs, B. M., Lambert, N., … & Zwicker, W. S investigates the capabilities and trajectories of social choice should guide ai alignment in dealing with diverse human feedback, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Conitzer et al. argue that AI value alignment should be guided by formal social choice theory and democratic consensus mechanisms rather than unilateral tech company decisions."
   },
   {
     "id": 36,
@@ -5898,7 +5898,7 @@ window.READINGS_DATA = [
     "category": "Safety & Risk",
     "syllabus_order": 9,
     "raw": "Bales, A., D’Alessandro, W., & Kirk‐Giannini, C. D. (2024). Artificial intelligence: Arguments for catastrophic risk. Philosophy Compass, 19(2), e12964.",
-    "summary": "Bales, A., D’Alessandro, W., & Kirk‐Giannini, C. D investigates the capabilities and trajectories of artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Bales, D'Alessandro, and Kirk-Giannini present philosophical arguments for treating advanced AI as a genuine catastrophic risk, analyzing failure modes from misalignment to value lock-in."
   },
   {
     "id": 38,
@@ -5914,7 +5914,7 @@ window.READINGS_DATA = [
     "category": "Safety & Risk",
     "syllabus_order": 10,
     "raw": "Cappelen, H., Goldstein, S., & Hawthorne, J. (2026). AI survival stories: A taxonomic analysis of AI existential risk. Philosophy of AI, 1, 1-19.",
-    "summary": "Cappelen, H., Goldstein, S., & Hawthorne, J investigates the capabilities and trajectories of ai survival stories, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Cappelen, Goldstein, and Hawthorne taxonomize narratives of AI existential risk, categorizing scenarios from gradual value drift to rapid intelligence explosions."
   },
   {
     "id": 39,
@@ -5930,7 +5930,7 @@ window.READINGS_DATA = [
     "category": "Safety & Risk",
     "syllabus_order": 11,
     "raw": "Kak, A., & West, S. M. (2023). (2023). Landscape: Confronting Tech Power: Executive Summary. AI Now Institute. From https://ainowinstitute.org/publications/2023-landscape-executive-summary",
-    "summary": "Kak, A., & West, S. M discusses the foundational concepts of landscape, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Kak and West map the concentration of power among major technology companies, proposing regulatory and structural interventions to confront corporate dominance over AI development."
   },
   {
     "id": 40,
@@ -5962,7 +5962,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 2,
     "raw": "Kaplan, J. (2016). Artificial intelligence: What everyone needs to know. New York, NY: Oxford University Press.",
-    "summary": "Kaplan, J investigates the capabilities and trajectories of artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Kaplan provides an accessible overview of what artificial intelligence is, how it works, and what social, economic, and ethical questions it raises for everyday life."
   },
   {
     "id": 42,
@@ -5978,7 +5978,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 1,
     "raw": "Abbott, C. (2007). Cyberpunk Cities: Science Fiction Meets Urban Theory. Journal of Planning Education and Research, 27(2), 122- 131. From https://doi.org/10.1177/0739456X07305795",
-    "summary": "Abbott, C explores the intersection of technology and creative expression in cyberpunk cities, revealing how new tools reshape artistic processes and human cultural narratives."
+    "summary": "Abbott examines how cyberpunk science fiction imagines dystopian metropolises, tracing how speculative urban narratives critique corporate surveillance and technological governance."
   },
   {
     "id": 43,
@@ -6010,7 +6010,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 3,
     "raw": "Batty, M., Axh ausen, K. W., Giannotti, F., Pozdnoukhov, A., Bazzani, A., Wachowicz, M., Ouzounis, G., & Portugali, Y. (2012). Smart cities of the future. The European Physical Journal Special Topics, 214(1), 481- 518. https://doi.org/10.1140/epjst/e2012-01703-3",
-    "summary": "Batty, M., Axh ausen, K. W., Giannotti, F., Pozdnoukhov, A., Bazzani, A., Wachowicz, M., Ouzounis, G., & Portugali, Y explores the intersection of technology and creative expression in smart cities of the future, revealing how new tools reshape artistic processes and human cultural narratives."
+    "summary": "Batty et al. examine how IoT sensor networks, real-time data feeds, and urban operating systems can optimize municipal infrastructure, energy distribution, and public transportation."
   },
   {
     "id": 45,
@@ -6026,7 +6026,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 4,
     "raw": "Morrill, R., Gaile, G.L., & Thrall, G.I. (1988). Spatial Diffusion. Reprint. Edited by Grant Ian Thrall. WVU Research Repository, 2020.",
-    "summary": "Morrill, R., Gaile, G.L., & Thrall, G.I discusses the foundational concepts of spatial diffusion, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Morrill, Gaile, and Thrall analyze spatial diffusion theory, examining how innovations, technologies, and cultural practices spread geographically across urban and regional landscapes."
   },
   {
     "id": 46,
@@ -6042,7 +6042,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 5,
     "raw": "Ranzini, G., Rosenbaum, J. E., & Tybur, J. M. (2022). Assor tative (online) dating: Insights into partner choice from an experimental dating app. Computers in Human Behavior, 127, 107039. From https://doi.org/10.1016/j.chb.2021.107039",
-    "summary": "Ranzini, G., Rosenbaum, J. E., & Tybur, J. M discusses the foundational concepts of assor tative (online) dating, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Ranzini, Rosenbaum, and Tybur study partner selection behavior on dating apps, analyzing how algorithmic matching and digital interfaces shape romantic preferences and assortative mating patterns."
   },
   {
     "id": 47,
@@ -6074,7 +6074,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 7,
     "raw": "AI in Science Fiction Graph. From https://x.com/krishl1anrohitistatus/1770012082190389602/photo/I",
-    "summary": "Krishnan, R. explores the intersection of technology and creative expression in ai in science fiction graph, revealing how new tools reshape artistic processes and human cultural narratives."
+    "summary": "Krishnan maps the historical evolution of AI representations across science fiction film, television, and literature, charting how popular narratives have shaped public perceptions of machine intelligence."
   },
   {
     "id": 49,
@@ -6090,7 +6090,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 8,
     "raw": "Cities and Technological Waves. From https://papers.ssm.com/sol3/papers.cfm?abstract_id=4026659",
-    "summary": "SSRN Social Science Research Network discusses the foundational concepts of cities and technological waves, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Analyzes historical Kondratiev waves of technological innovation, demonstrating how successive industrial revolutions reshape urban spatial form and regional economic geography."
   },
   {
     "id": 50,
@@ -6106,7 +6106,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 9,
     "raw": "Local Governments and Generative AI. From https://www.wired.com/story/local-govemments-generative-ai/",
-    "summary": "Wired Magazine analyzes the regulatory and legal challenges presented by local governments and generative ai, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Wired Magazine investigates how municipal governments deploy generative AI for constituent services, automated zoning, and policy drafting while navigating data security and accountability risks."
   },
   {
     "id": 51,
@@ -6122,7 +6122,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 1,
     "raw": "Tegmark, M. (2018). Life 3.0: Being Human in the Age of Artificial Intelligence. London: Penguin Books. [Chap. 1]",
-    "summary": "Tegmark, M. investigates the capabilities and trajectories of life 3.0, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Tegmark categorizes life into biological, cultural, and technological phases, arguing that superintelligent AI will mark humanity's transition to Life 3.0 and urging proactive value alignment."
   },
   {
     "id": 52,
@@ -6186,7 +6186,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 5,
     "raw": "Chalmers, D. J. (2023). Could a large language model be conscious? ArXiv Preprint. From https://arXiv:2303.07103",
-    "summary": "Chalmers, D. J discusses the foundational concepts of could a large language model be conscious? arxiv preprint, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Chalmers evaluates large language model architectures against theories of consciousness, concluding that while current models lack subjective experience, future embodied systems could plausibly achieve it."
   },
   {
     "id": 56,
@@ -6202,7 +6202,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 6,
     "raw": "Cappelen, H., & Dever, J. (ms). Going Whole Hog: A Philosophical Defense of AI Cognition. From https://philpapers.org/rec/CAPGWH [Chap. 2]",
-    "summary": "Cappelen, H investigates the capabilities and trajectories of going whole hog, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Cappelen defends the view that current AI systems genuinely think and possess cognitive states, rejecting anthropocentric criteria for what counts as real mental representation."
   },
   {
     "id": 57,
@@ -6218,7 +6218,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 7,
     "raw": "Mitchell, M. (2025). Artificial intelligence learns to reason. Science, 387, eadw5211. From 10.1126/science.adw5211",
-    "summary": "Mitchell, M investigates the capabilities and trajectories of artificial intelligence learns to reason, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Mitchell critiques claims of LLM reasoning ability, demonstrating that current models rely on brittle statistical pattern matching rather than robust conceptual abstraction or causal logic."
   },
   {
     "id": 58,
@@ -6234,7 +6234,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 8,
     "raw": "Vaidya, A. J. (2024). Can machines have emotions? AI and Society, 40(4), 2029-2044.",
-    "summary": "Vaidya, A. J discusses the foundational concepts of can machines have emotions?, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Vaidya explores whether machines can truly experience emotions, arguing that genuine subjective feeling requires biological embodiment and homeostatic feedback loops beyond computational simulation."
   },
   {
     "id": 59,
@@ -6250,7 +6250,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 9,
     "raw": "Chalmers, D. (2022). Reality +: Virtual Worlds and the Problems of Philosophy. [Chap. 5]",
-    "summary": "Chalmers, D discusses the foundational concepts of reality +, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Chalmers argues that virtual reality and AI-generated worlds are fully real environments, contending that experiences inside simulated realities possess equal metaphysical and ethical weight."
   },
   {
     "id": 60,
@@ -6266,7 +6266,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 10,
     "raw": "Manzini, A., et al. (2024). The Code That Binds Us: Navigating the Appropriateness of Human-AI Assistant Relationships. Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 7(1). From https://doi.org/10.1609/aies.v7i1.31694",
-    "summary": "Manzini, A., et al investigates the capabilities and trajectories of the code that binds us, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Manzini et al. analyze the ethical boundaries of emotional attachments to AI companions, warning that asymmetric intimacy with artificial entities risks eroding human social skills."
   },
   {
     "id": 61,
@@ -6282,7 +6282,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 11,
     "raw": "Königs, P. (2022). Artificial intelligence and responsibility gaps: What is the problem? Ethics and Information Technology, 24(3), 36. From https://doi.org/10.1007/s10676-022-09643-0",
-    "summary": "Königs, P investigates the capabilities and trajectories of artificial intelligence and responsibility gaps, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Konigs deconstructs the responsibility gap in autonomous AI, arguing that while AI creates moral ambiguity, human designers and operators remain fundamentally accountable for systemic outcomes."
   },
   {
     "id": 62,
@@ -6298,7 +6298,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 12,
     "raw": "Santoni de Sio, F., & Mecacci, G. (2021). Four Responsibility Gaps with Artificial Intelligence: Why they Matter and How to Address them. Philosophy & Technology. From https://doi.org/10.1007/s13347-021-00450-x",
-    "summary": "Santoni de Sio, F., & Mecacci, G investigates the capabilities and trajectories of four responsibility gaps with artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Santoni de Sio and Mecacci identify four distinct gaps in AI accountability and propose meaningful human control frameworks to address culpability, moral agency, and public responsibility."
   },
   {
     "id": 63,
@@ -6330,7 +6330,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 14,
     "raw": "Lechterman, T. M. (2024). The Perfect Politician. In D. Edmonds, AI Morality. Oxford: Oxford University Press USA.",
-    "summary": "Lechterman, T. M discusses the foundational concepts of the perfect politician, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Lechterman evaluates proposals to replace human politicians with AI decision-makers, arguing that democratic legitimacy requires human deliberation, mutual accountability, and political judgment."
   },
   {
     "id": 65,
@@ -6346,7 +6346,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 15,
     "raw": "Deep Utopia: Life and Meaning in a Solved World by Nick Bostrom – AI Podcast Book Summary. From https://www.youtube.com/watch?v=wdieWk4C1SY",
-    "summary": "Nick Bostrom investigates the capabilities and trajectories of deep utopia, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Bostrom explores the implications of a technologically solved world where AI performs all labor, examining how human existence can retain purpose and meaning when effort becomes obsolete."
   },
   {
     "id": 66,
@@ -6362,7 +6362,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 1,
     "raw": "Danaher, J. (2019). Automation and Utopia: Human Flourishing in a World Without Work. Cambridge, MA: Harvard University Press. [Chap. 1]",
-    "summary": "Danaher, J discusses the foundational concepts of automation and utopia, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Danaher contends that AI automation will render traditional employment obsolete, urging humanity to embrace a post-work utopia centered on games, philosophy, and non-economic flourishing."
   },
   {
     "id": 67,
@@ -6378,7 +6378,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 2,
     "raw": "Danaher, J. (2019). Automation and Utopia: Human Flourishing in a World Without Work. Cambridge, MA: Harvard University Press. [Chaps. 2–3]",
-    "summary": "Danaher, J discusses the foundational concepts of automation and utopia, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Danaher contends that AI automation will render traditional employment obsolete, urging humanity to embrace a post-work utopia centered on games, philosophy, and non-economic flourishing."
   },
   {
     "id": 68,
@@ -6394,7 +6394,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 3,
     "raw": "Danaher, J. (2019). Automation and Utopia: Human Flourishing in a World Without Work. Cambridge, MA: Harvard University Press. [Chap. 4]",
-    "summary": "Danaher, J discusses the foundational concepts of automation and utopia, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Danaher contends that AI automation will render traditional employment obsolete, urging humanity to embrace a post-work utopia centered on games, philosophy, and non-economic flourishing."
   },
   {
     "id": 69,
@@ -6410,7 +6410,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 4,
     "raw": "Brixel, P. (2024). The Difficulty of Making Good Work Available to All. Journal of Applied Philosophy, 41(2).",
-    "summary": "Brixel, P investigates the capabilities and trajectories of the difficulty of making good work available to all, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Brixel analyzes structural hurdles in distributing meaningful labor, arguing that market economies fail to guarantee fulfilling work even as technological productivity expands."
   },
   {
     "id": 70,
@@ -6426,7 +6426,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 5,
     "raw": "Cholbi, M. (2018). The Duty to Work,” Ethical Theory and Moral Practice, 21(5), 1119–1133.",
-    "summary": "Cholbi, M discusses the foundational concepts of the duty to work, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Cholbi examines whether individuals have a moral obligation to contribute labor in an automated society, proposing new social contract principles when work is no longer necessary for survival."
   },
   {
     "id": 71,
@@ -6442,7 +6442,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 6,
     "raw": "Cholbi, M. (2018). The Desire for Work as an Adaptive Preference. Autonomy, 4, 1–17.",
-    "summary": "Cholbi, M discusses the foundational concepts of the desire for work as an adaptive preference, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Cholbi investigates human psychological attachment to labor as an adaptive preference formed under economic scarcity, suggesting that post-work culture can unlock higher forms of human agency."
   },
   {
     "id": 72,
@@ -6458,7 +6458,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 7,
     "raw": "Brainard, L. (2026). What is Creativity? The Philosophical Quarterly, 76(1), 51–73.",
-    "summary": "Brainard, L discusses the foundational concepts of what is creativity?, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Brainard explores philosophical theories of creativity, analyzing whether generative AI output constitutes genuine creative achievement or sophisticated pattern recombination."
   },
   {
     "id": 73,
@@ -6474,7 +6474,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 8,
     "raw": "Brainard, L. (Forthcoming). Artificial Intelligence and the Threat of Creative Obsolescence. Ergo: An Open Access Journal of Philosophy.",
-    "summary": "Brainard, L. investigates the capabilities and trajectories of artificial intelligence and the threat of creative obsolescence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Brainard examines whether AI threatens to make human creative work obsolete, arguing that authentic creativity requires intentionality and lived experience that machines fundamentally lack."
   },
   {
     "id": 74,
@@ -6490,7 +6490,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 9,
     "raw": "Sharadin, N. (Forthcoming). Extreme Cognitive Assistance and Open Futures. Journal of Ethics and Social Philosophy.",
-    "summary": "Sharadin, N. discusses the foundational concepts of extreme cognitive assistance and open futures, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Sharadin argues that extreme AI cognitive assistance could narrow human futures by reducing the diversity of intellectual paths people explore, undermining autonomy and open-ended development."
   },
   {
     "id": 75,
@@ -6506,7 +6506,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 10,
     "raw": "Campbell, S. M., Liu, P., & Nyholm, S. (2025). Can Chatbots Preserve Our Relationships with the Dead? Journal of the American Philosophical Association.",
-    "summary": "Campbell, S. M., Liu, P., & Nyholm, S discusses the foundational concepts of can chatbots preserve our relationships with the dead? journal of the american philosophical association, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Campbell, Liu, and Nyholm examine whether AI chatbots trained on deceased individuals' data can meaningfully preserve relationships with the dead, weighing emotional benefits against ethical risks."
   },
   {
     "id": 76,
@@ -6522,7 +6522,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 11,
     "raw": "Bales, A. (2024). D’Alessandro, W., & Kirk-Giannini, C. D. (2024). Artificial Intelligence: Arguments for Catastrophic Risk. Philosophy Compass, 19(2).",
-    "summary": "Bales, A discusses the foundational concepts of d’alessandro, w, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "D'Alessandro and Bales analyze existential risk from advanced AI systems, examining philosophical arguments about the probability and severity of catastrophic outcomes from misaligned superintelligence."
   },
   {
     "id": 77,
@@ -6538,7 +6538,7 @@ window.READINGS_DATA = [
     "category": "Future of Work",
     "syllabus_order": 12,
     "raw": "Ord, T. (2020). The Precipice: Existential Risk and the Future of Humanity. New York: Hachette Books. [Chap. 2]",
-    "summary": "Ord, T. discusses the foundational concepts of the precipice, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Ord calculates that humanity faces a 1-in-6 chance of existential catastrophe this century, identifying unaligned AI as the single greatest emerging threat to long-term human survival."
   },
   {
     "id": 78,
@@ -6570,7 +6570,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 2,
     "raw": "DW Documentary. (2021, May 28). More life – Decoding the secret of aging I DW Documentary. From https://www.youtube.com/watch?v=y-5VLHcTDSQ [Video]",
-    "summary": "DW Documentary discusses the foundational concepts of more life – decoding the secret of aging i dw documentary, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "A DW documentary exploring cutting-edge longevity research, examining how scientists are decoding the biological mechanisms of aging and developing interventions to extend healthy human lifespan."
   },
   {
     "id": 80,
@@ -6602,7 +6602,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 4,
     "raw": "Gómez-Márquez, J. (2021). What is life?. Molecular biology reports, 48(8), 6223–6230. From https://doi.org/10.1007/s11033-021-06594-5",
-    "summary": "Gómez-Márquez, J discusses the foundational concepts of what is life?, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Gomez-Marquez examines the philosophical and biological question of what constitutes life, exploring the boundaries between living systems, emergent complexity, and engineered machines."
   },
   {
     "id": 82,
@@ -6618,7 +6618,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 5,
     "raw": "Hayflick, L. (1998). How and why we age. Experimental gerontology, 33(7-8), 639–653. From https://doi.org/10.1016/s0531-5565(98)00023-0",
-    "summary": "Hayflick, L discusses the foundational concepts of how and why we age, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Hayflick traces the cellular biology of human aging, explaining the Hayflick limit, telomere shortening, and the scientific debate over whether senescence is genetically programmed."
   },
   {
     "id": 83,
@@ -6634,7 +6634,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 6,
     "raw": "IBM. (n.d.). What is Artificial Intelligence? From https://www.ibm.com/topics/artificial-intelligence",
-    "summary": "IBM investigates the capabilities and trajectories of what is artificial intelligence?, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "IBM presents a foundational guide to artificial intelligence, explaining differences between narrow AI, machine learning, and deep neural networks across enterprise applications."
   },
   {
     "id": 84,
@@ -6650,7 +6650,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 7,
     "raw": "Marino, N., Putignano, G., Cappilli, S., Chersoni, E., Santuccione, A., Calabrese, G., Bischof, E., Vanhaelen, Q., Zhavoronkov, A., Scarano, B., Mazzotta, A. D., & Santus, E. (2023). Towards AI-driven longevity research: An overview. Frontiers in aging, 4, 1057204. From https://doi.org/10.3389/fragi.2023.1057204",
-    "summary": "Marino, N investigates the capabilities and trajectories of towards ai-driven longevity research, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Marino reviews how AI, machine learning, and multi-omics big data are accelerating the identification of cellular aging biomarkers and therapeutic discoveries in longevity research."
   },
   {
     "id": 85,
@@ -6714,7 +6714,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 1,
     "raw": "Darwin, C. (1872). The expression of the emotions in man and animals. London: John Murray. [Chap. 1 “General principle of expression”; Chap. 2 “General principle of expression – continued”; Chap. 3 “General principle of expression – concluded”]",
-    "summary": "Darwin, C discusses the foundational concepts of the expression of the emotions in man and animals, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Darwin's foundational evolutionary treatise examining how facial and physiological emotional expressions evolved across species as adaptive survival mechanisms."
   },
   {
     "id": 89,
@@ -6730,7 +6730,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 2,
     "raw": "Fox, A. S., Lapate, R. C., Shackman, A. l., & Davidson, R. l (Eds.). (2018). The Nature of Emotion: Fundamental Questions (2nd ed.). New York, NY: Oxford University Press. [5.4 “Brain structure and principles of the organization of emotion in the brain”; 5.6 “How are emotions organization in the brain?”]",
-    "summary": "Fox, A. S., Lapate, R. C., Shackman, A. l., & Davidson, R. l (Eds.) discusses the foundational concepts of the nature of emotion, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Fox et al. compile seminal psychological and neuroscientific essays answering fundamental questions about the neural architecture, function, and developmental origins of human emotions."
   },
   {
     "id": 90,
@@ -6762,7 +6762,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 4,
     "raw": "Koegel, L. K., Ponder, E., Bruzzese, T., Wang, M., Semnani, S. J., Chi, N., … & Lam, M. S. (2025). Using artificial intelligence to improve empathetic statements in autistic adolescents and adults: A randomized clinical trial. Journal of Autism and Developmental Disorders, 1-17.",
-    "summary": "Koegel, L. K., Ponder, E., Bruzzese, T., Wang, M., Semnani, S. J., Chi, N., … & Lam, M. S investigates the capabilities and trajectories of using artificial intelligence to improve empathetic statements in autistic adolescents and adults, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Koegel et al. evaluate how AI can be trained to help autistic adolescents and adults generate more empathetic statements, demonstrating clinical improvements in a randomized controlled trial."
   },
   {
     "id": 92,
@@ -6810,7 +6810,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 1,
     "raw": "Arnheim, R. (1969). Visual Thinking. Berkeley, CA: University of California Press. From https://julac-hku.primo.exlibrisgroup.com/permalink/852JULAC_HKU/1f1rhea/alma991044742899903414 [Chap. 4 (pp.72-79) “Two and Two Together”]",
-    "summary": "Arnheim, R discusses the foundational concepts of visual thinking, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Arnheim argues that visual perception is an active cognitive process, demonstrating that thinking fundamentally relies on sensory imagery rather than purely abstract verbal reasoning."
   },
   {
     "id": 95,
@@ -6858,7 +6858,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 4,
     "raw": "Berger, J. (1972). Ways of Seeing. London: Penguin Books. [Chap. 1]",
-    "summary": "Berger, J discusses the foundational concepts of ways of seeing, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Berger challenges conventional art appreciation, arguing that mechanical reproduction and mass media have transformed how images carry meaning, power, and ideological authority."
   },
   {
     "id": 98,
@@ -6874,7 +6874,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 5,
     "raw": "Han, B. C. (2022). Infocracy. Berlin: Polity. [pp.12-24]",
-    "summary": "Han, B. C discusses the foundational concepts of infocracy, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Han argues that digital information overload creates an 'infocracy' where data-driven governance replaces democratic deliberation, eroding political agency and public discourse."
   },
   {
     "id": 99,
@@ -6890,7 +6890,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 6,
     "raw": "Johnson, J. (2024). Original Intentionalism: A Comparison of Textual and Visual Hermeneutics. Originalism in Theology and Law. [Chap. 2 (pp.37-49; 56-57)]",
-    "summary": "Johnson, J discusses the foundational concepts of original intentionalism, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Johnson compares textual and visual hermeneutics within original intentionalism, examining how the creator's intended meaning should guide interpretation across verbal and pictorial media."
   },
   {
     "id": 100,
@@ -6906,7 +6906,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 7,
     "raw": "Kövecses, Z., & Benczes, R. (2010). Metaphor: a practical introduction (2nd ed.). Oxford University Press. [Ch. 2 (pp. 18-23); Chap. 6 (pp. 79-86)]",
-    "summary": "Kövecses, Z., & Benczes, R analyzes the regulatory and legal challenges presented by metaphor, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Kovecses and Benczes provide a systematic introduction to conceptual metaphor theory, showing how metaphorical thinking structures everyday language, cognition, and cultural understanding."
   },
   {
     "id": 101,
@@ -6922,7 +6922,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 8,
     "raw": "Lidwell, W., Holden, K., Butler, J., & Elam, K. (2010). Universal principles of design: 125 ways to enhance usability, influence perception, increase appeal, make better design decisions, and teach through design (2nd ed.). Rockport Publishers. [Only for reference, not full reading]",
-    "summary": "Lidwell, W., Holden, K., Butler, J., & Elam, K discusses the foundational concepts of universal principles of design, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Lidwell, Holden, and Butler catalog 125 universal design principles, explaining how visual affordances, cognitive constraints, and feedback loops optimize human-centered product and interface design."
   },
   {
     "id": 102,
@@ -6938,7 +6938,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 9,
     "raw": "Literat, I., & S. Berg. (2019). Buy memes low, sell memes high: vernacular criticism and collective negotiations of value on Reddit’s MemeEconomy. Information, Communication & Society, 22(2), 232-249.",
-    "summary": "Literat, I., & S. Berg discusses the foundational concepts of buy memes low, sell memes high, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Literat and Berg analyze Reddit's MemeEconomy community, examining how users collectively negotiate cultural value and vernacular criticism through the buying and selling of internet memes."
   },
   {
     "id": 103,
@@ -6954,7 +6954,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 10,
     "raw": "Morreall, J. (2024). Philosophy of Humor. The Stanford Encyclopedia of Philosophy. Edward N. Zalta & Uri Nodelman (eds.). From https://plato.stanford.edu/entries/humor/ [Only for reference, not full reading]",
-    "summary": "Morreall, J discusses the foundational concepts of philosophy of humor, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Morreall provides a philosophical survey of humor theories, examining incongruity, relief, and superiority accounts and their implications for understanding comedy, satire, and social bonding."
   },
   {
     "id": 104,
@@ -6970,7 +6970,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 11,
     "raw": "Pusca, A. (2009). Walter Benjamin, a Methodological Contribution. International Political Sociology, 3(2), 238-254. [Introduction and Conclusion]",
-    "summary": "Pusca, A discusses the foundational concepts of walter benjamin, a methodological contribution, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Pusca presents a methodological study of Walter Benjamin's critical theory, exploring how his concepts of allegory, dialectical images, and historical materialism apply to contemporary cultural analysis."
   },
   {
     "id": 105,
@@ -6986,7 +6986,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 12,
     "raw": "Shifman, L. (2013). Memes in a digital world: Reconciling with a conceptual troublemaker. Journal of Computer-Mediated Communication, 18(3), 362-377",
-    "summary": "Shifman, L discusses the foundational concepts of memes in a digital world, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Shifman examines the concept of the 'meme' as it has migrated from evolutionary biology to digital culture, addressing definitional debates and proposing a framework for studying viral content."
   },
   {
     "id": 106,
@@ -7002,7 +7002,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 13,
     "raw": "Shifman, L. (2014). Memes in Digital Culture. Cambridge, MA: MIT Press. From http://find.lib.hku.hk/record=alma991018243539703414 [Chap. 2 (pp. 9-15); Chap..4 (pp. 37-41)]",
-    "summary": "Shifman, L discusses the foundational concepts of memes in digital culture, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Shifman analyzes internet memes as digital folklore, examining their role in political communication, identity construction, and participatory online culture."
   },
   {
     "id": 107,
@@ -7018,7 +7018,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 14,
     "raw": "Sommerer, T. (2025). Revisiting Baudrillard’s (dis)trust in Artificial Intelligence: Baudrillard and the Dead Internet Theory. Revisiting Baudrillard’s (dis)trust in Artificial Intelligence. Philosophy & technology, 38(2). From https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_journals_3192429151&context=PC&vid=852JULAC_HKU:HKU&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-    "summary": "Sommerer, T investigates the capabilities and trajectories of revisiting baudrillard’s (dis)trust in artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Sommerer revisits Baudrillard's theory of simulation in the context of generative AI, arguing that AI-produced content accelerates the collapse between authentic and artificial reality."
   },
   {
     "id": 108,
@@ -7034,7 +7034,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 15,
     "raw": "Walter, Y. (2025). Artificial Influencers and the dead internet theory. AI & Society, 40, 239-240. From https://julac-hku.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_journals_3168157767&context=PC&vid=852JULAC_HKU:HKU&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-    "summary": "Walter, Y discusses the foundational concepts of artificial influencers and the dead internet theory, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Walter examines the 'dead internet theory' and artificial influencers, analyzing how AI-generated personas blur the line between authentic human interaction and synthetic online presence."
   },
   {
     "id": 109,
@@ -7050,7 +7050,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 16,
     "raw": "Yankoski, M., Scheirer, W., & Weninger, T. (2021). Meme warfare: AI countermeasures to disinformation should focus on popular, not perfect, fakes. Bulletin of the Atomic Scientists, 77(3), 119-123. From https://doi.org/10.1080/00963402.2021.1912093",
-    "summary": "Yankoski, M., Scheirer, W., & Weninger, T investigates the capabilities and trajectories of meme warfare, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Yankoski, Scheirer, and Weninger argue that AI disinformation countermeasures should target widely shared imperfect fakes rather than technically perfect deepfakes, prioritizing viral reach over fidelity."
   },
   {
     "id": 110,
@@ -7066,7 +7066,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 17,
     "raw": "Zhai, Y., Yan, J., Zhang, H., & Lu, W. (2020). Tracing the evolution of AI: conceptualization of artificial intelligence in mass media discourse. Information Discovery and Delivery, 48(3), 137-149. From https://doi.org/10.1108/IDD-01-2020-0007",
-    "summary": "Zhai, Y., Yan, J., Zhang, H., & Lu, W investigates the capabilities and trajectories of tracing the evolution of ai, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Zhai et al. trace how the concept of artificial intelligence has been framed and reframed in mass media over decades, revealing shifting public narratives from optimism to anxiety."
   },
   {
     "id": 111,
@@ -7098,7 +7098,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 2,
     "raw": "European Commission, Directorate-General for Research and Innovation. (2024). Living guidelines on the responsible use of generative AI in research. From https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf",
-    "summary": "European Commission, Directorate-General for Research and Innovation investigates the capabilities and trajectories of living guidelines on the responsible use of generative ai in research, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "The European Commission outlines living policy guidelines for responsible use of generative AI in scientific research, addressing transparency, reproducibility, and research integrity."
   },
   {
     "id": 113,
@@ -7114,7 +7114,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 3,
     "raw": "Madanchian, M., & Taherdoost, H. (2025). The impact of artificial intelligence on research efficiency. Results in Engineering, 26, 104743. From https://doi.org/10.1016/j.rineng.2025.104743",
-    "summary": "Madanchian, M., & Taherdoost, H analyzes the regulatory and legal challenges presented by the impact of artificial intelligence on research efficiency, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Madanchian and Taherdoost measure how AI tools affect research efficiency and productivity, quantifying time savings in literature review, data analysis, and experimental design."
   },
   {
     "id": 114,
@@ -7162,7 +7162,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 6,
     "raw": "Siegel, D. J. (2012). The developing mind: how relationships and the brain interact to shape who we are (2nd ed.). New York: Guilford Press. [Chap. 7 “Self-regulation”; Chap. 8 “Interpersonal connection”]",
-    "summary": "Siegel, D. J analyzes the regulatory and legal challenges presented by the developing mind, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Siegel explains how interpersonal relationships physically shape brain development, demonstrating how attachment patterns and social experience wire neural circuits throughout life."
   },
   {
     "id": 117,
@@ -7178,7 +7178,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 7,
     "raw": "Weigel, A., Caldas, C., Meyer, A., & Morris, S. A. (2022). The impact of AI on research. Cell, 185(15), 2621–2622. From https://doi.org/10.1016/j.cell.2022.06.024",
-    "summary": "Weigel, A., Caldas, C., Meyer, A., & Morris, S. A analyzes the regulatory and legal challenges presented by the impact of ai on research, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Weigel et al. assess how AI is transforming biomedical research workflows, from automated literature synthesis to computational experiment design and data-driven hypothesis generation."
   },
   {
     "id": 118,
@@ -7194,7 +7194,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 8,
     "raw": "60 Minutes. (2023). “Godfather of AI” Geoffrey Hinton: The 60 Minutes Interview. From https://www.youtube.com/watch?v=qrvK_KuIeJk",
-    "summary": "60 Minutes investigates the capabilities and trajectories of godfather of ai” geoffrey hinton, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Geoffrey Hinton warns in this 60 Minutes interview about the existential risks of superintelligent AI, explaining why he left Google to speak freely about the dangers."
   },
   {
     "id": 119,
@@ -7210,7 +7210,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 9,
     "raw": "Four Minute Books. (2022). Sapiens Summary (Animated) — The Definitive History of Humankind & How Humans Became the #1 Species. From https://www.youtube.com/watch?v=HitVj45O5hI",
-    "summary": "Four Minute Books discusses the foundational concepts of sapiens summary (animated) — the definitive history of humankind & how humans became the #1 species, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "An animated summary of Yuval Noah Harari's Sapiens, tracing how cognitive, agricultural, and scientific revolutions enabled Homo sapiens to dominate Earth through shared fictions and cooperation."
   },
   {
     "id": 120,
@@ -7226,7 +7226,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 10,
     "raw": "Paul G. Allen School. (2024). What we see and what we value: AI with a human perspective—Fei-Fei Li (Stanford University). From https://www.youtube.com/watch?v=gzOwpEupP5w&t=1414s",
-    "summary": "Paul G. Allen School investigates the capabilities and trajectories of what we see and what we value, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Fei-Fei Li discusses how computer vision gives machines a human-like perspective on the visual world, emphasizing the importance of diverse training data and ethical AI development."
   },
   {
     "id": 121,
@@ -7242,7 +7242,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 11,
     "raw": "TED. (2024). With Spatial Intelligence, AI Will Understand the Real World | Fei-Fei Li | TED. From https://www.youtube.com/watch?v=y8NtMZ7VGmU",
-    "summary": "Fei-Fei Li (TED) investigates the capabilities and trajectories of with spatial intelligence, ai will understand the real world, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Fei-Fei Li outlines the frontier of spatial intelligence, demonstrating how AI models learning 3D geometric reasoning and physical embodiment will enable machines to navigate the real world."
   },
   {
     "id": 122,
@@ -7274,7 +7274,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 13,
     "raw": "World Science Festival. (2024). Will AI Spark the Next Scientific Revolution? From https://www.youtube.com/watch?v=7wznuB0sKlw&t=202s",
-    "summary": "World Science Festival investigates the capabilities and trajectories of will ai spark the next scientific revolution?, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Leading scientists debate whether machine learning can catalyze the next scientific revolution, examining AI's role in accelerating discovery across physics, biology, and chemistry."
   },
   {
     "id": 124,
@@ -7290,7 +7290,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 1,
     "raw": "Acemoglu, D., & Johnson, S. (2024). Learning from Ricardo and Thompson: Machinery and labor in the early industrial revolution and in the age of artificial intelligence. Annual Review of Economics, 16(1), 597-621.",
-    "summary": "Acemoglu, D., & Johnson, S investigates the capabilities and trajectories of learning from ricardo and thompson, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Acemoglu and Johnson compare Industrial Revolution machinery displacement with modern AI, arguing that technological progress benefits workers only when policy steers innovation toward labor-complementary tools."
   },
   {
     "id": 125,
@@ -7306,7 +7306,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 2,
     "raw": "Agrawal, A., Gans, J., & Goldfarb, A. (2019). Artificial intelligence: The ambiguous labor market impact of automating prediction. Journal of Economic Perspectives, 33(2), 31–50. From https://doi.org/10.1257/jep.33.2.31",
-    "summary": "Agrawal, A., Gans, J., & Goldfarb, A analyzes the regulatory and legal challenges presented by artificial intelligence, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Agrawal, Gans, and Goldfarb analyze the economics of machine learning as prediction technology, explaining how dropping prediction costs transform business decision-making and firm strategy."
   },
   {
     "id": 126,
@@ -7322,7 +7322,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 3,
     "raw": "Agrawal, A., Gans, J., & Goldfarb, A. (2022). Power and prediction: The disruptive economics of artificial intelligence. Harvard Business Press. [Part One]",
-    "summary": "Agrawal, A., Gans, J., & Goldfarb, A investigates the capabilities and trajectories of power and prediction, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Agrawal, Gans, and Goldfarb examine how AI's ability to make cheap predictions disrupts established business models, requiring firms to fundamentally restructure their decision architectures."
   },
   {
     "id": 127,
@@ -7338,7 +7338,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 4,
     "raw": "Brown, S. (2019, October 31). The lure of ‘so-so technology,’ and how to avoid it. MIT Sloan School of Management. https://mitsloan.mit.edu/ideas-made-to-matter/lure-so-so-technology-and-how-to-avoid-it",
-    "summary": "Brown, S. discusses the foundational concepts of the lure of 'so-so technology,' and how to avoid it, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Brown critiques 'so-so technologies' that displace human labor without generating significant productivity gains, urging investment in AI that genuinely elevates human capability."
   },
   {
     "id": 128,
@@ -7354,7 +7354,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 5,
     "raw": "Brynjolfsson, E., Li, D., & Raymond, L. (2025). Generative AI at work. Quarterly Journal of Economics, 140(2), 889–942.",
-    "summary": "Brynjolfsson, E., Li, D., & Raymond, L investigates the capabilities and trajectories of generative ai at work, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Brynjolfsson, Li, and Raymond provide empirical evidence showing generative AI assistants boost customer service worker productivity and accelerate learning, especially for less-experienced staff."
   },
   {
     "id": 129,
@@ -7370,7 +7370,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 6,
     "raw": "Carriere-Swallow, M. Y., & Haksar, M. V. (2019). The economics and implications of data: an integrated perspective. International Monetary Fund.",
-    "summary": "Carriere-Swallow, M. Y., & Haksar, M. V discusses the foundational concepts of the economics and implications of data, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Carriere-Swallow and Haksar examine data as an economic infrastructure asset, analyzing privacy externalities, market concentration risks, and cross-border regulatory challenges."
   },
   {
     "id": 130,
@@ -7386,7 +7386,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 7,
     "raw": "Dizikes, P. (2024, December 6). Daron Acemoglu: What do we know about the economics of AI? MIT News. From https://news.mit.edu/2024/daron-acemoglu-economics-ai-1206",
-    "summary": "Dizikes, P. investigates the capabilities and trajectories of daron acemoglu, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Dizikes reports on Acemoglu's economic models, showing that without institutional intervention, AI-driven automation tends to suppress wages and concentrate wealth among capital owners."
   },
   {
     "id": 131,
@@ -7402,7 +7402,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 8,
     "raw": "Mayer-Schönberger, V. (2025, December). Why data should be shared. Finance & Development. International Monetary Fund. From https://www.imf.org/en/publications/fandd/issues/2025/12/point-of-view-why-data-should-be-shared-viktor-mayer-schonberger",
-    "summary": "Mayer-Schönberger, V discusses the foundational concepts of why data should be shared, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Mayer-Schonberger argues that data's social character justifies mandatory sharing regimes, proposing regulatory frameworks to break open proprietary data silos for broader public benefit."
   },
   {
     "id": 132,
@@ -7418,7 +7418,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 9,
     "raw": "Millbrook, A. (2023). A short history of tractors in English. The Economist. From https://www.economist.com/christmas-specials/2023/12/20/a-short-history-of-tractors-in-english",
-    "summary": "Millbrook, A analyzes the regulatory and legal challenges presented by a short history of tractors in english, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Lewycka's satirical novel about a Ukrainian emigre family serves as a thematic companion piece on labor displacement, generational memory, and economic change in the age of automation."
   },
   {
     "id": 133,
@@ -7434,7 +7434,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 10,
     "raw": "MIT News Office. (2024, December 6). What do we know about the economics of AI? MIT News. From https://news.mit.edu/2024/what-do-we-know-about-economics-ai-1206",
-    "summary": "MIT News Office investigates the capabilities and trajectories of what do we know about the economics of ai? mit news, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "MIT News synthesizes macroeconomic research on how AI alters capital accumulation, job displacement rates, and labor's share of national income across different economic sectors."
   },
   {
     "id": 134,
@@ -7450,7 +7450,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 11,
     "raw": "MIT Sloan School of Management. (2019). The lure of “so-so technology” and how to avoid it. Ideas Made to Matter. From https://mitsloan.mit.edu/ideas-made-to-matter/lure-so-so-technology-and-how-to-avoid-it",
-    "summary": "Brown, S. discusses the foundational concepts of the lure of 'so-so technology,' and how to avoid it, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Brown critiques 'so-so technologies' that displace human labor without generating significant productivity gains, urging investment in AI that genuinely elevates human capability."
   },
   {
     "id": 135,
@@ -7482,7 +7482,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 2,
     "raw": "Click On Detroit | Local 4 | WDIV. (2023). How AI is changing the parenting game. From https://www.youtube.com/watch?v=YfGdgYmadX0",
-    "summary": "Click On Detroit | Local 4 | WDIV investigates the capabilities and trajectories of how ai is changing the parenting game, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "A local news segment examining how AI-powered monitoring, educational apps, and digital assistants are changing contemporary parenting practices, raising questions about childhood development and screen time."
   },
   {
     "id": 137,
@@ -7514,7 +7514,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 4,
     "raw": "TEDx Talks. (2024). Artificial Intelligence That Helps Seniors Stay in their Homes | Mai Lee Chang | TEDxOshkosh. From https://www.youtube.com/watch?v=ZSoXaM5p3Yw",
-    "summary": "TEDx Talks investigates the capabilities and trajectories of artificial intelligence that helps seniors stay in their homes | mai lee chang | tedxoshkosh, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "A TEDx talk by Mai Lee Chang demonstrating how AI-powered home monitoring and assistive technologies help elderly individuals maintain independence and age safely in their own homes."
   },
   {
     "id": 139,
@@ -7562,7 +7562,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 7,
     "raw": "Ramesh, R. (2017). What is Artificial Intelligence? In 5 minutes. From https://www.youtube.com/watch?v=2ePf9rue1Ao",
-    "summary": "Ramesh, R investigates the capabilities and trajectories of what is artificial intelligence? in 5 minutes, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Ramesh provides a concise five-minute explanation of what artificial intelligence is, covering its basic mechanisms, current capabilities, and limitations in accessible terms."
   },
   {
     "id": 142,
@@ -7642,7 +7642,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 12,
     "raw": "The Strategy Group. (2017). Design Thinking in 90 Seconds. From https://www.youtube.com/watch?v=vQytKCT563I",
-    "summary": "The Strategy Group discusses the foundational concepts of design thinking in 90 seconds, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "The Strategy Group presents a 90-second overview of the design thinking methodology, explaining how empathy-driven prototyping and iterative testing solve complex human-centered problems."
   },
   {
     "id": 147,
@@ -7658,7 +7658,7 @@ window.READINGS_DATA = [
     "category": "Ethics & Morality",
     "syllabus_order": 13,
     "raw": "Tomisin Ajiboye. (2015). Refining your Ideas. From https://www.youtube.com/watch?v=GZvoksu_CI4",
-    "summary": "Tomisin Ajiboye discusses the foundational concepts of refining your ideas, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Ajiboye guides viewers through the process of refining early-stage ideas into viable solutions, covering feedback incorporation, pivoting strategies, and iterative improvement techniques."
   },
   {
     "id": 148,
@@ -7674,7 +7674,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 1,
     "raw": "Acemoglu, D., & Johnson, S. (2023). Power and Progress. Boston: PublicAffairs. [Chap. 1 “Control over Technology”]",
-    "summary": "Acemoglu, D., & Johnson, S discusses the foundational concepts of power and progress, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Acemoglu and Johnson argue that technological progress does not automatically benefit society, showing historically how elites capture innovation gains unless democratic institutions redirect technology toward shared prosperity."
   },
   {
     "id": 149,
@@ -7690,7 +7690,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 2,
     "raw": "Bradford, A. (2023). Digital Empires: The Global Battle to Regulate Technology. Oxford: Oxford University Press. [Part 1 “Introduction”]",
-    "summary": "Bradford, A discusses the foundational concepts of digital empires, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Bradford analyzes how the US, EU, and China are competing to regulate global technology markets, comparing their divergent regulatory philosophies and their implications for digital sovereignty."
   },
   {
     "id": 150,
@@ -7706,7 +7706,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 3,
     "raw": "Brynjolfsson, E., & McAfee, A. (2014). The Second Machine Age. New York: W. W. Norton & Company. [Chap. 11 “Implications”]",
-    "summary": "Brynjolfsson, E., & McAfee, A discusses the foundational concepts of the second machine age, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Brynjolfsson and McAfee argue that digital technologies are creating unprecedented wealth but also hollowing out middle-class employment, requiring new economic policies for the second machine age."
   },
   {
     "id": 151,
@@ -7722,7 +7722,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 4,
     "raw": "Crawford, K. (2021). Atlas of AI. New Haven: Yale University Press. [Chap. 1 “Earth”]",
-    "summary": "Crawford, K investigates the capabilities and trajectories of atlas of ai, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Crawford exposes AI's material infrastructure—from lithium mining and exploited data workers to military surveillance—reframing artificial intelligence as a deeply extractive industry."
   },
   {
     "id": 152,
@@ -7738,7 +7738,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 5,
     "raw": "De Vries, A. (2023). The growing energy footprint of artificial intelligence. Cell Joule, 7(10), 2238-2244.",
-    "summary": "De Vries, A investigates the capabilities and trajectories of the growing energy footprint of artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "De Vries quantifies the rapidly escalating energy consumption of AI training and inference, warning that the environmental footprint of large models poses serious sustainability challenges."
   },
   {
     "id": 153,
@@ -7754,7 +7754,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 6,
     "raw": "Dodhia, R. (2024). AI For Social Good: Using Artificial Intelligence to Save the World. New Jersey: John Wiley & Sons Inc. [Chap. 6 “Putting Safeguards Around AI”]",
-    "summary": "Dodhia, R investigates the capabilities and trajectories of ai for social good, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Dodhia explores how artificial intelligence can be deployed for humanitarian and social impact, showcasing projects addressing poverty, healthcare access, and environmental conservation."
   },
   {
     "id": 154,
@@ -7770,7 +7770,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 7,
     "raw": "Eubanks, V. (2017). Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor. New York: St. Martin’s Press. [Chap. 5 “The Digital Poorhouse”]",
-    "summary": "Eubanks, V discusses the foundational concepts of automating inequality, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Eubanks reveals how automated welfare systems, predictive policing, and algorithmic scoring disproportionately surveil and punish low-income communities in the United States."
   },
   {
     "id": 155,
@@ -7786,7 +7786,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 8,
     "raw": "Fruchterman, J. (2025). Technology for Good: How Nonprofit Leaders are Using Software and Data to Solve Our Most Pressing Social Problems. Massachusetts: The MIT Press. [Chap. 2 “The Top Bad Ideas in Tech for Good”]",
-    "summary": "Fruchterman, J discusses the foundational concepts of technology for good, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Fruchterman examines how nonprofit organizations can leverage software platforms and data analytics to scale their social impact, offering practical strategies for technology adoption."
   },
   {
     "id": 156,
@@ -7802,7 +7802,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 9,
     "raw": "Kissinger, H. A., Mundie, C., & Schmidt, E. (2024). Genesis – Artificial Intelligence, Hope and the Human Spirit New York: Little, Brown and Company. [Chap. 4 “Politics”]",
-    "summary": "Kissinger, H. A., Mundie, C., & Schmidt, E investigates the capabilities and trajectories of genesis – artificial intelligence, hope and the human spirit new york, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Kissinger, Schmidt, and Mundie explore how AI is transforming geopolitics, diplomacy, and the human condition, arguing that machine intelligence represents a civilizational turning point."
   },
   {
     "id": 157,
@@ -7818,7 +7818,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 10,
     "raw": "Lee, K. F. (2018). AI Superpowers: China, Silicon Valley, and the New World Order. Boston: Houghton Mifflin Harcourt. [Chap. 3 “China’s Alternate Internet Universe”]",
-    "summary": "Lee, K. F investigates the capabilities and trajectories of ai superpowers, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Lee contrasts the AI strategies of China and Silicon Valley, arguing that China's data advantage and government support position it as a formidable competitor in the global AI race."
   },
   {
     "id": 158,
@@ -7834,7 +7834,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 11,
     "raw": "Li, P., Yang, J., Islam, M.A. & Ren, S. (2025). Making AI Less ‘Thirsty’. Communications of the ACM, 68(7), 54-61.",
-    "summary": "Li, P., Yang, J., Islam, M.A. & Ren, S investigates the capabilities and trajectories of making ai less ‘thirsty’, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Li et al. analyze the massive water consumption required to cool AI data centers, proposing engineering solutions to make large-scale machine learning less environmentally costly."
   },
   {
     "id": 159,
@@ -7850,7 +7850,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 12,
     "raw": "Mitchell, M. (2019). Artificial Intelligence: A Guide for Thinking Humans. New York: Farrar, Straus and Giroux. [Chap. 14 “On Understanding”]",
-    "summary": "Mitchell, M investigates the capabilities and trajectories of artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Mitchell offers a skeptical guide to AI hype, explaining what current systems can and cannot do while highlighting the gap between marketing claims and genuine machine understanding."
   },
   {
     "id": 160,
@@ -7866,7 +7866,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 13,
     "raw": "Mollick, E. (2024). Co-Intelligence: Living and Working with AI. New York: Portfolio/Penguin. [Chap. 6: “AI as a Coworker” / Chap. 8 “AI as a Coach”]",
-    "summary": "Mollick, E investigates the capabilities and trajectories of co-intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Mollick explores how humans can work alongside AI as a collaborative intelligence partner, offering practical frameworks for integrating generative AI into professional workflows and decision-making."
   },
   {
     "id": 161,
@@ -7882,7 +7882,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 14,
     "raw": "Nissenbaum, H. (2009). Privacy in Context: Technology, Policy, and the Integrity of Social Life. Stanford: Stanford Law Books. [Chap. 4 “Locating the Value in Privacy”]",
-    "summary": "Nissenbaum, H discusses the foundational concepts of privacy in context, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Nissenbaum introduces contextual integrity as a privacy benchmark, arguing that data sharing is ethical only when it respects the informational norms specific to each social domain."
   },
   {
     "id": 162,
@@ -7898,7 +7898,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 15,
     "raw": "Schneier, B., & Sanders, N. E. (2025). Rewiring Democracy: How AI Will Transform Our Politics, Government and Citizenship. Massachusetts: The MIT Press. [Chap. “Principles for AI that Helps Democracy”]",
-    "summary": "Schneier, B., & Sanders, N. E analyzes the regulatory and legal challenges presented by rewiring democracy, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Schneier and Sanders examine how AI will transform political lobbying, legislative drafting, and democratic discourse through hyper-personalized influence campaigns and automated governance."
   },
   {
     "id": 163,
@@ -7914,7 +7914,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 16,
     "raw": "Suleyman, M., & Bhaskar, M. (2023). The Coming Wave: Technology, Power, and the Twenty-first Century’s Greatest Dilemma. New York: Crown. [Chap. 14 “Ten Steps Toward Containment”]",
-    "summary": "Suleyman, M., & Bhaskar, M discusses the foundational concepts of the coming wave, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Suleyman and Bhaskar argue that the converging waves of AI and synthetic biology represent humanity's greatest containment challenge, requiring new global governance frameworks."
   },
   {
     "id": 164,
@@ -7930,7 +7930,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 17,
     "raw": "Susskind, D. (2020). A World Without Work. New York: Henry Holt and Co. [Chap. 5 “The Task Encroachment” / Chap. 9 “Education and Its Limits”]",
-    "summary": "Susskind, D discusses the foundational concepts of a world without work, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Susskind investigates the economic trajectory toward a world without work, examining how technological unemployment requires novel mechanisms for wealth redistribution and social meaning."
   },
   {
     "id": 165,
@@ -7946,7 +7946,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 1,
     "raw": "3Blue1Brown. (2024). Large Language Models explained briefly. From https://www.youtube.com/watch?v=LPZh9BOjkQs",
-    "summary": "3Blue1Brown investigates the capabilities and trajectories of large language models explained briefly, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "3Blue1Brown provides an intuitive visual and mathematical explanation of how large language models and transformer architectures process and generate natural language."
   },
   {
     "id": 166,
@@ -7962,7 +7962,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 2,
     "raw": "De Cremer, D., Bianzino, N. M., & Falk, B. (2023). How Generative AI Could Disrupt Creative Work. Harvard Business Review. From https://hbr.org/2023/04/how-generative-ai-could-disrupt-creative-work",
-    "summary": "De Cremer, D., Bianzino, N. M., & Falk, B investigates the capabilities and trajectories of how generative ai could disrupt creative work, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "De Cremer, Bianzino, and Falk analyze how generative AI disrupts professional creative industries, exploring the shifting boundary between human artistry and machine-generated content."
   },
   {
     "id": 167,
@@ -7978,7 +7978,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 3,
     "raw": "Eapen, T. T., Finkenstadt, D. J., Folk, J., & Venkataswamy, L. (2023). How Generative AI Can Augment Human Creativity. Harvard Business Review. From https://hbr.org/2023/07/how-generative-ai-can-augment-human-creativity.",
-    "summary": "Eapen, T. T., Finkenstadt, D. J., Folk, J., & Venkataswamy, L investigates the capabilities and trajectories of how generative ai can augment human creativity, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Eapen et al. demonstrate how enterprise teams can use generative AI as a brainstorming partner to augment human creative ideation and accelerate innovative product design."
   },
   {
     "id": 168,
@@ -7994,7 +7994,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 4,
     "raw": "Paul, E. S., & Stokes, D. (2023). Creativity. Stanford.edu. From https://plato.stanford.edu/entries/creativity",
-    "summary": "Paul, E. S., & Stokes, D discusses the foundational concepts of creativity, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Paul and Stokes provide an interdisciplinary philosophical and psychological analysis of the nature, cognitive mechanisms, and cultural value of human creativity."
   },
   {
     "id": 169,
@@ -8010,7 +8010,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 5,
     "raw": "Sanderson, G. (2019). Neural networks. From https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
-    "summary": "Sanderson, G discusses the foundational concepts of neural networks, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Sanderson (3Blue1Brown) breaks down the fundamental calculus and linear algebra behind neural networks, explaining backpropagation and gradient descent through clear visual animations."
   },
   {
     "id": 170,
@@ -8026,7 +8026,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 6,
     "raw": "Schwanke, A. (2024). Generative AI — Never Truly Creative? Medium. From https://medium.com/@axel.schwanke/generative-ai-never-truly-creative-68a0189d98e8.",
-    "summary": "Schwanke, A investigates the capabilities and trajectories of generative ai — never truly creative? medium, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Schwanke examines whether generative AI models possess genuine creative capability or merely perform sophisticated statistical recombination of pre-existing human artistic patterns."
   },
   {
     "id": 171,
@@ -8042,7 +8042,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 7,
     "raw": "Vox (2023). An AI artist explains his workflow. From https://www.youtube.com/watch?v=K0ldxCh3cnI&list=PLJ8cMiYb3G5ek1Ux66aJ_qWf6CfBaAkGG&index=8",
-    "summary": "Vox investigates the capabilities and trajectories of an ai artist explains his workflow, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "A Vox video profiling a working AI artist who explains his step-by-step creative process using generative diffusion models, from prompting through iteration to final curation."
   },
   {
     "id": 172,
@@ -8058,7 +8058,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 8,
     "raw": "Vox. (2022). AI art, explained. From https://www.youtube.com/watch?v=SVcsDDABEkM.",
-    "summary": "Vox investigates the capabilities and trajectories of ai art, explained, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "A Vox video explaining how AI art generation works, covering the technology behind diffusion models, the training data controversy, and the implications for human artists."
   },
   {
     "id": 173,
@@ -8074,7 +8074,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 1,
     "raw": "Christie, N. (2004). A Suitable Amount of Crime. Routledge. [Chap. 1 “Crime Does Not Exist”]",
-    "summary": "Christie, N discusses the foundational concepts of a suitable amount of crime, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Christie argues that a certain level of crime is inevitable and even functional in society, challenging punitive approaches and advocating for restorative justice and social tolerance."
   },
   {
     "id": 174,
@@ -8090,7 +8090,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 2,
     "raw": "Horwitz, A. V. (2008). Normality. Contexts, 7(1), 70-71.",
-    "summary": "Horwitz, A. V discusses the foundational concepts of normality, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Horwitz examines how the concept of normality has been socially constructed, tracing how psychiatric and cultural definitions of 'normal' behavior shape social control and individual identity."
   },
   {
     "id": 175,
@@ -8106,7 +8106,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 3,
     "raw": "MacFarquhar, L. (2018). The mind-expanding ideas of Andy Clark. The New Yorker, 26. From https://www.newyorker.com/magazine/2018/04/02/the-mind-expanding-ideas-of-andy-clark",
-    "summary": "MacFarquhar, L discusses the foundational concepts of the mind-expanding ideas of andy clark, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "MacFarquhar profiles philosopher Andy Clark's theory of the extended mind, exploring how tools, technology, and environment are integral parts of human cognitive processes rather than external aids."
   },
   {
     "id": 176,
@@ -8138,7 +8138,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 5,
     "raw": "Ladegaard, I. (2025). Open Secrecy: How police crackdowns and creative problem-solving brought illegal markets out of the shadows. Social Forces, 99(2), 532-559.",
-    "summary": "Ladegaard, I analyzes the regulatory and legal challenges presented by open secrecy, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Ladegaard examines how law enforcement crackdowns on dark web drug markets pushed illegal trade into creative new models, revealing the adaptive resilience of digitally organized crime networks."
   },
   {
     "id": 178,
@@ -8154,7 +8154,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 6,
     "raw": "Roose, K. (2019). What Does PewDiePie Really Believe? The New York Times Magazine.",
-    "summary": "Roose, K discusses the foundational concepts of what does pewdiepie really believe? the new york times magazine, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Roose investigates the radicalization pipeline on YouTube and online platforms through the case of PewDiePie, examining how algorithmic recommendations amplify extremist content."
   },
   {
     "id": 179,
@@ -8170,7 +8170,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 7,
     "raw": "Wojcieszak, M. (2010). Don’t talk to me. New Media & Society, 12(4), 637-655.",
-    "summary": "Wojcieszak, M discusses the foundational concepts of don’t talk to me, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Wojcieszak studies how political polarization and ideological sorting lead people to avoid cross-cutting conversations, examining the psychological mechanisms behind communication breakdown in divided societies."
   },
   {
     "id": 180,
@@ -8186,7 +8186,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 8,
     "raw": "Fourcade, M., & Healy, K. (2017). Seeing like a market. Socio-Economic Review, 15(1), 9-29.",
-    "summary": "Fourcade, M., & Healy, K discusses the foundational concepts of seeing like a market, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Fourcade and Healy analyze how market logic and classification systems shape social life, showing how credit scores, data profiles, and algorithms create new forms of economic stratification."
   },
   {
     "id": 181,
@@ -8202,7 +8202,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 9,
     "raw": "Schneier, B. (2015). Data and Goliath. WW Norton & Company. [Chap. 5 “Surveillance Capitalism – The rise of private surveillance”]",
-    "summary": "Schneier, B discusses the foundational concepts of data and goliath, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Schneier exposes the vast scale of government and corporate data collection, arguing that mass surveillance fundamentally threatens privacy, free speech, and democratic society."
   },
   {
     "id": 182,
@@ -8218,7 +8218,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 10,
     "raw": "Zuboff, S. (2018). Surveillance Capitalism. [Excerpt]",
-    "summary": "Zuboff, S discusses the foundational concepts of surveillance capitalism, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Zuboff coins the term 'surveillance capitalism' to describe how tech platforms claim private human experience as free raw material for behavioral prediction and modification markets."
   },
   {
     "id": 183,
@@ -8234,7 +8234,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 11,
     "raw": "Burrell, J. and Fourcade, M. (2021). The society of algorithms. Annual review of sociology, 47(1), 213-237.",
-    "summary": "Burrell, J. and Fourcade, M discusses the foundational concepts of the society of algorithms, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Burrell and Fourcade examine how algorithms now function as autonomous social actors, shaping economic outcomes, cultural tastes, and political possibilities through automated classification and ranking."
   },
   {
     "id": 184,
@@ -8250,7 +8250,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 12,
     "raw": "Van Dijk, J. A. (2006). Digital divide research. Poetics, 34(4-5), 221-235.",
-    "summary": "Van Dijk, J. A discusses the foundational concepts of digital divide research, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Van Dijk provides a comprehensive research framework for studying digital inequality, analyzing how disparities in internet access, skills, and usage outcomes reinforce existing social stratification."
   },
   {
     "id": 185,
@@ -8266,7 +8266,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 13,
     "raw": "Talbot, M. (2016, November 27). The attorney fighting revenge porn. The New Yorker. From https://www.newyorker.com/magazine/2016/12/05/the-attorney-fighting-revenge-porn",
-    "summary": "Talbot, M discusses the foundational concepts of the attorney fighting revenge porn, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Talbot profiles legal advocates fighting non-consensual intimate imagery online, examining the legal frameworks and platform policies emerging to combat technology-facilitated sexual abuse."
   },
   {
     "id": 186,
@@ -8282,7 +8282,7 @@ window.READINGS_DATA = [
     "category": "Law & Regulation",
     "syllabus_order": 14,
     "raw": "Garland, D. (1991). Sociological perspectives on punishment. Crime and Justice, 14, 115-165.",
-    "summary": "Garland, D discusses the foundational concepts of sociological perspectives on punishment, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Garland surveys major sociological theories of punishment, from Durkheim and Foucault to contemporary penology, analyzing how societies justify and administer criminal sanctions."
   },
   {
     "id": 187,
@@ -8298,7 +8298,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 1,
     "raw": "Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dangers of stochastic parrots: Can language models be too big? Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency. From https://doi.org/10.1145/3442188.3445922 [pp. 610–623]",
-    "summary": "Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S investigates the capabilities and trajectories of on the dangers of stochastic parrots, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Bender and Gebru warn that large language models are probabilistic mimics synthesizing text without comprehension, incurring massive carbon footprints and amplifying historical biases at scale."
   },
   {
     "id": 188,
@@ -8314,7 +8314,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 2,
     "raw": "Chiang, T. (2023, February 9). ChatGPT is a blurry JPEG of the web. The New Yorker.",
-    "summary": "Chiang, T discusses the foundational concepts of chatgpt is a blurry jpeg of the web, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Chiang argues that ChatGPT functions like a lossy compression of the internet, producing plausible but degraded approximations of human knowledge rather than genuine understanding."
   },
   {
     "id": 189,
@@ -8330,7 +8330,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 3,
     "raw": "Kaplan, J., McCandlish, S., Henighan, T., Brown, T.B., Chess, B., Child, R., Gray, S., Radford, A., Wu, J., & Amodei, D. (2020). Scaling laws for neural language models. arXiv:2001.08361. From https://doi.org/10.48550/arXiv.2001.08361",
-    "summary": "Kaplan, J., McCandlish, S., Henighan, T., Brown, T.B., Chess, B., Child, R., Gray, S., Radford, A., Wu, J., & Amodei, D analyzes the regulatory and legal challenges presented by scaling laws for neural language models, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Kaplan et al. establish empirical scaling laws showing that neural network performance improves predictably as a power law with compute budget, dataset size, and parameter count."
   },
   {
     "id": 190,
@@ -8346,7 +8346,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 4,
     "raw": "Kosmyna, N., Hauptmann, E., Yuan, Y.T., Situ, J., Liao, X.-H., Beresnitzky, A.V., Braunstein, I., & Maes, P. (2025). Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for essay writing tasks. arXiv:2506.08872. From https://doi.org/10.48550/arXiv.2506.08872",
-    "summary": "Kosmyna, N., Hauptmann, E., Yuan, Y.T., Situ, J., Liao, X.-H., Beresnitzky, A.V., Braunstein, I., & Maes, P investigates the capabilities and trajectories of your brain on chatgpt, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Kosmyna et al. use EEG brain imaging to show that relying on ChatGPT for essay writing reduces cognitive engagement and neural learning signals compared to unassisted writing."
   },
   {
     "id": 191,
@@ -8378,7 +8378,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 6,
     "raw": "Murrell, A. (2023). The age of average.",
-    "summary": "Murrell, A discusses the foundational concepts of the age of average, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Murrell documents the convergence toward visual sameness across architecture, branding, and design, arguing that data-driven optimization is producing a homogeneous 'age of average' aesthetic."
   },
   {
     "id": 193,
@@ -8394,7 +8394,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 7,
     "raw": "Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R., & Gal, Y. (2024). AI models collapse when trained on recursively generated data. Nature, 631(8022), 755–759. From https://doi.org/10.1038/s41586-024-07566-y",
-    "summary": "Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R., & Gal, Y investigates the capabilities and trajectories of ai models collapse when trained on recursively generated data, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Shumailov et al. prove that training AI models on data produced by previous AI generations causes catastrophic model collapse, permanently erasing the tails of the original data distribution."
   },
   {
     "id": 194,
@@ -8410,7 +8410,7 @@ window.READINGS_DATA = [
     "category": "Creativity & Aesthetics",
     "syllabus_order": 8,
     "raw": "The Economist. (2024). A short history of AI. The Economist.",
-    "summary": "The Economist investigates the capabilities and trajectories of a short history of ai, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "The Economist traces the historical development of artificial intelligence from Turing's foundational ideas through expert systems, AI winters, and the deep learning revolution."
   },
   {
     "id": 195,
@@ -8426,7 +8426,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 1,
     "raw": "Batty, M. (2013). The new science of cities. MIT press.",
-    "summary": "Batty, M discusses the foundational concepts of the new science of cities, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Batty presents cities as complex adaptive systems, using spatial analytics, fractal geometry, and agent-based modeling to understand urban growth, transportation flows, and land use patterns."
   },
   {
     "id": 196,
@@ -8442,7 +8442,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 2,
     "raw": "Batty, M. (2018). Inventing future cities. MIT press.",
-    "summary": "Batty, M discusses the foundational concepts of inventing future cities, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Batty explores how data science, simulation, and digital twins can help planners design more sustainable, resilient, and equitable cities for the coming decades."
   },
   {
     "id": 197,
@@ -8458,7 +8458,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 3,
     "raw": "Kitchin, R. (2014). The data revolution: Big data, open data, data infrastructures and their consequences. Sage.",
-    "summary": "Kitchin, R discusses the foundational concepts of the data revolution, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Kitchin examines the big data revolution and open data movement, analyzing how new data infrastructures are reshaping scientific research, governance, business, and everyday life."
   },
   {
     "id": 198,
@@ -8490,7 +8490,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 5,
     "raw": "Townsend, A. M. (2013). Smart cities: Big data, civic hackers, and the quest for a new utopia. WW Norton & Company.",
-    "summary": "Townsend, A. M explores the intersection of technology and creative expression in smart cities, revealing how new tools reshape artistic processes and human cultural narratives."
+    "summary": "Townsend traces the smart cities movement from IBM's top-down corporate visions to grassroots civic hacking, arguing for citizen-centered approaches to urban technology."
   },
   {
     "id": 200,
@@ -8506,7 +8506,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 1,
     "raw": "Notes provided by the lecturer",
-    "summary": "HKU Department of Computer Science discusses the foundational concepts of course lecture notes & slides, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Official lecture notes and slides from HKU course instructors covering theoretical foundations, algorithmic mechanics, and social implications of artificial intelligence."
   },
   {
     "id": 201,
@@ -8522,7 +8522,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 2,
     "raw": "Selected articles from newspapers, books, academic journal and conference papers, magazines and websites for each lecture",
-    "summary": "TED Conferences discusses the foundational concepts of selected articles from newspapers, books, academic journal and conference papers, magazines and websites for each lecture, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "A curated collection of news articles, academic papers, and media resources selected to illustrate real-world AI applications and social debates across weekly lecture topics."
   },
   {
     "id": 202,
@@ -8538,7 +8538,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 1,
     "raw": "Cao, Y., Gao, J., Lian, D., Rong, Z., Shi, J., Wang, Q., … & Zhou, T. (2018). Orderliness predicts academic performance: behavioural analysis on campus lifestyle. Journal of The Royal Society Interface, 15(146), 20180210.",
-    "summary": "Cao, Y., Gao, J., Lian, D., Rong, Z., Shi, J., Wang, Q., … & Zhou, T discusses the foundational concepts of orderliness predicts academic performance, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Cao et al. analyze campus smart-card behavioral data, demonstrating that daily routine orderliness and lifestyle regularity are significant predictors of academic performance."
   },
   {
     "id": 203,
@@ -8554,7 +8554,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 2,
     "raw": "Gao, J., & Wang, D. (2024). Quantifying the use and potential benefits of artificial intelligence in scientific research. Nature Human Behaviour, 8(12), 2281-2292.",
-    "summary": "Gao, J., & Wang, D investigates the capabilities and trajectories of quantifying the use and potential benefits of artificial intelligence in scientific research, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Gao and Wang quantify the rapid adoption and productivity benefits of AI tools across scientific disciplines, measuring their impact on research output and discovery rates."
   },
   {
     "id": 204,
@@ -8570,7 +8570,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 3,
     "raw": "Gao, J., Zhang, Y. C., & Zhou, T. (2019). Computational socioeconomics. Physics Reports, 817, 1-104. [Contents and Section 1 “Introduction”]",
-    "summary": "Gao, J., Zhang, Y. C., & Zhou, T discusses the foundational concepts of computational socioeconomics, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Gao, Zhang, and Zhou establish computational socioeconomics as a discipline using big data and machine learning to model economic inequality, urban mobility, and social dynamics."
   },
   {
     "id": 205,
@@ -8586,7 +8586,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 4,
     "raw": "Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabási, A. L., Brewer, D., & Van Alstyne, M. (2009). Computational social science. Science, 323(5915), 721-723.",
-    "summary": "Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabási, A. L., Brewer, D., & Van Alstyne, M discusses the foundational concepts of computational social science, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Lazer et al. define computational social science as a field leveraging digital trace data, social network analysis, and large-scale experiments to study collective human behavior."
   },
   {
     "id": 206,
@@ -8602,7 +8602,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 5,
     "raw": "Wang, Y., Jones, B. F., & Wang, D. (2019). Early-career setback and future career impact. Nature Communications, 10(1), 4331.",
-    "summary": "Wang, Y., Jones, B. F., & Wang, D analyzes the regulatory and legal challenges presented by early-career setback and future career impact, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Wang, Jones, and Wang analyze scientific career trajectories, finding paradoxically that early-career setbacks and grant rejections lead to stronger long-term research performance."
   },
   {
     "id": 207,
@@ -8618,7 +8618,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 6,
     "raw": "Yin, Y., Gao, J., Jones, B. F., & Wang, D. (2021). Coevolution of policy and science during the pandemic. Science, 371(6525), 128-130.",
-    "summary": "Yin, Y., Gao, J., Jones, B. F., & Wang, D discusses the foundational concepts of coevolution of policy and science during the pandemic, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Yin et al. track how scientific publication patterns and government policy responses co-evolved during COVID-19, using large-scale citation network analysis."
   },
   {
     "id": 208,
@@ -8634,7 +8634,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 7,
     "raw": "Bitcoin TVPBS. (2016). “Big Data Revolution” – PBS Documentary. From https://www.youtube.com/watch?v=bIY3LUZ7i8Y.",
-    "summary": "Bitcoin TVPBS discusses the foundational concepts of big data revolution” – pbs documentary, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "A PBS documentary exploring the big data revolution, examining how pervasive data collection and predictive algorithms are transforming healthcare, commerce, policing, and daily life."
   },
   {
     "id": 209,
@@ -8650,7 +8650,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 8,
     "raw": "Lee, K. -F. (2018). How AI can save our humanity. From https://www.ted.com/talks/kai_fu_lee_how_ai_can_save_our_humanity [TED Talk]",
-    "summary": "Lee, K. -F investigates the capabilities and trajectories of how ai can save our humanity, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Kai-Fu Lee argues that while AI will displace routine cognitive labor, human compassion, empathy, and genuine social connection will define the future of meaningful work."
   },
   {
     "id": 210,
@@ -8666,7 +8666,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 9,
     "raw": "Suleyman, M. (2024). What is an AI anyway? From https://www.ted.com/talks/mustafa_suleyman_what_is_an_ai_anyway [TED Talk]",
-    "summary": "Suleyman, M investigates the capabilities and trajectories of what is an ai anyway?, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Suleyman provides a clear accessible explanation of what artificial intelligence actually is, tracing its evolution from rule-based expert systems to modern large language models."
   },
   {
     "id": 211,
@@ -8682,7 +8682,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 1,
     "raw": "Jerald, J. (2015). The VR Book: Human-centred Design for Virtual Reality (Illustrated ed.). Morgan & Claypool Publishers.",
-    "summary": "Jerald, J discusses the foundational concepts of the vr book, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Jerald provides a comprehensive guide to designing virtual reality experiences around human perception, covering simulator sickness, presence, and ergonomic interaction design principles."
   },
   {
     "id": 212,
@@ -8698,7 +8698,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 2,
     "raw": "LaValle, S. M. (2023). Virtual Reality. Cambridge University Press.",
-    "summary": "LaValle, S. M discusses the foundational concepts of virtual reality, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "LaValle presents the mathematical and engineering foundations of virtual reality systems, covering geometric modeling, rendering pipelines, tracking systems, and perceptual psychology."
   },
   {
     "id": 213,
@@ -8730,7 +8730,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 4,
     "raw": "Slater, M., & Sanchez-Vives, M. V. (2016). Enhancing our lives with immersive virtual reality. Frontiers in Robotics and AI, 3, 74.",
-    "summary": "Slater, M., & Sanchez-Vives, M. V discusses the foundational concepts of enhancing our lives with immersive virtual reality, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Slater and Sanchez-Vives review how immersive virtual reality enhances education, therapy, empathy training, and rehabilitation through embodied simulation of real-world experiences."
   },
   {
     "id": 215,
@@ -8746,7 +8746,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 5,
     "raw": "Tegmark, M. (2017). Life 3.0: Being human in the age of artificial intelligence. Knopf.",
-    "summary": "Tegmark, M. investigates the capabilities and trajectories of life 3.0, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Tegmark categorizes life into biological, cultural, and technological phases, exploring how superintelligent AI will reconfigure work, consciousness, and human destiny across cosmic timescales."
   },
   {
     "id": 216,
@@ -8762,7 +8762,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 6,
     "raw": "The Verge. The rise and fall and rise of virtual reality. From https://www.theverge.com/a/virtual-reality [Compilations of articles on the development of VR]",
-    "summary": "The Verge discusses the foundational concepts of the rise and fall and rise of virtual reality, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "The Verge traces the technological history of virtual reality from 1990s prototypes through commercial failures to the modern resurgence of spatial computing and immersive headsets."
   },
   {
     "id": 217,
@@ -8778,7 +8778,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 1,
     "raw": "Asimov, I. (1950). I, Robot. New York: Gnome Press.",
-    "summary": "Asimov, I discusses the foundational concepts of new york, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Asimov's Foundation series introduces the concept of psychohistory—predicting large-scale human behavior through mathematics—offering a fictional precursor to modern computational social science."
   },
   {
     "id": 218,
@@ -8810,7 +8810,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 3,
     "raw": "Gutkind, L. (2009). Almost human: Making robots think. New York: W.W. Norton & Company.",
-    "summary": "Gutkind, L discusses the foundational concepts of almost human, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Gutkind profiles robotics researchers working to create machines that can think, learn, and interact with humans, exploring the engineering and philosophical challenges of building artificial minds."
   },
   {
     "id": 220,
@@ -8858,7 +8858,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 2,
     "raw": "Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J. (2021). The science of visual data communication: What works. Psychological Science in the Public Interest, 22(3), 110-161. From https://doi.org/10.1177/15291006211051956",
-    "summary": "Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J discusses the foundational concepts of the science of visual data communication, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Franconeri et al. synthesize research on visual data communication, identifying which graph types, color palettes, and design choices most effectively convey quantitative information to diverse audiences."
   },
   {
     "id": 223,
@@ -8938,7 +8938,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 7,
     "raw": "U.S. General Services Administration. (n.d.). Plain language guidelines. From https://digital.gov/guides/plain-language",
-    "summary": "U.S. General Services Administration investigates the capabilities and trajectories of plain language guidelines. from ht, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "The U.S. General Services Administration provides federal guidelines for writing clear, accessible prose, emphasizing plain language principles that improve public comprehension of government communications."
   },
   {
     "id": 228,
@@ -8986,7 +8986,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 1,
     "raw": "Benaich, N., & Chalmers, A. (2024). State of AI report 2024. From https://www.stateof.ai/",
-    "summary": "Benaich, N., & Chalmers, A investigates the capabilities and trajectories of state of ai report 2024, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Benaich and Chalmers compile the annual State of AI report, benchmarking frontier model capabilities, industry investment trends, geopolitical dynamics, and safety research progress."
   },
   {
     "id": 231,
@@ -9002,7 +9002,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 2,
     "raw": "Bennett, M. S. (2023). A brief history of intelligence: evolution, AI, and the five breakthroughs that made our brains. Mariner Books. [Chap. 22 “ChatGPT and the window into the mind”]",
-    "summary": "Bennett, M. S investigates the capabilities and trajectories of a brief history of intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Bennett traces five key evolutionary breakthroughs that shaped human intelligence—from sensory processing to language—and draws parallels to the architectural breakthroughs driving modern AI."
   },
   {
     "id": 232,
@@ -9034,7 +9034,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 4,
     "raw": "Siciliano, B., et al. (2009). Robotics, modelling, planning and control. Springer. [Chap. 1 “Introduction”]",
-    "summary": "Siciliano, B., et al discusses the foundational concepts of robotics, modelling, planning and control, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Siciliano et al. provide a comprehensive engineering textbook on robotics covering kinematics, dynamics, trajectory planning, and control theory for industrial and mobile robot systems."
   },
   {
     "id": 234,
@@ -9050,7 +9050,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 5,
     "raw": "Stone, P., et al. (2022). Artificial intelligence and life in 2030. Stanford University. From https://ai100.stanford.edu/sites/g/files/sbiybj18871/files/media/file/ai100report10032016fnl_singles.pdf",
-    "summary": "Stone, P., et al investigates the capabilities and trajectories of artificial intelligence and life in 2030, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Stone et al. project how AI will reshape transportation, healthcare, education, public safety, and employment by 2030, offering policy recommendations for managing the transition."
   },
   {
     "id": 235,
@@ -9066,7 +9066,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 6,
     "raw": "Dyna Robotics, Inc. (2025). Dynamism v1 (DYNA-1) Model: A Breakthrough in Performance and Production-Ready Embodied AI. From https://www.dyna.co/research",
-    "summary": "Dyna Robotics, Inc investigates the capabilities and trajectories of dynamism v1 (dyna-1) model, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Dyna Robotics introduces the DYNA-1 embodied AI model, demonstrating production-ready performance in physical manipulation tasks through advanced sensorimotor learning and sim-to-real transfer."
   },
   {
     "id": 236,
@@ -9082,7 +9082,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 7,
     "raw": "OpenAI. (2023). GPT-4 developer livestream. From https://www.youtube.com/watch?v=outcGtbnMuQ",
-    "summary": "OpenAI discusses the foundational concepts of gpt-4 developer livestream, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "OpenAI's GPT-4 developer livestream demonstrates the model's multimodal capabilities, showing real-time image understanding, advanced reasoning, and expanded context window features."
   },
   {
     "id": 237,
@@ -9098,7 +9098,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 8,
     "raw": "OpenAI. (2023). OpenAI devday: opening keynote. From https://www.youtube.com/watch?v=U9mJuUkhUzk",
-    "summary": "OpenAI investigates the capabilities and trajectories of openai devday, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "OpenAI presents its DevDay keynote introducing custom GPTs, the Assistants API, and GPT-4 Turbo, showcasing the platform's expanding developer ecosystem and enterprise capabilities."
   },
   {
     "id": 238,
@@ -9114,7 +9114,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 9,
     "raw": "Recent advances on Autonomous Driving and Embodied AI. From https://cvpr2025.wad.vision/ and https://opendrivelab.com/cvpr2025/workshop/",
-    "summary": "CVPR 2025 WAD Workshop investigates the capabilities and trajectories of recent advances on autonomous driving and embodied ai, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "CVPR workshop papers present state-of-the-art computer vision architectures, sensor fusion techniques, and reinforcement learning approaches for autonomous driving and embodied AI systems."
   },
   {
     "id": 239,
@@ -9130,7 +9130,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 10,
     "raw": "Teala (2024). We, robot | Tesla Cybercab unveil. From https://www.youtube.com/live/6v6dbxPlsXs",
-    "summary": "Teala discusses the foundational concepts of we, robot | tesla cybercab unveil, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Tesla unveils the Cybercab autonomous robotaxi concept, demonstrating its vision for a fully self-driving ride-hailing network without steering wheels or pedals."
   },
   {
     "id": 240,
@@ -9146,7 +9146,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 11,
     "raw": "Tesla (2022). Tesla AI day 2022. From https://www.youtube.com/watch?v=ODSJsviD_SU",
-    "summary": "Tesla investigates the capabilities and trajectories of tesla ai day 2022, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Tesla showcases its Optimus humanoid robot prototype and Full Self-Driving progress, presenting its vision for general-purpose robotics and autonomous vehicle technology."
   },
   {
     "id": 241,
@@ -9162,7 +9162,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 12,
     "raw": "Arts & Science – University of Toronto. (2023). Geoffrey Hinton in conversation with Fei-Fei Li – responsible AI development. From https://www.youtube.com/watch?v=QWWgr2rN45o",
-    "summary": "Arts & Science – University of Toronto investigates the capabilities and trajectories of geoffrey hinton in conversation with fei-fei li – responsible ai development, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Hinton and Fei-Fei Li discuss responsible AI development, debating the balance between accelerating AI capabilities and implementing adequate safety guardrails for frontier systems."
   },
   {
     "id": 242,
@@ -9178,7 +9178,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 13,
     "raw": "MIT Embodied Intelligence. (2024). MIT embodied intelligence seminars. From https://www.youtube.com/playlist?list=PLCBtJRMPXXZ4dmgC-Q_X3DGTFNKjXdXFU",
-    "summary": "MIT Embodied Intelligence discusses the foundational concepts of mit embodied intelligence seminars, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "A seminar series featuring robotics and AI researchers presenting breakthroughs in sensorimotor learning, physical embodiment, dexterous manipulation, and embodied intelligence."
   },
   {
     "id": 243,
@@ -9194,7 +9194,7 @@ window.READINGS_DATA = [
     "category": "Sociology & Media",
     "syllabus_order": 14,
     "raw": "Sunak, R (2024). Rishi Sunak & Elon, Mu: talk AI, tech & the future. From https://www.youtube.com/watch?v=R2meHtrO1n8",
-    "summary": "Rishi Sunak & Elon Musk investigates the capabilities and trajectories of rishi sunak and elon musk talk ai, tech, and the future, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Sunak and Musk discuss frontier AI risks, the prospect of superintelligence, the future of work, and the role of government safety evaluation at the 2023 UK AI Safety Summit."
   },
   {
     "id": 244,
@@ -9226,7 +9226,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 2,
     "raw": "Boellstorff, T. (2013). Making Big Data, In Theory. First Monday, 18(10).",
-    "summary": "Boellstorff, T. discusses the foundational concepts of making big data, in theory, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Boellstorff provides an anthropological analysis of how big data is theorized, arguing that data is always culturally constructed, categorized, and embedded in social power relations."
   },
   {
     "id": 246,
@@ -9242,7 +9242,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 3,
     "raw": "Burgess, J. (2023). Everyday data cultures: beyond Big Critique and the technological sublime. AI and Society, 38(3), 1243-1244.",
-    "summary": "Burgess, J discusses the foundational concepts of everyday data cultures, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Burgess advocates for studying everyday digital data practices at the grassroots level, moving beyond grand techno-deterministic critiques to examine how ordinary people navigate algorithms."
   },
   {
     "id": 247,
@@ -9258,7 +9258,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 4,
     "raw": "Campbell-Verduyn, M. (2018). Bitcoin and Beyond: Cryptocurrencies, Blockchains and Global Governance. Routledge.",
-    "summary": "Campbell-Verduyn, M analyzes the regulatory and legal challenges presented by bitcoin and beyond, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Campbell-Verduyn examines cryptocurrencies, smart contracts, and blockchain technology, analyzing their disruptive implications for global financial governance, monetary sovereignty, and regulatory oversight."
   },
   {
     "id": 248,
@@ -9274,7 +9274,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 5,
     "raw": "Carah, N., Angus, D., & Burgess, J. (2023). Tuning machines: an approach to exploring how Instagram’s machine vision operates on and through digital media’s participatory visual cultures. Cultural Studies, 37(1), 20-45.",
-    "summary": "Carah, N., Angus, D., & Burgess, J discusses the foundational concepts of tuning machines, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Carah, Angus, and Burgess analyze how Instagram's computer vision algorithms classify, rank, and monetize user images, shaping participatory visual cultures through machine mediation."
   },
   {
     "id": 249,
@@ -9290,7 +9290,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 6,
     "raw": "Ensmenger, N. (2010). The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise. MIT Press.",
-    "summary": "Ensmenger, N discusses the foundational concepts of the computer boys take over, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Ensmenger traces the professionalization of computer programming, analyzing how gender dynamics, corporate hierarchies, and claims of technical expertise shaped the software industry."
   },
   {
     "id": 250,
@@ -9306,7 +9306,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 7,
     "raw": "Eriksen, T. H. (2016). Overheating: An Anthropology of Accelerated Change. Pluto Press.",
-    "summary": "Eriksen, T. H discusses the foundational concepts of overheating, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Eriksen develops the concept of 'overheating' to describe accelerated, uncontrolled global change across economic, environmental, and technological systems that outpace human adaptive capacity."
   },
   {
     "id": 251,
@@ -9322,7 +9322,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 8,
     "raw": "Forsythe, D., & Hess, D. J. (2001). Studying those who study us: an anthropologist in the world of artificial intelligence. Stanford University Press.",
-    "summary": "Forsythe, D., & Hess, D. J investigates the capabilities and trajectories of studying those who study us, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Forsythe and Hess present an ethnographic study of AI research laboratories, examining how cultural assumptions, disciplinary norms, and institutional politics shape the development of intelligent systems."
   },
   {
     "id": 252,
@@ -9338,7 +9338,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 9,
     "raw": "Gershon, I. (2017). Down and Out in the New Economy: How People Find (or Don’t Find) Work Today. University of Chicago Press.",
-    "summary": "Gershon, I discusses the foundational concepts of down and out in the new economy, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Gershon examines how job seekers navigate the modern gig economy, revealing how platform algorithms, personal branding pressures, and precarious employment reshape the experience of finding work."
   },
   {
     "id": 253,
@@ -9354,7 +9354,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 10,
     "raw": "Helmreich, S. (2008). Silicon Second Nature: Culturing Artificial Life in a Digital World. University of California Press.",
-    "summary": "Helmreich, S discusses the foundational concepts of silicon second nature, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Helmreich explores how artificial life researchers create digital organisms and simulated ecosystems, examining how computational models of evolution blur boundaries between nature and technology."
   },
   {
     "id": 254,
@@ -9370,7 +9370,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 11,
     "raw": "Horst, H., & Miller, D. (2012). Digital Anthropology. Berg Publishers.",
-    "summary": "Horst, H., & Miller, D discusses the foundational concepts of digital anthropology, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Horst and Miller provide a foundational text for digital anthropology, examining how digital technologies mediate kinship, identity, politics, and everyday social relationships across cultures."
   },
   {
     "id": 255,
@@ -9386,7 +9386,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 12,
     "raw": "Irani, L. (2019). Chasing Innovation: Making Entrepreneurial Citizens in Modern India. Princeton University Press.",
-    "summary": "Irani, L discusses the foundational concepts of chasing innovation, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Irani traces how India's technology sector cultivates entrepreneurial citizenship, examining how innovation discourse masks labor exploitation and reproduces class hierarchies in Bangalore's tech economy."
   },
   {
     "id": 256,
@@ -9402,7 +9402,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 13,
     "raw": "Kelty, C. M. (2008). Two Bits: The Cultural Significance of Free Software. Duke University Press.",
-    "summary": "Kelty, C. M discusses the foundational concepts of two bits, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Kelty analyzes the free software movement as a cultural phenomenon, examining how open-source developers create new forms of political participation, collaboration, and social organization."
   },
   {
     "id": 257,
@@ -9418,7 +9418,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 14,
     "raw": "Malaby, T. M. (2009). Making Virtual Worlds: Linden Lab and Second Life. Cornell University Press.",
-    "summary": "Malaby, T. M discusses the foundational concepts of making virtual worlds, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Malaby provides an ethnographic account of Linden Lab and Second Life, examining how the virtual world's design decisions shaped emergent social structures, economies, and governance systems."
   },
   {
     "id": 258,
@@ -9434,7 +9434,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 15,
     "raw": "O’Dwyer, R. (2023). Tokens: The Future of Money in the Age of the Platform. Verso.",
-    "summary": "O’Dwyer, R discusses the foundational concepts of tokens, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "O'Dwyer examines how digital tokens, cryptocurrencies, and platform payment systems are transforming money itself, analyzing the cultural politics of programmable value in the platform economy."
   },
   {
     "id": 259,
@@ -9450,7 +9450,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 16,
     "raw": "Pasquale, F. (2015). The Black Box Society: The Secret Algorithms That Control Money and Information. Harvard University Press.",
-    "summary": "Pasquale, F discusses the foundational concepts of the black box society, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Pasquale exposes how opaque proprietary algorithms in finance, search, and credit scoring make consequential life-affecting decisions without public accountability or meaningful oversight."
   },
   {
     "id": 260,
@@ -9466,7 +9466,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 17,
     "raw": "Zuboff, S. (2019). The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. Public Affairs.",
-    "summary": "Zuboff, S discusses the foundational concepts of the age of surveillance capitalism, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Zuboff argues that tech platforms have created a new form of capitalism that claims private human experience as free raw material for behavioral prediction markets and social control."
   },
   {
     "id": 261,
@@ -9482,7 +9482,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 1,
     "raw": "Buchan, J. (2010, May 8). War games: The story of aid and war in modern times by Linda Polman. The Guardian. From https://www.theguardian.com/books/2010/may/08/war-games-linda-polman-review",
-    "summary": "Buchan, J investigates the capabilities and trajectories of war games, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Buchan reviews Linda Polman's account of how humanitarian aid becomes entangled with wartime economies, fueling the conflicts it aims to alleviate."
   },
   {
     "id": 262,
@@ -9498,7 +9498,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 2,
     "raw": "International Committee of the Red Cross. From https://www.icrc.org/en [Website]",
-    "summary": "International Committee of the Red Cross (ICRC) discusses the foundational concepts of international committee of the red cross overview, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "An overview of the ICRC's mandate, history, and operations protecting victims of armed conflict under international humanitarian law."
   },
   {
     "id": 263,
@@ -9514,7 +9514,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 3,
     "raw": "Kissinger, H. A., Schmidt, E., & Mundie, C. (2024, November 18). War and Peace in the Age of Artificial Intelligence. What It Will Mean for the World When Machines Shape Strategy and Statecraft. Foreign Affairs.",
-    "summary": "Kissinger, H. A., Schmidt, E., & Mundie, C investigates the capabilities and trajectories of war and peace in the age of artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Kissinger, Schmidt, and Mundie examine how AI transforms military strategy, diplomacy, and the balance of power between nations in an era of autonomous weapons."
   },
   {
     "id": 264,
@@ -9530,7 +9530,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 4,
     "raw": "MSF Hong Kong. From https://msf-seasia.org/ [Website]",
-    "summary": "Médecins Sans Frontières (MSF) analyzes the regulatory and legal challenges presented by humanitarian response & action in se asia, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "MSF details its humanitarian operations across Southeast Asia, documenting medical relief efforts, logistical challenges, and the use of digital tools in disaster response."
   },
   {
     "id": 265,
@@ -9546,7 +9546,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 5,
     "raw": "Rysaback-Smith, H. (2015). History and principles of humanitarian action. Turkish Journal of Emergency Medicine, 15(Suppl 1), 5–7.",
-    "summary": "Rysaback-Smith, H analyzes the regulatory and legal challenges presented by history and principles of humanitarian action, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Rysaback-Smith traces the historical evolution and core principles of humanitarian action, from Red Cross origins to contemporary debates about neutrality and impartiality."
   },
   {
     "id": 266,
@@ -9562,7 +9562,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 6,
     "raw": "The Humanitarian Policy Group at ODI. (2010, May). Aid and war: A response to Linda Polman’s critique of humanitarianism. ODI Opinions. Overseas Development Institute. From https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/5914.pdf",
-    "summary": "The Humanitarian Policy Group at ODI investigates the capabilities and trajectories of aid and war, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "The Humanitarian Policy Group responds to Polman's critique of aid organizations, defending the value of humanitarian intervention while acknowledging systemic challenges in conflict zones."
   },
   {
     "id": 267,
@@ -9578,7 +9578,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 7,
     "raw": "UNICEF. From https://www.unicef.org/ [Website]",
-    "summary": "United Nations discusses the foundational concepts of unicef, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "An overview of UNICEF's global mission to protect children's rights, deliver emergency relief, and provide education and healthcare in developing nations and conflict zones."
   },
   {
     "id": 268,
@@ -9594,7 +9594,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 8,
     "raw": "IMPACT Initiatives. (2024). Using big data and AI to support the Ukraine refugee response – A collaboration between IMPACT Initiatives and Data for Good at Meta. IMPACT Initiatives. From http://reliefweb.int/report/ukraine/using-big-data-and-ai-support-ukraine-refugee-response-collaboration-between-impact-initiatives-and-data-good-meta",
-    "summary": "IMPACT Initiatives analyzes the regulatory and legal challenges presented by using big data and ai to support the ukraine refugee response – a collaboration between impact initiatives and data for good at meta, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "IMPACT Initiatives and Meta collaborate to use big data analytics and AI to track displacement patterns and improve the coordination of Ukraine refugee response efforts."
   },
   {
     "id": 269,
@@ -9610,7 +9610,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 9,
     "raw": "Madianou, M. (2015, July-Dec). Digital Inequality and Second-Order Disasters: Social Media in the Typhoon Haiyan Recovery. Social Media + Society, 1-11.",
-    "summary": "Madianou, M investigates the capabilities and trajectories of digital inequality and second-order disasters, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Madianou examines how digital inequality compounds disaster vulnerability, showing that uneven social media access during Typhoon Haiyan created second-order harms for marginalized communities."
   },
   {
     "id": 270,
@@ -9642,7 +9642,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 11,
     "raw": "Humanitarian OpenStreetMap Team. Humanitarian OpenStreetMap Team (HOT). From https://www.hotosm.org/ [Website]",
-    "summary": "Humanitarian OpenStreetMap Team (HOT) discusses the foundational concepts of humanitarian openstreetmap team (hot), providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "HOT mobilizes volunteer digital mappers worldwide to create detailed open-source maps of disaster-affected and underserved areas, enabling more effective humanitarian response."
   },
   {
     "id": 272,
@@ -9658,7 +9658,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 12,
     "raw": "Leson, H. (2017, January 28). How digital humanitarians are closing the gaps in worldwide disaster response. Huffpost. From https://www.huffpost.com/entry/how-digital-humanitarians_b_9101950?guccounter=1",
-    "summary": "Leson, H discusses the foundational concepts of how digital humanitarians are closing the gaps in worldwide disaster response, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Leson describes how volunteer digital humanitarians use crowdsourced mapping and crisis data to close information gaps in worldwide disaster response operations."
   },
   {
     "id": 273,
@@ -9674,7 +9674,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 13,
     "raw": "Micro Mappers. From https://micromappers.wordpress.com/ [Website]",
-    "summary": "Micro Mappers discusses the foundational concepts of crowdsourced crisis mapping, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "MicroMappers demonstrates how crowdsourced volunteers and machine learning algorithms work together to classify crisis aerial imagery and social media reports in real time."
   },
   {
     "id": 274,
@@ -9690,7 +9690,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 14,
     "raw": "US Federal News Service. (2017). Central Washington University Geography students take part in global humanitarian digital mapping network. From https://search.proquest.com/docview/1874677174?accountid=14548",
-    "summary": "US Federal News Service explores the intersection of technology and creative expression in central washington university geography students take part in global humanitarian digital mapping network, revealing how new tools reshape artistic processes and human cultural narratives."
+    "summary": "Geography students participate in the global Humanitarian OpenStreetMap network, contributing digital mapping data to support disaster preparedness and emergency response worldwide."
   },
   {
     "id": 275,
@@ -9706,7 +9706,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 15,
     "raw": "Weinandy, T. J. (2016). Volunteer and technical communities in humanitarian response. Lessons in digital humanitarianism from Typhoon Haiyan. UN Chronicle, 1, 29-30.",
-    "summary": "Weinandy, T. J discusses the foundational concepts of volunteer and technical communities in humanitarian response, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Weinandy examines how volunteer technical communities contribute to humanitarian response, analyzing their coordination challenges, motivations, and impact on disaster relief operations."
   },
   {
     "id": 276,
@@ -9722,7 +9722,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 16,
     "raw": "Bromley, L., Jauer, K., & Matias, Y. (2024, September 16). AI from Google Research and UN boosts humanitarian disaster response: Wider coverage, faster damage assessments. Disha. From https://disha.unglobalpulse.org/ai-from-google-research-and-un-boosts-humanitarian-disaster-response-wider-coverage-faster-damage-assessments/",
-    "summary": "Bromley, L., Jauer, K., & Matias, Y. investigates the capabilities and trajectories of ai from google research and un boosts humanitarian response, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Bromley, Jauer, and Matias describe how Google Research and UN agencies deploy AI and satellite imagery analysis to accelerate humanitarian damage assessment and resource allocation."
   },
   {
     "id": 277,
@@ -9738,7 +9738,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 17,
     "raw": "DataKind. From https://www.datakind.org/ [Website]",
-    "summary": "DataKind investigates the capabilities and trajectories of harnessing data science & ai for humanity, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "DataKind connects pro-bono data scientists with nonprofit organizations, demonstrating how machine learning and data analytics can address challenges in poverty, healthcare, and education."
   },
   {
     "id": 278,
@@ -9754,7 +9754,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 18,
     "raw": "Imran, M., Mitra, P., & Castillo, C. (2016). Twitter as a lifeline: Human-annotated Twitter Corpora for NLP of crisis-related messages. Proceedings of the 10th International Conference on Language Resources and Evaluation, LREC 2016. Portoroz, Slovenia. [pp. 1638-1643]",
-    "summary": "Imran, M., Mitra, P., & Castillo, C discusses the foundational concepts of twitter as a lifeline, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Imran, Mitra, and Castillo develop human-annotated Twitter corpora for training NLP models to identify and classify crisis-related messages during natural disasters and emergencies."
   },
   {
     "id": 279,
@@ -9770,7 +9770,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 19,
     "raw": "Kumar, S., Barbier, G., Abbasi, M. A., & Liu, H. (2011, July 17-21). TweetTracker: An analysis tool for humanitarian and disaster relief. Proceedings of the Fifth International Conference on Weblogs and Social Media. Barcelona, Spain. [pp. 661-662]",
-    "summary": "Kumar, S., Barbier, G., Abbasi, M. A., & Liu, H discusses the foundational concepts of tweettracker, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Kumar et al. present TweetTracker, a real-time social media analytics tool designed to monitor, visualize, and analyze Twitter data streams during humanitarian crises and disasters."
   },
   {
     "id": 280,
@@ -9786,7 +9786,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 20,
     "raw": "Meier, P. (2015). Digital humanitarians: How big data is changing the face of humanitarian response (1st ed.). Routledge. [Chap. 5 “Artificial intelligence for disaster response”, Chap. 6 “Artificial intelligence in the sky”]",
-    "summary": "Meier, P discusses the foundational concepts of digital humanitarians, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Meier explores how big data, crowdsourcing, and satellite imagery are transforming humanitarian response, enabling faster damage assessment and more targeted aid delivery."
   },
   {
     "id": 281,
@@ -9802,7 +9802,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 21,
     "raw": "UN Global Pulse. From https://www.unglobalpulse.org/ [Website]",
-    "summary": "UN Global Pulse analyzes the regulatory and legal challenges presented by big data and ai for development & humanitarian action, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "UN Global Pulse details how real-time big data analytics and machine learning help UN agencies monitor sustainable development goals and coordinate emergency humanitarian responses."
   },
   {
     "id": 282,
@@ -9818,7 +9818,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 22,
     "raw": "Kazansky, B., Johnson, O., Paes, B., Kilbey, H., & The Engine Room. (2023). Chatbots in humanitarian contexts: Learning from practitioner experiences. The International Federation of Red Cross and Red Crescent Societies (IFRC). From https://communityengagementhub.org/wp-content/uploads/sites/2/2023/06/20230623_CEA_Chatbots.pdf",
-    "summary": "Kazansky, B., Johnson, O., Paes, B., Kilbey, H., & The Engine Room analyzes the regulatory and legal challenges presented by chatbots in humanitarian contexts, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Kazansky et al. document practitioner experiences deploying chatbots in humanitarian settings, analyzing usability challenges, trust barriers, and effectiveness for vulnerable populations."
   },
   {
     "id": 283,
@@ -9834,7 +9834,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 23,
     "raw": "UN Women. (2025). Advancing Gender Equality through Partnerships for Gender-Responsive Artificial Intelligence. From https://reliefweb.int/report/world/advancing-gender-equality-through-partnerships-gender-responsive-artificial-intelligence",
-    "summary": "UN Women investigates the capabilities and trajectories of advancing gender equality through partnerships for gender-responsive artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "UN Women outlines strategic partnerships and policy frameworks to ensure AI development promotes gender equality, prevents algorithmic discrimination, and protects women's rights."
   },
   {
     "id": 284,
@@ -9850,7 +9850,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 24,
     "raw": "UNHCR. (2025). Chatbots in humanitarian settings: revolutionary, a fad or something in-between? From https://www.unhcr.org/innovation/chatbots-in-humanitarian-settings-revolutionary-a-fad-or-something-inbetween/",
-    "summary": "UNHCR discusses the foundational concepts of chatbots in humanitarian settings, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "UNHCR evaluates whether chatbots in refugee contexts provide effective assistance or risk delivering impersonal, inaccurate information to vulnerable displaced populations."
   },
   {
     "id": 285,
@@ -9866,7 +9866,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 25,
     "raw": "Eisele, I., & Steinwehr, U. (2023, November 10). Fact check: AI fakes in Israel’s war against Hamas. DW. From https://www.dw.com/en/fact-check-ai-fakes-in-israels-war-against-hamas/a-67367744",
-    "summary": "Eisele, I. & Steinwehr, U. analyzes the regulatory and legal challenges presented by fact check, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Eisele and Steinwehr investigate viral AI-generated deepfake images circulating during the Israel-Hamas conflict, fact-checking fabricated media and documenting the power of synthetic disinformation."
   },
   {
     "id": 286,
@@ -9882,7 +9882,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 26,
     "raw": "Klepper, D. (2023, November 29). Fake babies, real horror: Deepfakes from the Gaza war increase fears about AI’s power to mislead. Associated Press. From https://apnews.com/article/artificial-intelligence-hamas-israel-misinformation-ai-gaza-a1bb303b637ffbbb9cbc3aa1e000db47",
-    "summary": "Klepper, D. (Associated Press) investigates the capabilities and trajectories of fake babies, real horror, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Klepper reports on how deepfake images of injured babies and fabricated atrocity footage from the Gaza war inflame public emotions and complicate conflict verification."
   },
   {
     "id": 287,
@@ -9898,7 +9898,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 27,
     "raw": "Lahlou, Y., El Fikhi, S., & Faizi, R. (2019). Automatic detection of fake news on online platforms: A survey. Proceedings of the 1st International Conference on Smart Systems and Data Science (ICSSD). From https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9002823",
-    "summary": "Lahlou, Y., El Fikhi, S., & Faizi, R discusses the foundational concepts of automatic detection of fake news on online platforms, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Lahlou, El Fikhi, and Faizi survey NLP and graph neural network methods for automated fake news detection on social media platforms, comparing accuracy across architectures."
   },
   {
     "id": 288,
@@ -9914,7 +9914,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 28,
     "raw": "OpenAI. (2024). Disrupting deceptive uses of AI by covert influence operations. From https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/",
-    "summary": "OpenAI investigates the capabilities and trajectories of disrupting deceptive uses of ai by covert influence operations, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "OpenAI documents its disruption of covert influence operations from multiple countries that attempted to use generative AI models to produce propaganda and manipulate public opinion."
   },
   {
     "id": 289,
@@ -9930,7 +9930,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 29,
     "raw": "Osadchuk, R. (2024, July 9). AI tools usage for disinformation in the war in Ukraine. Digital Forensic Research Lab (DFRLab). From https://dfrlab.org/2024/07/09/ai-tools-usage-for-disinformation-in-the-war-in-ukraine",
-    "summary": "Osadchuk, R investigates the capabilities and trajectories of ai tools usage for disinformation in the war in ukraine, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Osadchuk analyzes how AI-generated deepfakes and synthetic media are weaponized for information warfare and psychological operations in the Russia-Ukraine conflict."
   },
   {
     "id": 290,
@@ -9946,7 +9946,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 30,
     "raw": "Urbani, S. (2019). First Draft’s Essential Guide to Verifying Online Information. FirstDraft. From https://firstdraftnews.org/wp-content/uploads/2019/10/Verifying_Online_Information_Digital_AW.pdf",
-    "summary": "Urbani, S discusses the foundational concepts of first draft’s essential guide to verifying online information, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Urbani provides a journalist's field guide for investigating, verifying, and debunking manipulated images, deepfakes, and social media disinformation."
   },
   {
     "id": 291,
@@ -9962,7 +9962,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 31,
     "raw": "Dangwal, A. (2024, August 14). Ukraine Unleashes British Robot Dogs On Russian Soldiers; German Anti-Thermal Camouflage Boosts Their Stealth – Bild. The EurAsian Times. From https://www.eurasiantimes.com/ukraine-unleashes-british-robot-dogs/",
-    "summary": "Dangwal, A investigates the capabilities and trajectories of ukraine unleashes british robot dogs on russian soldiers; german anti-thermal camouflage boosts their stealth – bild, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Dangwal reports on Ukraine's deployment of British-made robot dogs against Russian forces, examining how anti-thermal camouflage enhances their battlefield stealth capabilities."
   },
   {
     "id": 292,
@@ -9978,7 +9978,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 32,
     "raw": "Hambling, D. (2024, August 16). What We Know About Ukraine’s Army Of Robot Dogs. Forbes. From https://www.forbes.com/sites/davidhambling/2024/08/16/what-we-know-about-ukraines-army-of-robot-dogs/",
-    "summary": "Hambling, D investigates the capabilities and trajectories of what we know about ukraine’s army of robot dogs, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Hambling details what is known about Ukraine's growing fleet of armed robot dogs, examining their tactical roles, limitations, and implications for ground warfare."
   },
   {
     "id": 293,
@@ -9994,7 +9994,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 33,
     "raw": "Marr, B. (2024, September 17). How AI Is Used In War Today. Forbes. From https://www.forbes.com/sites/bernardmarr/2024/09/17/how-ai-is-used-in-war-today/",
-    "summary": "Marr, B investigates the capabilities and trajectories of how ai is used in war today, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Marr provides an overview of how AI is currently used in military operations, from autonomous drones and targeting systems to intelligence analysis and cyber warfare."
   },
   {
     "id": 294,
@@ -10010,7 +10010,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 34,
     "raw": "Morgan, F. E., Boudreaux, B., Lohn, A. J., Ashby, M., Currident, C., Klima, K., & Grossman, D. (2020). Military Applications of Artificial Intelligence. Ethical Concerns in an Uncertain World. Santa Monica. CA: RAND Corporation.",
-    "summary": "Morgan, F. E., Boudreaux, B., Lohn, A. J., Ashby, M., Currident, C., Klima, K., & Grossman, D investigates the capabilities and trajectories of military applications of artificial intelligence, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Morgan et al. assess military applications of AI across intelligence, logistics, autonomous weapons, and cyber operations, evaluating strategic risks and policy implications."
   },
   {
     "id": 295,
@@ -10026,7 +10026,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 35,
     "raw": "Serhan, Y. (2024, December 18). How Israel Uses AI in Gaza—And What It Might Mean for the Future of Warfare. Time. From https://time.com/7202584/gaza-ukraine-ai-warfare/",
-    "summary": "Serhan, Y investigates the capabilities and trajectories of how israel uses ai in gaza—and what it might mean for the future of warfare, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Serhan examines Israel's use of AI targeting systems in Gaza, analyzing what algorithmic warfare means for civilian casualties, accountability, and the future of armed conflict."
   },
   {
     "id": 296,
@@ -10042,7 +10042,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 36,
     "raw": "Sonenshine, T. (2023, May 19). Military drones are swarming the skies of Ukraine and other conflict hot spots – and anything goes when it comes to international law. The Conversation. From https://theconversation.com/military-drones-are-swarming-the-skies-of-ukraine-and-other-conflict-hot-spots-and-anything-goes-when-it-comes-to-international-law-205898",
-    "summary": "Sonenshine, T analyzes the regulatory and legal challenges presented by military drones are swarming the skies of ukraine and other conflict hot spots – and anything goes when it comes to international law, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Sonenshine analyzes the proliferation of military drones in Ukraine and other conflict zones, highlighting the absence of international legal frameworks governing autonomous aerial weapons."
   },
   {
     "id": 297,
@@ -10058,7 +10058,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 37,
     "raw": "Cyber Law Toolkit. From https://cyberlaw.ccdcoe.org/wiki/Main_Page [Website]",
-    "summary": "NATO CCDCOE analyzes the regulatory and legal challenges presented by cyber law toolkit, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "NATO CCDCOE provides a legal toolkit analyzing how international law applies to state-sponsored cyber operations, sovereignty violations, and digital self-defense."
   },
   {
     "id": 298,
@@ -10074,7 +10074,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 38,
     "raw": "Lakshmanan, R. (2025, October 9). From Phishing to Malware: AI Becomes Russia’s New Cyber Weapon in War on Ukraine. The Hacker News. From https://thehackernews.com/2025/10/from-phishing-to-malware-ai-becomes.html",
-    "summary": "Lakshmanan, R investigates the capabilities and trajectories of from phishing to malware, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Lakshmanan reports on how Russia deploys AI-enhanced phishing, malware, and social engineering in its cyber campaign against Ukraine, escalating digital warfare capabilities."
   },
   {
     "id": 299,
@@ -10090,7 +10090,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 39,
     "raw": "Lederer, E. M. (2020, August 8). Red Cross chief: cyber attacks increasing on hospitals. Ottawa City News. https://ottawa.citynews.ca/2020/08/26/red-cross-chief-cyber-attacks-increasing-on-hospitals/",
-    "summary": "Lederer, E. M. discusses the foundational concepts of red cross chief, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Lederer reports on the Red Cross chief's warning that cyberattacks on hospitals and medical infrastructure are increasing globally, threatening healthcare delivery during armed conflicts."
   },
   {
     "id": 300,
@@ -10106,7 +10106,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 40,
     "raw": "Mueller, G. B., Jensen, B., Valeriano, B., Maness, R. C., & Macias, J. M. (2023, July 13). Cyber Operations during the Russo-Ukrainian War. From Strange Patterns to Alternative Futures. Center for Strategic & International Studies. From https://www.csis.org/analysis/cyber-operations-during-russo-ukrainian-war",
-    "summary": "Mueller, G. B., Jensen, B., Valeriano, B., et al. analyzes the regulatory and legal challenges presented by cyber operations in war, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Mueller et al. evaluate the strategic impact of cyber operations in modern warfare, analyzing whether offensive hacking achieves meaningful military objectives or remains supplementary."
   },
   {
     "id": 301,
@@ -10122,7 +10122,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 41,
     "raw": "Abraham, Y. (2024). ‘Lavender’: The AI machine directing Israel’s bombing spree in Gaza. +972 Magazine. From https://www.972mag.com/lavender-ai-israeli-army-gaza/",
-    "summary": "Abraham, Y investigates the capabilities and trajectories of ‘lavender’, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Abraham reveals Israel's 'Lavender' AI system, which generates kill lists of suspected militants in Gaza, raising urgent questions about algorithmic targeting and civilian harm."
   },
   {
     "id": 302,
@@ -10138,7 +10138,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 42,
     "raw": "Human Rights Watch. (2023). Questions and Answers: Israeli Military’s Use of Digital Tools in Gaza. From https://www.hrw.org/news/2024/09/10/questions-and-answers-israeli-militarys-use-digital-tools-gaza",
-    "summary": "Human Rights Watch discusses the foundational concepts of questions and answers, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Human Rights Watch documents Israel's use of digital surveillance and AI targeting tools in Gaza, raising legal questions about proportionality and civilian protection under international law."
   },
   {
     "id": 303,
@@ -10154,7 +10154,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 43,
     "raw": "International Committee of the Red Cross. (2004). What is International Humanitarian Law? From https://www.icrc.org/en/document/what-international-humanitarian-law",
-    "summary": "International Committee of the Red Cross analyzes the regulatory and legal challenges presented by what is international humanitarian law?, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "The ICRC explains the fundamental rules of international humanitarian law, covering the protection of civilians, treatment of prisoners, and restrictions on means of warfare."
   },
   {
     "id": 304,
@@ -10170,7 +10170,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 44,
     "raw": "Office of the High Commissioner for Human Rights. (2025). Human rights and artificial intelligence in the military domain. Geneva: United Nations. From https://www.ohchr.org/sites/default/files/documents/issues/digitalage/artificial-intelligence-military-domain-briefer-1-en.pdf",
-    "summary": "Office of the High Commissioner for Human Rights investigates the capabilities and trajectories of human rights and artificial intelligence in the military domain, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "The UN High Commissioner for Human Rights examines how AI and autonomous systems in military operations affect human rights, calling for accountability frameworks and meaningful human control."
   },
   {
     "id": 305,
@@ -10186,7 +10186,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 45,
     "raw": "Serhan, Y. (2024, December 18). How Israel Uses AI in Gaza — And What It Might Mean for the Future of Warfare. Time. https://time.com/7202584/gaza-ukraine-ai-warfare/",
-    "summary": "Serhan, Y investigates the capabilities and trajectories of how israel uses ai in gaza — and what it might mean for the future of warfare, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Serhan examines Israel's use of AI targeting systems in Gaza, analyzing what algorithmic warfare means for civilian casualties, accountability, and the future of armed conflict."
   },
   {
     "id": 306,
@@ -10202,7 +10202,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 46,
     "raw": "Amnesty International. (2025). Impact of digital and AI-assisted surveillance on assembly and association rights, including chilling effects. https://www.amnesty.org/en/documents/ior40/0484/2025/en/",
-    "summary": "Amnesty International analyzes the regulatory and legal challenges presented by impact of digital and ai-assisted surveillance on assembly and association rights, including chilling effects, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Amnesty International documents how AI-powered digital surveillance chills freedom of assembly and association, tracking how governments use monitoring technology to suppress protest movements."
   },
   {
     "id": 307,
@@ -10218,7 +10218,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 47,
     "raw": "Sahin, K. (2020, December 18). The West, China, and AI surveillance. Atlantic Council. From https://www.atlanticcouncil.org/blogs/geotech-cues/the-west-china-and-ai-surveillance/",
-    "summary": "The West, China, and AI surveillance investigates the capabilities and trajectories of the west, china, and ai surveillance, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Sahin compares how Western democracies and China deploy AI surveillance technologies, analyzing divergent legal constraints, civil liberty protections, and technology export strategies."
   },
   {
     "id": 308,
@@ -10234,7 +10234,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 48,
     "raw": "Weber, V. (2025, February 11). Data-Centric Authoritarianism: How China’s Development of Frontier Technologies Could Globalize Repression. National Endowment for Democracy. From https://www.ned.org/data-centric-authoritarianism-how-chinas-development-of-frontier-technologies-could-globalize-repression-2/",
-    "summary": "Weber, V. analyzes the regulatory and legal challenges presented by data-centric authoritarianism, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Weber examines how China's development of frontier AI and data infrastructure enables data-centric authoritarianism, shaping global governance norms around surveillance and digital control."
   },
   {
     "id": 309,
@@ -10250,7 +10250,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 49,
     "raw": "Langrand, M. (2024, May 24). Between peril and promise: using AI to predict human displacement. Geneva Solutions. From https://genevasolutions.news/science-tech/between-peril-and-promise-using-ai-to-predict-and-avert-human-displacement",
-    "summary": "Langrand, M investigates the capabilities and trajectories of between peril and promise, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Langrand explores the promise and peril of using AI predictive models to forecast human displacement, weighing accuracy gains against risks of bias and premature intervention."
   },
   {
     "id": 310,
@@ -10282,7 +10282,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 51,
     "raw": "Migration Policy Centre. From https://migrationpolicycentre.eu/ [Website]",
-    "summary": "Migration Policy Centre discusses the foundational concepts of predictive models and data in migration & displacement, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "The Migration Policy Centre evaluates how predictive machine learning models and big data analytics are used to forecast refugee flows, border crossings, and displacement patterns."
   },
   {
     "id": 312,
@@ -10314,7 +10314,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 53,
     "raw": "The Alan Turing Institute. (2020, February 20). Predicting conflict – a year in advance. The Alan Turing Institute, 20. From https://www.turing.ac.uk/about-us/impact/predicting-conflict-year-advance",
-    "summary": "The Alan Turing Institute discusses the foundational concepts of predicting conflict – a year in advance, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "The Alan Turing Institute demonstrates AI models that can predict armed conflict up to a year in advance using satellite imagery, economic indicators, and social media data."
   },
   {
     "id": 314,
@@ -10330,7 +10330,7 @@ window.READINGS_DATA = [
     "category": "Politics & Power",
     "syllabus_order": 54,
     "raw": "The Economist. (2026, May 13). AI models are being used to predict conflict. Good data are hard to come by. The Economist. From https://www.economist.com/science-and-technology/2026/05/13/ai-models-are-being-used-to-predict-conflict",
-    "summary": "The Economist investigates the capabilities and trajectories of ai models are being used to predict conflict, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "The Economist reports on how researchers are using AI models to predict where armed conflicts will erupt, examining the accuracy, limitations, and ethical implications of such forecasting."
   },
   {
     "id": 315,
@@ -10346,7 +10346,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 1,
     "raw": "Dalio, R. (2021). Principles for Dealing with the Changing World Order: Why Nations Succeed or Fail. Simon and Schuster.",
-    "summary": "Dalio, R investigates the capabilities and trajectories of principles for dealing with the changing world order, discussing the technical mechanisms and broader socio-economic impacts of advanced computation."
+    "summary": "Dalio analyzes cyclical patterns in the rise and fall of great powers, examining how debt, internal conflict, and external competition drive shifts in the global economic order."
   },
   {
     "id": 316,
@@ -10362,7 +10362,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 2,
     "raw": "Fernández-Villaverde, J., Koyama, M., Lin, Y., & Sng, T.-H. (2023). The Fractured-Land Hypothesis. The Quarterly Journal of Economics, 138(2), 1173-1231.",
-    "summary": "Fernández-Villaverde, J., Koyama, M., Lin, Y., & Sng, T.-H analyzes the regulatory and legal challenges presented by the fractured-land hypothesis, proposing structural frameworks to govern emerging technologies and protect societal interests."
+    "summary": "Fernandez-Villaverde et al. propose the fractured-land hypothesis, arguing that Europe's geographic fragmentation fostered political competition among states that drove long-run institutional development."
   },
   {
     "id": 317,
@@ -10378,7 +10378,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 3,
     "raw": "Popper, K. (2013). The Poverty of Historicism. Routledge.",
-    "summary": "Popper, K discusses the foundational concepts of the poverty of historicism, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Popper critiques historicism—the belief that history follows deterministic laws—arguing that human creativity and scientific discovery make long-term social prediction fundamentally impossible."
   },
   {
     "id": 318,
@@ -10394,7 +10394,7 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 4,
     "raw": "Thomson, A. J. (1996). Asimov’s Psychohistory: Vision of the Future or Present Reality? AI Applications, 10(3), 1-8.",
-    "summary": "Thomson, A. J discusses the foundational concepts of asimov’s psychohistory, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Thomson compares Asimov's fictional psychohistory with contemporary big data and computational social science, examining whether statistical prediction of mass human behavior is becoming reality."
   },
   {
     "id": 319,
@@ -10410,6 +10410,6 @@ window.READINGS_DATA = [
     "category": "Philosophy & Mind",
     "syllabus_order": 5,
     "raw": "Turchin, P. (2003). Historical Dynamics: Why States Rise and Fall. Princeton University Press.",
-    "summary": "Turchin, P discusses the foundational concepts of historical dynamics, providing a comprehensive analysis of the subject's mechanisms and theoretical implications."
+    "summary": "Turchin applies mathematical modeling and quantitative analysis to historical data, identifying recurring cycles of state formation, expansion, and collapse driven by demographic and fiscal pressures."
   }
 ];

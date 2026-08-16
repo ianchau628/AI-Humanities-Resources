@@ -44,6 +44,14 @@ document.addEventListener("DOMContentLoaded", () => {
   const bannerClearBtn = document.getElementById("banner-clear-btn");
   const toast = document.getElementById("toast");
 
+  // Floating Tooltip Element Initialization
+  let customTooltip = document.getElementById("custom-tooltip");
+  if (!customTooltip) {
+    customTooltip = document.createElement("div");
+    customTooltip.id = "custom-tooltip";
+    document.body.appendChild(customTooltip);
+  }
+
   // Single-Word Badge Class Mapping
   const formatBadges = {
     "Book": "type-book",
@@ -56,7 +64,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const classicAuthors = ["bostrom", "tegmark", "russell", "amodei", "chalmers", "danaher", "kaplan", "coeckelbergh", "ord", "hansson", "anthropic"];
 
-  // Populate Dropdown (Only courses that have resources) & Domain Menu
+  // Populate Dropdown & Domain Menu
   function initFilters() {
     // 1. Course Dropdown
     courseSelect.innerHTML = `<option value="all">-- Select an HKU CC AI Course --</option>`;
@@ -72,7 +80,7 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     });
 
-    // 2. Domain Sidebar Menu (Clean Concisely Trimmed Names)
+    // 2. Domain Sidebar Menu
     const domainCounts = {};
     flatData.forEach(item => {
       domainCounts[item.category] = (domainCounts[item.category] || 0) + 1;
@@ -90,19 +98,16 @@ document.addEventListener("DOMContentLoaded", () => {
       domainMenu.appendChild(li);
     });
 
-    // Default select dropdown to Schedule
     sortSelect.value = "schedule";
   }
 
   // Filter & Sort Logic
   function getFilteredData() {
     return flatData.filter(item => {
-      // 1. Course Filter (Strict check)
       if (selectedCourseCode !== "all") {
         if (item.course_code !== selectedCourseCode) return false;
       }
 
-      // 2. Main Navigation Views
       if (currentNav === "must-read") {
         const aut = (item.author || "").toLowerCase();
         if (!classicAuthors.some(a => aut.includes(a))) return false;
@@ -114,12 +119,10 @@ document.addEventListener("DOMContentLoaded", () => {
         if (item.category !== selectedDomain) return false;
       }
 
-      // 3. Format Filter (Active across all views)
       if (selectedFormat !== "all" && item.type !== selectedFormat) {
         return false;
       }
 
-      // 4. Search Filter
       if (searchQuery.trim() !== "") {
         const q = searchQuery.toLowerCase();
         const haystack = `${item.title} ${item.author} ${item.source} ${item.subtopic} ${item.year} ${item.course_code} ${item.course_title}`.toLowerCase();
@@ -129,7 +132,6 @@ document.addEventListener("DOMContentLoaded", () => {
       return true;
     }).sort((a, b) => {
       if (currentSort === "schedule") {
-        // Strict integer syllabus_order sorting across ALL views
         const orderA = Number(a.syllabus_order) || 0;
         const orderB = Number(b.syllabus_order) || 0;
         
@@ -156,7 +158,6 @@ document.addEventListener("DOMContentLoaded", () => {
   function render() {
     const filteredItems = getFilteredData();
     
-    // Update Stats & Counter Badges
     visibleCount.textContent = filteredItems.length;
     totalCount.textContent = flatData.length;
     statTotal.textContent = flatData.length;
@@ -164,7 +165,6 @@ document.addEventListener("DOMContentLoaded", () => {
     completedCount.textContent = readItems.length;
     bookmarkCount.textContent = bookmarks.length;
 
-    // Course Banner Display
     if (selectedCourseCode !== "all" && coursesData[selectedCourseCode]) {
       const c = coursesData[selectedCourseCode];
       courseBanner.style.display = "flex";
@@ -200,10 +200,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
     emptyState.style.display = "none";
 
-    // Render Resource Items
     container.innerHTML = `<div class="resources-container">` + 
       filteredItems.map(item => renderSingleItemHtml(item)).join("") + 
       `</div>`;
+
+    attachTooltipListeners();
   }
 
   // Render Single Resource Item
@@ -212,7 +213,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const isRead = readItems.includes(item.id);
     const badgeClass = formatBadges[item.type] || "type-book";
     
-    // Direct Link vs Google All Search Fallback
     let linkUrl = item.url;
     let linkLabel = "Access Direct Link";
     
@@ -229,17 +229,20 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     }
 
+    const fullCourseTitle = `${item.course_code}: ${item.course_title}`;
+    const resourceIntro = item.summary || `Brief summary for ${item.title}`;
+
     return `
       <article class="resource-item" data-id="${item.id}">
         <div class="item-main">
           <div class="item-header-meta">
             <span class="type-badge-inline ${badgeClass}">${item.type}</span>
             ${item.year !== 'N/A' ? `<span class="item-year">${item.year}</span>` : ''}
-            <span class="item-course-tag">${item.course_code}</span>
+            <span class="item-course-tag" data-tooltip-type="course" data-tooltip-text="${escapeHtml(fullCourseTitle)}" title="${escapeHtml(fullCourseTitle)}">${item.course_code}</span>
             ${item.subtopic ? `<span class="item-subtopic-inline">${escapeHtml(item.subtopic)}</span>` : ''}
           </div>
           
-          <h4 class="item-title">${escapeHtml(item.title)}</h4>
+          <h4 class="item-title" data-tooltip-type="intro" data-tooltip-text="${escapeHtml(resourceIntro)}" title="${escapeHtml(resourceIntro)}">${escapeHtml(item.title)}</h4>
           <div class="item-author"><i class="fa-regular fa-user" style="font-size:0.75rem; margin-right:0.25rem; color:#64748b;"></i> ${escapeHtml(item.author)}</div>
           ${item.source ? `<div class="item-source">${escapeHtml(item.source)}</div>` : ''}
         </div>
@@ -260,6 +263,59 @@ document.addEventListener("DOMContentLoaded", () => {
         </div>
       </article>
     `;
+  }
+
+  // Hover Tooltip Listeners
+  function attachTooltipListeners() {
+    const tooltipTargets = container.querySelectorAll("[data-tooltip-text]");
+    
+    tooltipTargets.forEach(target => {
+      target.addEventListener("mouseenter", (e) => {
+        const text = target.getAttribute("data-tooltip-text");
+        const type = target.getAttribute("data-tooltip-type");
+        if (!text) return;
+
+        let headerText = "Resource Overview";
+        let iconClass = "fa-book-open";
+        if (type === "course") {
+          headerText = "HKU Course Title";
+          iconClass = "fa-graduation-cap";
+        }
+
+        customTooltip.innerHTML = `
+          <div class="tooltip-header"><i class="fa-solid ${iconClass}"></i> ${headerText}</div>
+          <div class="tooltip-body">${text}</div>
+        `;
+        
+        positionTooltip(e);
+        customTooltip.classList.add("visible");
+      });
+
+      target.addEventListener("mousemove", (e) => {
+        positionTooltip(e);
+      });
+
+      target.addEventListener("mouseleave", () => {
+        customTooltip.classList.remove("visible");
+      });
+    });
+  }
+
+  function positionTooltip(e) {
+    const tooltipWidth = 320;
+    const padding = 15;
+    let left = e.clientX + 12;
+    let top = e.clientY + 12;
+
+    if (left + tooltipWidth > window.innerWidth) {
+      left = e.clientX - tooltipWidth - 12;
+    }
+    if (top + 100 > window.innerHeight) {
+      top = e.clientY - 90;
+    }
+
+    customTooltip.style.left = `${left}px`;
+    customTooltip.style.top = `${top}px`;
   }
 
   // Global Actions
@@ -448,6 +504,7 @@ document.addEventListener("DOMContentLoaded", () => {
       md += `- **Year**: ${item.year}\n`;
       md += `- **Format**: ${item.type}\n`;
       md += `- **Course**: ${item.course_code} (${item.course_title})\n`;
+      if (item.summary) md += `- **Summary**: ${item.summary}\n`;
       if (item.subtopic) md += `- **Subtopic**: ${item.subtopic}\n`;
       if (item.source) md += `- **Source**: ${item.source}\n`;
       if (item.url) md += `- **Link**: ${item.url}\n`;

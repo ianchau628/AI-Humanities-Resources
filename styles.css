@@ -1,5 +1,5 @@
 /* ==========================================================================
-   AI & Humanities Compendium - Clean Academic Style
+   AI & Humanities Compendium - Clean Academic Style (With Hover Tooltips)
    ========================================================================== */
 
 :root {
@@ -479,7 +479,7 @@ html, body {
   background: #ffffff;
   border: 1px solid var(--border-color);
   border-radius: var(--radius-md);
-  padding: 0.75rem 1.05rem; /* Minimized vertical padding */
+  padding: 0.75rem 1.05rem;
   display: grid;
   grid-template-columns: 1fr auto;
   gap: 0.85rem;
@@ -487,6 +487,7 @@ html, body {
   transition: all 0.15s ease;
   width: 100%;
   box-sizing: border-box;
+  position: relative;
 }
 
 .resource-item:hover {
@@ -499,7 +500,7 @@ html, body {
 .item-main {
   display: flex;
   flex-direction: column;
-  gap: 0.18rem; /* Minimized gap between meta bar, title, author & source (approx 2.8px) */
+  gap: 0.18rem;
   min-width: 0;
   overflow-wrap: break-word;
   word-break: break-word;
@@ -546,6 +547,7 @@ html, body {
   flex-shrink: 0;
 }
 
+/* Interactive Course Code Tag with Hover Tooltip */
 .item-course-tag {
   font-size: 0.7rem;
   color: var(--academic-navy);
@@ -556,9 +558,17 @@ html, body {
   font-weight: 600;
   white-space: nowrap;
   flex-shrink: 0;
+  cursor: help;
+  position: relative;
+  transition: all 0.15s ease;
 }
 
-/* Professor Named Title STRICTLY INLINE next to course code */
+.item-course-tag:hover {
+  background: var(--academic-navy);
+  color: #ffffff;
+  border-color: var(--academic-navy);
+}
+
 .item-subtopic-inline {
   font-size: 0.8rem;
   font-weight: 600;
@@ -571,13 +581,22 @@ html, body {
   margin-left: 0.15rem;
 }
 
+/* Interactive Title with Hover Tooltip */
 .item-title {
   font-family: var(--font-heading);
   font-size: 1.02rem;
   font-weight: 700;
   color: var(--text-primary);
-  line-height: 1.25; /* Tighter line height for multiline titles */
+  line-height: 1.25;
   word-break: break-word;
+  cursor: pointer;
+  transition: color 0.15s ease;
+  width: fit-content;
+}
+
+.item-title:hover {
+  color: var(--academic-blue);
+  text-decoration: underline;
 }
 
 .item-author {
@@ -653,6 +672,51 @@ html, body {
   background: var(--academic-navy);
   color: #ffffff;
   border-color: var(--academic-navy);
+}
+
+/* ==========================================================================
+   Custom Hover Tooltip System (Title & Course Tag)
+   ========================================================================== */
+
+#custom-tooltip {
+  position: fixed;
+  z-index: 9999;
+  background: #0f172a;
+  color: #f8fafc;
+  padding: 0.6rem 0.85rem;
+  border-radius: var(--radius-md);
+  font-size: 0.78rem;
+  line-height: 1.4;
+  max-width: 340px;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3), 0 8px 10px -6px rgba(0, 0, 0, 0.2);
+  pointer-events: none;
+  opacity: 0;
+  transform: translateY(6px);
+  transition: opacity 0.15s ease, transform 0.15s ease;
+  border: 1px solid #334155;
+  box-sizing: border-box;
+}
+
+#custom-tooltip.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+#custom-tooltip .tooltip-header {
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #94a3b8;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+#custom-tooltip .tooltip-body {
+  font-weight: 400;
+  color: #e2e8f0;
 }
 
 /* Empty Card */

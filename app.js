@@ -105,7 +105,8 @@ document.addEventListener("DOMContentLoaded", () => {
   function getFilteredData() {
     return flatData.filter(item => {
       if (selectedCourseCode !== "all") {
-        if (item.course_code !== selectedCourseCode) return false;
+        const codes = item.course_codes || [item.course_code];
+        if (!codes.includes(selectedCourseCode)) return false;
       }
 
       if (currentNav === "must-read") {
@@ -125,7 +126,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
       if (searchQuery.trim() !== "") {
         const q = searchQuery.toLowerCase();
-        const haystack = `${item.title} ${item.author} ${item.source} ${item.subtopic} ${item.year} ${item.course_code} ${item.course_title}`.toLowerCase();
+        const codes = (item.course_codes || [item.course_code]).join(' ');
+        const titles = (item.course_titles || [item.course_title]).join(' ');
+        const haystack = `${item.title} ${item.author} ${item.source} ${item.subtopic} ${item.year} ${codes} ${titles}`.toLowerCase();
         if (!haystack.includes(q)) return false;
       }
 
@@ -135,10 +138,12 @@ document.addEventListener("DOMContentLoaded", () => {
         const orderA = Number(a.syllabus_order) || 0;
         const orderB = Number(b.syllabus_order) || 0;
         
-        if (a.course_code === b.course_code) {
+        const aCode = (a.course_codes || [a.course_code])[0];
+        const bCode = (b.course_codes || [b.course_code])[0];
+        if (aCode === bCode) {
           return orderA - orderB;
         }
-        return a.course_code.localeCompare(b.course_code) || (orderA - orderB);
+        return aCode.localeCompare(bCode) || (orderA - orderB);
       } else if (currentSort === "year-desc") {
         return (b.year.match(/\d{4}/)?.[0] || 0) - (a.year.match(/\d{4}/)?.[0] || 0);
       } else if (currentSort === "year-asc") {
@@ -229,7 +234,12 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     }
 
-    const fullCourseTitle = `${item.course_code}: ${item.course_title}`;
+    const courseCodes = item.course_codes || [item.course_code];
+    const courseTitles = item.course_titles || [item.course_title];
+    const courseTagsHtml = courseCodes.map((code, idx) => {
+      const fullTitle = `${code}: ${courseTitles[idx] || ''}`;
+      return `<span class="item-course-tag" data-tooltip-type="course" data-tooltip-text="${escapeHtml(fullTitle)}">${code}</span>`;
+    }).join('');
     const resourceIntro = item.summary || `Brief summary for ${item.title}`;
 
     return `
@@ -238,7 +248,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="item-header-meta">
             <span class="type-badge-inline ${badgeClass}">${item.type}</span>
             ${item.year !== 'N/A' ? `<span class="item-year">${item.year}</span>` : ''}
-            <span class="item-course-tag" data-tooltip-type="course" data-tooltip-text="${escapeHtml(fullCourseTitle)}">${item.course_code}</span>
+            ${courseTagsHtml}
             ${item.subtopic ? `<span class="item-subtopic-inline">${escapeHtml(item.subtopic)}</span>` : ''}
           </div>
           
@@ -502,7 +512,7 @@ document.addEventListener("DOMContentLoaded", () => {
       md += `- **Author**: ${item.author}\n`;
       md += `- **Year**: ${item.year}\n`;
       md += `- **Format**: ${item.type}\n`;
-      md += `- **Course**: ${item.course_code} (${item.course_title})\n`;
+      md += `- **Course**: ${(item.course_codes || [item.course_code]).join(', ')} (${(item.course_titles || [item.course_title]).join(', ')})\n`;
       if (item.summary) md += `- **Summary**: ${item.summary}\n`;
       if (item.subtopic) md += `- **Subtopic**: ${item.subtopic}\n`;
       if (item.source) md += `- **Source**: ${item.source}\n`;
